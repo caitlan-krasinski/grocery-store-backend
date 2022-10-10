@@ -1,6 +1,9 @@
-# NOTES: each page will have its own unique XPATHS and I suspect it could break in the future but for now we will go with it 
-# will need to gather all unique XPATHS 
-# some sleep times are longer to ensure the driver doesn't seach before a page is fully loaded 
+''' 
+NOTES: each page will have its own unique XPATHS and I suspect it could break in the 
+future but for now we will go with it will need to gather all unique XPATHS 
+some sleep times are longer to ensure the driver doesn't seach before a page is 
+fully loaded 
+ '''
 
 
 # IMPORTS 
@@ -46,13 +49,14 @@ options.add_argument('--ignore-certificste-errors')
 options.add_argument('--incognito')
 options.add_argument('--headless')
 
+# STARTUP DRIVER 
+driver = scraper.initiate_driver(options)
+
 # run each store for each department 
 for store_prod in store_vars.keys():
     print(f'Starting {store_prod}')
 
     store_details = store_vars[store_prod]
-
-    driver = scraper.initiate_driver('/Users/CaitlanKrasinski/Desktop/chromedriver', options)
 
     scraper.nav_to_page(driver, store_details['link'])
 

@@ -7,6 +7,7 @@ for simplicity and readability
 
 from selenium import webdriver
 import time 
+from webdriver_manager.chrome import ChromeDriverManager
 
 
 def set_options():
@@ -14,10 +15,10 @@ def set_options():
 
     return webdriver.ChromeOptions()
 
-def initiate_driver(driver_path, options):
+def initiate_driver(options):
     '''start chrome driver'''
 
-    return webdriver.Chrome(driver_path, options=options)
+    return webdriver.Chrome(ChromeDriverManager().install(), options=options)
 
 def nav_to_page(driver, link):
     '''open page'''
