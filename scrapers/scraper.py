@@ -6,7 +6,7 @@ for simplicity and readability
 '''
 
 from selenium import webdriver
-import time
+import time 
 
 
 def set_options():
