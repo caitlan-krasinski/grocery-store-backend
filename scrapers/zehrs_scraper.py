@@ -15,6 +15,8 @@ from bs4 import BeautifulSoup
 # timer
 start_time = time.time()
 
+print('process started')
+
 ######################################## Scroll to bottom ########################################
 
 # set driver options 
@@ -26,10 +28,15 @@ options.add_argument('--headless') # keep commented for testing but can use head
 # initiate driver
 driver = webdriver.Chrome('/Users/CaitlanKrasinski/Desktop/chromedriver', options=options)
 
-# nav to link 
+# VARIABLES 
 category_name = 'produce'
-fruits_and_vegetables_link = 'https://www.zehrs.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables'
-driver.get(fruits_and_vegetables_link)
+link = 'https://www.zehrs.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables'
+load_more_xpath = '//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button'
+
+# nav to link 
+# category_name = 'produce'
+# fruits_and_vegetables_link = 'https://www.zehrs.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables'
+driver.get(link)
 
 # close cookies popup 
 time.sleep(8) # wait for page load 
@@ -42,7 +49,7 @@ print('closed cookie blocker')
 time.sleep(5)
 
 # click load more results button until at bottom 
-load_more = driver.find_element_by_xpath('//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button')
+load_more = driver.find_element_by_xpath(load_more_xpath)
 
 count = 0
 while True:
@@ -54,7 +61,7 @@ while True:
         time.sleep(5)
 
         # re-find the button 
-        load_more = driver.find_element_by_xpath('//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button')
+        load_more = driver.find_element_by_xpath(load_more_xpath)
 
         count+=1
         print(f'{count} page(s) loaded')
@@ -65,7 +72,7 @@ while True:
 # double check we reached bottom 
 time.sleep(5)
 try: 
-    load_more = driver.find_element_by_xpath('//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button')
+    load_more = driver.find_element_by_xpath(load_more_xpath)
     print('failed run')
 except:
     print('reached bottom of page')
@@ -102,7 +109,7 @@ for div in product_divs:
         per_unit_price = None 
     
     # append data to df 
-    df = df.append({'category': 'Dairy', 
+    df = df.append({'category': category_name, 
                     'product_name': name, 
                     'price': price,
                     'per_unit_price': per_unit_price}
@@ -110,6 +117,6 @@ for div in product_divs:
 
 
 ######################################### WRITE DATA #########################################
-df.to_csv(f'csv_files/{category_name}.csv', index=False)
+df.to_csv(rf'./grocery-store-data-scrapers/csv_files/{category_name}.csv', index=False)
 
 print(f'completed in {(time.time() - start_time)}')
