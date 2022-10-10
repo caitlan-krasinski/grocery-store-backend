@@ -32,7 +32,7 @@ def close_cookies_blocker(driver, cookie_close_xref):
     cookies_block = driver.find_element_by_xpath(xpath='//*[@id="privacy-policy"]/div/div/button').click()
     print('\t closed cookie blocker')  
 
-def scroll_to_bottom(driver, load_more_xpath):
+def click_load_more(driver, load_more_xpath):
     '''click load more results button until at bottom 
     based on the xpath of the button'''
 

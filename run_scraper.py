@@ -3,7 +3,7 @@ NOTES: each page will have its own unique XPATHS and I suspect it could break in
 future but for now we will go with it will need to gather all unique XPATHS 
 some sleep times are longer to ensure the driver doesn't seach before a page is 
 fully loaded 
- '''
+'''
 
 
 # IMPORTS 
@@ -33,6 +33,26 @@ store_vars = { 'zehrs_produce':{'store':'zehrs',
                 , 'zehrs_seafood':{'store':'zehrs',
                     'category_name':'seafood',
                     'link':'https://www.zehrs.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_produce':{'store':'valu_mart',
+                    'category_name':'produce',
+                    'link':'https://www.valumart.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_dairy_and_egg':{'store':'valu_mart',
+                    'category_name':'dairy_and_eggs',
+                    'link':'https://www.valumart.ca/food/dairy-eggs/c/28003?navid=flyout-L2-Dairy-and-Eggs',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_meat':{'store':'valu_mart',
+                    'category_name':'meat',
+                    'link':'https://www.valumart.ca/food/meat/c/27998?navid=flyout-L2-Meat',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_bakery':{'store':'valu_mart',
+                    'category_name':'bakery',
+                    'link':'https://www.valumart.ca/food/bakery/c/28002?navid=flyout-L2-Bakery',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_seafood':{'store':'valu_mart',
+                    'category_name':'seafood',
+                    'link':'https://www.valumart.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
                     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
 }
 
@@ -66,7 +86,7 @@ for store_prod in store_vars.keys():
 
     time.sleep(5) # wait for page load 
 
-    scraper.scroll_to_bottom(driver, store_details['load_more_xpath'])
+    scraper.click_load_more(driver, store_details['load_more_xpath'])
 
     time.sleep(5) # wait for page load 
 
