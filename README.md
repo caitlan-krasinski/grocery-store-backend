@@ -1,7 +1,13 @@
 # grocery-store-data-scrapers
 Scrapers for FYDP grocery product and price data
 
-some helpful resources:
+## Setup
+`pip install -r requirements.txt`
+
+## Run 
+`python run_scraper.py`
+
+## Some helpful resources:
 
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
