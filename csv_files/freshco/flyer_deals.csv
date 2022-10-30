@@ -1,190 +1,134 @@
-product_name,price,per_unit_price
-Compliments Large Eggs 30 pk,$6.99 ,
-Blueberries 170 g Product of Peru No. 1 Grade,2/$3.00 or $1.50 ea.,
-Brussels Sprouts Product of Canada Canada No. 1 3.28/kg Broccoli Bunch Product Bunch Product of Canada,"$1.49 /LB, EA",
-Black Diamond Cheese Bars 400 g Black Diamond Shredded Cheese 320 g,$4.49 ,
-"Acorn, Buttercup, Butternut, Spaghetti Squash Sweet Potato Yams or Rutabaga Product of Ontario 1.74/kg",$.79 /lb,
-Beef Sirloin Tip Roast Cut from Canada AA Beef or Higher 11.00/kg,$4.99 /lb,
-Ocean Prime Wild Raw Red Argentina Shrimp Frozen 454 g Anchor's Bay 31-40 ct Cooked Shrimp Frozen 400 g,$8.99 ,
-Haagen-Dazs Ice Cream Tubs 414-500 mL or Novelties 3 pk,$4.88 ,
-Cashmere Bathroom Tissue 12=24 rolls Sponge Towels 6 rolls Scotties Facial Tissue 6 pk,$5.99 ,
-India Gate Premium Basmati Rice 4.54 kg,$10.99 ,
-Avocados 4 pk Product of Mexico Lemons 2 lb bag Product of South Africa or ARGENTINA 907 g,$2.99 ,
-Roma Tomatoes Product of Ontario Canada No. 1 3.28/kg Celery Product of Canada Canada No. 1,"$1.49 /LB, EA",
-Green or Black Seedless Grapes Product of USA No. 1 Grade 6.59/kg,$2.99 /lb,
-"Red Delicious, Cortland or McIntosh Apples Product of Ontario Canada Extra Fancy 3.28/kg",$1.49 /lb,
-Compliments Whole White or Brown Mushrooms 227 g Product of Ontario,$1.99 ,
-"Compliments Yellow, White, Red or Medley Mini Potatoes Product of Ontario Canada No. 1 680 g",$3.99 ,
-Clementines 2 lb bag Product of South africa 907 g,$3.99 ,
-Jumbo Golden Pineapples Product of Costa Rica,$3.99 ,
-Sweet Bell Peppers 4 pk Product of Ontario or Mexico,$3.49 ,
-Compliments Baby Spinach or Spring Mix 312 g Prepared in Canada,$4.99 ,
-Rachel's Original Deli Corned Beef Brisket or Pastrami 15.41/kg,$6.99 /lb,
-Boneless Skinless Chicken Breasts 4 Pieces,$12.00 ,
-Marc Angelo Stuffed Chicken Breasts 350 g,$10.00 ,
-Schneiders Stackers or Lunch Mate Kits 90-120 g,$3.29 ,
-Zoglo's Plant Based Entrees Frozen 225-300 g,$2.99 ,
-Best Buy Bacon Hash Browns Frozen 1.2 kg or Potstickers Frozen 1.25 kg,$10.00 ,
-Green Ocean Imitation Crab Frozen 200 g,$.99 ,
-Vachon Snack Cakes 248-336 g Sun-Maid Raisin Bread 450 g,$3.49 ,
-Compliments Apple or Pumpkin Pie 900 g-1 kg or Best Buy Cheesecake 500 g,$5.99 ,
-Mastro Salami 125 g Selected Varieties San Daniele Prosciutto 100 g,$3.99 ,
-Mini Babybel 18 pk The Laughing Cow 32 pk,$10.49 ,
-Green or Savoy Cabbage Product of Ontario Canada No. 1,$1.99 ,
-Red Onions 3 b Product of Ontario Canada No. 1 1.36 kg,$2.99 ,
-,$2.99 ,
-"Compliments Yellow, White, Red or Medley Mini Potatoes Product of Ontario Canada No. 1 680 g",$3.99 ,
-Compliments Baby Spinach or Spring Mix 312 g Prepared in Canada,$4.99 ,
-Marc Angelo Stuffed Chicken Breasts 350 g,$10.00 ,
-,$10.00 ,
-Christie Crackers 180-386 g Selected Varieties,$2.29 ,
-International Delight Coffee Whitener 9-46 mL,$4.49 ,
-Betty Crocker Hamburger Helper or Potato Mix 142-240 g,$1.89 ,
-Pepsi Flavours Soft Drinks 2 L Selected Varieties,2/$3.00 ,
-Tetley Tea 20-24 pk,$2.99 ,
-Nescafe Gold Instant Coffee 90-100 g or Sweet and Creamy 18 pk Taster's Choice Instant Coffee 100 g,$5.49 ,
-Classico Sauce 218-650 mL,$3.49 ,
-Kellogg's Cereal Selected 480-760 g,$5.49 ,
-Benedetto Passata 680 mL,$2.49 ,
-Quaker Premium Instant Oatmeal 228-384 g or Quick Oats 709-1 kg Selected Varieties,$3.49 ,
-Nestle Real Dairy or Frozen Confectionary Tubs 1.5 L or Novelties 4-6 pk Selected Varieties,$4.49 ,
-Stouffer's Bowl-Fulls 305-320 g Stouffer's Fit Wraps 145-150 g or Nestle Life Cuisine 265-281 g,$4.49 ,
-Old El Paso Kits 250-510 or Salsa 650 mL,$4.00 ,
-Trident Gum Slabs,2/$3.00 ,
-Dawn Dish Liquid 535-982 mL,$4.49 ,
-Meow Mix 1.36-2 kg,$5.99 ,
-"Dove Deodorant or Antiperspirant 45-74 g, Dove Shampoo or Conditioner 355 mL, Dove Bar Soap 3 pk or Dove Body Wash 354-400 mL",$4.49 ,
-Zabiha Halal Chicken Wings Frozen 908 g,$13.99 ,
-Surati Cookies 340 g,$2.49 ,
-,$2.49 ,
-Panache Hickory-Smoked Honey Spiral Ham 9.46/kg,$4.29 /lb,
-Compliments Frozen Shrimp Ring 737 g,$16.99 ,
-Butterball Seasoned Boneless Turkey Breast Frozen 1.5 kg,$19.99 ,
-Chestnuts 454 g Product of Italy,$7.99 ,
-Tre Stelle Mozzarella Ball 340g Castello Cheddar 200g,$5.49 ,
-Boursin 150 g Brandt Kolbassa Selected Varieties 250 g,$4.49 ,
-Maple Leaf Natural Smoked Ham 600 g Schneiders Applewood Smoked Ham 700 g Best Buy Boneless Ham 1.2 kg,$10.99 ,
-Gay Lea Spreadables Butter 227 g,$3.99 ,
-"Dare Crackers, Veggie Crisps or Grissol Melba Toast or Baguette 100-250 g Selected Varieties",$2.00 ,
-Betty Crocker Cake Mix 432-461 g Betty Crocker Frosting 340-450 g,$1.49 ,
-Heluva Good! Dip 680 g,$5.49 ,
-Compliments Orange Juice Not From Concentrate 1.54 L,$2.88 ,
-Gay Lea Whipped Cream 225 g,$2.99 ,
-Nestle Single Bars 36-55 g,$.88 ,
-Kellogg's Cheez-It Crackers 352g or Snap'd 213g,$3.00 ,
-Kinder Surprise Chocolate Egg 60 g or Kinder Bueno Bites 145 g,2/$6.00 ,
-Mars Bowl Size Chocolate 300-400g,$6.99 ,
-Mars Multi Pack Chocolate 4 pk,$3.99 ,
-Nestle Multipacks 164-200 g or Nestle Cellos 135-203 g,$3.49 ,
-Green Giant Frozen Vegetables 750 g or Valley Selections 400-500 g,$2.49 ,
-Betty Crocker Cake Mix 432-461 g Betty Crocker Frosting 340-450 g,$1.49 ,
-Gay Lea Whipped Cream 225 g,$2.99 ,
-Kinder Surprise Chocolate Egg 60 g or Kinder Bueno Bites 145 g,2/$6.00 ,
-Green Giant Frozen Vegetables 750 g or Valley Selections 400-500 g,$2.49 ,
-Fruit or Vegetable Platter with Dip 1.36-1.45kg,$13.00 ,
-Apple Valley Pies 450-550 g,$3.29 ,
-"Mott's Clamato or Garden Cocktail 1.89 L., Ocean Spray Cocktail 1.89 L., or 100% Juice 1.77 L",2/$7.00 ,
-Del Monte Vegetables 341-398 mL,$1.25 ,
-Campbell's Broth 900 mL,$1.79 ,
-Cored Pineapple 680g,$4.00 ,
-Coco-Cola Soft Drinks 12x355 mL Selected Varieties,$6.29 ,
-Lavazza Rossa Bricks 250 g,$3.99 ,
-Campbell's Soups 284 mL,$1.79 ,
-Kraft Miracle Whip 650-890mL,$3.99 ,
-Montellier,$1.00 ,
-AHA Sparkling Water 12x355 mL Coca-Cola Soft Drinks Mini Bottles 8x300 mL,$4.99 ,
-"Frito-Lay Value Size Potato Chips, Tortilla Chips, Snacks or Popcorn 275-480 g",$5.00 ,
-McCain Premium Fries 454-650 g,$2.50 ,
-Christie Cookies 223-303 g,$2.49 ,
-Compliments Peanuts 700 g,$3.99 ,
-Cheemo Perogies 815-907 g,$2.49 ,
-Glad Cling Wrap 90-103 m,$3.49 ,
-Habitant Soup 796 mL,$2.50 ,
-Stove Top Stuffing 120 g Club House Gravies 21-25 g,$.99 ,
-Pillsbury Crescent Rolls 235 g,$1.29 ,
-Krinos Athena Sea Salt 750 g,$1.49 ,
-Hershey's Chipits 175-250 g,$2.99 ,
-Philadelphia Cheese 227-250g,$3.49 ,
-Wolski Sauerkraut 793 mL,$2.49 ,
-Lay's Potato Chips 177-235 g or Poppables 130 g,2/$4.44 ,
-Folgers Ground Coffee 544-816 g,$8.99 ,
-7 Days Bake It Rollini Spinach or Feta 1 kg,$6.49 ,
-Quaker Harvest Crunch 400-510 g,$3.49 ,
-McCain Deep'n Delicious 510 g,$4.49 ,
-Fino Fine Foods Fire Roasted Peppers 1.5 L or Bas Ajvar Roasted Vegetable Spread 720 g,$7.99 ,
-Pepsi Soft Drinks 12x355 mL Selected Varieties,$5.49 ,
-Cheetos 170-285 g Sunchips 205 g,$2.99 ,
-Bubly 12x355mL Montellier 10x355mL,$4.99 ,
-Fino Fine Foods Kebapi Sausages 1 kg,$16.99 ,
-Lantic Whole Sugar 2 kg,$16.99 ,
-Compliments Butter 454 g,$16.99 ,
-Bananas Regular,$16.99 ,
-Sealtest 2% Milk 4L,$16.99 ,
-"Compliments White Large Eggs, Dozen",$16.99 ,
-L'EXTRA CAMEMBERT OR NOTRE-DAME BRIE,$5.29 each,
-,$5.29 each,
-COMPLIMENTS CAMEMBERT OR BRIE DOUBLE CREAM,$4.99 each,
-COMPLIMENTS CAMEMBERT & BRIE DOUBLE CREAM,$8.99 each,
-AGROPUR GRAND CHEDDAR,From$6.49 to $7.99,
-"MONSIEUR GUSTAV CHEDDAR CHEESE, EXTRA OLD WHITE",$6.49 each,
-"MONSIEUR GUSTAV CHEDDAR CHEESE OLD, OLD WHITE, MEDIUM MILD MARBLE",$5.99 each,
-Compliments Herbs 20 g Assorted,$1.49 ,
-Compliments Cranberries 340 g Product of Canada Canada No. 1,$1.99 ,
-Grape Tomatoes Pint Product of Ontario,$1.99 ,
-Pumpkins Product of Ontario,$3.99 ea,
-Compliments Mini Peeled Carrots 340 g Product of Ontario,$1.49 ,
-Compliments Garden Salad 340 g Product of USA,$1.99 ,
-Marzetti Veggie Dips Assorted 340 g,$4.49 ,
-Litehouse Dressing 384mL Assorted,$3.99 ,
-In Shell Walnuts Product of USA 5.49/kg,$2.49 /lb,
-Wonderful Pistachios Product of USA 200-225 g,$4.99 ,
-Dried Figs 200 g Product of Turkey,$1.99 ,
-Dried Apricots 200 g Product of Turkey,$2.49 ,
-"Mini Roses 4"" Pot Potted Mums 4.5"" Pot",$3.99 ,
-"Mini Roses 6"" Pot Potted Mums 6"" Pot",$7.49 ,
-"Orchids 4"" Clay Pot",$11.99 ,
-"Orchids 5"" Deco Plastic Pot",$14.99 ,
-Fall Mixed Bouquets,$7.99 ,
-Thanksgiving Mixed Bouquets or Rose & Alstroemeria Bouquets,$12.99 ,
-50 cm Dozen Long Stem Roses with Green & Baby's Breath Bouquets,$14.99 ,
-Large Thanksgiving Mixed Bouquets,$14.99 ,
-Nescafe Rich 475 g Taster's Choice Instant Coffee 250 g,$12.99 ,
-Compliments Mixed Nuts or Roasted & Salted Cashews 1.13 kg,$18.99 ,
-Compliments Milk Chocolate-Covered Almonds 900 g,$9.99 ,
-Compliments Pasta 1 kg,$7.99 ,
-Nesquik 1.4 L 1.36 kg,$9.99 ,
-Carnation Hot Chocolate 1.7 kg,$13.99 ,
-Best Buy Coffee Cups 48 pk,$12.99 ,
-Best Buy Frozen Vegetables 2 kg,$4.79 ,
-Best Buy Swiss Chocolate 100 g,$1.25 ,
-Best Buy Scallop Potatoes 141 g,$1.99 ,
-Best Buy Bathroom Tissue 12=24 rolls,$5.49 ,
-Chinese Eggplant Product of Dominican Republic 3.28/kg,$1.49 /lb,
-Coconut Product of Costa Rica,$1.49 ea,
-Red Carrots Product of Ontario 4.39/kg,$1.99 /lb,
-Fresh Yellow Dates Product of Jordan or Palestine 8.80/kg,$3.99 /lb,
-Green Thai Chili Hot Peppers or Green Chili Hot Peppers Product of Dominican Republic 6.59/kg,$2.99 /lb,
-Casablanca Pound Cake 400 g,$2.99 ,
-Gelda Para 400g,$3.49 ,
-Santosh Naan 10 pk,$3.99 ,
-Golden Punjabi Biscuits 1.1-1.3 kg,$6.99 ,
-Tre Stelle Panner 350 g,$3.99 ,
-Deep Mango Pulp 850 g,$2.69 ,
-Deep Parathas or Naan 292-400 g Selected Varieties,$2.29 ,
-Deep IQF Bhindi Cut Okra 340g,$1.29 ,
-Mirch Masala Family Pack Paratha 2 kg,$7.99 ,
-Horlicks 500 g Selected Varieties,$4.99 ,
-Desi-Licious Kulfi 1 L Selected Varieties,$5.99 ,
-Paras Brown Sugar 4.54kg,$8.99 ,
-Mother's Magic Frozen Momos 350 g Selected Varieties,$5.99 ,
-Brar's Samosas 624-630 g Selected Varieties,$4.99 ,
-Brar's Gulab Jamun 850 g,$5.99 ,
-Brar's Rasmalai 850 g Selected Varieties,$7.99 ,
-Brar's Milk Cake 400g,$7.99 ,
-Brar's Desi Ghee 800 g,$11.99 ,
-Aman's Chana Daal 1.81 kg,$4.99 ,
-Britannia Suji Toastea 305-350 g,$1.99 ,
-Rubicon Juice 1 L Selected Varieties,$1.99 ,
-Surati Punjabi Mix 250-341g Selected Varieties,$2.29 ,
-,$2.29 ,
-,$2.29 ,
+product_name,price
+Fresh Boneless Pork Loins Cryovac 1/2 Loins 5.38/kg,$2.44 /lb
+Compliments Whole White Mushrooms 227 g Product of Ontario Compliments Coleslaw 397 g Product of USA,2/$3.00 or $1.50 ea.
+Red Seedless Grapes Product of USA No. 1 Grade 3.28/kg,$1.49 /lb
+Compliments Carrots or Yellow Onions 3 lb bag Product of Ontario Canada No. 1 1.36 kg,$1.99 
+"Janes Pub Style Chicken Strips, Nuggets or Burgers Frozen 1.1 kg",$9.99 
+Gay Lea Butter Salted or Unsalted 454 g,$4.88 
+Dr. Oetker Casa Di Mama or Ristorante Pizza 320-410 g or Dr. Oetker Giuseppe Garlic Fingers 317-405 g,$2.99 
+"Coca-Cola or Pepsi Soft Drinks 2L Selected Varieties, Oasis Juices, Arizona Iced Tea or Del Monte Nectar 960mL, Grace Coconut Water 500mL Selected Varieties or Grace Coconut Milk 400mL",4/$5.00 
+Lay's Potato Chips 177-235 g or Poppables 130 g Smartfood 150-220 g,2/$5.00 
+Blueberries 170 g Product of Peru No. 1 Grade,$2.99 
+Green Zucchini or Eggplant Product of Mexico or USA 3.73/kg,$1.69 /lb
+Bartlett Pears Product of Ontario Canada Extra Fancy 3.95/kg,$1.79 /lb
+Ambrosia or Fuji Apples Product of Ontario Canada Extra Fancy 3.95/kg,$1.79 /lb
+Seedless Cucumbers Product of Ontario Canada No. 1 or Product of Mexico No. 1 Grade,$1.29 
+Sweet Bell Peppers 4 pk Product of Ontario or Mexico,$3.49 
+Lemons 2 lb bag Product of South Africa 907 g Limes 1lb bag Product of Mexico 454 g,$3.49 
+"Acorn, Buttercup, Butternut or Spaghetti Squash Product of Ontario 2.18/kg",$.99 /lb
+Brussels Sprouts Product of Ontario Canada No. 1 4.39/kg,$1.99 /lb
+Fresh Attitude Single Serve Salad Kits 155-185 g,$4.49 
+Pork Back Ribs Frozen Cryovac 17.61/kg,$7.99 /lb
+Rachel's Original Deli Corned Beef Brisket or Pastrami 13.21/kg,$5.99 /lb
+Marc Angelo Italian Style Pork Meatballs 1 kg,$10.00 
+Catch of the Day Breaded Fish Fillets Frozen 350 g,$4.99 
+Janes Ultimates Chicken Fillets Frozen 720 g,$11.99 
+Janes Pub Style Chicken Wings Frozen 660 g,$8.99 
+Anchor's Bay 31/40 Cooked Shrimp Frozen 400 g,$8.99 
+Compliments Bagels 6 pk Dempster's English Muffins 6 pk,$2.09 
+Boursin 150 g Kaukauna Cheese Ball 170 g,$4.49 
+Mastro Salami 125 g Selected Varieties San Daniele Prosciutto 100 g,$3.99 
+Castello Havarti 200 g Tre Stelle Feta Cheese Cubes 200 g,$4.49 
+Rapini Product of USA,$3.49 
+,$3.49 
+Sweet Bell Peppers 4 pk Product of Ontario or Mexico,$3.49 
+Fresh Attitude Single Serve Salad Kits 155-185 g,$4.49 
+Marc Angelo Italian Style Pork Meatballs 1 kg,$10.00 
+Anchor's Bay 31/40 Cooked Shrimp Frozen 400 g,$8.99 
+Castello Havarti 200 g Tre Stelle Feta Cheese Cubes 200 g,$4.49 
+International Delight Coffee Whitener 946 mL,$3.99 
+Compliments Orange Juice Not From Concentrate 1.54 L,$2.88 
+,$2.88 
+McCain Premium Fries 1.45-1.8 kg Selected Varieties,$5.79 
+Christie Crackers 180-386 g Selected Varieties,$2.29 
+"Frito-Lay Value Size Potato Chips, Tortilla Chips, Snacks or Popcorn 275-480 g",$5.00 
+Starbucks 405-444 mL,$2.49 
+Tetley Tea 20-24 pk,$2.99 
+Betty Crocker Hamburger Helper Betty Crocker Potato Mix 142-240 g,$1.89 
+Knorr Sidekicks 112-167 g Lipton Soup 56-166 g,$1.75 
+Quaker Instant Oatmeal 232-344 g,$3.49 
+Benedetto Olive Oil 1 L,$8.99 
+Clover Leaf Albacore Tuna 170 g,$3.29 
+Trident Gum Slabs 1 pk,2/$3.00 
+Old El Paso Kits 250-510 g or Salsa 650 mL,$4.00 
+Fruité Drinks 2 L,2/$3.00 
+Fleecy Fabric Softener 1.36 L Fleecy Dryer Sheets 80 pk,$3.99 
+Colgate Toothpaste 70 mL Irish Spring Soap 180 g 2 pk Softsoap Hand Soap 221 mL,$1.99 
+Softsoap or Irish Spring Body Wash 591 mL Irish Spring Soap 628.8 g 6 pk,$4.49 
+Zabiha Halal Chicken Bologna or Wieners 375-450 g,$1.99 
+Tre Stelle Ricotta 475g,$4.49 
+,$4.49 
+Nestlé Favourites 100 pk or Hershey's Chocolate Assorted 100 pk or Hershey's Peanut Free 100 pk or Mars Fun Size 95 pk,$10.99 
+Black Diamond Natural Cheese Slices 220-240 g Philadelphia Cream Cheese 227-250 g,$3.99 
+Gay Lea Cottage Cheese 450-500 g Iögo Nanö Drinks 6 pk,$3.49 
+Pringles Super Stacks 148-156 g Quaker Crispy Minis 100 g or Rice Cakes 127-199 g,$1.88 
+Betty Crocker Cake Mix 432-461 g Betty Crocker Frosting 340-450 g,$1.49 
+Chapman's Premium Ice Cream 2 L or Yukon Novelties 540-840 mL,$4.99 
+Silk Beverage 1.75-1.89 L,$3.49 
+Folgers Ground Coffee 544-816 g Tim Hortons Single Serve K-Cups 12 pk,$8.99 
+"Lantic Icing, Yellow or Brown Sugar 1 kg",$2.49 
+"Delissio Stuffed Crust, Crispy Pan or Croissant Pizza 556-744 g",$6.99 
+Lactantia Healthy Attitude Omega 3 Margarine 427 g,$2.99 
+Eagle Brand Condensed Milk 300 mL,$2.99 
+Kellogg's Cereal Selected 480-760 g,$5.49 
+Yoplait Source Yogourt 16 pk Liberté Greek Yogourt 650-750 g,$5.49 
+Purex Laundry Detergent 4.43 L Sunlight Laundry 4 L Persil 2.21 L,$12.99 
+Hershey's Chipits 175-250 g,$2.99 
+In-Shell Walnuts Product of USA 5.49/kg,$2.49 /lb
+"Reddi-Snack Pecan Halves 125 g or Cashews Roasted Salted, No Salt or Raw 200 g",$5.00 
+Bard Valley Medjool Dates 2 lb Product of USA 907 g,$10.99 
+Dried Figs 200 g Product of Turkey,$1.99 
+Dried Apricots 200 g Product of Turkey,$2.49 
+Wonderful Pistachios Product of USA 200-225 g,$4.99 
+Wonderful Pistachios No Shells Assorted 155-170 g,$5.99 
+Wonderful Pistachios 450 g Roasted & Salted Product of USA,$8.99 
+Deglet Pitted Dates 1 kg Product of Algeria,$5.99 
+Khudri Dates 1 kg Product of Saudi Arabia,$6.49 
+Compliments Sliced Almonds 175 g,$5.00 
+Compliments Sliced Almonds 175 g,$5.00 
+Compliments Dried Cranberries 350 g,$5.00 
+Delissio Thin Crispy Crust 475-550 g,$3.99 
+Perrier Sparkling Water 10x250 mL Perrier & Juice Sparkling Water Fruit Beverages 6x330 mL,$6.49 
+San Pellegrino Momenti Sparkling Drinks 6x330 mL Naturali Sparkling Drinks 6x330 mL,$6.49 
+Nestlé Parlour Promo Packs 4-8 pk,$2.00 
+"Lean Cuisine 214-248 g, Stouffer's 262-340 g or Bistro Crustini Frozen Dinners 226-256 g Selected Varieties",$2.99 
+Nestlé Single Bars 36-55 g,$.88 
+Nestlé Cellos 135-203 g or Nestlé Multipacks 164-200 g,$3.44 
+Boost Bottles 237 mL 6 pk,$9.99 
+Nescafé Rich Instant Coffee 100-170 g or Nesquik 540 g 510-700 mL,$4.99 
+Carnation Hot Chocolate Envelopes 10 pk,$3.49 
+Starbucks Creamers 828 mL,$6.49 
+"Compliments Empire, Spartan, Cortland or Golden Delicious Apples Product of Ontario Canada Fancy 1.36 kg",$3.99 
+McIntosh Apples Product of Ontario Canada Extra Fancy 3.95/kg,$1.79 /lb
+Red Delicious Apples Product of Ontario Canada Extra Fancy 3.95/kg,$1.79 /lb
+Honeycrisp Apples Product of Ontario Canada Extra Fancy 5.49/kg,$2.49 /lb
+Marzetti Caramel Dip 227 g,$3.49 
+Maynards Fun Treats 90 pk,$10.99 
+Starburst Skittles 90 pk,$10.99 
+Regal Rockets Candy Rolls 700 g Tootsie Roll Snack Bar 599 g Dubble Bubble Gum 495 g Candy Kidz Pik! Bag 700 g,$3.99 
+Nestlé Favourites 50 pk Kinder Mini Chocolate 55 pk,$6.99 
+Frito-Lay Chips or Snacks 40 pk,$7.99 
+Kellogg's Halloween Rice Krispies Squares 440 g,$5.99 
+Quaker Halloween Crispy Minis 864 g,$11.99 
+Old Dutch Potato Chips or Snacks 24 pk,$6.29 
+Compliments Value Size Potato Chips 750 g,$4.29 
+Powerade Variety Team Pack 24x591 mL,$14.99 
+Compliments Jelly Beans or Scotch Mints 700 g,$3.99 
+Compliments Value Size Fried Potatoes 1.5 kg,$3.00 
+Kellogg's Eggo Original Jumbo Waffles 1.68 kg,$11.49 
+Folgers K-Cups 48 pk,$24.99 
+Compliments Baby Wipes 9 pk,$18.99 
+Old Dutch Laundry Detergent 4 L,$5.99 
+Verka Brown Sugar 4.54 kg,$9.99 
+Rubicon Juice 1 L Selected Varieties,$1.99 
+Red Mangoes Product of Brazil,$1.29 
+Coconut Product of Costa Rica,$1.49 ea
+Pomegranates Product of USA,$2.49 ea
+Gelda Para 400g,$3.49 
+Mirch Masala Plain Paratha Family Pack 2 kg,$7.99 
+Deluxe Biscuits or Cookies 1 kg Selected Varieties,$4.49 
+KFI Sauces 375 mL Selected Varieties,$3.99 
+Brar's Samosas 624-630 g,$4.99 
+Horlicks Original or Chocolate 500 g,$4.99 
+,$4.99 
+,$4.99 
