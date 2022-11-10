@@ -67,7 +67,7 @@ print('process started')
 options = scraper.set_options()
 options.add_argument('--ignore-certificste-errors')
 options.add_argument('--incognito')
-options.add_argument('--headless')
+# options.add_argument('--headless')
 
 # STARTUP DRIVER 
 driver = scraper.initiate_driver(options)
