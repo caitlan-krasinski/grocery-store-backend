@@ -14,7 +14,8 @@ import scrapers.scraper as scraper
 
 
 # variable store 
-store_vars = { 'zehrs_produce':{'store':'zehrs',
+store_vars = { 
+              'zehrs_produce':{'store':'zehrs',
                     'category_name':'produce',
                     'link':'https://www.zehrs.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables',
                     'load_more_xpath':'//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button'}
@@ -54,6 +55,26 @@ store_vars = { 'zehrs_produce':{'store':'zehrs',
                     'category_name':'seafood',
                     'link':'https://www.valumart.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
                     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'no_frills_produce':{'store':'no_frills',
+                    'category_name':'produce',
+                    'link':'https://www.nofrills.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button'}
+                , 'no_frills_dairy_and_egg':{'store':'no_frills',
+                    'category_name':'dairy_and_eggs',
+                    'link':'https://www.nofrills.ca/food/dairy-eggs/c/28003?navid=flyout-L2-Dairy-and-Eggs',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'no_frills_meat':{'store':'no_frills',
+                    'category_name':'meat',
+                    'link':'https://www.nofrills.ca/food/meat/c/27998?navid=flyout-L2-Meat',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'no_frills_bakery':{'store':'no_frills',
+                    'category_name':'bakery',
+                    'link':'https://www.nofrills.ca/food/bakery/c/28002?navid=flyout-L2-Bakery',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'no_frills_seafood':{'store':'no_frills',
+                    'category_name':'seafood',
+                    'link':'https://www.nofrills.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button' }
 }
 
 
