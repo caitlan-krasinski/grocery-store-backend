@@ -1,355 +1,359 @@
-category,product_name,price,per_unit_price
-bakery,Country Harvest14 Grains Whole Wheat Bread600 g,$3.99ea,$0.67/ 100g
-bakery,President's ChoiceTortillas Original 650 g,$4.29ea,$0.66/ 100g
-bakery,President's ChoiceEnglish Muffins Original 6 Fork-Split Muffins342 g,$2.89ea,$0.85/ 100g
-bakery,White Baguette255 g,$1.69ea,$0.66/ 100g
-bakery,Farmer's MarketButter Croissant270 g,$3.99ea,$1.48/ 100g
-bakery,"WonderBread, Sliced White675 g",$3.99ea,$0.59/ 100g
-bakery,Old MillWhite Bread675 g,$2.79ea,$0.41/ 100g
-bakery,Old Mill100% Whole Wheat Bread675 g,$2.79ea,$0.41/ 100g
-bakery,Farmer's MarketBanana Chocolate Chunk Muffins600 g,$6.99ea,$1.17/ 100g
-bakery,WonderWhite Hotdog Buns8x44.5 g,$3.99ea,$1.12/ 100g
-bakery,Casa MendosaLarge Whole Wheat Tortillas640 g,$4.79ea,$0.75/ 100g
-bakery,WonderWhite Hamburger Buns8x47.25 g,$3.99ea,$1.06/ 100g
-bakery,"WonderThin Sandwich Bread, White675 g",$3.99ea,$0.59/ 100g
-bakery,Farmer's MarketChocolate Chip Muffins600 g,$6.99ea,$1.17/ 100g
-bakery,WonderWhite Bread with Fibre675 g,$3.99ea,$0.59/ 100g
-bakery,"ACEBread, White Baguette350 g",$3.79ea,$1.08/ 100g
-bakery,DItalianoThick Slices Bread675 g,$3.99ea,$0.59/ 100g
-bakery,Country HarvestEverything Bagel450 g,$3.99ea,$0.89/ 100g
-bakery,Farmer's MarketBlueberry Muffins570 g,$6.99ea,$1.23/ 100g
-bakery,"President's ChoiceMini Muffins, Chocolate275 g",$5.29ea,$1.92/ 100g
-bakery,No NameBagel Plain 6 Pack510 g,$2.79ea,$0.55/ 100g
-bakery,No NameBagel Everthing480 g,$2.79ea,$0.58/ 100g
-bakery,Kaiser Rolls Large 6 Pack350 g,$3.99ea,$1.14/ 100g
-bakery,Wonder100% Whole Wheat Bread675 g,$3.99ea,$0.59/ 100g
-bakery,Farmer's MarketCarrot Muffins600 g,$6.99ea,$1.17/ 100g
-bakery,WonderWhite Bread White Texas675 g,$3.99ea,$0.59/ 100g
-bakery,Country HarvestEverything Bread600 g,$3.99ea,$0.67/ 100g
-bakery,Country HarvestCinnamon Raisin Bread600 g,$3.99ea,$0.67/ 100g
-bakery,"Casa Mendosa10 Medium Tortillas, Original340 g",$4.29ea,$1.26/ 100g
-bakery,President's ChoiceBanana Chocolate Chip Mini Muffins275 g,$5.29ea,$1.92/ 100g
-bakery,Dufflet8'' Harvest Caramel Apple Cake 1.1 kg,$29.99ea,$2.73/ 100g
-bakery,Farmer's MarketPecan Butter Tarts6x85.0 g,$7.29ea,$1.43/ 100g
-bakery,CadburyCaramilk Dome Cake1.2 kg,$16.99ea,$2.43/ 100g
-bakery,Bulk Ts Donut100 g,$1.89ea,$1.89/ 100g
-bakery,Sha ShaGinger Snap Cookies300x300.0 g,$7.49ea,$2.50/ 100g
-bakery,CharlottesEuropean Spritz Butter Cookies430 g,$7.99ea,$1.86/ 100g
-bakery,PC OrganicsOrganic 100% Whole Grain Bread709 g,$4.99ea,$0.70/ 100g
-bakery,President's ChoiceMultigrain Flatbread300 g,$2.79ea,$0.93/ 100g
-bakery,Farmer's MarketStrawberry Loaf Cake390 g,$4.49ea,$1.15/ 100g
-bakery,"Old Mill12"" Thin Pizza Starter Kit700 g",$4.39ea,$0.63/ 100g
-bakery,Cheese Swirl Buns 4 Pack400 g,$5.79ea,$1.45/ 100g
-bakery,"7 Grain Bread, Sliced570 g",$3.99ea,$0.89/ 100g
-bakery,President's ChoicePumpernickel Rye Loaf Bread480 g,$3.59ea,$0.75/ 100g
-bakery,PC Dinner Rolls  Whole Wheat12x1.0 ea,$3.79ea,$0.32/ 1ea
-bakery,BaxtersVanilla Raspberry Cream6x67.0 g,$5.49ea,$1.37/ 100g
-bakery,DItalianoSesame Seed Bread675 g,$3.99ea,$0.59/ 100g
-bakery,All Butter Almondine Rolls255 g,$3.99ea,$1.16/ 100g
-bakery,"Farmer's MarketTea Biscuits, Cheddar Cheese315 g",$6.29ea,$2.00/ 100g
-bakery,"Pumpernickel Bread, Unsliced675 g",$4.79ea,$0.71/ 100g
-bakery,Sha ShaCookies Pumpkin Spice Snaps250 g,$5.29ea,$2.12/ 100g
-bakery,No NameEnglish Muffin Whole Wheat342 g,$2.89ea,$0.85/ 100g
-bakery,Submarine Buns 4 Pack464 g,$2.79ea,$2.15/ 100g
-bakery,All Butter Chocolatine 4 pack248 g,$3.99ea,$1.61/ 100g
-bakery,Farmer's MarketChocolate Cake490 g,$6.99ea,$1.43/ 100g
-bakery,"White Subs, 2 Pack200 g",$1.59ea,$0.80/ 100g
-bakery,DempsterFresh White Bread675 g,$3.39ea,$0.50/ 100g
-bakery,Farmer's MarketCarrot Cake875 g,$15.99ea,$1.83/ 100g
-bakery,Farmer's MarketLemon Curd Cake475 g,$6.99ea,$1.47/ 100g
-bakery,two-biteTwo-Bite®  Halloween Vanilla Cupcakes284 g,$5.29ea,$1.86/ 100g
-bakery,President's ChoiceThick Pizza Crust300 g,$3.49ea,$1.16/ 100g
-bakery,President's ChoiceBrioche Loaf400 g,$3.99ea,$1.00/ 100g
-bakery,Buns Kaiser 2 Pack117 g,$1.59ea,$1.36/ 100g
-bakery,Farmer's MarketFruitck Dark Pecan Topped500 g,$8.99ea,$1.80/ 100g
-bakery,President's ChoiceGluten Free Hot Dog Buns65 g,$4.49ea,$1.73/ 100g
-bakery,Macarons Assorted Pk 696 g,$5.99ea,$6.24/ 100g
-bakery,DItalianoBrizzolio Bread600 g,$3.99ea,$0.67/ 100g
-bakery,Panini Roll 2 Pack107 g,$1.59ea,$1.49/ 100g
-bakery,"Casa Mendosa6 Large Tortillas, Tomato Salsa384 g",$4.79ea,$1.25/ 100g
-bakery,LA FOURNEE DOREE Croissant Bun300 g,$6.99ea,$2.33/ 100g
-bakery,President's ChoiceTraditional Naan250 g,$3.19ea,$1.28/ 100g
-bakery,FurlaniFrozen Texas Toast Garlic16x40.0 g,$4.69ea,$0.73/ 100g
-bakery,"Casa Mendosa10 Medium Tortillas, Whole Wheat340 g",$4.29ea,$1.26/ 100g
-bakery,ACECiabatta Piccola 800 g,$6.29ea,$0.79/ 100g
-bakery,Dempster100% Whole Wheat Bread675 g,$3.89ea,$0.58/ 100g
-bakery,President's ChoiceMultigrain Flatbread300 g,$2.79ea,$0.93/ 100g
-bakery,President's ChoicePumpernickel Rye Loaf Bread480 g,$3.59ea,$0.75/ 100g
-bakery,BaxtersVanilla Raspberry Cream6x67.0 g,$5.49ea,$1.37/ 100g
-bakery,DItalianoSesame Seed Bread675 g,$3.99ea,$0.59/ 100g
-bakery,All Butter Almondine Rolls255 g,$3.99ea,$1.16/ 100g
-bakery,Sha ShaGinger Snap Cookies300x300.0 g,$7.49ea,$2.50/ 100g
-bakery,Farmer's MarketFruitcake Light with Marzipan500 g,$8.99ea,$1.80/ 100g
-bakery,CharlottesEuropean Spritz Butter Cookies430 g,$7.99ea,$1.86/ 100g
-bakery,PC OrganicsOrganic 100% Whole Grain Bread709 g,$4.99ea,$0.70/ 100g
-bakery,President's ChoiceTriple Chocolate Cake710 g,$17.49ea,$2.46/ 100g
-bakery,Farmer's MarketStrawberry Loaf Cake390 g,$4.49ea,$1.15/ 100g
-bakery,"Old Mill12"" Thin Pizza Starter Kit700 g",$4.39ea,$0.63/ 100g
-bakery,Cheese Swirl Buns 4 Pack400 g,$5.79ea,$1.45/ 100g
-bakery,"7 Grain Bread, Sliced570 g",$3.99ea,$0.89/ 100g
-bakery,Villa Di MannoStuffing Croutons567 g,$4.59ea,$0.81/ 100g
-bakery,PC Dinner Rolls  Whole Wheat12x1.0 ea,$3.79ea,$0.32/ 1ea
-bakery,DimpflmeierBread Original Swedish Style Light Rye454 g,$4.49ea,$0.99/ 100g
-bakery,President's ChoiceItalian Style Bread Crumbs275 g,$1.99ea,$0.72/ 100g
-bakery,DimpflmeierKlosterbrot Bread454 g,$4.49ea,$0.99/ 100g
-bakery,Dimpflmeier100% Rye Bread With Flaxseeds454 g,$4.29ea,$0.94/ 100g
-bakery,Frontier BakeryLebanese Style Whole Wheat Pita330 g,$1.39ea,$0.42/ 100g
-bakery,No NameBagel Whole Wheat510 g,$2.79ea,$0.55/ 100g
-bakery,President's ChoicePumpernickel Rye Loaf Bread480 g,$3.59ea,$0.75/ 100g
-bakery,President's ChoiceItalian Style Bread Crumbs275 g,$1.99ea,$0.72/ 100g
-bakery,"Blueberry Pie, 8 Inch680 g",$5.99ea,$0.88/ 100g
-bakery,Country HarvestOriginal Bagels450 g,$3.99ea,$0.89/ 100g
-bakery,President's ChoiceMini Naan Garlic 4 Flatbreads180 g,$3.49ea,$1.94/ 100g
-bakery,DItalianoThick Sliced Brioche-Style Loaf0.62 g,$3.99ea,$0.64/ 100g
-bakery,PoppersWheat Popped Grains120 g,$4.99ea,$4.16/ 100g
-bakery,ACEOlive Oil & Sea Salt Mini Crisps180 g,$6.29ea,$3.49/ 100g
-bakery,BaxtersSwiss Roll Chocolate6x67.0 g,$5.49ea,$1.37/ 100g
-bakery,Farmer's Market7 Layer Square450 g,$6.99ea,$1.55/ 100g
-bakery,Core 12 Grain Breads284 g,$4.29ea,$1.51/ 100g
-bakery,"Farmer's MarketSliced Loaf Cake, Marble420 g",$5.99ea,$1.43/ 100g
-bakery,Farmer's MarketCake Tuxedo1.15 kg,$16.99ea,$1.48/ 100g
-bakery,President's ChoiceBread Crumbs300 g,$1.59ea,$0.53/ 100g
-bakery,Farmer's MarketCake Carrot1.4 kg,$22.99ea,$1.64/ 100g
-bakery,Casa MendosaExtra Large Burrito Tortillas630 g,$4.19ea,$0.67/ 100g
-bakery,"Apple ValleyApple Pie, No Sugar Added 8""620 g",$6.99ea,$1.13/ 100g
-bakery,Flame-Baked Naan Cilantro & Roasted Garlic400 g,$3.99ea,$1.00/ 100g
-bakery,Farmer's MarketCake Tiramisu 995 g995 g,$16.99ea,$1.71/ 100g
-bakery,RudolphsBavarian Rye Bread500 g,$4.29ea,$0.86/ 100g
-bakery,Farmer's MarketLemon Coffee Cake500 g,$6.00ea,$1.20/ 100g
-bakery,PC Multigrain Laiser 6S400 g,$3.99ea,$1.00/ 100g
-bakery,two-biteVanilla Cupcakes284 g,$4.99ea,$1.76/ 100g
-bakery,President's ChoiceGluten Free Tortillas Original360 g,$5.99ea,$1.66/ 100g
-bakery,Old Fashioned Apple Pie114 g,$1.79ea,$1.57/ 100g
-bakery,School SafeMuffin Bars Banana Chocolate Chip296 g,$3.69ea,$1.25/ 100g
-bakery,DimpflmeierMarble Rye Bread500 g,$3.79ea,$0.76/ 100g
-bakery,President's ChoiceGigantico Burger Buns 8x71.0 g,$3.99ea,$0.70/ 100g
-bakery,SurajNaan Orginal 10 Pk1 ea,$5.29ea,$5.29/ 1ea
-bakery,ACERustic Italian Oval350 g,$4.59ea,$1.31/ 100g
-bakery,"President's ChoiceMini Muffins, Carrot275 g",$5.29ea,$1.92/ 100g
-bakery,Honey Glazed Ring Donuts 2 Pack2x160.0 g,$3.49ea,$2.18/ 100g
-bakery,President's ChoiceVanilla Bark Cake690 g,$17.49ea,$2.53/ 100g
-bakery,President's ChoiceBrandy Fruitcake524 g,$9.99ea,$1.91/ 100g
-bakery,President's ChoiceGluten Free Hamburger Buns80 g,$4.49ea,$1.40/ 100g
-bakery,"two-biteTwo-Bite®  Halloween Chocolate Cupcakes, 12 Pack284 g",$5.29ea,$1.86/ 100g
-bakery,Amazing Grain Raisin Bread Sliced450 g,$4.49ea,$1.00/ 100g
-bakery,President's ChoiceGluten Free Strawberry Cake 553 g,$9.99ea,$1.81/ 100g
-bakery,"Sourdough Bread, Sliced450 g",$4.79ea,$0.71/ 100g
-bakery,"100% Whole Wheat Bread, Sliced450 g",$3.29ea,$0.73/ 100g
-bakery,Farmer's MarketChocolate Cake850 g,$15.99ea,$1.88/ 100g
-bakery,Country HarvestCranberry & Oats Bagel450 g,$3.99ea,$0.89/ 100g
-bakery,"Italian Bread, Multi-grain  Sliced450 g",$3.49ea,$0.78/ 100g
-bakery,PC OrganicsOrganic Original Tortilla 10390 g,$4.39ea,$1.13/ 100g
-bakery,King’s Hawaiian Sweet Rolls 0.34 kg,$4.49ea,$1.32/ 100g
-bakery,President's ChoiceGarlic Naan 250 g,$3.19ea,$1.28/ 100g
-bakery,WonderWhole Wheat Hamburger Buns8x56.0 g,$3.99ea,$0.89/ 100g
-bakery,Farmer's MarketMini Chocolate Chip Cookies310 g,$5.99ea,$1.93/ 100g
-bakery,DimpflmeierMarble Rye Bread500 g,$3.79ea,$0.76/ 100g
-bakery,President's ChoiceGigantico Burger Buns 8x71.0 g,$3.99ea,$0.70/ 100g
-bakery,ACERustic Italian Oval350 g,$4.59ea,$1.31/ 100g
-bakery,"President's ChoiceMini Muffins, Carrot275 g",$5.29ea,$1.92/ 100g
-bakery,President's ChoiceVanilla Bark Cake690 g,$17.49ea,$2.53/ 100g
-bakery,President's ChoiceBrandy Fruitcake524 g,$9.99ea,$1.91/ 100g
-bakery,President's ChoiceGluten Free Hamburger Buns80 g,$4.49ea,$1.40/ 100g
-bakery,Honey Glazed Ring Donuts 2 Pack2x160.0 g,$3.49ea,$2.18/ 100g
-bakery,SurajNaan Orginal 10 Pk1 ea,$5.29ea,$5.29/ 1ea
-bakery,President's ChoiceGluten Free Tortillas Original360 g,$5.99ea,$1.66/ 100g
-bakery,Country HarvestCranberry & Oats Bagel450 g,$3.99ea,$0.89/ 100g
-bakery,"100% Whole Wheat Bread, Sliced450 g",$3.29ea,$0.73/ 100g
-bakery,Farmer's MarketChocolate Cake850 g,$15.99ea,$1.88/ 100g
-bakery,Farmer's MarketButter Croissants Mini336 g,$3.99ea,$1.19/ 100g
-bakery,Farmer's MarketOatmeal & Chocolate Cookies456 g,$5.99ea,$1.31/ 100g
-bakery,ACEPane Rustico Bread600 g,$5.79ea,$0.97/ 100g
-bakery,DItalianoBrizzolio Sausage Buns420 g,$3.99ea,$0.95/ 100g
-bakery,DimpflmeierBread Original Swedish Style Light Rye680 g,$4.29ea,$0.63/ 100g
-bakery,Apple Fritter Donut 2 Pack2x290.0 g,$3.49ea,$1.20/ 100g
-bakery,Farmer's MarketRaisin Butter Tarts6x85.0 g,$7.29ea,$1.43/ 100g
-bakery,Poppers Popped Grains Wheat Minis45 g,$3.99ea,$8.87/ 100g
-bakery,No NameWhole Wheat Mini Pitas170 g,$1.99ea,$1.17/ 100g
-bakery,PC OrganicsOrganic Everything Bagel450 g,$4.49ea,$1.00/ 100g
-bakery,Cheese Swirl Bun 2 Pack133 g,$3.19ea,$2.40/ 100g
-bakery,RudolphsLight Rye Bread680 g,$4.29ea,$0.63/ 100g
-bakery,"ACEArtisan Crisps, Rosemary & Sea Salt180 g",$6.29ea,$3.49/ 100g
-bakery,"Farmer's MarketCookies, Peanut Butter, 12 Pack456 g",$5.99ea,$1.31/ 100g
-bakery,DItalianoSausage Buns456 g,$3.99ea,$0.88/ 100g
-bakery,Kaiser Rolls Whole Wheat 6 Pack400 g,$3.99ea,$1.00/ 100g
-bakery,President's ChoiceTortillas Original 340 g,$3.79ea,$1.11/ 100g
-bakery,"Pumpernickel Bread, Sliced450 g",$3.19ea,$0.71/ 100g
-bakery,DimpflmeierBread Prebiotic Multi-Grain454 g,$3.79ea,$0.83/ 100g
-bakery,Farmer's MarketSliced Loaf Cake Blueberry 420 g,$5.99ea,$1.43/ 100g
-bakery,"Country HarvestBagels, Raisin Cinnamon with Whole Wheat450 g",$3.99ea,$0.89/ 100g
-bakery,President's ChoiceYukon Gold Potato Loaf480 g,$3.59ea,$0.75/ 100g
-bakery,Farmer's MarketSandwich Croissant260 g,$3.99ea,$1.53/ 100g
-bakery,Ready BakeGarlic Bread330 g,$3.99ea,$1.21/ 100g
-bakery,DimpflmeierSonnenblumenkerne Bread454 g,$4.49ea,$0.99/ 100g
-bakery,Wonder100% Whole Wheat Bread Thin Sliced675 g,$3.99ea,$0.59/ 100g
-bakery,Country HarvestProtein Bread600 g,$3.99ea,$0.67/ 100g
-bakery,two-biteMini Chocolate Cupcakes 12 Pack284 g,$5.29ea,$1.86/ 100g
-bakery,Sesame Egg Roll375 g,$3.99ea,$1.06/ 100g
-bakery,Savoury Roll85 g,$1.49ea,$1.75/ 100g
-bakery,President's ChoiceGluten Free Millet & Quinoa454 g,$5.79ea,$1.28/ 100g
-bakery,SurajNaan Garlic 10 Pk1 kg,$5.29ea,$0.53/ 100g
-bakery,Kimberley's BakeshoppeFrosted Harvest Orange & Yellow383 g,$4.49ea,$1.18/ 100g
-bakery,VachonAh Caramel336 g,$4.09ea,$1.22/ 100g
-bakery,"Farmer's MarketLoaf Cake, Banana390 g",$5.99ea,$1.54/ 100g
-bakery,No NameWhole Wheat Mini Pitas170 g,$1.99ea,$1.17/ 100g
-bakery,President's ChoiceYukon Gold Potato Loaf480 g,$3.59ea,$0.75/ 100g
-bakery,Farmer's MarketSandwich Croissant260 g,$3.99ea,$1.53/ 100g
-bakery,DimpflmeierBread Prebiotic Multi-Grain454 g,$3.79ea,$0.83/ 100g
-bakery,Poppers Popped Grains Wheat Minis45 g,$3.99ea,$8.87/ 100g
-bakery,PC OrganicsOrganic Everything Bagel450 g,$4.49ea,$1.00/ 100g
-bakery,Cheese Swirl Bun 2 Pack133 g,$3.19ea,$2.40/ 100g
-bakery,DimpflmeierSonnenblumenkerne Bread454 g,$4.49ea,$0.99/ 100g
-bakery,two-biteMini Chocolate Cupcakes 12 Pack284 g,$5.29ea,$1.86/ 100g
-bakery,VachonAh Caramel336 g,$4.09ea,$1.22/ 100g
-bakery,"Farmer's MarketLoaf Cake, Banana390 g",$5.99ea,$1.54/ 100g
-bakery,No NameBagel Sesame 6 Pack510 g,$2.79ea,$0.55/ 100g
-bakery,Sesame Egg Roll375 g,$3.99ea,$1.06/ 100g
-bakery,Savoury Roll85 g,$1.49ea,$1.75/ 100g
-bakery,President's ChoiceGluten Free Millet & Quinoa454 g,$5.79ea,$1.28/ 100g
-bakery,SurajNaan Garlic 10 Pk1 kg,$5.29ea,$0.53/ 100g
-bakery,Kimberley's BakeshoppeFrosted Harvest Orange & Yellow383 g,$4.49ea,$1.18/ 100g
-bakery,ACECiabatta Pezzetti Duo 840 g,$6.29ea,$0.75/ 100g
-bakery,La BaguetterieWhite Oval454 g,$2.79ea,$0.61/ 100g
-bakery,No NameWhole Wheat Dinner Roll420 g,$3.49ea,$0.83/ 100g
-bakery,FurlaniFrozen Texas Toast Parmesan Garlic16x40.0 g,$4.69ea,$0.73/ 100g
-bakery,Ready BakeGarlic Bread330 g,$3.99ea,$1.21/ 100g
-bakery,Wonder100% Whole Wheat Bread Thin Sliced675 g,$3.99ea,$0.59/ 100g
-bakery,Country HarvestProtein Bread600 g,$3.99ea,$0.67/ 100g
-bakery,two-biteMini Vanilla Cupcakes 12 Pack284 g,$5.29ea,$1.86/ 100g
-bakery,President's ChoiceTraditional Naan Club Size 750 g,$5.59ea,$0.75/ 100g
-bakery,Country Harvest14 Grain Bagels450 g,$3.99ea,$0.89/ 100g
-bakery,Farmer's MarketBumbleberry Crumble Pie1 kg,$9.99ea,$1.00/ 100g
-bakery,Farmer's MarketRaisin Bran Muffins600 g,$6.99ea,$1.17/ 100g
-bakery,Farmer's MarketDate Square450 g,$6.99ea,$1.55/ 100g
-bakery,DItalianoBrioche-Style Hamburger Buns560 g,$3.99ea,$0.71/ 100g
-bakery,President's ChoiceÀ L’Européenne Light Rye Loaf480 g,$3.59ea,$0.75/ 100g
-bakery,President's ChoiceTraditional Naan Rounds480 g,$4.29ea,$0.89/ 100g
-bakery,ACEAged Cheddar Mini Crisps150 g,$6.29ea,$4.19/ 100g
-bakery,Old Fashioned Wild Blueberry Pie114 g,$1.79ea,$1.57/ 100g
-bakery,Farmer's MarketMacaroons350 g,$6.49ea,$1.85/ 100g
-bakery,No NameEnglish Muffin Original 6 Pack342 g,$2.89ea,$0.85/ 100g
-bakery,Country HarvestSourdough Bagel450 g,$3.99ea,$0.89/ 100g
-bakery,Farmer's MarketMini Angel Food Cakes270 g,$5.99ea,$2.22/ 100g
-bakery,ACEBrioche Bagel272 g,$4.19ea,$1.54/ 100g
-bakery,Farmer's MarketRed Velvet Cake490 g,$6.99ea,$1.43/ 100g
-bakery,two-biteChocolate Cupcakes284 g,$4.99ea,$1.76/ 100g
-bakery,President's ChoiceMini Tortilllas Original 192 g,$3.39ea,$1.77/ 100g
-bakery,"6"" Grand Maman Marie Sponge Flan100 g",$2.99ea,$2.99/ 100g
-bakery,"Kimberley's BakeshoppeHalloween Frosted Cookies, Pack 10383 g",$4.99ea,$1.30/ 100g
-bakery,PC Blue Menu100% Whole Wheat Loaf450 g,$5.19ea,$1.15/ 100g
-bakery,Dark Fruit Cake370 g,$5.99ea,$1.62/ 100g
-bakery,Country HarvestQuinoa Flax Bread600 g,$3.99ea,$0.67/ 100g
-bakery,President's ChoiceOriginal Mini Bagel380 g,$3.49ea,$0.92/ 100g
-bakery,Farmer's MarketMarble Coffee Cake500 g,$6.00ea,$1.20/ 100g
-bakery,DimpflmeierVollkornbrot Bread454 g,$3.79ea,$0.83/ 100g
-bakery,Hawaiian Sprinkle Donutss 2 Pack2x200.0 g,$3.49ea,$1.75/ 100g
-bakery,"Farmer's MarketSliced Loaf Cake, Vanilla420 g",$5.99ea,$1.43/ 100g
-bakery,ACEGourmet Brioche Burger Buns260 g,$3.99ea,$1.53/ 100g
-bakery,President's Choice Khubz Middle Eastern-Style Pita400 g,$3.49ea,$0.87/ 100g
-bakery,President's ChoiceMeringue Nests100 g,$3.99ea,$3.99/ 100g
-bakery,President's ChoiceCarrot Nut Rustic Cake610 g,$7.99ea,$1.31/ 100g
-bakery,"Rolls, Calabrese480 g",$3.99ea,$0.83/ 100g
-bakery,Texas Hot Dog Buns520 g,$3.00ea,$0.58/ 100g
-bakery,Country HarvestNo Sugar Whole Wheat600 g,$3.99ea,$0.67/ 100g
-bakery,Farmer's MarketMini Angel Food Cakes270 g,$5.99ea,$2.22/ 100g
-bakery,ACEBrioche Bagel272 g,$4.19ea,$1.54/ 100g
-bakery,Farmer's MarketRed Velvet Cake490 g,$6.99ea,$1.43/ 100g
-bakery,Farmer's MarketMacaroons350 g,$6.49ea,$1.85/ 100g
-bakery,No NameEnglish Muffin Original 6 Pack342 g,$2.89ea,$0.85/ 100g
-bakery,Country HarvestSourdough Bagel450 g,$3.99ea,$0.89/ 100g
-bakery,"6"" Grand Maman Marie Sponge Flan100 g",$2.99ea,$2.99/ 100g
-bakery,"Kimberley's BakeshoppeHalloween Frosted Cookies, Pack 10383 g",$4.99ea,$1.30/ 100g
-bakery,PC Blue Menu100% Whole Wheat Loaf450 g,$5.19ea,$1.15/ 100g
-bakery,Dark Fruit Cake370 g,$5.99ea,$1.62/ 100g
-bakery,two-biteChocolate Cupcakes284 g,$4.99ea,$1.76/ 100g
-bakery,President's ChoiceMini Tortilllas Original 192 g,$3.39ea,$1.77/ 100g
-bakery,Old Fashioned Wild Blueberry Pie114 g,$1.79ea,$1.57/ 100g
-bakery,Bread Cinnamon Raisin Sliced550 g,$4.49ea,$0.82/ 100g
-bakery,Sha ShaShasha Cocoa Snaps300x300.0 g,$7.49ea,$2.50/ 100g
-bakery,Farmer's MarketBlack Forest Cake750 g,$15.99ea,$2.13/ 100g
-bakery,Farmer's MarketChocolate Ganache Coffee Cake500 g,$6.00ea,$1.20/ 100g
-bakery,Country HarvestQuinoa Flax Bread600 g,$3.99ea,$0.67/ 100g
-bakery,LA FOURNEE DOREEMini Brioches480 g,$4.29ea,$0.89/ 100g
-bakery,"Cherry Pie, 8 Inch680 g",$5.99ea,$0.88/ 100g
-bakery,"Apple Pie, 8 Inch750 g",$5.99ea,$0.80/ 100g
-bakery,La BaguetterieRoasted Garlic Oval398 g,$2.79ea,$0.70/ 100g
-bakery,Country HarvestSunflower Flax Bread600 g,$3.99ea,$0.67/ 100g
-bakery,Farmer's MarketOatmeal Raisin Cookies456 g,$5.99ea,$1.31/ 100g
-bakery,"Elite Sweets6"" Spicy Pumpkin Mousse Cake750 g",$16.99ea,$2.27/ 100g
-bakery,Farmer's MarketCookies Oatmeal456 g,$5.99ea,$1.31/ 100g
-bakery,Farmer's MarketPumpkin Pie 10 Inch900 g,$9.99ea,$1.11/ 100g
-bakery,"Pumpkin Pie, 8 Inch680 g",$5.99ea,$0.88/ 100g
-bakery,Casa MendosaLarge Spinach Tortillas384 g,$4.79ea,$1.25/ 100g
-bakery,"WestonTexas Toast Bread, 100% Whole Wheat675 g",$3.99ea,$0.59/ 100g
-bakery,Frontier BakeryWhite Bread Greek Pitas425 g,$1.59ea,$0.37/ 100g
-bakery,Farmer's MarketPecan Pie 9 Inch580 g,$9.99ea,$1.72/ 100g
-bakery,Frontier BakeryThick Pouch Whole Wheat Pitas425 g,$1.59ea,$0.37/ 100g
-bakery,Farmer's MarketNanaimo Square400 g,$6.99ea,$1.75/ 100g
-bakery,"Kimberley's BakeshoppeTwo-Bite® Halloween Mini Pumpkin & Ghost Sugar Cookies, 25 CT284 g",$4.99ea,$1.76/ 100g
-bakery,RubschlagerBavarian Multigrain Loaf454 g,$2.89ea,$0.64/ 100g
-bakery,WonderFlour Tortillas White 10 Medium 340 g,$3.99ea,$1.17/ 100g
-bakery,Farmer's MarketFudge Square400 g,$6.99ea,$1.75/ 100g
-bakery,Farmer's MarketBrownies265 g,$4.99ea,$1.88/ 100g
-bakery,DItalianoBrioche-Style Sausage Buns420 g,$3.99ea,$0.95/ 100g
-bakery,President's ChoiceWhole Wheat Naan Rounds Buns480 g,$4.29ea,$0.89/ 100g
-bakery,Farmer's MarketChocolate Chip Cookies456 g,$5.99ea,$1.31/ 100g
-bakery,President's ChoiceAppetizer Flatbreads220 g,$2.79ea,$1.27/ 100g
-bakery,ACEEverything Bagel Baguette360 g,$4.19ea,$1.16/ 100g
-bakery,No NameOriginal Mini Pitas170 g,$1.99ea,$1.17/ 100g
-bakery,ACEToasted Sesame Mini Crisps180 g,$6.29ea,$3.49/ 100g
-bakery,"ACEBakery Bread, Sliced Organic Granary Loaf525 g",$6.19ea,$1.18/ 100g
-bakery,Sha ShaCoconut Chia Snaps 300 g,$6.99ea,$2.33/ 100g
-bakery,"WestonTurkey Ready, Bread675 g",$3.99ea,$0.59/ 100g
-bakery,DItalianoThick Slice Bread 100% Whole Wheat 675 g,$3.99ea,$0.59/ 100g
-bakery,"Celebration Cupcakes, White6x300.0 g",$6.49ea,$0.36/ 100g
-bakery,Farmer's MarketCake Cookies And Crème1.2 kg,$22.99ea,$1.92/ 100g
-bakery,DimpflmeierPumpernickel Bread454 g,$3.79ea,$0.83/ 100g
-bakery,Farmer's MarketLemon Cranberry Muffins600 g,$6.99ea,$1.17/ 100g
-bakery,ACEGourmet Sausage Bun340 g,$3.99ea,$1.17/ 100g
-bakery,two-biteCupcakes Assorted568 g,$7.79ea,$1.37/ 100g
-bakery,Texas Hot Dogs Sesame Buns528 g,$3.00ea,$0.57/ 100g
-bakery,School SafeMuffin Bars Birthday Cake296 g,$3.69ea,$1.25/ 100g
-bakery,President's ChoiceEuropean Multi Grain Bread500 g,$3.59ea,$0.72/ 100g
-bakery,President's ChoiceProtein Tortillas342 g,$3.49ea,$1.02/ 100g
-bakery,"ACEFocaccia, Cranberry Raisin320 g",$6.59ea,$2.06/ 100g
-bakery,Amazing Grain Bread Sliced450 g,$4.49ea,$1.00/ 100g
-bakery,Farmer's MarketAssorted Mini Tarts300 g,$7.29ea,$2.43/ 100g
-bakery,Country HarvestOat & Honey Whole Wheat Bread600 g,$3.99ea,$0.67/ 100g
-bakery,Cinnamon Twist Donut 6 pack690 g,$7.99ea,$1.16/ 100g
-bakery,ACEWhite Baguette Bagel300 g,$4.19ea,$1.40/ 100g
-bakery,WonderWrap Me White Flour Tortillas Large 640 g,$3.99ea,$0.62/ 100g
-bakery,"ACEOval, Roasted Garlic454 g",$5.99ea,$1.32/ 100g
-bakery,Farmer's MarketMini Cinnamon Rolls9x30.0 g,$6.29ea,$2.33/ 100g
-bakery,President's ChoiceGluten Free White Bread454 g,$3.99ea,$0.88/ 100g
-bakery,President's ChoiceOriginal Pizza Crusts440 g,$3.49ea,$0.76/ 100g
-bakery,"Flax Bread, Sliced450 g",$3.99ea,$0.89/ 100g
-bakery,"Ready BakeDemi-Baguette, White200 g",$2.99ea,$1.50/ 100g
-bakery,Frontier BakeryWhole Wheat Greek Pitas425 g,$1.59ea,$0.37/ 100g
-bakery,Old MillCracked Wheat Bread675 g,$2.79ea,$0.41/ 100g
-bakery,Chocolate Dip Donut 2 Pack2x170.0 g,$3.49ea,$2.05/ 100g
-bakery,PC Blue MenuEverything Bagels 6 Bagels336 g,$4.49ea,$1.23/ 100g
-bakery,"Instore Made Cinnamon Buns, Glaze and Icing 4 pack612 g",$4.99ea,$0.82/ 100g
-bakery,President's ChoiceMultigrain Pizza Crusts440 g,$3.49ea,$0.76/ 100g
-bakery,"President's ChoiceTramezzini Crustless Bread, Whole Wheat250 g",$2.39ea,$0.96/ 100g
-bakery,DItalianoHamburger Buns Brizzolio Extra Soft528 g,$3.99ea,$0.76/ 100g
-bakery,DimpflmeierRye Bread With Sunflower Seeds454 g,$4.49ea,$0.99/ 100g
-bakery,"Caramel Apple Pie, 8 Inch680 g",$5.99ea,$0.88/ 100g
-bakery,"Farmer's MarketLoaf Cake, Cinnamon Swirl390 g",$5.99ea,$1.54/ 100g
-bakery,VachonJos Louis The Original Cakes324 g,$4.09ea,$1.26/ 100g
-bakery,President's ChoiceEverything Naan Dippers Club Size410 g,$5.79ea,$1.41/ 100g
-bakery,"Sesame Egg Bread, Sliced450 g",$3.89ea,$0.86/ 100g
-bakery,"Farmer's MarketTea Biscuits, Raisin315 g",$6.29ea,$2.00/ 100g
-bakery,"6"" Chocolate Brownie Cheesecake600 g",$18.99ea,$3.17/ 100g
-bakery,Pumpernickel Sesame Bagels600 g,$4.29ea,$0.72/ 100g
-bakery,RudolphsBavarian Multi-grain Bread500 g,$4.29ea,$0.86/ 100g
-bakery,CharlottesReal Chocolate Brownie Bites290 g,$4.99ea,$1.72/ 100g
-bakery,President's ChoiceAppetizer Flatbreads220 g,$2.79ea,$1.27/ 100g
-bakery,Farmer's MarketCake Cookies And Crème1.2 kg,$22.99ea,$1.92/ 100g
-bakery,Texas Hot Dogs Sesame Buns528 g,$3.00ea,$0.57/ 100g
-bakery,No NameWhite Dinner Roll420 g,$3.49ea,$0.83/ 100g
-bakery,President's ChoiceMini Naan Traditional 4 Flatbreads180 g,$3.49ea,$1.94/ 100g
-bakery,Farmer's MarketApple Crumble Pie1 kg,$9.99ea,$1.00/ 100g
-bakery,Farmer's MarketApple Pie 10 Inch1 kg,$9.99ea,$1.00/ 100g
-bakery,Farmer's MarketMuffins Variety Pack590 g,$6.99ea,$1.18/ 100g
-bakery,"Casa Mendosa6 Medium Tortillas, 50-50 Corn Wheat Mix204 g",$4.29ea,$2.10/ 100g
-bakery,Corn Popped Grains120 g,$4.99ea,$4.16/ 100g
+category,brand,product,product_name,price,per_unit_price
+bakery,Country Harvest,14 Grains Whole Wheat Bread,Country Harvest14 Grains Whole Wheat Bread600 g,$3.99ea,$0.67/ 100g
+bakery,Casa Mendosa,Large Original Tortillas,Casa MendosaLarge Original Tortillas640 g,$4.79ea,$0.75/ 100g
+bakery,ACE,"Bread, White Baguette","ACEBread, White Baguette350 g",$3.79ea,$1.08/ 100g
+bakery,President's Choice,English Muffins Original 6 Fork-Split Muffins,President's ChoiceEnglish Muffins Original 6 Fork-Split Muffins342 g,$3.09ea,$0.90/ 100g
+bakery,Old Mill,White Bread,Old MillWhite Bread675 g,$2.79ea,$0.41/ 100g
+bakery,Country Harvest,Ancient Grains & Red Fife Bread,Country HarvestAncient Grains & Red Fife Bread600 g,$3.99ea,$0.67/ 100g
+bakery,Old Mill,100% Whole Wheat Bread,Old Mill100% Whole Wheat Bread675 g,$2.79ea,$0.41/ 100g
+bakery,President's Choice,Tortillas Original ,President's ChoiceTortillas Original 650 g,$4.29ea,$0.66/ 100g
+bakery,Wonder,"Bread, Sliced White","WonderBread, Sliced White675 g",$3.99ea,$0.59/ 100g
+bakery,Casa Mendosa,Large Whole Wheat Tortillas,Casa MendosaLarge Whole Wheat Tortillas640 g,$4.79ea,$0.75/ 100g
+bakery,Farmer's Market,Blueberry Muffins,Farmer's MarketBlueberry Muffins570 g,$6.99ea,$1.23/ 100g
+bakery,Wonder,"Thin Sandwich Bread, White","WonderThin Sandwich Bread, White675 g",$3.99ea,$0.59/ 100g
+bakery,Country Harvest,Everything Bagel,Country HarvestEverything Bagel450 g,$3.99ea,$0.89/ 100g
+bakery,DItaliano,Thick Slices Bread,DItalianoThick Slices Bread675 g,$3.99ea,$0.59/ 100g
+bakery,Wonder,White Bread with Fibre,WonderWhite Bread with Fibre675 g,$3.99ea,$0.59/ 100g
+bakery,No Name,Bagel Plain 6 Pack,No NameBagel Plain 6 Pack510 g,$2.89ea,$0.57/ 100g
+bakery,No Name,Bagel Everthing,No NameBagel Everthing480 g,$2.89ea,$0.60/ 100g
+bakery,DItaliano,Brioche-Style Hamburger Buns,DItalianoBrioche-Style Hamburger Buns560 g,$3.99ea,$0.71/ 100g
+bakery,Wonder,White Hamburger Buns,WonderWhite Hamburger Buns8x47.25 g,$3.99ea,$1.06/ 100g
+bakery,Wonder,White Hotdog Buns,WonderWhite Hotdog Buns8x44.5 g,$3.99ea,$1.12/ 100g
+bakery,Country Harvest,Quinoa Flax Bread,Country HarvestQuinoa Flax Bread600 g,$3.99ea,$0.67/ 100g
+bakery,Wonder,100% Whole Wheat Bread,Wonder100% Whole Wheat Bread675 g,$3.99ea,$0.59/ 100g
+bakery,Wonder,White Bread White Texas,WonderWhite Bread White Texas675 g,$3.99ea,$0.59/ 100g
+bakery,Suraj,Naan Original 5 Flatbreads,SurajNaan Original 5 Flatbreads500 g,$3.79ea,$0.76/ 100g
+bakery,Country Harvest,Everything Bread,Country HarvestEverything Bread600 g,$3.99ea,$0.67/ 100g
+bakery,Country Harvest,Cinnamon Raisin Bread,Country HarvestCinnamon Raisin Bread600 g,$3.99ea,$0.67/ 100g
+bakery,Farmer's Market,Butter Croissants Mini,Farmer's MarketButter Croissants Mini336 g,$5.19ea,$1.54/ 100g
+bakery,Country Harvest,Oat & Honey Whole Wheat Bread,Country HarvestOat & Honey Whole Wheat Bread600 g,$3.99ea,$0.67/ 100g
+bakery,Casa Mendosa,"10 Medium Tortillas, Original","Casa Mendosa10 Medium Tortillas, Original340 g",$4.29ea,$1.26/ 100g
+bakery,,Kaiser Rolls Large 6 Pack,Kaiser Rolls Large 6 Pack350 g,$3.99ea,$1.14/ 100g
+bakery,Farmer's Market,Muffins Double Chocolate    ,Farmer's MarketMuffins Double Chocolate    570 g,$6.99ea,$1.23/ 100g
+bakery,Rubschlager,Bavarian Multigrain Loaf,RubschlagerBavarian Multigrain Loaf454 g,$2.89ea,$0.64/ 100g
+bakery,,Rolls 6 Pack,Rolls 6 Pack320 g,$3.99ea,$1.25/ 100g
+bakery,Country Harvest,Original Bagels,Country HarvestOriginal Bagels450 g,$3.99ea,$0.89/ 100g
+bakery,Baxters,Swiss Roll Chocolate,BaxtersSwiss Roll Chocolate6x67.0 g,$5.49ea,$1.37/ 100g
+bakery,,Texas Hamburger Buns-Sesame ,Texas Hamburger Buns-Sesame 528 g,$3.79ea,$0.72/ 100g
+bakery,President's Choice,Pumpernickel Rye Loaf Bread,President's ChoicePumpernickel Rye Loaf Bread480 g,$3.59ea,$0.75/ 100g
+bakery,Create A Treat,Pre-Built Ginger Bread House Kit,Create A TreatPre-Built Ginger Bread House Kit842 g,$14.99ea,$1.78/ 100g
+bakery,Cadbury,Caramilk Dome Cake,CadburyCaramilk Dome Cake1.2 kg,$16.99ea,$2.43/ 100g
+bakery,Farmer's Market,Fruitck Dark Pecan Topped,Farmer's MarketFruitck Dark Pecan Topped500 g,$8.99ea,$1.80/ 100g
+bakery,,Buns Kaiser 2 Pack,Buns Kaiser 2 Pack117 g,$1.59ea,$1.36/ 100g
+bakery,,"Plain Croissant, 6 Pack","Plain Croissant, 6 Pack300 g",$4.29ea,$1.43/ 100g
+bakery,Farmer's Market,Pecan Butter Tarts,Farmer's MarketPecan Butter Tarts6x85.0 g,$7.29ea,$1.43/ 100g
+bakery,Farmer's Market,Carrot Cake,Farmer's MarketCarrot Cake875 g,$15.99ea,$1.83/ 100g
+bakery,Farmer's Market,Cake Chocolate,Farmer's MarketCake Chocolate1.5 kg,$22.99ea,$1.53/ 100g
+bakery,,Swirl Bun 2 Pack,Swirl Bun 2 Pack153 g,$3.19ea,$2.08/ 100g
+bakery,ACE,Ciabatta Cluster,ACECiabatta Cluster400 g,$3.79ea,$0.95/ 100g
+bakery,,Macarons Assorted Pk 6,Macarons Assorted Pk 696 g,$5.99ea,$6.24/ 100g
+bakery,LA FOURNEE DOREE,Sesame Brioche Burger Buns,LA FOURNEE DOREESesame Brioche Burger Buns200 g,$4.29ea,$2.15/ 100g
+bakery,ACE,Ciabatta Cluster,ACECiabatta Cluster400 g,$3.79ea,$0.95/ 100g
+bakery,,All Butter Chocolatine 4 pack,All Butter Chocolatine 4 pack248 g,$3.99ea,$1.61/ 100g
+bakery,No Name,English Muffin Whole Wheat,No NameEnglish Muffin Whole Wheat342 g,$2.89ea,$0.85/ 100g
+bakery,,Buns Kaiser 2 Pack,Buns Kaiser 2 Pack117 g,$1.59ea,$1.36/ 100g
+bakery,President's Choice,Italian Style Bread Crumbs,President's ChoiceItalian Style Bread Crumbs275 g,$1.99ea,$0.72/ 100g
+bakery,,Bulk Ts Donut,Bulk Ts Donut100 g,$1.89ea,$1.89/ 100g
+bakery,Promise Gluten Free,Hamburger Buns Authentic Brioche,Promise Gluten FreeHamburger Buns Authentic Brioche260 g,$6.99ea,$2.69/ 100g
+bakery,Frontier Bakery,Thick Pouch White Bread Pitas,Frontier BakeryThick Pouch White Bread Pitas425 g,$1.59ea,$0.37/ 100g
+bakery,President's Choice,Chocolate Chip Mini Muffins,President's ChoiceChocolate Chip Mini Muffins336 g,$5.69ea,$1.69/ 100g
+bakery,Lanthier,Hot Dog Buns,LanthierHot Dog Buns16x385.0 g,$4.29ea,$1.11/ 100g
+bakery,,Macarons Assorted Pk 6,Macarons Assorted Pk 696 g,$5.99ea,$6.24/ 100g
+bakery,,All Butter Almondine Rolls,All Butter Almondine Rolls255 g,$3.99ea,$1.16/ 100g
+bakery,Frontier Bakery,Lebanese Style Whole Wheat Pita,Frontier BakeryLebanese Style Whole Wheat Pita330 g,$1.39ea,$0.42/ 100g
+bakery,,Cheese Swirl Buns 4 Pack,Cheese Swirl Buns 4 Pack400 g,$5.79ea,$1.45/ 100g
+bakery,Dimpflmeier,100% Rye Bread With Flaxseeds,Dimpflmeier100% Rye Bread With Flaxseeds454 g,$4.79ea,$1.06/ 100g
+bakery,Furlani,Frozen Texas Toast Garlic,FurlaniFrozen Texas Toast Garlic16x40.0 g,$4.69ea,$0.73/ 100g
+bakery,,"Blueberry Pie, 8 Inch","Blueberry Pie, 8 Inch680 g",$5.99ea,$0.88/ 100g
+bakery,,Submarine Buns 4 Pack,Submarine Buns 4 Pack464 g,$2.79ea,$2.15/ 100g
+bakery,,"7 Grain Bread, Sliced","7 Grain Bread, Sliced570 g",$3.99ea,$0.89/ 100g
+bakery,President's Choice,Brioche Mini Rolls,President's ChoiceBrioche Mini Rolls400 g,$5.49ea,$1.37/ 100g
+bakery,Dempster,Fresh White Bread,DempsterFresh White Bread675 g,$3.49ea,$0.52/ 100g
+bakery,Farmer's Market,Fruitck Dark Pecan Topped,Farmer's MarketFruitck Dark Pecan Topped500 g,$8.99ea,$1.80/ 100g
+bakery,Baxters,Vanilla Raspberry Cream,BaxtersVanilla Raspberry Cream6x67.0 g,$5.49ea,$1.37/ 100g
+bakery,President's Choice,Mini Naan Garlic 4 Flatbreads,President's ChoiceMini Naan Garlic 4 Flatbreads180 g,$3.29ea,$1.83/ 100g
+bakery,two-bite,Christmas Mini Cupcakes Vanilla Pack Of 12,two-biteChristmas Mini Cupcakes Vanilla Pack Of 12284 g,$4.99ea,$1.76/ 100g
+bakery,Farmer's Market,Cinnamon Coffee Cake,Farmer's MarketCinnamon Coffee Cake500 g,$6.00ea,$1.20/ 100g
+bakery,President's Choice,"Tramezzini Crustless Bread, White","President's ChoiceTramezzini Crustless Bread, White250 g",$2.39ea,$0.96/ 100g
+bakery,No Name,Bagel Whole Wheat,No NameBagel Whole Wheat510 g,$2.89ea,$0.57/ 100g
+bakery,Sha Sha,Ginger Snap Cookies,Sha ShaGinger Snap Cookies300x300.0 g,$7.49ea,$2.50/ 100g
+bakery,,"White Bread, Sliced","White Bread, Sliced450 g",$2.99ea,$0.66/ 100g
+bakery,President's Choice,Sourdough Loaf,President's ChoiceSourdough Loaf500 g,$3.59ea,$0.72/ 100g
+bakery,President's Choice,Brioche Loaf,President's ChoiceBrioche Loaf400 g,$5.49ea,$1.37/ 100g
+bakery,Poppers,Wheat Popped Grains,PoppersWheat Popped Grains120 g,$4.99ea,$4.16/ 100g
+bakery,DItaliano,Brizzolio Bread,DItalianoBrizzolio Bread600 g,$3.99ea,$0.67/ 100g
+bakery,Poppers,Popped Grains Corn Minis,PoppersPopped Grains Corn Minis45 g,$3.99ea,$8.87/ 100g
+bakery,,"Pumpernickel Bread, Sliced","Pumpernickel Bread, Sliced675 g",$4.79ea,$0.71/ 100g
+bakery,Farmer's Market,Chocolate Cake,Farmer's MarketChocolate Cake490 g,$6.99ea,$1.43/ 100g
+bakery,President's Choice,Multigrain Flatbread,President's ChoiceMultigrain Flatbread300 g,$2.49ea,$0.83/ 100g
+bakery,,Panini Roll 2 Pack,Panini Roll 2 Pack107 g,$1.59ea,$1.49/ 100g
+bakery,,"Strawberry Rhubarb Pie, 8 Inch","Strawberry Rhubarb Pie, 8 Inch680 g",$5.99ea,$0.88/ 100g
+bakery,Old Mill,"12"" Thin Pizza Starter Kit","Old Mill12"" Thin Pizza Starter Kit700 g",$4.39ea,$0.63/ 100g
+bakery,Create A Treat,Ez Build Gingerbread House Kit,Create A TreatEz Build Gingerbread House Kit1.01 kg,$12.99ea,$1.29/ 100g
+bakery,Frontier Bakery,Lebanese Style White Pita,Frontier BakeryLebanese Style White Pita330 g,$1.39ea,$0.42/ 100g
+bakery,ACE,Ciabatta Piccola ,ACECiabatta Piccola 800 g,$6.29ea,$0.79/ 100g
+bakery,President's Choice,Gluten Free Hot Dog Buns,President's ChoiceGluten Free Hot Dog Buns65 g,$4.49ea,$1.73/ 100g
+bakery,DItaliano,Sesame Seed Bread,DItalianoSesame Seed Bread675 g,$3.99ea,$0.59/ 100g
+bakery,,"Bagel, Plain","Bagel, Plain113 g",$4.29ea,$3.80/ 100g
+bakery,Promise Gluten Free,Brioche Loaf Authentic Brioche,Promise Gluten FreeBrioche Loaf Authentic Brioche400 g,$7.99ea,$2.00/ 100g
+bakery,,"100% Whole Wheat Bread, Sliced","100% Whole Wheat Bread, Sliced450 g",$2.99ea,$0.66/ 100g
+bakery,,Croissant 2 Pack,Croissant 2 Pack124 g,$1.59ea,$1.28/ 100g
+bakery,School Safe,Muffin Bars Banana Chocolate Chip,School SafeMuffin Bars Banana Chocolate Chip296 g,$3.69ea,$1.25/ 100g
+bakery,Rudolphs,Bavarian Rye Bread,RudolphsBavarian Rye Bread500 g,$4.29ea,$0.86/ 100g
+bakery,President's Choice,Chocolate Chip Mini Muffins,President's ChoiceChocolate Chip Mini Muffins336 g,$5.69ea,$1.69/ 100g
+bakery,,"Italian Bread, Multi-grain  Sliced","Italian Bread, Multi-grain  Sliced450 g",$3.49ea,$0.78/ 100g
+bakery,Farmer's Market,Chocolate Cake,Farmer's MarketChocolate Cake850 g,$15.99ea,$1.88/ 100g
+bakery,President's Choice,Gluten Free Hamburger Buns,President's ChoiceGluten Free Hamburger Buns80 g,$4.49ea,$1.40/ 100g
+bakery,President's Choice,Garlic Naan ,President's ChoiceGarlic Naan 250 g,$3.29ea,$1.32/ 100g
+bakery,,King’s Hawaiian Sweet Rolls ,King’s Hawaiian Sweet Rolls 0.34 kg,$4.49ea,$1.32/ 100g
+bakery,,Maple Pecan Braided Danish,Maple Pecan Braided Danish300 g,$4.99ea,$1.66/ 100g
+bakery,Kuchenmeister,Marzipan Stollen in Box,KuchenmeisterMarzipan Stollen in Box750 g,$14.99ea,$2.00/ 100g
+bakery,Create A Treat,Gingerbread Family Cookie Kit,Create A TreatGingerbread Family Cookie Kit1 kg,$7.99ea,$1.45/ 100g
+bakery,Rubschlager,Sesame Multigrain Loaf,RubschlagerSesame Multigrain Loaf454 g,$2.89ea,$0.64/ 100g
+bakery,President's Choice,Traditional Naan Dippers Flatbreads Club Pack,President's ChoiceTraditional Naan Dippers Flatbreads Club Pack400 g,$5.99ea,$1.50/ 100g
+bakery,President's Choice,Brioche Mini Rolls,President's ChoiceBrioche Mini Rolls400 g,$5.49ea,$1.37/ 100g
+bakery,Suraj,Naan Garlic 5 Flatbreads,SurajNaan Garlic 5 Flatbreads500 g,$3.79ea,$0.76/ 100g
+bakery,,Honey Glazed Ring Donuts 2 Pack,Honey Glazed Ring Donuts 2 Pack2x160.0 g,$3.49ea,$2.18/ 100g
+bakery,Charlottes,"6"" Holiday Chocolate Fudge Cake","Charlottes6"" Holiday Chocolate Fudge Cake475 g",$5.00ea,$1.05/ 100g
+bakery,,"Sourdough Bread, Sliced","Sourdough Bread, Sliced675 g",$4.79ea,$0.71/ 100g
+bakery,ACE,Olive Oil & Sea Salt Mini Crisps,ACEOlive Oil & Sea Salt Mini Crisps180 g,$5.49ea,$3.05/ 100g
+bakery,,Truffle Royale,Truffle Royale600 g,$18.99ea,$3.17/ 100g
+bakery,President's Choice,Mini Naan Garlic 4 Flatbreads,President's ChoiceMini Naan Garlic 4 Flatbreads180 g,$3.29ea,$1.83/ 100g
+bakery,Farmer's Market,Tuxedo Cake,Farmer's MarketTuxedo Cake753 g,$14.99ea,$1.99/ 100g
+bakery,two-bite,Salted Caramel Shortbread Cookies,two-biteSalted Caramel Shortbread Cookies240 g,$6.99ea,$2.91/ 100g
+bakery,Farmer's Market,7 Layer Square,Farmer's Market7 Layer Square450 g,$6.99ea,$1.55/ 100g
+bakery,Poppers,Wheat Popped Grains,PoppersWheat Popped Grains120 g,$4.99ea,$4.16/ 100g
+bakery,Wonder,Whole Wheat Hamburger Buns,WonderWhole Wheat Hamburger Buns8x56.0 g,$3.99ea,$0.89/ 100g
+bakery,President's Choice,Banana Chocolate Chip Mini Muffins,President's ChoiceBanana Chocolate Chip Mini Muffins336 g,$5.69ea,$1.69/ 100g
+bakery,,Old Fashioned Apple Pie,Old Fashioned Apple Pie114 g,$1.79ea,$1.57/ 100g
+bakery,Country Harvest,Cranberry & Oats Bagel,Country HarvestCranberry & Oats Bagel450 g,$3.99ea,$0.89/ 100g
+bakery,PC Organics,Organic Original Tortilla 10,PC OrganicsOrganic Original Tortilla 10390 g,$4.29ea,$1.10/ 100g
+bakery,PC Blue Menu,100% Whole Grain Tortillas,PC Blue Menu100% Whole Grain Tortillas6x65.0 g,$4.29ea,$1.10/ 100g
+bakery,President's Choice,Brandy Fruitcake,President's ChoiceBrandy Fruitcake524 g,$9.99ea,$1.91/ 100g
+bakery,,Core 12 Grain Breads,Core 12 Grain Breads284 g,$3.89ea,$1.37/ 100g
+bakery,Farmer's Market,"Tea Biscuits, Cheddar Cheese","Farmer's MarketTea Biscuits, Cheddar Cheese315 g",$6.29ea,$2.00/ 100g
+bakery,DItaliano,Thick Sliced Brioche-Style Loaf,DItalianoThick Sliced Brioche-Style Loaf0.62 g,$3.99ea,$0.64/ 100g
+bakery,Farmer's Market,Cake Vanilla,Farmer's MarketCake Vanilla1.5 kg,$22.99ea,$1.53/ 100g
+bakery,,PC Multigrain Laiser 6S,PC Multigrain Laiser 6S400 g,$3.99ea,$1.00/ 100g
+bakery,President's Choice,Vanilla Bark Cake,President's ChoiceVanilla Bark Cake690 g,$17.49ea,$2.53/ 100g
+bakery,Create A Treat,Ez Build Gingerbread House Kit,Create A TreatEz Build Gingerbread House Kit1.01 kg,$12.99ea,$1.29/ 100g
+bakery,,Amazing Grain Raisin Bread Sliced,Amazing Grain Raisin Bread Sliced450 g,$4.49ea,$1.00/ 100g
+bakery,President's Choice,Gluten Free Hot Dog Buns,President's ChoiceGluten Free Hot Dog Buns65 g,$4.49ea,$1.73/ 100g
+bakery,,"Bagels, Poppy Seed 6 Pack","Bagels, Poppy Seed 6 Pack108 g",$4.29ea,$3.97/ 100g
+bakery,,Croissant Chocolatine 4 Pack,Croissant Chocolatine 4 Pack324 g,$3.99ea,$1.23/ 100g
+bakery,Farmer's Market,Oatmeal & Chocolate Cookies,Farmer's MarketOatmeal & Chocolate Cookies456 g,$5.99ea,$1.31/ 100g
+bakery,,Flame-Baked Naan Cilantro & Roasted Garlic,Flame-Baked Naan Cilantro & Roasted Garlic400 g,$3.99ea,$1.00/ 100g
+bakery,,"Bagels, Everything 6 Pack","Bagels, Everything 6 Pack108 g",$4.29ea,$3.97/ 100g
+bakery,President's Choice,Cannoli Kit,President's ChoiceCannoli Kit300 g,$8.99ea,$3.00/ 100g
+bakery,Apple Valley,"Apple Pie, No Sugar Added 8""","Apple ValleyApple Pie, No Sugar Added 8""620 g",$6.99ea,$1.13/ 100g
+bakery,Moms,Golden Pound Cake,MomsGolden Pound Cake450 g,$5.49ea,$1.22/ 100g
+bakery,No Name,Whole Wheat Dinner Roll,No NameWhole Wheat Dinner Roll420 g,$3.79ea,$0.90/ 100g
+bakery,,"Pumpernickel Bread, Sliced","Pumpernickel Bread, Sliced450 g",$3.19ea,$0.71/ 100g
+bakery,,Croissant 2 Pack,Croissant 2 Pack124 g,$1.59ea,$1.28/ 100g
+bakery,,Cheese Swirl Bun 2 Pack,Cheese Swirl Bun 2 Pack133 g,$3.19ea,$2.40/ 100g
+bakery,two-bite,Mini Chocolate Cupcakes 12 Pack,two-biteMini Chocolate Cupcakes 12 Pack284 g,$5.29ea,$1.86/ 100g
+bakery,President's Choice,À L’Européenne Light Rye Loaf,President's ChoiceÀ L’Européenne Light Rye Loaf480 g,$3.59ea,$0.75/ 100g
+bakery,,"12 Grain Bread, Sliced","12 Grain Bread, Sliced450 g",$3.99ea,$0.89/ 100g
+bakery,President's Choice,Crumpets,President's ChoiceCrumpets284 g,$2.69ea,$0.95/ 100g
+bakery,President's Choice,Garlic Naan ,President's ChoiceGarlic Naan 250 g,$3.29ea,$1.32/ 100g
+bakery,Sha Sha,Ginger Snaps,Sha ShaGinger Snaps300x300.0 g,$7.49ea,$2.50/ 100g
+bakery,,Maple Pecan Braided Danish,Maple Pecan Braided Danish300 g,$4.99ea,$1.66/ 100g
+bakery,President's Choice,Extra Raisins Hot Cross Buns,President's ChoiceExtra Raisins Hot Cross Buns8x70.6 g,$4.99ea,$0.88/ 100g
+bakery,,Savoury Roll,Savoury Roll85 g,$1.49ea,$1.75/ 100g
+bakery,Ready Bake,Garlic Bread,Ready BakeGarlic Bread330 g,$3.99ea,$1.21/ 100g
+bakery,Kuchenmeister,Marzipan Stollen in Box,KuchenmeisterMarzipan Stollen in Box750 g,$14.99ea,$2.00/ 100g
+bakery,DItaliano,Brizzolio Sausage Buns,DItalianoBrizzolio Sausage Buns420 g,$3.99ea,$0.95/ 100g
+bakery,,Apple Fritter Donut 2 Pack,Apple Fritter Donut 2 Pack2x290.0 g,$3.49ea,$1.20/ 100g
+bakery,Dimpflmeier,Pumpernickel Bread,DimpflmeierPumpernickel Bread454 g,$4.49ea,$0.99/ 100g
+bakery,,Honey Glazed Ring Donuts 2 Pack,Honey Glazed Ring Donuts 2 Pack2x160.0 g,$3.49ea,$2.18/ 100g
+bakery,Charlottes,"6"" Holiday Chocolate Fudge Cake","Charlottes6"" Holiday Chocolate Fudge Cake475 g",$5.00ea,$1.05/ 100g
+bakery,Rudolphs,Light Rye Bread,RudolphsLight Rye Bread680 g,$4.29ea,$0.63/ 100g
+bakery,DItaliano,Sausage Buns,DItalianoSausage Buns456 g,$3.99ea,$0.88/ 100g
+bakery,Kimberley's Bakeshoppe,Soft Sugar Cookies Red Velvet Frosted,Kimberley's BakeshoppeSoft Sugar Cookies Red Velvet Frosted383 g,$4.99ea,$1.30/ 100g
+bakery,President's Choice,Gluten Free Millet & Quinoa,President's ChoiceGluten Free Millet & Quinoa454 g,$5.79ea,$1.28/ 100g
+bakery,,Truffle Royale,Truffle Royale600 g,$18.99ea,$3.17/ 100g
+bakery,Farmer's Market,Tuxedo Cake,Farmer's MarketTuxedo Cake753 g,$14.99ea,$1.99/ 100g
+bakery,,"Bagels, Cinnamon Raisin 6 Pack","Bagels, Cinnamon Raisin 6 Pack648 g",$4.29ea,$3.97/ 100g
+bakery,ACE,"Artisan Crisps, Rosemary & Sea Salt","ACEArtisan Crisps, Rosemary & Sea Salt180 g",$5.49ea,$3.05/ 100g
+bakery,Country Harvest,14 Grain Bagels,Country Harvest14 Grain Bagels450 g,$3.99ea,$0.89/ 100g
+bakery,Wonder,"English Muffins, Whole Wheat","WonderEnglish Muffins, Whole Wheat342 g",$3.99ea,$1.17/ 100g
+bakery,,"Instore Made Cinnamon Raisin Buns, Glaze 4 pack","Instore Made Cinnamon Raisin Buns, Glaze 4 pack552 g",$4.99ea,$0.90/ 100g
+bakery,President's Choice,Yukon Gold Potato Loaf,President's ChoiceYukon Gold Potato Loaf480 g,$3.59ea,$0.75/ 100g
+bakery,La Baguetterie,White Oval,La BaguetterieWhite Oval454 g,$3.19ea,$0.70/ 100g
+bakery,,"8"" Lemon Meringue Pie","8"" Lemon Meringue Pie635 g",$5.99ea,$0.94/ 100g
+bakery,La Baguetterie,Ciabatta Demi ,La BaguetterieCiabatta Demi 450 g,$3.19ea,$0.71/ 100g
+bakery,Farmer's Market,Lemon Coffee Cake,Farmer's MarketLemon Coffee Cake500 g,$6.00ea,$1.20/ 100g
+bakery,Farmer's Market,Everything Butter Croissants,Farmer's MarketEverything Butter Croissants270 g,$5.19ea,$1.92/ 100g
+bakery,Rubschlager,Marble Rye Loaf,RubschlagerMarble Rye Loaf454 g,$2.89ea,$0.64/ 100g
+bakery,,Cheese Pizza Buns 4 Pack,Cheese Pizza Buns 4 Pack460 g,$5.79ea,$1.26/ 100g
+bakery,No Name,Bagel Sesame 6 Pack,No NameBagel Sesame 6 Pack510 g,$2.89ea,$0.57/ 100g
+bakery,LA FOURNEE DOREE,Milk Brioche Rolls,LA FOURNEE DOREEMilk Brioche Rolls350 g,$6.49ea,$1.85/ 100g
+bakery,President's Choice,Gluten Free Tortillas Original,President's ChoiceGluten Free Tortillas Original360 g,$5.99ea,$1.66/ 100g
+bakery,,"Bagels, Poppy Seed 6 Pack","Bagels, Poppy Seed 6 Pack108 g",$4.29ea,$3.97/ 100g
+bakery,Farmer's Market,Cookies and Creme Cake,Farmer's MarketCookies and Creme Cake825 g,$15.99ea,$1.94/ 100g
+bakery,Rudolphs,Bavarian Premium Sandwich Bread,RudolphsBavarian Premium Sandwich Bread500 g,$4.29ea,$0.86/ 100g
+bakery,Vachon,Ah Caramel,VachonAh Caramel336 g,$4.29ea,$1.28/ 100g
+bakery,two-bite,Mini Vanilla Cupcakes 12 Pack,two-biteMini Vanilla Cupcakes 12 Pack284 g,$5.29ea,$1.86/ 100g
+bakery,ACE,Roasted Garlic Mini Crisps,ACERoasted Garlic Mini Crisps180 g,$5.49ea,$3.05/ 100g
+bakery,Dempster,100% Whole Grains 12 Grain Bread,Dempster100% Whole Grains 12 Grain Bread600 g,$4.69ea,$0.78/ 100g
+bakery,Poppers, Popped Grains Wheat Minis,Poppers Popped Grains Wheat Minis45 g,$3.99ea,$8.87/ 100g
+bakery,Wonder,"6 Pack English Muffin Breakfast Sandwich Bun, White","Wonder6 Pack English Muffin Breakfast Sandwich Bun, White342 g",$3.99ea,$1.17/ 100g
+bakery,,Kaiser Rolls Whole Wheat 6 Pack,Kaiser Rolls Whole Wheat 6 Pack400 g,$3.99ea,$1.00/ 100g
+bakery,Farmer's Market,Vanilla Cake,Farmer's MarketVanilla Cake490 g,$6.99ea,$1.43/ 100g
+bakery,President's Choice,Traditional Naan Club Size ,President's ChoiceTraditional Naan Club Size 750 g,$5.59ea,$0.75/ 100g
+bakery,Wonder,100% Whole Wheat Bread Thin Sliced,Wonder100% Whole Wheat Bread Thin Sliced675 g,$3.99ea,$0.59/ 100g
+bakery,ACE,Aged Cheddar Mini Crisps,ACEAged Cheddar Mini Crisps150 g,$5.49ea,$3.66/ 100g
+bakery,Farmer's Market,Red Velvet Cake,Farmer's MarketRed Velvet Cake490 g,$6.99ea,$1.43/ 100g
+bakery,Farmer's Market,Raisin Bran Muffins,Farmer's MarketRaisin Bran Muffins600 g,$6.99ea,$1.17/ 100g
+bakery,Dimpflmeier,Bread Original Swedish Style Light Rye,DimpflmeierBread Original Swedish Style Light Rye680 g,$5.29ea,$0.78/ 100g
+bakery,,"Rolls, Calabrese","Rolls, Calabrese480 g",$3.99ea,$0.83/ 100g
+bakery,Rubschlager,Bavarian Rye Loaf,RubschlagerBavarian Rye Loaf454 g,$2.89ea,$0.64/ 100g
+bakery,,"6"" Chocolate Truffle Cake","6"" Chocolate Truffle Cake600 g",$18.99ea,$3.17/ 100g
+bakery,Scheps Bakeries,Stroopwafles Caramel Filled Waffles ,Scheps BakeriesStroopwafles Caramel Filled Waffles 264 g,$3.99ea,$1.51/ 100g
+bakery,,"6"" Grand Maman Marie Sponge Flan","6"" Grand Maman Marie Sponge Flan100 g",$2.99ea,$2.99/ 100g
+bakery,Farmer's Market,"Loaf Cake, Banana","Farmer's MarketLoaf Cake, Banana390 g",$6.29ea,$1.61/ 100g
+bakery,Farmer's Market,Raisin Butter Tarts,Farmer's MarketRaisin Butter Tarts6x85.0 g,$7.29ea,$1.43/ 100g
+bakery,,Savoury Butter Rolls,Savoury Butter Rolls340 g,$4.49ea,$1.32/ 100g
+bakery,President's Choice,Traditional Naan Rounds,President's ChoiceTraditional Naan Rounds480 g,$4.59ea,$0.96/ 100g
+bakery,No Name,Whole Wheat Mini Pitas,No NameWhole Wheat Mini Pitas170 g,$1.99ea,$1.17/ 100g
+bakery,Dimpflmeier,Sonnenblumenkerne Bread,DimpflmeierSonnenblumenkerne Bread454 g,$4.49ea,$0.99/ 100g
+bakery,ACE,Burger Bun Iconic Sesame Gourmet,ACEBurger Bun Iconic Sesame Gourmet260 g,$3.99ea,$1.53/ 100g
+bakery,Rubschlager,Pumpernickel Loaf,RubschlagerPumpernickel Loaf454 g,$2.89ea,$0.64/ 100g
+bakery,Promise Gluten Free, Soft White Loaf,Promise Gluten Free Soft White Loaf480 g,$7.99ea,$1.66/ 100g
+bakery,Furlani,Frozen Texas Toast Parmesan Garlic,FurlaniFrozen Texas Toast Parmesan Garlic16x40.0 g,$4.69ea,$0.73/ 100g
+bakery,Farmer's Market,Date Square,Farmer's MarketDate Square450 g,$6.99ea,$1.55/ 100g
+bakery,Country Harvest,"Bagels, Raisin Cinnamon with Whole Wheat","Country HarvestBagels, Raisin Cinnamon with Whole Wheat450 g",$3.99ea,$0.89/ 100g
+bakery,ACE,Pane Rustico Bread,ACEPane Rustico Bread600 g,$5.79ea,$0.97/ 100g
+bakery,Create A Treat,Gingerbread Mini Village Kit,Create A TreatGingerbread Mini Village Kit810 g,$12.99ea,$1.60/ 100g
+bakery,,Dark Fruit Cake,Dark Fruit Cake370 g,$5.99ea,$1.62/ 100g
+bakery,Farmer's Market,Lemon Tarts,Farmer's MarketLemon Tarts400 g,$7.29ea,$1.82/ 100g
+bakery,Old Mill,Hamburger Buns,Old MillHamburger Buns360 g,$3.09ea,$0.86/ 100g
+bakery,Farmer's Market,Carrot Muffins,Farmer's MarketCarrot Muffins600 g,$6.99ea,$1.17/ 100g
+bakery,Suraj,Naan Garlic 10 Pk,SurajNaan Garlic 10 Pk1 kg,$5.29ea,$0.53/ 100g
+bakery,,"Pumpkin Pie, 8 Inch","Pumpkin Pie, 8 Inch680 g",$5.99ea,$0.88/ 100g
+bakery,Farmer's Market,Bumbleberry Crumble Pie,Farmer's MarketBumbleberry Crumble Pie1 kg,$9.99ea,$1.00/ 100g
+bakery,,Hawaiian Sprinkle Donutss 2 Pack,Hawaiian Sprinkle Donutss 2 Pack2x200.0 g,$3.49ea,$1.75/ 100g
+bakery,Farmer's Market,"Sliced Loaf Cake, Banana","Farmer's MarketSliced Loaf Cake, Banana420 g",$6.29ea,$1.50/ 100g
+bakery,Dimpflmeier,Bread Prebiotic Multi-Grain,DimpflmeierBread Prebiotic Multi-Grain454 g,$3.79ea,$0.83/ 100g
+bakery,Farmer's Market,"Cookies, Peanut Butter, 12 Pack","Farmer's MarketCookies, Peanut Butter, 12 Pack456 g",$5.99ea,$1.31/ 100g
+bakery,Farmer's Market,T&S Icebox Cookies Pk 12  ,Farmer's MarketT&S Icebox Cookies Pk 12  372 g,$5.99ea,$1.61/ 100g
+bakery,Baxters,Swiss Rolls Strawberry Shortcake,BaxtersSwiss Rolls Strawberry Shortcake402 g,$5.49ea,$1.37/ 100g
+bakery,ACE,Ciabatta Pezzetti Duo ,ACECiabatta Pezzetti Duo 840 g,$6.29ea,$0.75/ 100g
+bakery,President's Choice,Carrot Nut Rustic Cake,President's ChoiceCarrot Nut Rustic Cake610 g,$7.99ea,$1.31/ 100g
+bakery,Farmer's Market,Cookies Oatmeal,Farmer's MarketCookies Oatmeal456 g,$5.99ea,$1.31/ 100g
+bakery,La Baguetterie,Roasted Garlic Oval,La BaguetterieRoasted Garlic Oval398 g,$3.19ea,$0.80/ 100g
+bakery,Promise Gluten Free, Multigrain Loaf,Promise Gluten Free Multigrain Loaf480 g,$7.99ea,$1.66/ 100g
+bakery,,Red Pepper Breads,Red Pepper Breads284 g,$3.89ea,$1.57/ 100g
+bakery,Farmer's Market,Pecan Pie 9 Inch,Farmer's MarketPecan Pie 9 Inch580 g,$9.99ea,$1.72/ 100g
+bakery,,Bread Cinnamon Raisin Sliced,Bread Cinnamon Raisin Sliced550 g,$4.49ea,$0.82/ 100g
+bakery,Kimberley's Bakeshoppe,"Halloween Frosted Cookies, Pack 10","Kimberley's BakeshoppeHalloween Frosted Cookies, Pack 10383 g",$5.49ea,$1.43/ 100g
+bakery,Farmer's Market,Brownies,Farmer's MarketBrownies265 g,$4.99ea,$1.88/ 100g
+bakery,ACE,"Ciabatta Demi, Multi-grain","ACECiabatta Demi, Multi-grain275 g",$2.99ea,$1.09/ 100g
+bakery,Country Harvest,Sourdough Bagel,Country HarvestSourdough Bagel450 g,$3.99ea,$0.89/ 100g
+bakery,Farmer's Market,Marble Coffee Cake,Farmer's MarketMarble Coffee Cake500 g,$6.00ea,$1.20/ 100g
+bakery,Farmer's Market,Nanaimo Square,Farmer's MarketNanaimo Square400 g,$6.99ea,$1.75/ 100g
+bakery,President's Choice,Original Mini Bagel,President's ChoiceOriginal Mini Bagel380 g,$3.49ea,$0.92/ 100g
+bakery,,"Cherry Pie, 8 Inch","Cherry Pie, 8 Inch680 g",$5.99ea,$0.88/ 100g
+bakery,,"Crusty Bread, French Sliced","Crusty Bread, French Sliced450 g",$2.99ea,$0.66/ 100g
+bakery,No Name,English Muffin Original 6 Pack,No NameEnglish Muffin Original 6 Pack342 g,$2.89ea,$0.85/ 100g
+bakery,,"Apple Pie, 8 Inch","Apple Pie, 8 Inch750 g",$5.99ea,$0.80/ 100g
+bakery,Farmer's Market,T&S Shortbread Cookies Pk 12  ,Farmer's MarketT&S Shortbread Cookies Pk 12  372 g,$5.99ea,$1.61/ 100g
+bakery,Weston,"Texas Toast Bread, 100% Whole Wheat","WestonTexas Toast Bread, 100% Whole Wheat675 g",$3.99ea,$0.59/ 100g
+bakery,Frontier Bakery,White Bread Greek Pitas,Frontier BakeryWhite Bread Greek Pitas425 g,$1.59ea,$0.37/ 100g
+bakery,Sha Sha,Shasha Cocoa Snaps,Sha ShaShasha Cocoa Snaps300x300.0 g,$7.49ea,$2.50/ 100g
+bakery,LA FOURNEE DOREE,Mini Brioches,LA FOURNEE DOREEMini Brioches480 g,$4.29ea,$0.89/ 100g
+bakery,Farmer's Market,Oatmeal Raisin Cookies,Farmer's MarketOatmeal Raisin Cookies456 g,$5.99ea,$1.31/ 100g
+bakery,,Light Fruit Cake,Light Fruit Cake370 g,$5.99ea,$1.62/ 100g
+bakery,,"Bagel, Herb N' Cheese","Bagel, Herb N' Cheese108 g",$4.29ea,$3.97/ 100g
+bakery,DItaliano,Brioche-Style Sausage Buns,DItalianoBrioche-Style Sausage Buns420 g,$3.99ea,$0.95/ 100g
+bakery,Farmer's Market,Fudge Square,Farmer's MarketFudge Square400 g,$6.99ea,$1.75/ 100g
+bakery,,Flame-Baked Naan Original,Flame-Baked Naan Original400 g,$3.99ea,$1.00/ 100g
+bakery,President's Choice,Mini Tortilllas Original ,President's ChoiceMini Tortilllas Original 192 g,$3.39ea,$1.77/ 100g
+bakery,President's Choice,Meringue Nests,President's ChoiceMeringue Nests100 g,$3.99ea,$3.99/ 100g
+bakery,,Old Fashioned Lemon Pie ,Old Fashioned Lemon Pie 114 g,$1.79ea,$1.57/ 100g
+bakery,Wonder,Flour Tortillas White 10 Medium ,WonderFlour Tortillas White 10 Medium 340 g,$3.99ea,$1.17/ 100g
+bakery,Country Harvest,Seeds and Grains Bread,Country HarvestSeeds and Grains Bread600 g,$3.99ea,$0.67/ 100g
+bakery,,Bread Cheese Sliced,Bread Cheese Sliced470 g,$6.29ea,$1.34/ 100g
+bakery,President's Choice,Extra Thick Sliced Cinnamon Bread with Raisins,President's ChoiceExtra Thick Sliced Cinnamon Bread with Raisins675 g,$4.99ea,$0.74/ 100g
+bakery,Farmer's Market,"Sliced Loaf Cake, Vanilla","Farmer's MarketSliced Loaf Cake, Vanilla420 g",$6.29ea,$1.50/ 100g
+bakery,Niche Bakers,Butter Spritz Holiday Cookie Tray,Niche BakersButter Spritz Holiday Cookie Tray430 g,$7.99ea,$1.86/ 100g
+bakery,Frontier Bakery,Thick Pouch Whole Wheat Pitas,Frontier BakeryThick Pouch Whole Wheat Pitas425 g,$1.59ea,$0.37/ 100g
+bakery,Wonder,"Whole Wheat 10"" Wraps","WonderWhole Wheat 10"" Wraps640 g",$3.99ea,$0.62/ 100g
+bakery,,Texas Hot Dog Buns,Texas Hot Dog Buns520 g,$3.79ea,$0.73/ 100g
+bakery,President's Choice, Khubz Middle Eastern-Style Pita,President's Choice Khubz Middle Eastern-Style Pita400 g,$3.49ea,$0.87/ 100g
+bakery,Farmer's Market,Chocolate Chip Cookies,Farmer's MarketChocolate Chip Cookies456 g,$5.99ea,$1.31/ 100g
+bakery,PC Blue Menu,100% Whole Wheat Loaf,PC Blue Menu100% Whole Wheat Loaf450 g,$5.19ea,$1.15/ 100g
+bakery,,Old Fashioned Wild Blueberry Pie,Old Fashioned Wild Blueberry Pie114 g,$1.79ea,$1.57/ 100g
+bakery,,"6"" Triple Chocolate Mousse","6"" Triple Chocolate Mousse900 g",$17.49ea,$1.94/ 100g
+bakery,Farmer's Market,Black Forest Cake,Farmer's MarketBlack Forest Cake750 g,$15.99ea,$2.13/ 100g
+bakery,President's Choice,Whole Wheat Naan Rounds Buns,President's ChoiceWhole Wheat Naan Rounds Buns480 g,$4.59ea,$0.96/ 100g
+bakery,President's Choice,Everything Naan Dippers Club Size,President's ChoiceEverything Naan Dippers Club Size410 g,$6.99ea,$1.70/ 100g
+bakery,Old Mill,Cracked Wheat Bread,Old MillCracked Wheat Bread675 g,$2.79ea,$0.41/ 100g
+bakery,Country Harvest,No Sugar Whole Wheat,Country HarvestNo Sugar Whole Wheat600 g,$3.99ea,$0.67/ 100g
+bakery,No Name,Original Mini Pitas,No NameOriginal Mini Pitas170 g,$1.99ea,$1.17/ 100g
+bakery,Ready Bake,"Demi-Baguette, White","Ready BakeDemi-Baguette, White200 g",$2.99ea,$1.50/ 100g
+bakery,Sha Sha,Gingerbread Cookie,Sha ShaGingerbread Cookie250x250.0 g,$5.49ea,$2.20/ 100g
+bakery,Farmer's Market,Cake Black Forest,Farmer's MarketCake Black Forest1.2 kg,$22.99ea,$1.92/ 100g
+bakery,,"Bagel, Blueberry","Bagel, Blueberry108 g",$4.29ea,$3.97/ 100g
+bakery,,"Sesame Egg Bread, Sliced","Sesame Egg Bread, Sliced450 g",$3.89ea,$0.86/ 100g
+bakery,,"Flax Bread, Sliced","Flax Bread, Sliced450 g",$3.99ea,$0.89/ 100g
+bakery,No Name,White Dinner Roll,No NameWhite Dinner Roll420 g,$3.79ea,$0.90/ 100g
+bakery,President's Choice,Banana Chocolate Chip Mini Muffins,President's ChoiceBanana Chocolate Chip Mini Muffins275 g,$5.69ea,$2.07/ 100g
+bakery,ACE,"Focaccia, Cranberry Raisin","ACEFocaccia, Cranberry Raisin320 g",$6.59ea,$2.06/ 100g
+bakery,ACE,"Oval, Roasted Garlic","ACEOval, Roasted Garlic454 g",$5.99ea,$1.32/ 100g
+bakery,President's Choice,European Multi Grain Bread,President's ChoiceEuropean Multi Grain Bread500 g,$3.59ea,$0.72/ 100g
+bakery,DItaliano,Hamburger Buns Brizzolio Extra Soft,DItalianoHamburger Buns Brizzolio Extra Soft528 g,$3.99ea,$0.76/ 100g
+bakery,Charlottes,Real Chocolate Brownie Bites,CharlottesReal Chocolate Brownie Bites290 g,$4.99ea,$1.72/ 100g
+bakery,ACE,Everything Bagel Baguette,ACEEverything Bagel Baguette360 g,$4.19ea,$1.16/ 100g
+bakery,Farmer's Market,Macaroons,Farmer's MarketMacaroons350 g,$6.49ea,$1.85/ 100g
+bakery,,Texas Hamburger Buns- White,Texas Hamburger Buns- White520 g,$3.79ea,$0.73/ 100g
+bakery,,"Bagels, Sesame","Bagels, Sesame108 g",$4.29ea,$3.97/ 100g
+bakery,Create A Treat,Ugly Sweater Cookie Kit,Create A TreatUgly Sweater Cookie Kit406 g,$8.99ea,$2.21/ 100g
+bakery,,"6"" Chocolate Brownie Cheesecake","6"" Chocolate Brownie Cheesecake600 g",$18.99ea,$3.17/ 100g
+bakery,,Pumpernickel Sesame Bagels,Pumpernickel Sesame Bagels600 g,$4.29ea,$0.72/ 100g
+bakery,ACE,Gourmet Brioche Burger Buns,ACEGourmet Brioche Burger Buns260 g,$3.99ea,$1.53/ 100g
+bakery,Casa Mendosa,Large Spinach Tortillas,Casa MendosaLarge Spinach Tortillas384 g,$4.79ea,$1.25/ 100g
+bakery,,Texas Hot Dogs Sesame Buns,Texas Hot Dogs Sesame Buns528 g,$3.79ea,$0.72/ 100g
+bakery,Farmer's Market,Tiramisu Cake,Farmer's MarketTiramisu Cake675 g,$14.99ea,$2.22/ 100g
+bakery,President's Choice,"Flatbread, Original","President's ChoiceFlatbread, Original300 g",$2.49ea,$0.83/ 100g
+bakery,Farmer's Market,Strawberry Shortcake,Farmer's MarketStrawberry Shortcake755 g,$14.99ea,$1.99/ 100g
+bakery,,Corn Popped Grains,Corn Popped Grains120 g,$4.99ea,$4.16/ 100g
+bakery,President's Choice,Appetizer Flatbreads,President's ChoiceAppetizer Flatbreads220 g,$2.49ea,$1.13/ 100g
+bakery,,"Instore Made Cinnamon Buns, Glaze and Icing 4 pack","Instore Made Cinnamon Buns, Glaze and Icing 4 pack612 g",$4.99ea,$0.82/ 100g
+bakery,ACE,Toasted Sesame Mini Crisps,ACEToasted Sesame Mini Crisps180 g,$5.49ea,$3.05/ 100g
+bakery,,Amazing Grain Bread Sliced,Amazing Grain Bread Sliced450 g,$4.49ea,$1.00/ 100g
+bakery,Farmer's Market,Pumpkin Pie 10 Inch,Farmer's MarketPumpkin Pie 10 Inch900 g,$9.99ea,$1.11/ 100g
+bakery,Country Harvest,Sunflower Flax Bread,Country HarvestSunflower Flax Bread600 g,$3.99ea,$0.67/ 100g
+bakery,Farmer's Market,Chocolate Chip Muffins,Farmer's MarketChocolate Chip Muffins600 g,$6.99ea,$1.17/ 100g
+bakery,Farmer's Market,Cake Cookies And Crème,Farmer's MarketCake Cookies And Crème1.2 kg,$22.99ea,$1.92/ 100g
+bakery,President's Choice,Gluten Free Plain Bread Crumbs,President's ChoiceGluten Free Plain Bread Crumbs275 g,$4.09ea,$1.49/ 100g
+bakery,Farmer's Market,Assorted Mini Tarts,Farmer's MarketAssorted Mini Tarts300 g,$7.29ea,$2.43/ 100g
+bakery,Farmer's Market,Chocolate Ganache Coffee Cake,Farmer's MarketChocolate Ganache Coffee Cake500 g,$6.00ea,$1.20/ 100g
+bakery,Elite Sweets,Tiramisu,Elite SweetsTiramisu700 g,$17.49ea,$2.50/ 100g
+bakery,Farmer's Market,Lemon Squares,Farmer's MarketLemon Squares400 g,$6.99ea,$1.75/ 100g
+bakery,Farmer's Market,Lemon Cranberry Muffins,Farmer's MarketLemon Cranberry Muffins600 g,$6.99ea,$1.17/ 100g
+bakery,,Chocolate Dip Donut 2 Pack,Chocolate Dip Donut 2 Pack2x170.0 g,$3.49ea,$2.05/ 100g
+bakery,ACE,"Bakery Bread, Sliced Organic Granary Loaf","ACEBakery Bread, Sliced Organic Granary Loaf525 g",$6.19ea,$1.18/ 100g
+bakery,DItaliano,Thick Slice Bread 100% Whole Wheat ,DItalianoThick Slice Bread 100% Whole Wheat 675 g,$3.99ea,$0.59/ 100g
+bakery,Wonder,Wrap Me White Flour Tortillas Large ,WonderWrap Me White Flour Tortillas Large 640 g,$3.99ea,$0.62/ 100g
+bakery,Farmer's Market,Farmer Market Almond Tarts Pack Of 6,Farmer's MarketFarmer Market Almond Tarts Pack Of 667 g,$6.99ea,$1.75/ 100g
+bakery,President's Choice,Protein Tortillas,President's ChoiceProtein Tortillas342 g,$4.29ea,$1.25/ 100g
+bakery,Rudolphs,Bavarian Multi-grain Bread,RudolphsBavarian Multi-grain Bread500 g,$4.29ea,$0.86/ 100g
+bakery,Farmer's Market,Mini Cinnamon Rolls,Farmer's MarketMini Cinnamon Rolls9x30.0 g,$6.29ea,$2.33/ 100g
+bakery,President's Choice,"Tramezzini Crustless Bread, Whole Wheat","President's ChoiceTramezzini Crustless Bread, Whole Wheat250 g",$2.39ea,$0.96/ 100g
+bakery,President's Choice,Original Pizza Crusts,President's ChoiceOriginal Pizza Crusts440 g,$3.19ea,$0.69/ 100g
+bakery,Dimpflmeier,Pumpernickel Bread,DimpflmeierPumpernickel Bread454 g,$3.79ea,$0.83/ 100g
+bakery,President's Choice,Multigrain Pizza Crusts,President's ChoiceMultigrain Pizza Crusts440 g,$3.19ea,$0.69/ 100g
+bakery,ACE,"Oval, Three Cheese","ACEOval, Three Cheese454 g",$5.99ea,$1.32/ 100g
+bakery,Farmer's Market,"Loaf Cake, Cinnamon Swirl","Farmer's MarketLoaf Cake, Cinnamon Swirl390 g",$6.29ea,$1.61/ 100g
+bakery,Farmer's Market,Apple Pie 10 Inch,Farmer's MarketApple Pie 10 Inch1 kg,$9.99ea,$1.00/ 100g
+bakery,Farmer's Market,"Tea Biscuits, Raisin","Farmer's MarketTea Biscuits, Raisin315 g",$6.29ea,$2.00/ 100g
+bakery,Frontier Bakery,Whole Wheat Greek Pitas,Frontier BakeryWhole Wheat Greek Pitas425 g,$1.59ea,$0.37/ 100g
+bakery,PC Blue Menu,Everything Bagels 6 Bagels,PC Blue MenuEverything Bagels 6 Bagels336 g,$4.49ea,$1.23/ 100g
+bakery,Vachon,Jos Louis The Original Cakes,VachonJos Louis The Original Cakes324 g,$4.29ea,$1.32/ 100g
+bakery,Country Harvest,Cranberry & Oats Loaf,Country HarvestCranberry & Oats Loaf600 g,$3.99ea,$0.66/ 100g
+bakery,Farmer's Market,Apple Crumble Pie,Farmer's MarketApple Crumble Pie1 kg,$9.99ea,$1.00/ 100g
+bakery,Dimpflmeier,Rye Bread With Sunflower Seeds,DimpflmeierRye Bread With Sunflower Seeds454 g,$4.99ea,$1.10/ 100g
+bakery,School Safe,Muffin Bars Birthday Cake,School SafeMuffin Bars Birthday Cake296 g,$3.69ea,$1.25/ 100g
+bakery,ACE,White Baguette Bagel,ACEWhite Baguette Bagel300 g,$4.19ea,$1.40/ 100g
+bakery,ACE,Gourmet Sausage Bun,ACEGourmet Sausage Bun340 g,$3.99ea,$1.17/ 100g

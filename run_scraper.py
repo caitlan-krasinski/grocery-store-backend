@@ -121,13 +121,20 @@ for store_prod in store_vars.keys():
     product_divs = soup.find_all("div", {"class": "product-tracking"})
 
     # initialize data frame
-    df = pd.DataFrame(columns = ['category', 'product_name', 'price', 'per_unit_price'])
+    df = pd.DataFrame(columns = ['category', 'brand', 'product', 'product_name', 'price', 'per_unit_price'])
 
     # iterate through each prod div and collect name, price and per_unit_price
     for div in product_divs:
         prod_details = div.find_all("div", {"class": "product-tile__details"})
         
         name = prod_details[0].find_all("h3", {"class": "text text--small4 text--left text--default-color product-tile__details__info__name"})[0].text
+
+        try: # ex: fruit doesnt have a brand so allow pass 
+            brand = prod_details[0].find_all("span", {"class": "product-name__item product-name__item--brand"})[0].text
+        except:
+            brand = ''
+
+        product = prod_details[0].find_all("span", {"class": "product-name__item product-name__item--name"})[0].text
         
         prod_details = prod_details[0].find_all("div", {"class": "product-tile__details__info__section"})
         prod_info = prod_details[0].find_all("div", {"class": "product-prices product-prices--product-tile"})
@@ -141,6 +148,8 @@ for store_prod in store_vars.keys():
         
         # append data to df 
         df = df.append({'category': store_details['category_name'], 
+                        'brand' : brand, 
+                        'product' : product, 
                         'product_name': name, 
                         'price': price,
                         'per_unit_price': per_unit_price}
