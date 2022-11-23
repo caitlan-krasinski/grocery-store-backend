@@ -11,18 +11,34 @@ import scrapers.scraper as scraper
 
 
 flyer_vars = { 'freshco':{'store':'freshco',
-                    'link':'https://flipp.com/en-ca/guelph-on/flyer/5231790-freshco-weekly-eflyer-10061012?postal_code=N1E1A1',
-                    'item_link':'https://flipp.com/en-ca/guelph-on/item/{item}-freshco-weekly-eflyer-10061012?postal_code=N1E1A1'}
+                    'link': 'https://flipp.com/en-ca/waterloo-on/flyer/5325015-freshco-weekly-eflyer-11171123?postal_code=N2J4L6',
+                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-freshco-weekly-eflyer-11171123?postal_code=N2J4L6'}
             , 'walmart':{'store':'walmart',
-                    'link':'https://flipp.com/en-ca/guelph-on/flyer/5284627-walmart-flyer?postal_code=N1E1A1',
-                    'item_link':'https://flipp.com/en-ca/guelph-on/item/{item}-walmart-flyer?postal_code=N1E1A1'}
+                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5324716-walmart-flyer?postal_code=N2J4L6',
+                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-walmart-flyer?postal_code=N2J4L6'}
+            , 'sobeys':{'store':'sobeys',
+                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5329089-sobeys-weekly-flyer-ontario?postal_code=N2J4L6',
+                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-sobeys-weekly-flyer-ontario?postal_code=N2J4L6'}
+            , 'food_basics':{'store':'food_basics',
+                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5326814-food-basics-flyer?postal_code=N2J4L6',
+                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-food-basics-flyer?postal_code=N2J4L6'}
+
+            # loblaw co stores have to be difficult and add in dat range, this may be something we have to add in each week we run but also
+            # can work out a way to dynamically add in flyer ranges 
+            , 'zehrs':{'store':'zehrs',
+                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5326328-zehrs-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6',
+                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-zehrs-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6'}
+            , 'valu_mart':{'store':'valu_mart',
+                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5322987-valumart-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6',
+                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-valumart-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6'}
+            , 'no_frills':{'store':'no_frills',
+                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5324898-no-frills-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6',
+                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-no-frills-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6'}
 
 }
 
 print('process started')
 
-# update this link to wloo 
-# link  = 'https://flipp.com/en-ca/guelph-on/flyer/5284627-walmart-flyer?postal_code=N1E1A1'
 
 # SET OPTIONS 
 options = scraper.set_options()
