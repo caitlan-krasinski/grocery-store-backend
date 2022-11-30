@@ -12,6 +12,7 @@ import time
 from bs4 import BeautifulSoup
 import scrapers.scraper as scraper
 
+print('------------ running loblaw co scaper')
 
 # variable store 
 store_vars = { 

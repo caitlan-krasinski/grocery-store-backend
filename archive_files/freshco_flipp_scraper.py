@@ -12,6 +12,8 @@ import scrapers.scraper as scraper
 # START RUN 
 start_time = time.time()
 
+print('------------ running flipp scaper')
+
 print('process started')
 
 # update this link to wloo 
