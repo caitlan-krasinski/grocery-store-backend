@@ -76,7 +76,7 @@ for flyer_details in flyer_vars.keys():
 
     print('collecting data')
 
-    df = pd.DataFrame(columns = ['product_name', 'price'])
+    df = pd.DataFrame(columns = ['product_name', 'price_text'])
 
     count=0
     for item in items:
@@ -102,11 +102,11 @@ for flyer_details in flyer_vars.keys():
             if len(cents) > 0: cents_str= cents[0].text
             if len(price_text) > 0: price_text_str= price_text[0].text
 
-            price = f'{pre_price_text_str}${dollar_str}.{cents_str} {price_text_str}'
+            price = f'{pre_price_text_str} ${dollar_str}.{cents_str} {price_text_str}'
 
             # append data to df 
             df = df.append({'product_name': name, 
-                            'price': price,}
+                            'price_text': price,}
                         , ignore_index=True)
         except: 
             count+=1
@@ -114,7 +114,7 @@ for flyer_details in flyer_vars.keys():
             continue
 
     # save data 
-    df.to_csv(f'csv_files/{flyer["store"]}/flyer_deals.csv', index=False)
+    df.to_csv(f'raw_data/{flyer["store"]}/flyer_deals.csv', index=False)
 
     print(f'completed {flyer["store"]} in {(time.time() - start_time)}')
 

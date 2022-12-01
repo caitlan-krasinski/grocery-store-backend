@@ -1,2 +1,0 @@
-import loblaw_co_scraper
-import flipp_scraper 

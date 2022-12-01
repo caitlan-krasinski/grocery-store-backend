@@ -122,7 +122,7 @@ for store_prod in store_vars.keys():
     product_divs = soup.find_all("div", {"class": "product-tracking"})
 
     # initialize data frame
-    df = pd.DataFrame(columns = ['category', 'brand', 'product', 'product_name', 'price', 'per_unit_price'])
+    df = pd.DataFrame(columns = ['category', 'brand', 'product_text', 'product_name', 'price_text', 'per_unit_price_text'])
 
     # iterate through each prod div and collect name, price and per_unit_price
     for div in product_divs:
@@ -140,23 +140,25 @@ for store_prod in store_vars.keys():
         prod_details = prod_details[0].find_all("div", {"class": "product-tile__details__info__section"})
         prod_info = prod_details[0].find_all("div", {"class": "product-prices product-prices--product-tile"})
         
-        price = prod_info[0].find_all("span", {"class": "price selling-price-list__item__price selling-price-list__item__price--now-price"})[0].text
-        
+        price_text = prod_info[0].find_all("span", {"class": "price selling-price-list__item__price selling-price-list__item__price--now-price"})[0].text
+
         try: # some items don't have a per unit price
-            per_unit_price = prod_info[0].find_all("span", {"class": "price comparison-price-list__item__price"})[0].text
+            per_unit_price_text = prod_info[0].find_all("span", {"class": "price comparison-price-list__item__price"})[0].text
         except:
-            per_unit_price = None 
+            per_unit_price_text = None
+
+
         
         # append data to df 
         df = df.append({'category': store_details['category_name'], 
                         'brand' : brand, 
-                        'product' : product, 
+                        'product_text' : product, 
                         'product_name': name, 
-                        'price': price,
-                        'per_unit_price': per_unit_price}
+                        'price_text': price_text,
+                        'per_unit_price_text': per_unit_price_text}
                     , ignore_index=True)
 
-        df.to_csv(f'csv_files/{store_details["store"]}/{store_details["category_name"]}.csv', index=False)
+        df.to_csv(f'raw_data/{store_details["store"]}/{store_details["category_name"]}.csv', index=False)
 
     print(f'completed {store_prod} \n\n')
 
