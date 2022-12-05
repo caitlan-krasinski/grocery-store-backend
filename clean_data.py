@@ -4,23 +4,43 @@ import pandas as pd
 
 def clean_loblaw_co_data(df):
     prices = []
-    units = []
+    per_unit_prices = []
+    unit_types = []
+
     for index, row in df.iterrows():
         s = row.price
         s = re.findall('(?:[\£\$\€]{1}[,\d]+.?\d*)',s)[-1]
         s = s.replace('$', '') # remove $
+        
+        pup = 0
+        per_unit_price = row.per_unit_price
+        if not isinstance(per_unit_price, float):  # not nan
+            unit = per_unit_price.split('/')[1]
+            price = float(per_unit_price.split('/')[0].replace('$', '').replace(',', ''))
+            unit_type = ''
+            if 'kg' in unit: 
+                gram = float(unit.split('kg')[0])*1000 # 1000 g in kg
+                pup = price / gram
+                unit_type = 'g'
+            elif 'g' in unit:
+                gram = float(unit.split('g')[0])
+                pup = price / gram
+                unit_type = 'g'
+            elif 'ml' in unit:
+                ml = float(unit.split('ml')[0])
+                pup = price / ml
+                unit_type = 'ml'
+        else: 
+            pup = s
+            unit_type = ''
+        
         prices.append(s)
+        per_unit_prices.append(pup)
+        unit_types.append(unit_type)
         
-        unit = row.price
-        try: unit = unit.split('/')[1]
-        except: unit = None
-        units.append(unit)
-        
-        try: float(s)
-        except:print(s)
-            
+    df['per_unit_price2'] = per_unit_prices
+    df['unit_type'] = unit_types
     df['price2'] = prices
-    df['units'] = units
 
     return df
         
@@ -29,7 +49,8 @@ def clean_loblaw_co_data(df):
 def clean_flipp_data(df):
     prices = []
     drop_items = []
-    units = []
+    per_unit_prices = []
+    unit_types = []
     for index, row in df.iterrows():
         s = row.price
         
@@ -59,24 +80,61 @@ def clean_flipp_data(df):
         
         
         # see if there are units 
+        pup = price
         try: 
-            unit = re.findall('(?:[/lbkgml]+)',s)[-1]
+            unit = re.findall('(?:[/lbkgml]+)',s)[-1] # this may error out in which cas no units 
+            
             if unit == '/': unit = None
-        except: unit = None
+
+            if unit is not None:  # not nan
+                unit_type = ''
+                if 'kg' in unit: 
+                    gram = unit.split('kg')[0]
+                    if gram == '/': gram = 1
+                    pup = float(price) / (float(gram)*1000) # 1000 g in kg
+                    unit_type = 'g'
+                elif 'g' in unit:
+                    gram = unit.split('g')[0]
+                    if gram == '/': gram = 1
+                    pup = float(price) / float(gram)
+                    unit_type = 'g'
+                elif 'lb' in unit:
+                    gram = unit.split('lb')[0]
+                    if gram == '/': gram = 1
+                    pup = float(price) / (float(gram)*453.592)
+                    unit_type = 'g'
+                elif 'ml' in unit:
+                    ml = unit.split('ml')[0]
+                    if ml == '/': ml = 1
+                    pup = float(price) / float(ml)
+                    unit_type = 'ml'
+                elif 'l' in unit:
+                    ml = unit.split('l')[0]
+                    if unit == '/': ml = 1
+                    pup = float(price) / (float(ml)*1000)
+                    unit_type = 'ml'
+                else: 
+                    pup = price
+                    unit_type = None
+            else: 
+                pup = price
+                unit_type = None
+        except: 
+            pup = price
+            unit_type = None
+        
         
         prices.append(price)
-        units.append(unit)
+        per_unit_prices.append(pup)
+        unit_types.append(unit_type)    
         drop_items.append(drop)
-        
-    #     if drop == 0:
-    #         try: float(price)
-    #         except:print(price)
-            
+               
     df['price2'] = prices
-    df['units'] = units
+    df['per_unit_price2'] = per_unit_prices
+    df['unit_type'] = unit_types
     df['drop_col'] = drop_items 
     df = df[df['drop_col'] == 0]
-    df = df.drop(columns=['drop_col'])  
+    df = df.drop(columns=['drop_col'])    
 
     return df  
 
