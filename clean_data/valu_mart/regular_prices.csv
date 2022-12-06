@@ -4,7 +4,7 @@ dairy_and_eggs,Neilson,Half and Half Cream,NeilsonHalf and Half Cream1 l,$3.49ea
 dairy_and_eggs,Neilson,Partly Skimmed Milk 1% MF,NeilsonPartly Skimmed Milk 1% MF4 l,$5.99ea,$0.15/ 100ml,valu_mart,0.0015,ml,5.99
 dairy_and_eggs,No Name,Pasteurized Cream Cheese,No NamePasteurized Cream Cheese250 g,$3.79ea,$1.52/ 100g,valu_mart,0.0152,g,3.79
 dairy_and_eggs,No Name,Unsalted Butter,No NameUnsalted Butter454 g,$6.19ea,$1.36/ 100g,valu_mart,0.013600000000000001,g,6.19
-dairy_and_eggs,President's Choice,Free Run Brown Eggs Large,President's ChoiceFree Run Brown Eggs Large12 eggs,$6.79ea,$0.57/ 1ea,valu_mart,0,,6.79
+dairy_and_eggs,President's Choice,Free Run Brown Eggs Large,President's ChoiceFree Run Brown Eggs Large12 eggs,$6.79ea,$0.57/ 1ea,valu_mart,0.57,,6.79
 dairy_and_eggs,Astro,Original Balkan Balkan Style Yogurt,AstroOriginal Balkan Balkan Style Yogurt750 g,$4.49ea,$0.60/ 100g,valu_mart,0.006,g,4.49
 dairy_and_eggs,Neilson,Homogenized Milk 3.25%,NeilsonHomogenized Milk 3.25%4 l,$6.69ea,$0.17/ 100ml,valu_mart,0.0017000000000000001,ml,6.69
 dairy_and_eggs,Gay Lea,Salted Butter,Gay LeaSalted Butter454 g,$8.19ea,$1.80/ 100g,valu_mart,0.018000000000000002,g,8.19
@@ -86,7 +86,7 @@ dairy_and_eggs,No Name,1% M.F. Light Cottage Cheese,No Name1% M.F. Light Cottage
 dairy_and_eggs,Activia,"Probiotics Yogurt, Yellow Apple/Apricot/Mango/Peach","ActiviaProbiotics Yogurt, Yellow Apple/Apricot/Mango/Peach12x100.0 g",$6.49ea,$0.54/ 100g,valu_mart,0.0054,g,6.49
 dairy_and_eggs,PC Organics,Organic Homogenized Milk,PC OrganicsOrganic Homogenized Milk1 l,$4.59ea,$0.46/ 100ml,valu_mart,0.0046,ml,4.59
 dairy_and_eggs,Black Diamond,Sliced Marble Cheddar Cheese,Black DiamondSliced Marble Cheddar Cheese240 g,$5.79ea,$2.41/ 100g,valu_mart,0.0241,g,5.79
-dairy_and_eggs,Green Valley,Rowe Farm Free Run XL,Green ValleyRowe Farm Free Run XL12 eggs,$6.79ea,$0.57/ 1ea,valu_mart,0,,6.79
+dairy_and_eggs,Green Valley,Rowe Farm Free Run XL,Green ValleyRowe Farm Free Run XL12 eggs,$6.79ea,$0.57/ 1ea,valu_mart,0.57,,6.79
 dairy_and_eggs,No Name,Medium Cheddar Cheese Slices,No NameMedium Cheddar Cheese Slices230 g,$4.99ea,$2.17/ 100g,valu_mart,0.0217,g,4.99
 dairy_and_eggs,PC Organics,"Organic Cultured Coconut Milk Yogurt, Alternative Vanilla","PC OrganicsOrganic Cultured Coconut Milk Yogurt, Alternative Vanilla680 g",$5.99ea,$0.88/ 100g,valu_mart,0.0088,g,5.99
 dairy_and_eggs,Natrel,Lactose Free 1% Dairy Product (2L),NatrelLactose Free 1% Dairy Product (2L)2 l,$6.89ea,$0.34/ 100ml,valu_mart,0.0034000000000000002,ml,6.89
@@ -94,8 +94,8 @@ dairy_and_eggs,Gay Lea,"Real Whipped Cream, Regular","Gay LeaReal Whipped Cream,
 dairy_and_eggs,Activia,"Probiotic Yogurt, Mixed Berries, Drinkable Yogurt, 8 Pack","ActiviaProbiotic Yogurt, Mixed Berries, Drinkable Yogurt, 8 Pack8x93.0 ml",$7.99ea,$1.07/ 100ml,valu_mart,0.010700000000000001,ml,7.99
 dairy_and_eggs,Philadelphia,Onion Dip,PhiladelphiaOnion Dip340 g,$7.49ea,$2.20/ 100g,valu_mart,0.022000000000000002,g,7.49
 dairy_and_eggs,PC Organics,Organic Homogenized Milk,PC OrganicsOrganic Homogenized Milk2 l,$6.89ea,$0.34/ 100ml,valu_mart,0.0034000000000000002,ml,6.89
-dairy_and_eggs,Gray Ridge,Extra Large Eggs,Gray RidgeExtra Large Eggs18 eggs,$7.19ea,$0.40/ 1ea,valu_mart,0,,7.19
-dairy_and_eggs,No Name,Medium Grade A White Eggs,No NameMedium Grade A White Eggs12 eggs,$3.89ea,$0.32/ 1ea,valu_mart,0,,3.89
+dairy_and_eggs,Gray Ridge,Extra Large Eggs,Gray RidgeExtra Large Eggs18 eggs,$7.19ea,$0.40/ 1ea,valu_mart,0.4,,7.19
+dairy_and_eggs,No Name,Medium Grade A White Eggs,No NameMedium Grade A White Eggs12 eggs,$3.89ea,$0.32/ 1ea,valu_mart,0.32,,3.89
 dairy_and_eggs,Nestle,Coffee Mate Coffee Crisp Liquid Coffee Enhancer,NestleCoffee Mate Coffee Crisp Liquid Coffee Enhancer946 ml,$6.49ea,$0.69/ 100ml,valu_mart,0.0069,ml,6.49
 dairy_and_eggs,PC Organics,"Organic Cultured Coconut Milk Plain, Unsweetened","PC OrganicsOrganic Cultured Coconut Milk Plain, Unsweetened680 g",$5.99ea,$0.88/ 100g,valu_mart,0.0088,g,5.99
 dairy_and_eggs,Neilson,Homogenized Milk,NeilsonHomogenized Milk2 l,$5.39ea,$0.27/ 100ml,valu_mart,0.0027,ml,5.39
@@ -132,16 +132,16 @@ dairy_and_eggs,Activia,"Probiotic Smoothie, Mango, Peach & Carrot, Drinkable Yog
 dairy_and_eggs,No Name,Medium Cheddar Cheese,No NameMedium Cheddar Cheese200 g,$4.29ea,$2.15/ 100g,valu_mart,0.0215,g,4.29
 dairy_and_eggs,Burnbrae Farms,"Egg Creations, Original","Burnbrae FarmsEgg Creations, Original500 g",$4.29ea,$0.86/ 100g,valu_mart,0.0086,g,4.29
 dairy_and_eggs,Yoplait,Tubes Strawberry Yogurt,YoplaitTubes Strawberry Yogurt8x56.0 g,$4.79ea,$1.07/ 100g,valu_mart,0.010700000000000001,g,4.79
-dairy_and_eggs,Gray Ridge,"Grade A Brown Eggs, Large","Gray RidgeGrade A Brown Eggs, Large12 eggs",$5.69ea,$0.47/ 1ea,valu_mart,0,,5.69
+dairy_and_eggs,Gray Ridge,"Grade A Brown Eggs, Large","Gray RidgeGrade A Brown Eggs, Large12 eggs",$5.69ea,$0.47/ 1ea,valu_mart,0.47,,5.69
 dairy_and_eggs,Yoplait,Yop Drinkable Yogurt  Strawberry-Banana Flavour,YoplaitYop Drinkable Yogurt  Strawberry-Banana Flavour200 ml,$1.69ea,$0.85/ 100ml,valu_mart,0.0085,ml,1.69
 dairy_and_eggs,Philadelphia,Original Light Cream Cheese Product,PhiladelphiaOriginal Light Cream Cheese Product340 g,$7.49ea,$2.20/ 100g,valu_mart,0.022000000000000002,g,7.49
-dairy_and_eggs,Gray Ridge,Premium Large Eggs,Gray RidgePremium Large Eggs18 eggs,$6.89ea,$0.38/ 1ea,valu_mart,0,,6.89
+dairy_and_eggs,Gray Ridge,Premium Large Eggs,Gray RidgePremium Large Eggs18 eggs,$6.89ea,$0.38/ 1ea,valu_mart,0.38,,6.89
 dairy_and_eggs,Gay Lea,"Real Whipped Cream, Regular","Gay LeaReal Whipped Cream, Regular225 g",$4.49ea,$2.00/ 100g,valu_mart,0.02,g,4.49
 dairy_and_eggs,Liberte,Greek Vanilla Large Size 2 % M.F. Yogourt,LiberteGreek Vanilla Large Size 2 % M.F. Yogourt1 kg,$10.79ea,$1.08/ 100g,valu_mart,0.0108,g,10.79
 dairy_and_eggs,Neilson,Homogenized Milk 3.25%,NeilsonHomogenized Milk 3.25%1 l,$3.99ea,$0.40/ 100ml,valu_mart,0.004,ml,3.99
 dairy_and_eggs,PC Organics,Organic 14% M.F. Sour Cream,PC OrganicsOrganic 14% M.F. Sour Cream500 g,$5.29ea,$1.06/ 100g,valu_mart,0.0106,g,5.29
 dairy_and_eggs,Nestle,Coffee Mate After Eight Liquid Coffee Enhancer,NestleCoffee Mate After Eight Liquid Coffee Enhancer946 ml,$6.49ea,$0.69/ 100ml,valu_mart,0.0069,ml,6.49
-dairy_and_eggs,PC Organics,"Organic Free Run Brown Eggs, Medium","PC OrganicsOrganic Free Run Brown Eggs, Medium12 eggs",$7.29ea,$0.61/ 1ea,valu_mart,0,,7.29
+dairy_and_eggs,PC Organics,"Organic Free Run Brown Eggs, Medium","PC OrganicsOrganic Free Run Brown Eggs, Medium12 eggs",$7.29ea,$0.61/ 1ea,valu_mart,0.61,,7.29
 dairy_and_eggs,Neilson,Half & Half Cream,NeilsonHalf & Half Cream237 ml,$2.49ea,$1.05/ 100ml,valu_mart,0.0105,ml,2.49
 dairy_and_eggs,Activia,"Probiotic Yogurt, Blueberry/Vanilla","ActiviaProbiotic Yogurt, Blueberry/Vanilla12x100.0 g",$6.49ea,$0.54/ 100g,valu_mart,0.0054,g,6.49
 dairy_and_eggs,Neilson,Buttermilk,NeilsonButtermilk1 l,$4.39ea,$0.44/ 100ml,valu_mart,0.0044,ml,4.39
@@ -156,7 +156,7 @@ dairy_and_eggs,Spread 'Em Kitchen Co.,The Meadow,Spread 'Em Kitchen Co.The Meado
 dairy_and_eggs,Liberte,Yogourt Plain Organic Large Size 0 % M.F.,LiberteYogourt Plain Organic Large Size 0 % M.F.900 g,$6.99ea,$0.78/ 100g,valu_mart,0.0078000000000000005,g,6.99
 dairy_and_eggs,President's Choice,Lactose Free Plain 2%  M.F. Yogurt,President's ChoiceLactose Free Plain 2%  M.F. Yogurt750 g,$3.49ea,$0.47/ 100g,valu_mart,0.004699999999999999,g,3.49
 dairy_and_eggs,Becel,Margarine with Olive Oil,BecelMargarine with Olive Oil850 g,$6.99ea,$0.82/ 100g,valu_mart,0.008199999999999999,g,6.99
-dairy_and_eggs,PC Organics,Organic Free-Range Brown Eggs,PC OrganicsOrganic Free-Range Brown Eggs12 eggs,$7.49ea,$0.62/ 1ea,valu_mart,0,,7.49
+dairy_and_eggs,PC Organics,Organic Free-Range Brown Eggs,PC OrganicsOrganic Free-Range Brown Eggs12 eggs,$7.49ea,$0.62/ 1ea,valu_mart,0.62,,7.49
 dairy_and_eggs,President's Choice,Plant Based Coconut Cream Cheese-Style Spread,President's ChoicePlant Based Coconut Cream Cheese-Style Spread227 g,$3.49ea,$1.54/ 100g,valu_mart,0.0154,g,3.49
 dairy_and_eggs,MacLarens,Cheese Spread,MacLarensCheese Spread230 g,$8.49ea,$3.69/ 100g,valu_mart,0.0369,g,8.49
 dairy_and_eggs,Cracker Barrel,Slice Medium Cheddar Light,Cracker BarrelSlice Medium Cheddar Light240 g,$4.99ea,$2.08/ 100g,valu_mart,0.0208,g,4.99
@@ -225,7 +225,7 @@ dairy_and_eggs,Imperial,Soft Margarine Spread,ImperialSoft Margarine Spread907 g
 dairy_and_eggs,President's Choice,0% M.F. Vanilla Greek Yogurt,President's Choice0% M.F. Vanilla Greek Yogurt908 g,$6.99ea,$0.77/ 100g,valu_mart,0.0077,g,6.99
 dairy_and_eggs,No Name,Marble Cheddar Cheese,No NameMarble Cheddar Cheese400 g,$5.99ea,$1.50/ 100g,valu_mart,0.015,g,5.99
 dairy_and_eggs,President's Choice,Greek Vanilla 5%,President's ChoiceGreek Vanilla 5%908 g,$6.99ea,$0.77/ 100g,valu_mart,0.0077,g,6.99
-dairy_and_eggs,PC Blue Menu,Blue Menu Free Run Large White Eggs 12 Pack,PC Blue MenuBlue Menu Free Run Large White Eggs 12 Pack12 ea,$5.49ea,$0.46/ 1ea,valu_mart,0,,5.49
+dairy_and_eggs,PC Blue Menu,Blue Menu Free Run Large White Eggs 12 Pack,PC Blue MenuBlue Menu Free Run Large White Eggs 12 Pack12 ea,$5.49ea,$0.46/ 1ea,valu_mart,0.46,,5.49
 dairy_and_eggs,Kraft,Grated Parmesan Cheese,KraftGrated Parmesan Cheese500 g,$15.99ea,$3.20/ 100g,valu_mart,0.032,g,15.99
 dairy_and_eggs,President's Choice,Phyllo Pastry,President's ChoicePhyllo Pastry454 g,$3.99ea,$0.88/ 100g,valu_mart,0.0088,g,3.99
 dairy_and_eggs,Liberte,Yogourt Black Cherry 9 % M.F.,LiberteYogourt Black Cherry 9 % M.F.4x100.0 g,$5.49ea,$1.37/ 100g,valu_mart,0.0137,g,5.49
@@ -260,7 +260,7 @@ dairy_and_eggs,Starbucks,Caramel Macchiato Liquid Coffee Enhancer,StarbucksCaram
 dairy_and_eggs,Natrel,Lactose Free Fat Free Skim 0% Dairy Product (2L),NatrelLactose Free Fat Free Skim 0% Dairy Product (2L)2 l,$6.89ea,$0.34/ 100ml,valu_mart,0.0034000000000000002,ml,6.89
 dairy_and_eggs,Starbucks,Almond And Oat Dairy Free Caramel Macchiato Coffee Enhancer,StarbucksAlmond And Oat Dairy Free Caramel Macchiato Coffee Enhancer828 ml,$7.99ea,$0.96/ 100ml,valu_mart,0.0096,ml,7.99
 dairy_and_eggs,Activia,"Immune System, Probiotic Yogurt Drink, Strawberry Drinkable Yogurt, 8 Pack","ActiviaImmune System, Probiotic Yogurt Drink, Strawberry Drinkable Yogurt, 8 Pack8x93.0 ml",$7.99ea,$1.07/ 100ml,valu_mart,0.010700000000000001,ml,7.99
-dairy_and_eggs,Burnbrae Farms,Eggs2go! 6 Hard Boiled Peeled Eggs,Burnbrae FarmsEggs2go! 6 Hard Boiled Peeled Eggs6 ea,$4.39ea,$0.73/ 1ea,valu_mart,0,,4.39
+dairy_and_eggs,Burnbrae Farms,Eggs2go! 6 Hard Boiled Peeled Eggs,Burnbrae FarmsEggs2go! 6 Hard Boiled Peeled Eggs6 ea,$4.39ea,$0.73/ 1ea,valu_mart,0.73,,4.39
 dairy_and_eggs,Activia,"Yogurt With Probiotics & Fibre, 3X Vanilla, 3X Blueberry, 3X Peach, 3X Strawberry Kiwi,","ActiviaYogurt With Probiotics & Fibre, 3X Vanilla, 3X Blueberry, 3X Peach, 3X Strawberry Kiwi,12x100.0 g",$6.49ea,$0.54/ 100g,valu_mart,0.0054,g,6.49
 dairy_and_eggs,Neilson,Trutaste Homogenized Milk,NeilsonTrutaste Homogenized Milk4 l,$6.99ea,$0.17/ 100ml,valu_mart,0.0017000000000000001,ml,6.99
 dairy_and_eggs,Activia,"Yogurt With Probiotics, Blueberry Flavour","ActiviaYogurt With Probiotics, Blueberry Flavour650 g",$4.79ea,$0.74/ 100g,valu_mart,0.0074,g,4.79
@@ -305,8 +305,8 @@ dairy_and_eggs,No Name,Shredded Nacho Cheese Blend,No NameShredded Nacho Cheese 
 dairy_and_eggs,Nestle,Coffee Crisp Milkshake,NestleCoffee Crisp Milkshake473 ml,$3.15ea,$0.67/ 100ml,valu_mart,0.0067,ml,3.15
 dairy_and_eggs,President's Choice,Black Cherry Skyr Icelandic Style 4% M.F. Yogurt,President's ChoiceBlack Cherry Skyr Icelandic Style 4% M.F. Yogurt500 g,$5.99ea,$1.20/ 100g,valu_mart,0.012,g,5.99
 dairy_and_eggs,Natrel,Lactose Free Fat Free Skim 0% Dairy Product (2L),NatrelLactose Free Fat Free Skim 0% Dairy Product (2L)2 l,$6.89ea,$0.34/ 100ml,valu_mart,0.0034000000000000002,ml,6.89
-dairy_and_eggs,Gray Ridge,Grade A Double Yolk White Eggs,Gray RidgeGrade A Double Yolk White Eggs12 eggs,$5.99ea,$0.50/ 1ea,valu_mart,0,,5.99
-dairy_and_eggs,Burnbrae Farms,Naturegg NestlaidOmega 3 Large Size 12 Eggs,Burnbrae FarmsNaturegg NestlaidOmega 3 Large Size 12 Eggs12 ea,$5.89ea,$5.89/ 1ea,valu_mart,0,,5.89
+dairy_and_eggs,Gray Ridge,Grade A Double Yolk White Eggs,Gray RidgeGrade A Double Yolk White Eggs12 eggs,$5.99ea,$0.50/ 1ea,valu_mart,0.5,,5.99
+dairy_and_eggs,Burnbrae Farms,Naturegg NestlaidOmega 3 Large Size 12 Eggs,Burnbrae FarmsNaturegg NestlaidOmega 3 Large Size 12 Eggs12 ea,$5.89ea,$5.89/ 1ea,valu_mart,5.89,,5.89
 dairy_and_eggs,Riviera,Coconut Milk Vegan Yogurt - Raspberry Blackcurrant,RivieraCoconut Milk Vegan Yogurt - Raspberry Blackcurrant500 g,$5.49ea,$1.10/ 100g,valu_mart,0.011000000000000001,g,5.49
 dairy_and_eggs,Activia,"Yogurt With Probiotics, Blueberry Flavour","ActiviaYogurt With Probiotics, Blueberry Flavour650 g",$4.79ea,$0.74/ 100g,valu_mart,0.0074,g,4.79
 dairy_and_eggs,Activia,"Yogurt With Probioticsactose Free, Vanilla, Strawberry, Raspberry, Cherry Flavour","ActiviaYogurt With Probioticsactose Free, Vanilla, Strawberry, Raspberry, Cherry Flavour12x100.0 g",$6.49ea,$0.54/ 100g,valu_mart,0.0054,g,6.49
@@ -317,7 +317,7 @@ dairy_and_eggs,Lactantia,"Lactose Free Butter, Salted","LactantiaLactose Free Bu
 dairy_and_eggs,Silk,"Plant Based Dairy Free Coconut Yogurt, Vanilla Flavour, 4 pack","SilkPlant Based Dairy Free Coconut Yogurt, Vanilla Flavour, 4 pack100 g",$4.29ea,$4.29/ 100g,valu_mart,0.0429,g,4.29
 dairy_and_eggs,Activia,"Probiotic Yogurt, 4X Blueberry, 4X Strawberry & Rhubarb, 8 Pack","ActiviaProbiotic Yogurt, 4X Blueberry, 4X Strawberry & Rhubarb, 8 Pack8x100.0 g",$5.99ea,$0.75/ 100g,valu_mart,0.0075,g,5.99
 dairy_and_eggs,President's Choice,Berries & Cherries Skyr Icelandic Style 0% M.F. Yogurt,President's ChoiceBerries & Cherries Skyr Icelandic Style 0% M.F. Yogurt500 g,$5.99ea,$1.20/ 100g,valu_mart,0.012,g,5.99
-dairy_and_eggs,PC Blue Menu,Blue Menu Free Run Large Brown Eggs 12 Pack,PC Blue MenuBlue Menu Free Run Large Brown Eggs 12 Pack12 eggs,$7.39ea,$0.62/ 1ea,valu_mart,0,,7.39
+dairy_and_eggs,PC Blue Menu,Blue Menu Free Run Large Brown Eggs 12 Pack,PC Blue MenuBlue Menu Free Run Large Brown Eggs 12 Pack12 eggs,$7.39ea,$0.62/ 1ea,valu_mart,0.62,,7.39
 dairy_and_eggs,No Name,Pie Shells,No NamePie Shells350 g,$4.49ea,$1.28/ 100g,valu_mart,0.0128,g,4.49
 dairy_and_eggs,Organic Meadow,"Organic Cheese, Medium Cheddar","Organic MeadowOrganic Cheese, Medium Cheddar340 g",$12.99ea,$3.82/ 100g,valu_mart,0.0382,g,12.99
 dairy_and_eggs,Imperial,Margarine Club Pack,ImperialMargarine Club Pack1.36 kg,$8.99ea,$0.71/ 100g,valu_mart,0.0070999999999999995,g,8.99
@@ -352,11 +352,11 @@ dairy_and_eggs,Del Monte,Red Grapefruit In Slightly Sweetened Water 8 Cups (Case
 dairy_and_eggs,Beatrice,Vanila Milkshake Bottle,BeatriceVanila Milkshake Bottle460 ml,$3.45ea,$0.75/ 100ml,valu_mart,0.0075,ml,3.45
 dairy_and_eggs,No Name,Everything Bagel Seasoning Sour Cream Dip,No NameEverything Bagel Seasoning Sour Cream Dip250 g,$3.79ea,$1.52/ 100g,valu_mart,0.0152,g,3.79
 dairy_and_eggs,Activia,"Probiotic Yogurt With Fibre, Vanilla Flavour With Oats, Almonds, Pumpkin Seeds And Dried Cranberries, 3 Pack","ActiviaProbiotic Yogurt With Fibre, Vanilla Flavour With Oats, Almonds, Pumpkin Seeds And Dried Cranberries, 3 Pack3x150.0 g",$5.99ea,$1.33/ 100g,valu_mart,0.013300000000000001,g,5.99
-dairy_and_eggs,Gray Ridge,Grade A Double Yolk White Eggs,Gray RidgeGrade A Double Yolk White Eggs12 eggs,$5.99ea,$0.50/ 1ea,valu_mart,0,,5.99
+dairy_and_eggs,Gray Ridge,Grade A Double Yolk White Eggs,Gray RidgeGrade A Double Yolk White Eggs12 eggs,$5.99ea,$0.50/ 1ea,valu_mart,0.5,,5.99
 dairy_and_eggs,Heluva,"Sour Cream Dip, French Onion","HeluvaSour Cream Dip, French Onion680 g",$8.99ea,$1.32/ 100g,valu_mart,0.0132,g,8.99
 dairy_and_eggs,PC Organics,Dairy-Free Coconut Milk Kefir,PC OrganicsDairy-Free Coconut Milk Kefir1000 ml,$5.49ea,$0.55/ 100ml,valu_mart,0.0055000000000000005,ml,5.49
 dairy_and_eggs,No Name,Pizza Mozzarella Cheese with 28% M.F.,No NamePizza Mozzarella Cheese with 28% M.F.400 g,$5.99ea,$1.50/ 100g,valu_mart,0.015,g,5.99
-dairy_and_eggs,Burnbrae Farms,Naturegg NestlaidOmega 3 Large Size 12 Eggs,Burnbrae FarmsNaturegg NestlaidOmega 3 Large Size 12 Eggs12 ea,$5.89ea,$5.89/ 1ea,valu_mart,0,,5.89
+dairy_and_eggs,Burnbrae Farms,Naturegg NestlaidOmega 3 Large Size 12 Eggs,Burnbrae FarmsNaturegg NestlaidOmega 3 Large Size 12 Eggs12 ea,$5.89ea,$5.89/ 1ea,valu_mart,5.89,,5.89
 dairy_and_eggs,Spread 'Em Kitchen Co.,The Classic Greek Inspired Cashew Cheeze Block,Spread 'Em Kitchen Co.The Classic Greek Inspired Cashew Cheeze Block200 g,$10.99ea,$5.50/ 100g,valu_mart,0.055,g,10.99
 dairy_and_eggs,Neilson,1% Partly Skimmed Milk,Neilson1% Partly Skimmed Milk2 l,$4.99ea,$0.25/ 100ml,valu_mart,0.0025,ml,4.99
 dairy_and_eggs,Philadelphia,Original Cream Cheese,PhiladelphiaOriginal Cream Cheese227 g,$6.29ea,$2.77/ 100g,valu_mart,0.0277,g,6.29
@@ -401,7 +401,7 @@ dairy_and_eggs,Organic Meadow,"Organic Yogurt, Plain 3.8%","Organic MeadowOrgani
 dairy_and_eggs,Lactantia,Healthy Attitude Omega-3 Margarine,LactantiaHealthy Attitude Omega-3 Margarine850 g,$8.29ea,$0.98/ 100g,valu_mart,0.0098,g,8.29
 dairy_and_eggs,Earth Balance,Organic Whipped Spread,Earth BalanceOrganic Whipped Spread369 g,$6.99ea,$1.89/ 100g,valu_mart,0.0189,g,6.99
 dairy_and_eggs,Activia,"Plant-Based Probiotic Yogurt, Cherry And Peach, 8 Pack","ActiviaPlant-Based Probiotic Yogurt, Cherry And Peach, 8 Pack8x100.0 g",$5.99ea,$0.75/ 100g,valu_mart,0.0075,g,5.99
-dairy_and_eggs,Gray Ridge,"Grade A Premium White Eggs, Large","Gray RidgeGrade A Premium White Eggs, Large12 eggs",$4.59ea,$0.38/ 1ea,valu_mart,0,,4.59
+dairy_and_eggs,Gray Ridge,"Grade A Premium White Eggs, Large","Gray RidgeGrade A Premium White Eggs, Large12 eggs",$4.59ea,$0.38/ 1ea,valu_mart,0.38,,4.59
 dairy_and_eggs,Organic Meadow,"Organic Cheese, Mozzarella","Organic MeadowOrganic Cheese, Mozzarella340 g",$12.99ea,$3.82/ 100g,valu_mart,0.0382,g,12.99
 dairy_and_eggs,No Name,Original Cream Cheese Spread ,No NameOriginal Cream Cheese Spread 340 g,$4.79ea,$1.41/ 100g,valu_mart,0.0141,g,4.79
 dairy_and_eggs,Philadelphia,Original Cream Cheese Product,PhiladelphiaOriginal Cream Cheese Product450 g,$8.99ea,$2.00/ 100g,valu_mart,0.02,g,8.99
@@ -456,7 +456,7 @@ dairy_and_eggs,No Name,1% M.F. Fat Free Sour Cream ,No Name1% M.F. Fat Free Sour
 dairy_and_eggs,Philadelphia,Dill Pickle Dip,PhiladelphiaDill Pickle Dip227 g,$5.29ea,$2.33/ 100g,valu_mart,0.0233,g,5.29
 dairy_and_eggs,Earth Island, Mozzarella Slices,Earth Island Mozzarella Slices200 g,$6.99ea,$3.50/ 100g,valu_mart,0.035,g,6.99
 dairy_and_eggs,Philadelphia,Dill Pickle Dip,PhiladelphiaDill Pickle Dip340 g,$7.49ea,$2.20/ 100g,valu_mart,0.022000000000000002,g,7.49
-dairy_and_eggs,Gray Ridge,"Grade A Brown Eggs, Extra Large","Gray RidgeGrade A Brown Eggs, Extra Large12 eggs",$5.79ea,$0.48/ 1ea,valu_mart,0,,5.79
+dairy_and_eggs,Gray Ridge,"Grade A Brown Eggs, Extra Large","Gray RidgeGrade A Brown Eggs, Extra Large12 eggs",$5.79ea,$0.48/ 1ea,valu_mart,0.48,,5.79
 dairy_and_eggs,No Name,14% M.F. Regular Sour Cream,No Name14% M.F. Regular Sour Cream250 ml,$2.79ea,$1.12/ 100ml,valu_mart,0.011200000000000002,ml,2.79
 dairy_and_eggs,Yoplait,Yop Drinkable Yogurt Peach Flavour 1% M.F.,YoplaitYop Drinkable Yogurt Peach Flavour 1% M.F.200 ml,$1.69ea,$0.85/ 100ml,valu_mart,0.0085,ml,1.69
 dairy_and_eggs,Danone,Strawberry-Banana Flavoured Paw Patrol Yogurt Drink For Kids,DanoneStrawberry-Banana Flavoured Paw Patrol Yogurt Drink For Kids8x93.0 ml,$5.99ea,$0.81/ 100ml,valu_mart,0.008100000000000001,ml,5.99
@@ -582,7 +582,7 @@ dairy_and_eggs,Becel,Margarine Original,BecelMargarine Original454 g,$5.49ea,$1.
 dairy_and_eggs,Neilson,TruTaste 2% Milk,NeilsonTruTaste 2% Milk1 l,$4.09ea,$0.41/ 100ml,valu_mart,0.0040999999999999995,ml,4.09
 dairy_and_eggs,Oikos,"Greek Yogurtimited Editioningerbread Flavour, 4X100G","OikosGreek Yogurtimited Editioningerbread Flavour, 4X100G4x100.0 g",$4.79ea,$1.20/ 100g,valu_mart,0.012,g,4.79
 dairy_and_eggs,IOGO,1% Lactose Free Strawberry-Banana Drinkable Yogurt,IOGO1% Lactose Free Strawberry-Banana Drinkable Yogurt6x93.0 ml,$4.79ea,$0.86/ 100g,valu_mart,0.0086,g,4.79
-dairy_and_eggs,No Name,"White Large Eggs, 30 Pack ","No NameWhite Large Eggs, 30 Pack 30 ea",$9.49ea,$0.32/ 1ea,valu_mart,0,,9.49
+dairy_and_eggs,No Name,"White Large Eggs, 30 Pack ","No NameWhite Large Eggs, 30 Pack 30 ea",$9.49ea,$0.32/ 1ea,valu_mart,0.32,,9.49
 dairy_and_eggs,Lactantia,Unsalted Butter,LactantiaUnsalted Butter454 g,$8.49ea,$1.87/ 100g,valu_mart,0.0187,g,8.49
 dairy_and_eggs,Pillsbury,Chub Chocolate Chunk Cookie   ,PillsburyChub Chocolate Chunk Cookie   468 g,$4.49ea,$0.96/ 100g,valu_mart,0.0096,g,4.49
 dairy_and_eggs,Yoplait,Yop Drinkable Yogurt Strawberry Flavour 1% M.F.,YoplaitYop Drinkable Yogurt Strawberry Flavour 1% M.F.6x200.0 ml,$8.99ea,$0.75/ 100ml,valu_mart,0.0075,ml,8.99
@@ -1006,19 +1006,19 @@ bakery,School Safe,Muffin Bars Birthday Cake,School SafeMuffin Bars Birthday Cak
 bakery,ACE,White Baguette Bagel,ACEWhite Baguette Bagel300 g,$4.19ea,$1.40/ 100g,valu_mart,0.013999999999999999,g,4.19
 bakery,ACE,Gourmet Sausage Bun,ACEGourmet Sausage Bun340 g,$3.99ea,$1.17/ 100g,valu_mart,0.011699999999999999,g,3.99
 meat,Schneider,Hickory Smoked Classic Cut Bacon,SchneiderHickory Smoked Classic Cut Bacon375 g,$8.79ea,$2.34/ 100g,valu_mart,0.023399999999999997,g,8.79
-meat,President's Choice,"Chicken Breast, Boneless Skinless, 3 Pack","President's ChoiceChicken Breast, Boneless Skinless, 3 Pack1 ea",$12.00ea,$12.00/ 1ea,valu_mart,0,,12.00
+meat,President's Choice,"Chicken Breast, Boneless Skinless, 3 Pack","President's ChoiceChicken Breast, Boneless Skinless, 3 Pack1 ea",$12.00ea,$12.00/ 1ea,valu_mart,12.0,,12.00
 meat,Janes,"Pub Style Chicken Strips, Fully Cooked","JanesPub Style Chicken Strips, Fully Cooked700 g",$12.99ea,$1.86/ 100g,valu_mart,0.018600000000000002,g,12.99
 meat,President's Choice,"Free From Chicken Breast, Boneless, Skinless, Club Pack","President's ChoiceFree From Chicken Breast, Boneless, Skinless, Club Pack",$14.00(est.)ea,$13.21/ 1kg,valu_mart,0.013210000000000001,g,14.00
 meat,No Name,Mild Sugar-Cured Bacon,No NameMild Sugar-Cured Bacon500 g,$5.99ea,$1.20/ 100g,valu_mart,0.012,g,5.99
 meat,PC Blue Menu,Minced Turkey,PC Blue MenuMinced Turkey454 g,$7.00ea,$1.54/ 100g,valu_mart,0.0154,g,7.00
 meat,,Pork Tenderloin Pack of 2,Pork Tenderloin Pack of 2,$14.00(est.)ea,$13.21/ 1kg,valu_mart,0.013210000000000001,g,14.00
-meat,PC Blue Menu,"Boneless Skinless Chicken Breasts, 4 Pack","PC Blue MenuBoneless Skinless Chicken Breasts, 4 Pack1 ea",$15.00ea,$15.00/ 1ea,valu_mart,0,,15.00
+meat,PC Blue Menu,"Boneless Skinless Chicken Breasts, 4 Pack","PC Blue MenuBoneless Skinless Chicken Breasts, 4 Pack1 ea",$15.00ea,$15.00/ 1ea,valu_mart,15.0,,15.00
 meat,,Sirloin Tip Oven Roast,Sirloin Tip Oven Roast,$22.51(est.)ea,$17.61/ 1kg,valu_mart,0.01761,g,22.51
 meat,,Pork Half Loin,Pork Half Loin,$15.15(est.)ea,$5.05/ 1kg,valu_mart,0.00505,g,15.15
 meat,No Name,"Bacon, Mild Sugar Cured with Reduced Salt, Uncooked","No NameBacon, Mild Sugar Cured with Reduced Salt, Uncooked500 g",$5.99ea,$1.20/ 100g,valu_mart,0.012,g,5.99
 meat,President's Choice,"Air Chilled Chicken, Whole","President's ChoiceAir Chilled Chicken, Whole",$17.03(est.)ea,$9.46/ 1kg,valu_mart,0.009460000000000001,g,17.03
 meat,PC Blue Menu,Ground Chicken,PC Blue MenuGround Chicken454 g,$7.00ea,$1.54/ 100g,valu_mart,0.0154,g,7.00
-meat,PC Blue Menu,Chicken Thighs  boneless Skinless  8 Pack,PC Blue MenuChicken Thighs  boneless Skinless  8 Pack1 ea,$12.00ea,$12.00/ 1ea,valu_mart,0,,12.00
+meat,PC Blue Menu,Chicken Thighs  boneless Skinless  8 Pack,PC Blue MenuChicken Thighs  boneless Skinless  8 Pack1 ea,$12.00ea,$12.00/ 1ea,valu_mart,12.0,,12.00
 meat,Janes,"Pub Style Chicken Burger, Fully Cooked","JanesPub Style Chicken Burger, Fully Cooked700 g",$12.99ea,$1.86/ 100g,valu_mart,0.018600000000000002,g,12.99
 meat,Maple Leaf,Original Natural Bacon,Maple LeafOriginal Natural Bacon375 g,$8.79ea,$2.34/ 100g,valu_mart,0.023399999999999997,g,8.79
 meat,,"Beef Ground Medium, Club Pack","Beef Ground Medium, Club Pack",$11.26(est.)ea,$8.80/ 1kg,valu_mart,0.0088,g,11.26
@@ -1069,7 +1069,7 @@ meat,Lous,Peameal Bacon Original,LousPeameal Bacon Original800 g,$7.79ea,$0.97/ 
 meat,Schneider,"Smokies, Sharp Cheddar Smoked Sausage","SchneiderSmokies, Sharp Cheddar Smoked Sausage900 g",$15.49ea,$1.72/ 100g,valu_mart,0.0172,g,15.49
 meat,President's Choice,Free From Turkey Meatballs,President's ChoiceFree From Turkey Meatballs800 g,$14.99ea,$1.87/ 100g,valu_mart,0.0187,g,14.99
 meat,The Keg,Prime Rib Beef Burger,The KegPrime Rib Beef Burger1.02 kg,$20.99ea,$2.06/ 100g,valu_mart,0.0206,g,20.99
-meat,President's Choice,"Air Chilled Chicken Drumsticks, 8-Pack","President's ChoiceAir Chilled Chicken Drumsticks, 8-Pack1 ea",$10.00ea,$10.00/ 1ea,valu_mart,0,,10.00
+meat,President's Choice,"Air Chilled Chicken Drumsticks, 8-Pack","President's ChoiceAir Chilled Chicken Drumsticks, 8-Pack1 ea",$10.00ea,$10.00/ 1ea,valu_mart,10.0,,10.00
 meat,,Beef Striploin Fast Fry Steak,Beef Striploin Fast Fry Steak,$14.61(est.)ea,$41.87/ 1kg,valu_mart,0.04187,g,14.61
 meat,PC Blue Menu,Lean Beef Burgers,PC Blue MenuLean Beef Burgers2.27 kg,$25.99ea,$1.14/ 100g,valu_mart,0.011399999999999999,g,25.99
 meat,President's Choice,Nashville Breaded Chicken Bites,President's ChoiceNashville Breaded Chicken Bites700 g,$15.99ea,$2.28/ 100g,valu_mart,0.022799999999999997,g,15.99
@@ -1106,7 +1106,7 @@ meat,Impossible Foods Inc.,Simulated Meat Burger Patties Made From Plants,Imposs
 meat,New Zealand,Lamb Sausage,New ZealandLamb Sausage500 g,$10.49ea,$20.98/ 1kg,valu_mart,0.020980000000000002,g,10.49
 meat,No Name,All-Beef Wieners,No NameAll-Beef Wieners450 g,$5.49ea,$1.22/ 100g,valu_mart,0.012199999999999999,g,5.49
 meat,Butterball,Frozen Turkey 7-9 Kg,ButterballFrozen Turkey 7-9 Kg8 kg,$64.00ea,$0.80/ 100g,valu_mart,0.008,g,64.00
-meat,President's Choice,"Air Chilled Chicken Breast Cutlet, Boneless, Skinless","President's ChoiceAir Chilled Chicken Breast Cutlet, Boneless, Skinless1 ea",$12.00ea,$12.00/ 1ea,valu_mart,0,,12.00
+meat,President's Choice,"Air Chilled Chicken Breast Cutlet, Boneless, Skinless","President's ChoiceAir Chilled Chicken Breast Cutlet, Boneless, Skinless1 ea",$12.00ea,$12.00/ 1ea,valu_mart,12.0,,12.00
 meat,President's Choice,Jerk Frenched Chops,President's ChoiceJerk Frenched Chops440 g,$10.39ea,$2.36/ 100g,valu_mart,0.0236,g,10.39
 meat,President's Choice,Turkey Smokies,President's ChoiceTurkey Smokies300 g,$8.49ea,$2.83/ 100g,valu_mart,0.028300000000000002,g,8.49
 meat,President's Choice,Gluten Free Chicken Nuggets,President's ChoiceGluten Free Chicken Nuggets600 g,$8.49ea,$1.42/ 100g,valu_mart,0.014199999999999999,g,8.49
@@ -1117,7 +1117,7 @@ meat,President's Choice,Cheddar Smokies ,President's ChoiceCheddar Smokies 1
 meat,Swiss Chalet,BBQ Pork Ribs,Swiss ChaletBBQ Pork Ribs600 g,$15.99ea,$2.67/ 100g,valu_mart,0.026699999999999998,g,15.99
 meat,No Name,Pork Loin Peameal-Style Sliced Cured,No NamePork Loin Peameal-Style Sliced Cured454 g,$6.49ea,$1.43/ 100g,valu_mart,0.0143,g,6.49
 meat,President's Choice,Smokin Stampede Pork Back Ribs ,President's ChoiceSmokin Stampede Pork Back Ribs 680 g,$13.99ea,$2.06/ 100g,valu_mart,0.0206,g,13.99
-meat,PC Blue Menu,"Air Chilled Chicken Breast Fillets, Boneless, Skinless","PC Blue MenuAir Chilled Chicken Breast Fillets, Boneless, Skinless1 ea",$10.00ea,$10.00/ 1ea,valu_mart,0,,10.00
+meat,PC Blue Menu,"Air Chilled Chicken Breast Fillets, Boneless, Skinless","PC Blue MenuAir Chilled Chicken Breast Fillets, Boneless, Skinless1 ea",$10.00ea,$10.00/ 1ea,valu_mart,10.0,,10.00
 meat,Butterball,"Frozen Turkey, 5-7 Kg","ButterballFrozen Turkey, 5-7 Kg6 kg",$48.00ea,$0.80/ 100g,valu_mart,0.008,g,48.00
 meat,President's Choice,Cheddar Jalapeno Smokies Pork Sausages,President's ChoiceCheddar Jalapeno Smokies Pork Sausages1000 g,$13.79ea,$1.38/ 100g,valu_mart,0.0138,g,13.79
 meat,President's Choice,Butter Infused Young Turkey - Frozen - 3-5 kg,President's ChoiceButter Infused Young Turkey - Frozen - 3-5 kg1 kg,$35.00ea,,valu_mart,35.00,,35.00
@@ -1150,7 +1150,7 @@ meat,Maple Leaf,Red Hots Original Hot Dogs Party Size,Maple LeafRed Hots Origina
 meat,No Name,"Chicken Wings, Club Pack","No NameChicken Wings, Club Pack1.81 kg",$25.99ea,$1.44/ 100g,valu_mart,0.0144,g,25.99
 meat,Butterball,Boneless Stuffed Turkey Ball Frozen,ButterballBoneless Stuffed Turkey Ball Frozen1.5 kg,$24.99ea,$1.67/ 100g,valu_mart,0.0167,g,24.99
 meat,President's Choice,"Chicken Wings, Crisp & Crunchy Mild Southern-Style ","President's ChoiceChicken Wings, Crisp & Crunchy Mild Southern-Style 907 g",$13.99ea,$1.54/ 100g,valu_mart,0.0154,g,13.99
-meat,President's Choice,"Air Chilled Chicken Thighs, Bone-in, Skin-on","President's ChoiceAir Chilled Chicken Thighs, Bone-in, Skin-on1 ea",$10.00ea,$10.00/ 1ea,valu_mart,0,,10.00
+meat,President's Choice,"Air Chilled Chicken Thighs, Bone-in, Skin-on","President's ChoiceAir Chilled Chicken Thighs, Bone-in, Skin-on1 ea",$10.00ea,$10.00/ 1ea,valu_mart,10.0,,10.00
 meat,President's Choice,Butter Infused Young Turkey - Frozen - 7-9kg,President's ChoiceButter Infused Young Turkey - Frozen - 7-9kg1 kg,$62.00ea,,valu_mart,62.00,,62.00
 meat,President's Choice,Jerk Frenched Chops,President's ChoiceJerk Frenched Chops440 g,$10.39ea,$2.36/ 100g,valu_mart,0.0236,g,10.39
 meat,Janes,Chicken Burgers,JanesChicken Burgers852 g,$12.99ea,$1.52/ 100g,valu_mart,0.0152,g,12.99
@@ -1181,7 +1181,7 @@ meat,,"Pork Loin Butterfly Center Cut Boneless, Club Pack","Pork Loin Butterfly 
 meat,Schneider,Original Ham Steak,SchneiderOriginal Ham Steak175 g,$6.19ea,$3.54/ 100g,valu_mart,0.0354,g,6.19
 meat,Marcangelo,"Pork Souvlaki, Value Pack","MarcangeloPork Souvlaki, Value Pack640 g",$14.99ea,$2.34/ 100g,valu_mart,0.023399999999999997,g,14.99
 meat,President's Choice,Thick & Juicy™ Chicken Burgers ,President's ChoiceThick & Juicy™ Chicken Burgers 1.13 kg,$14.99ea,$1.33/ 100g,valu_mart,0.013300000000000001,g,14.99
-meat,President's Choice,Air Chilled Split Chicken Wings,President's ChoiceAir Chilled Split Chicken Wings1 ea,$12.00ea,$12.00/ 1ea,valu_mart,0,,12.00
+meat,President's Choice,Air Chilled Split Chicken Wings,President's ChoiceAir Chilled Split Chicken Wings1 ea,$12.00ea,$12.00/ 1ea,valu_mart,12.0,,12.00
 meat,Butterball,"Turkey, 5-7KG Frozen","ButterballTurkey, 5-7KG Frozen10 kg",$79.00ea,$0.79/ 100g,valu_mart,0.0079,g,79.00
 meat,Schneider,97% Fat Free Lower Sodium Smoked Ham,Schneider97% Fat Free Lower Sodium Smoked Ham700 g,$16.39ea,$2.34/ 100g,valu_mart,0.023399999999999997,g,16.39
 meat,President's Choice,Easy-Carve Turkey With Traditional Cranberry Stuffing,President's ChoiceEasy-Carve Turkey With Traditional Cranberry Stuffing3.85 kg,$54.99ea,$1.43/ 100g,valu_mart,0.0143,g,54.99
@@ -1230,7 +1230,7 @@ meat,President's Choice,Yuzu Citrus Chicken Wings,President's ChoiceYuzu Citrus 
 meat,President's Choice,Butter-Infused Stuffed Turkey Crown,President's ChoiceButter-Infused Stuffed Turkey Crown3 kg,$38.99ea,$1.30/ 100g,valu_mart,0.013000000000000001,g,38.99
 meat,President's Choice,"Hickory Smoked Spiral Ham, Sliced","President's ChoiceHickory Smoked Spiral Ham, Sliced",$25.85(est.)ea,$11.00/ 1kg,valu_mart,0.011,g,25.85
 meat,President's Choice,Gluten Free Chicken Burgers,President's ChoiceGluten Free Chicken Burgers600 g,$8.49ea,$1.42/ 100g,valu_mart,0.014199999999999999,g,8.49
-meat,President's Choice,Air Chilled Split Chicken Wings,President's ChoiceAir Chilled Split Chicken Wings1 ea,$12.00ea,$12.00/ 1ea,valu_mart,0,,12.00
+meat,President's Choice,Air Chilled Split Chicken Wings,President's ChoiceAir Chilled Split Chicken Wings1 ea,$12.00ea,$12.00/ 1ea,valu_mart,12.0,,12.00
 meat,Butcher's Choice,Honey Garlic Flavoured Pork Sausages ,Butcher's ChoiceHoney Garlic Flavoured Pork Sausages 1.45 kg,$14.99ea,$1.03/ 100g,valu_mart,0.0103,g,14.99
 meat,,Medium Ground Beef,Medium Ground Beef,$4.91(est.)ea,$11.00/ 1kg,valu_mart,0.011,g,4.91
 meat,President's Choice,Free From Flank Steak,President's ChoiceFree From Flank Steak,$15.35(est.)ea,$37.45/ 1kg,valu_mart,0.037450000000000004,g,15.35
@@ -1289,17 +1289,17 @@ meat,President's Choice,Free From Boneless Rib Steak,President's ChoiceFree From
 meat,Schneider,Juicy Jumbos All Beef Hot Dogs,SchneiderJuicy Jumbos All Beef Hot Dogs375 g,$7.79ea,$2.08/ 100g,valu_mart,0.0208,g,7.79
 meat,Beyond Meat,Sausage Mild Italian,Beyond MeatSausage Mild Italian400 g,$9.99ea,$2.50/ 100g,valu_mart,0.025,g,9.99
 produce,,"Bananas, Bunch","Bananas, Bunch",$1.75(est.)ea,$1.52/ 1kg,valu_mart,0.00152,g,1.75
-produce,,English Cucumber,English Cucumber1 ea,$1.99ea,$1.99/ 1ea,valu_mart,0,,1.99
-produce,,Green Onion,Green Onion1 bunch,$1.99ea,$1.99/ 1ea,valu_mart,0,,1.99
-produce,,Avocados Bag,Avocados Bag1 bag,$4.99ea,$1.00/ 1ea,valu_mart,0,,4.99
+produce,,English Cucumber,English Cucumber1 ea,$1.99ea,$1.99/ 1ea,valu_mart,1.99,,1.99
+produce,,Green Onion,Green Onion1 bunch,$1.99ea,$1.99/ 1ea,valu_mart,1.99,,1.99
+produce,,Avocados Bag,Avocados Bag1 bag,$4.99ea,$1.00/ 1ea,valu_mart,1.0,,4.99
 produce,Farmer's Market,Yellow Onions,Farmer's MarketYellow Onions3 lb bag,$3.49ea,$0.26/ 100g,valu_mart,0.0026,g,3.49
-produce,,Celery Stalks,Celery Stalks1 ea,$3.69ea,$3.69/ 1ea,valu_mart,0,,3.69
+produce,,Celery Stalks,Celery Stalks1 ea,$3.69ea,$3.69/ 1ea,valu_mart,3.69,,3.69
 produce,,Green Seedless Grapes,Green Seedless Grapes,$10.10(est.)ea,$9.90/ 1kg,valu_mart,0.0099,g,10.10
 produce,,Tomato On The Vine Red ( 1 Bunch),Tomato On The Vine Red ( 1 Bunch),$5.46(est.)ea,$7.69/ 1kg,valu_mart,0.007690000000000001,g,5.46
-produce,,Broccoli,Broccoli1 ea,$3.99ea,$3.99/ 1ea,valu_mart,0,,3.99
+produce,,Broccoli,Broccoli1 ea,$3.99ea,$3.99/ 1ea,valu_mart,3.99,,3.99
 produce,,Clementines,Clementines5 lbs,$6.99ea,$0.30/ 100g,valu_mart,0.003,g,6.99
-produce,,Lettuce Iceberg,Lettuce Iceberg1 ea,$4.49ea,$4.49/ 1ea,valu_mart,0,,4.49
-produce,,Lemon,Lemon1 ea,$1.09ea,$1.09/ 1ea,valu_mart,0,,1.09
+produce,,Lettuce Iceberg,Lettuce Iceberg1 ea,$4.49ea,$4.49/ 1ea,valu_mart,4.49,,4.49
+produce,,Lemon,Lemon1 ea,$1.09ea,$1.09/ 1ea,valu_mart,1.09,,1.09
 produce,,Blueberries 1 pint,Blueberries 1 pint340 g,$4.99ea,$1.47/ 100g,valu_mart,0.0147,g,4.99
 produce,,Red Seedless Grapes,Red Seedless Grapes,$9.80(est.)ea,$9.90/ 1kg,valu_mart,0.0099,g,9.80
 produce,Farmer's Market,Carrots,Farmer's MarketCarrots3 lb bag,$3.49ea,$0.26/ 100g,valu_mart,0.0026,g,3.49
@@ -1307,7 +1307,7 @@ produce,,Tomato Beefsteak  Red,Tomato Beefsteak  Red,$1.77(est.)ea,$6.59/ 1kg,va
 produce,,Red Peppers    ,Red Peppers    ,$2.64(est.)ea,$11.00/ 1kg,valu_mart,0.011,g,2.64
 produce,,Zucchini,Zucchini,$1.85(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999999999995,g,1.85
 produce,,Broccoli Crowns,Broccoli Crowns,$2.92(est.)ea,$7.69/ 1kg,valu_mart,0.007690000000000001,g,2.92
-produce,,Cilantro,Cilantro1 bunch,$2.99ea,$2.99/ 1ea,valu_mart,0,,2.99
+produce,,Cilantro,Cilantro1 bunch,$2.99ea,$2.99/ 1ea,valu_mart,2.99,,2.99
 produce,PC Organics,"Organic Bananas, Bunch","PC OrganicsOrganic Bananas, Bunch",$2.88(est.)ea,$2.62/ 1kg,valu_mart,0.00262,g,2.88
 produce,,Red Onion,Red Onion,$2.44(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999999999995,g,2.44
 produce,,Sweet Potato,Sweet Potato,$2.49(est.)ea,$3.95/ 1kg,valu_mart,0.00395,g,2.49
@@ -1316,10 +1316,10 @@ produce,,Roma Tomatoes,Roma Tomatoes,$0.92(est.)ea,$7.69/ 1kg,valu_mart,0.007690
 produce,,Strawberries 1LB,Strawberries 1LB454 g,$5.99ea,$1.32/ 100g,valu_mart,0.0132,g,5.99
 produce,,Ginger,Ginger,$1.85(est.)ea,$8.80/ 1kg,valu_mart,0.0088,g,1.85
 produce,,Navel Orange,Navel Orange,$2.31(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999999999995,g,2.31
-produce,,Limes,Limes1 ea,$0.99ea,$0.99/ 1ea,valu_mart,0,,0.99
+produce,,Limes,Limes1 ea,$0.99ea,$0.99/ 1ea,valu_mart,0.99,,0.99
 produce,,Royal Gala Apples,Royal Gala Apples,$1.61(est.)ea,$7.69/ 1kg,valu_mart,0.007690000000000001,g,1.61
-produce,Rooster,Garlic      ,RoosterGarlic      90 g,$1.49ea,$0.50/ 1ea,valu_mart,0,,1.49
-produce,Farmer's Market,Greenhouse Peppers,Farmer's MarketGreenhouse Peppers1 ea,$5.99ea,$2.00/ 1ea,valu_mart,0,,5.99
+produce,Rooster,Garlic      ,RoosterGarlic      90 g,$1.49ea,$0.50/ 1ea,valu_mart,0.5,,1.49
+produce,Farmer's Market,Greenhouse Peppers,Farmer's MarketGreenhouse Peppers1 ea,$5.99ea,$2.00/ 1ea,valu_mart,2.0,,5.99
 produce,Farmer's Market,Russet Potatoes,Farmer's MarketRusset Potatoes10 lb bag,$3.99ea,$0.09/ 100g,valu_mart,0.0009,g,3.99
 produce,,Sweet Onion,Sweet Onion,$3.03(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999999999995,g,3.03
 produce,Farmer's Market,Grape Tomatoes,Farmer's MarketGrape Tomatoes283 g,$4.99ea,$1.76/ 100g,valu_mart,0.0176,g,4.99
@@ -1327,7 +1327,7 @@ produce,Farmer's Market,Mini Carrots,Farmer's MarketMini Carrots340 g,$2.49ea,$0
 produce,,Colossal Garlic,Colossal Garlic,$1.98(est.)ea,$19.82/ 1kg,valu_mart,0.01982,g,1.98
 produce,,Large Chestnuts,Large Chestnuts,$0.88/50 g,$1.76/ 100g,valu_mart,0.0176,g,0.88
 produce,Greenhouse,Kombucha Ultraviolet Organic    ,GreenhouseKombucha Ultraviolet Organic    340 ml,$4.99ea,$1.47/ 100ml,valu_mart,0.0147,ml,4.99
-produce,,Curly Parsley,Curly Parsley1 bunch,$2.69ea,$2.69/ 1ea,valu_mart,0,,2.69
+produce,,Curly Parsley,Curly Parsley1 bunch,$2.69ea,$2.69/ 1ea,valu_mart,2.69,,2.69
 produce,President's Choice,Thyme ,President's ChoiceThyme 28 g,$2.99ea,,valu_mart,2.99,,2.99
 produce,President's Choice,Mixed Little Gems,President's ChoiceMixed Little Gems0.68 kg,$3.99ea,$0.59/ 100g,valu_mart,0.0059,g,3.99
 produce,,Honey Pitted Dates,Honey Pitted Dates350 g,$4.99ea,$1.43/ 100g,valu_mart,0.0143,g,4.99
@@ -1340,10 +1340,10 @@ produce,,"Chicken Ceasar Salad, Mini No Bacon","Chicken Ceasar Salad, Mini No Ba
 produce,,Ginger Beer,Ginger Beer340 ml,$7.99ea,$2.35/ 100ml,valu_mart,0.0235,ml,7.99
 produce,PC Blue Menu,Unsalted California Pistachios ,PC Blue MenuUnsalted California Pistachios 454 g,$10.99ea,$2.42/ 100g,valu_mart,0.0242,g,10.99
 produce,Loop,Cold-Pressed Juice Better Together Grapefruit Orange Ginger,LoopCold-Pressed Juice Better Together Grapefruit Orange Ginger947 ml,$7.99ea,$0.80/ 100ml,valu_mart,0.008,ml,7.99
-produce,,Italian Parsley,Italian Parsley1 bunch,$2.69ea,$2.69/ 1ea,valu_mart,0,,2.69
+produce,,Italian Parsley,Italian Parsley1 bunch,$2.69ea,$2.69/ 1ea,valu_mart,2.69,,2.69
 produce,,Organic Dried Figs,Organic Dried Figs250 g,$5.99ea,$2.40/ 100g,valu_mart,0.024,g,5.99
 produce,President's Choice,Spring Mix,President's ChoiceSpring Mix0.142 kg,$4.99ea,$3.51/ 100g,valu_mart,0.0351,g,4.99
-produce,,Organic Rainbow Carrots,Organic Rainbow Carrots1 bunch,$5.99ea,$5.99/ 1ea,valu_mart,0,,5.99
+produce,,Organic Rainbow Carrots,Organic Rainbow Carrots1 bunch,$5.99ea,$5.99/ 1ea,valu_mart,5.99,,5.99
 produce,PC Organics,Baby Spinach,PC OrganicsBaby Spinach142 g,$5.99ea,$4.22/ 100g,valu_mart,0.042199999999999994,g,5.99
 produce,,Chick Pea/Artichoke/Sundried Tomato Salad,Chick Pea/Artichoke/Sundried Tomato Salad,$7.45(est.)ea,$21.90/ 1kg,valu_mart,0.0219,g,7.45
 produce,,Fresh Orange Juice,Fresh Orange Juice1.5 l,$15.00ea,$1.00/ 100ml,valu_mart,0.01,ml,15.00
@@ -1353,13 +1353,13 @@ produce,,Clementine Stem & Leaf,Clementine Stem & Leaf,$0.92(est.)ea,$8.80/ 1kg,
 produce,Marzetti,Southwest Ranch Veggie Dip,MarzettiSouthwest Ranch Veggie Dip85 g,$1.49ea,$1.75/ 100g,valu_mart,0.0175,g,1.49
 produce,PC Organics,Organic Tomato On The Vine Red (1 Bunch),PC OrganicsOrganic Tomato On The Vine Red (1 Bunch),$9.51(est.)ea,$13.21/ 1kg,valu_mart,0.013210000000000001,g,9.51
 produce,POM Wonderful,100% Pomegranate Juice,POM Wonderful100% Pomegranate Juice1.4 l,$14.99ea,$1.07/ 100ml,valu_mart,0.010700000000000001,ml,14.99
-produce,,"Fresh Dill, Baby","Fresh Dill, Baby1 bunch",$3.99ea,$3.99/ 1ea,valu_mart,0,,3.99
+produce,,"Fresh Dill, Baby","Fresh Dill, Baby1 bunch",$3.99ea,$3.99/ 1ea,valu_mart,3.99,,3.99
 produce,No Name,Brown Mushrooms,No NameBrown Mushrooms680 g,$4.99ea,$0.73/ 100g,valu_mart,0.0073,g,4.99
 produce,Gourmet Garden,Stir-In Paste Thai Seasoning,Gourmet GardenStir-In Paste Thai Seasoning115 g,$5.99ea,$5.21/ 100g,valu_mart,0.0521,g,5.99
 produce,Bolthouse,Blue Goodness,BolthouseBlue Goodness946 ml,$6.99ea,$0.74/ 100ml,valu_mart,0.0074,ml,6.99
 produce,,Lunch Size Veg and Dip 600G,Lunch Size Veg and Dip 600G1 kg,$8.00ea,$1.33/ 100g,valu_mart,0.013300000000000001,g,8.00
 produce,Bolthouse,"Juice, 100% Pomegranate","BolthouseJuice, 100% Pomegranate1.54 l",$12.99ea,$0.84/ 100ml,valu_mart,0.0084,ml,12.99
-produce,,Kiwis,Kiwis1 ea,$1.09ea,$1.09/ 1ea,valu_mart,0,,1.09
+produce,,Kiwis,Kiwis1 ea,$1.09ea,$1.09/ 1ea,valu_mart,1.09,,1.09
 produce,Greenhouse,Organic Booster Lullaby,GreenhouseOrganic Booster Lullaby60 ml,$3.99ea,$6.65/ 100ml,valu_mart,0.0665,ml,3.99
 produce,,Avocado Salad,Avocado Salad238 g,$8.00ea,$3.36/ 100g,valu_mart,0.0336,g,8.00
 produce,Remedy,Peach Kombucha,RemedyPeach Kombucha700 ml,$4.99ea,$0.71/ 100ml,valu_mart,0.0070999999999999995,ml,4.99
@@ -1379,12 +1379,12 @@ produce,President's Choice,Mixed Nuts in Shell,President's ChoiceMixed Nuts in S
 produce,Remedy,Organic Mango Passionfruit Kombucha,RemedyOrganic Mango Passionfruit Kombucha700 ml,$4.99ea,$0.71/ 100ml,valu_mart,0.0070999999999999995,ml,4.99
 produce,POM Wonderful,"Pomegranate, Fresh Arils","POM WonderfulPomegranate, Fresh Arils227 g",$9.99ea,$4.40/ 100g,valu_mart,0.044000000000000004,g,9.99
 produce,,Organic Raspberry Lemon Kombucha,Organic Raspberry Lemon Kombucha355 ml,$3.99ea,$1.12/ 100ml,valu_mart,0.011200000000000002,ml,3.99
-produce,,Organic English Cucumber,Organic English Cucumber1 ea,$3.99ea,$3.99/ 1ea,valu_mart,0,,3.99
+produce,,Organic English Cucumber,Organic English Cucumber1 ea,$3.99ea,$3.99/ 1ea,valu_mart,3.99,,3.99
 produce,,Romaine Salad Family Size,Romaine Salad Family Size1 kg,$14.00ea,$1.40/ 100g,valu_mart,0.013999999999999999,g,14.00
 produce,Well,Cold Pressed Juice C Well  ,WellCold Pressed Juice C Well  333 ml,$5.99ea,$1.80/ 100ml,valu_mart,0.018000000000000002,ml,5.99
 produce,Bolthouse,Green Goodness,BolthouseGreen Goodness1.54 l,$9.99ea,$0.65/ 100ml,valu_mart,0.006500000000000001,ml,9.99
 produce,GoodLeaf,Micro Arugula,GoodLeafMicro Arugula50 g,$4.49ea,$8.98/ 100g,valu_mart,0.0898,g,4.49
-produce,,Pummelos,Pummelos1 lb bag,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,,Pummelos,Pummelos1 lb bag,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,President's Choice,Finger Hot Hot Peppers,President's ChoiceFinger Hot Hot Peppers226 g,$5.99ea,$2.65/ 100g,valu_mart,0.0265,g,5.99
 produce,,Snack  Platter,Snack  Platter380 g,$7.00ea,$1.84/ 100g,valu_mart,0.0184,g,7.00
 produce,President's Choice,Broccoli Slaw,President's ChoiceBroccoli Slaw340 g,$3.99ea,$1.17/ 100g,valu_mart,0.011699999999999999,g,3.99
@@ -1413,7 +1413,7 @@ produce,President's Choice,Mini Mixed Potatoes,President's ChoiceMini Mixed Pota
 produce,,Coloured Carrots,Coloured Carrots454 g,$3.49ea,$0.77/ 100g,valu_mart,0.0077,g,3.49
 produce,Greenhouse,Lime Herbal Kombucha,GreenhouseLime Herbal Kombucha340 ml,$4.99ea,$1.47/ 100ml,valu_mart,0.0147,ml,4.99
 produce,,Lady Alice Apples,Lady Alice Apples,$1.54(est.)ea,$7.69/ 1kg,valu_mart,0.007690000000000001,g,1.54
-produce,PC Organics,"Organic Avocados, Bag","PC OrganicsOrganic Avocados, Bag3 pack",$6.99ea,$2.33/ 1ea,valu_mart,0,,6.99
+produce,PC Organics,"Organic Avocados, Bag","PC OrganicsOrganic Avocados, Bag3 pack",$6.99ea,$2.33/ 1ea,valu_mart,2.33,,6.99
 produce,No Name,Naturally Imperfect Avocados,No NameNaturally Imperfect Avocados3 lb bag,$7.99ea,$0.59/ 100g,valu_mart,0.0059,g,7.99
 produce,President's Choice,Mixed Greens,President's ChoiceMixed Greens0.34 kg,$5.49ea,$1.61/ 100g,valu_mart,0.0161,g,5.49
 produce,,"Snack Cup, Veggies & Dip","Snack Cup, Veggies & Dip200 g",$5.00ea,$2.35/ 100g,valu_mart,0.0235,g,5.00
@@ -1437,7 +1437,7 @@ produce,,Bard Valley Natural Delights Pitted Medjool Dates,Bard Valley Natural D
 produce,,"Chanterelle Mushrooms, Dried","Chanterelle Mushrooms, Dried14 g",$5.49ea,$39.21/ 100g,valu_mart,0.3921,g,5.49
 produce,Taylor Farms,"Chopped Salad Kit, Steakhouse","Taylor FarmsChopped Salad Kit, Steakhouse365 g",$6.99ea,$1.92/ 100g,valu_mart,0.0192,g,6.99
 produce,Marzetti,"Veggie Dip, Light Ranch","MarzettiVeggie Dip, Light Ranch340 g",$5.99ea,$1.76/ 100g,valu_mart,0.0176,g,5.99
-produce,,Red Seedless Watermelon,Red Seedless Watermelon1 ea,$12.99ea,$12.99/ 1ea,valu_mart,0,,12.99
+produce,,Red Seedless Watermelon,Red Seedless Watermelon1 ea,$12.99ea,$12.99/ 1ea,valu_mart,12.99,,12.99
 produce,,Pineapple Cubed Large,Pineapple Cubed Large1 kg,$8.00ea,$1.03/ 100g,valu_mart,0.0103,g,8.00
 produce,Bolthouse,Strawberry Banana,BolthouseStrawberry Banana450 ml,$5.49ea,$1.22/ 100ml,valu_mart,0.012199999999999999,ml,5.49
 produce,PC Organics,Organics Whole Cremini Mushrooms,PC OrganicsOrganics Whole Cremini Mushrooms227 g,$2.99ea,$1.32/ 100g,valu_mart,0.0132,g,2.99
@@ -1446,7 +1446,7 @@ produce,,Jamaican Ginger,Jamaican Ginger,$4.05(est.)ea,$17.61/ 1kg,valu_mart,0.0
 produce,,Sweet Potato Crinkle Fries,Sweet Potato Crinkle Fries500 g,$6.00ea,$1.20/ 100g,valu_mart,0.012,g,6.00
 produce,Greenhouse, Fiery Ginger,Greenhouse Fiery Ginger60 ml,$3.99ea,$6.65/ 100ml,valu_mart,0.0665,ml,3.99
 produce,President's Choice,Sweet Baby Lettuce,President's ChoiceSweet Baby Lettuce142 g,$4.99ea,$3.51/ 100g,valu_mart,0.0351,g,4.99
-produce,PC Organics,Organic Peppers,PC OrganicsOrganic Peppers2 pack,$5.99ea,$3.00/ 1ea,valu_mart,0,,5.99
+produce,PC Organics,Organic Peppers,PC OrganicsOrganic Peppers2 pack,$5.99ea,$3.00/ 1ea,valu_mart,3.0,,5.99
 produce,Wholly Guacamole,Minis,Wholly GuacamoleMinis227 g,$6.99ea,$3.08/ 100g,valu_mart,0.0308,g,6.99
 produce,PC Organics,Organic Cremini Mushrooms,PC OrganicsOrganic Cremini Mushrooms680 g,$8.49ea,$1.25/ 100g,valu_mart,0.0125,g,8.49
 produce,Aurora,Sundried Tomatoes,AuroraSundried Tomatoes85 g,$2.99ea,$3.32/ 100g,valu_mart,0.0332,g,2.99
@@ -1469,7 +1469,7 @@ produce,Greenhouse,Organic Shake Vanilla Almond Brekky,GreenhouseOrganic Shake V
 produce,,Premium Baby Spinach With Chicken,Premium Baby Spinach With Chicken294 g,$8.00ea,$2.72/ 100g,valu_mart,0.027200000000000002,g,8.00
 produce,,Carrots & Cucumber ,Carrots & Cucumber 255 g,$4.00ea,$1.57/ 100g,valu_mart,0.015700000000000002,g,4.00
 produce,Bolthouse,Green Goodness,BolthouseGreen Goodness450 ml,$5.49ea,$1.22/ 100ml,valu_mart,0.012199999999999999,ml,5.49
-produce,,Fresh Coconut Young,Fresh Coconut Young1 ea,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,,Fresh Coconut Young,Fresh Coconut Young1 ea,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,President's Choice,"Meyer Lemon, 1lb","President's ChoiceMeyer Lemon, 1lb454 g",$5.49ea,$1.21/ 100g,valu_mart,0.0121,g,5.49
 produce,Farmer's Market,Yellow Potato 10lb Bag,Farmer's MarketYellow Potato 10lb Bag10 lb bag,$6.99ea,$0.15/ 100g,valu_mart,0.0015,g,6.99
 produce,,Berry Berry Small,Berry Berry Small295 g,$6.00ea,$0.60/ 100g,valu_mart,0.006,g,6.00
@@ -1488,16 +1488,16 @@ produce,,"Chanterelle Mushrooms, Dried","Chanterelle Mushrooms, Dried14 g",$5.49
 produce,,White Onion,White Onion,$2.44(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999999999995,g,2.44
 produce,President's Choice,Chopped Mexican Style Street Corn Salad Kit,President's ChoiceChopped Mexican Style Street Corn Salad Kit285 g,$6.99ea,$2.45/ 100g,valu_mart,0.0245,g,6.99
 produce,Farmer's Market,Honeycrisp Apples,Farmer's MarketHoneycrisp Apples4 lb bag,$10.99ea,$0.61/ 100g,valu_mart,0.0060999999999999995,g,10.99
-produce,,Sweet Tango Apple,Sweet Tango Apple2 lb,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,,Sweet Tango Apple,Sweet Tango Apple2 lb,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,PC Organics,Honeycrisp Apples 3Lb Bag,PC OrganicsHoneycrisp Apples 3Lb Bag1.36 kg,$11.99ea,$0.88/ 100g,valu_mart,0.0088,g,11.99
-produce,,"Juice- Apple, Carrot, Beet & Lemon","Juice- Apple, Carrot, Beet & Lemon1 ea",$13.00ea,$13.00/ 1ea,valu_mart,0,,13.00
+produce,,"Juice- Apple, Carrot, Beet & Lemon","Juice- Apple, Carrot, Beet & Lemon1 ea",$13.00ea,$13.00/ 1ea,valu_mart,13.0,,13.00
 produce,,"Southwestern Chicken Salad, Family Size","Southwestern Chicken Salad, Family Size1.47 kg",$17.00ea,$1.16/ 100g,valu_mart,0.0116,g,17.00
 produce,President's Choice,Savory,President's ChoiceSavory28 g,$2.99ea,,valu_mart,2.99,,2.99
-produce,Farmer's Market,Mango Red 3Ct,Farmer's MarketMango Red 3Ct3 ea,$4.49ea,$1.50/ 1ea,valu_mart,0,,4.49
+produce,Farmer's Market,Mango Red 3Ct,Farmer's MarketMango Red 3Ct3 ea,$4.49ea,$1.50/ 1ea,valu_mart,1.5,,4.49
 produce,PC Organics,Organic Russet Potatoes,PC OrganicsOrganic Russet Potatoes3 lb bag,$4.99ea,$0.37/ 100g,valu_mart,0.0037,g,4.99
 produce,,Roasted Corn & Pepper Quinoa,Roasted Corn & Pepper Quinoa,$9.20(est.)ea,$21.90/ 1kg,valu_mart,0.0219,g,9.20
 produce,Farmer's Market,Yellow Onions,Farmer's MarketYellow Onions10 lb bag,$7.99ea,$0.18/ 100g,valu_mart,0.0018,g,7.99
-produce,PC Organics,Organic Peppers,PC OrganicsOrganic Peppers2 pack,$5.99ea,$3.00/ 1ea,valu_mart,0,,5.99
+produce,PC Organics,Organic Peppers,PC OrganicsOrganic Peppers2 pack,$5.99ea,$3.00/ 1ea,valu_mart,3.0,,5.99
 produce,President's Choice,Cauliflower Slaw,President's ChoiceCauliflower Slaw0.34 kg,$4.49ea,$1.32/ 100g,valu_mart,0.0132,g,4.49
 produce,Aurora,Sundried Tomatoes,AuroraSundried Tomatoes85 g,$2.99ea,$3.32/ 100g,valu_mart,0.0332,g,2.99
 produce,PC Organics,Organic Cremini Mushrooms,PC OrganicsOrganic Cremini Mushrooms680 g,$8.49ea,$1.25/ 100g,valu_mart,0.0125,g,8.49
@@ -1513,9 +1513,9 @@ produce,President's Choice,Apple Cider Vin Pouch 45 Ml,President's ChoiceApple C
 produce,,Organic Grape Tomatoes,Organic Grape Tomatoes680 g,$9.99ea,$1.47/ 100g,valu_mart,0.0147,g,9.99
 produce,No Name,Naturally Imperfect Potatoes 15lb,No NameNaturally Imperfect Potatoes 15lb6804 g,$5.99ea,$0.09/ 100g,valu_mart,0.0009,g,5.99
 produce,,Grilled Chicken Caesar Salad,Grilled Chicken Caesar Salad,$13.14(est.)ea,$21.90/ 1kg,valu_mart,0.0219,g,13.14
-produce,Farmer's Market,Corn On The Cob,Farmer's MarketCorn On The Cob4 pack,$5.99ea,$1.50/ 1ea,valu_mart,0,,5.99
+produce,Farmer's Market,Corn On The Cob,Farmer's MarketCorn On The Cob4 pack,$5.99ea,$1.50/ 1ea,valu_mart,1.5,,5.99
 produce,,Flavour Burst Sungold Golden Kiwi,Flavour Burst Sungold Golden Kiwi454 g,$6.49ea,$1.43/ 100g,valu_mart,0.0143,g,6.49
-produce,President's Choice,"Live Lettuce Trio, 2-pack","President's ChoiceLive Lettuce Trio, 2-pack1 ea",$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,President's Choice,"Live Lettuce Trio, 2-pack","President's ChoiceLive Lettuce Trio, 2-pack1 ea",$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,,California Salad,California Salad330 g,$8.00ea,$2.42/ 100g,valu_mart,0.0242,g,8.00
 produce,,Organic Bartlett Pears,Organic Bartlett Pears3 lb bag,$10.99ea,$0.81/ 100g,valu_mart,0.008100000000000001,g,10.99
 produce,,"Garlic, Peeled","Garlic, Peeled250 g",$3.49ea,$1.40/ 100g,valu_mart,0.013999999999999999,g,3.49
@@ -1531,21 +1531,21 @@ produce,Paramount,Pistachios No Shells Honey Roasted,ParamountPistachios No Shel
 produce,President's Choice,Mini Sweet Peppers,President's ChoiceMini Sweet Peppers454 g,$5.99ea,$1.32/ 100g,valu_mart,0.0132,g,5.99
 produce,,Cortland Apples,Cortland Apples,$1.38(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999999999995,g,1.38
 produce,Greenhouse,"Raw, Organic Juice Deep Roots","GreenhouseRaw, Organic Juice Deep Roots300 ml",$7.99ea,$2.66/ 100ml,valu_mart,0.026600000000000002,ml,7.99
-produce,,Field Cucumbers,Field Cucumbers1 ea,$1.99ea,$1.99/ 1ea,valu_mart,0,,1.99
+produce,,Field Cucumbers,Field Cucumbers1 ea,$1.99ea,$1.99/ 1ea,valu_mart,1.99,,1.99
 produce,,Brussels Sprouts,Brussels Sprouts,$0.30(est.)ea,$9.90/ 1kg,valu_mart,0.0099,g,0.30
 produce,Wholly Guacamole,Chunky Bowl ,Wholly GuacamoleChunky Bowl 213 g,$5.99ea,$2.81/ 100g,valu_mart,0.0281,g,5.99
 produce,Marzetti,Caramel Dip,MarzettiCaramel Dip227 g,$5.99ea,$2.64/ 100g,valu_mart,0.0264,g,5.99
 produce,President's Choice,Romaine Salad,President's ChoiceRomaine Salad0.255 kg,$4.99ea,$1.96/ 100g,valu_mart,0.0196,g,4.99
-produce,PC Organics,Organic Green Onions,PC OrganicsOrganic Green Onions1 bunch,$2.29ea,$2.29/ 1ea,valu_mart,0,,2.29
+produce,PC Organics,Organic Green Onions,PC OrganicsOrganic Green Onions1 bunch,$2.29ea,$2.29/ 1ea,valu_mart,2.29,,2.29
 produce,,Decadent Strawberry Parfait,Decadent Strawberry Parfait290 g,$5.00ea,$1.72/ 100g,valu_mart,0.0172,g,5.00
 produce,PC Organics,Organic Red Delicious Apples,PC OrganicsOrganic Red Delicious Apples,$1.76(est.)ea,$8.80/ 1kg,valu_mart,0.0088,g,1.76
 produce,,Cobb with Cheddar Salad Mini,Cobb with Cheddar Salad Mini165 g,$5.00ea,$3.03/ 100g,valu_mart,0.030299999999999997,g,5.00
 produce,Remedy,Kombucha Wild Berry,RemedyKombucha Wild Berry700 ml,$4.99ea,$0.71/ 100ml,valu_mart,0.0070999999999999995,ml,4.99
 produce,PC Organics,Organics Baby Cut Carrots,PC OrganicsOrganics Baby Cut Carrots2 lb,$5.99ea,$0.66/ 100g,valu_mart,0.0066,g,5.99
 produce,,Strawberry Parfait,Strawberry Parfait290 g,$5.00ea,$1.92/ 100g,valu_mart,0.0192,g,5.00
-produce,,Red Grapefruit,Red Grapefruit1 ea,$2.49ea,$2.49/ 1ea,valu_mart,0,,2.49
+produce,,Red Grapefruit,Red Grapefruit1 ea,$2.49ea,$2.49/ 1ea,valu_mart,2.49,,2.49
 produce,Bolthouse,Daily Greens,BolthouseDaily Greens946 ml,$6.99ea,$0.74/ 100ml,valu_mart,0.0074,ml,6.99
-produce,,Pineapple,Pineapple1 ea,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,,Pineapple,Pineapple1 ea,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,,Medjool Dates,Medjool Dates454 g,$9.49ea,$2.09/ 100g,valu_mart,0.0209,g,9.49
 produce,,Shallots,Shallots750 g,$6.49ea,$0.87/ 100g,valu_mart,0.0087,g,6.49
 produce,,Collagen Booster Glow Multipack,Collagen Booster Glow Multipack4x60.0 ml,$14.99ea,$6.25/ 100ml,valu_mart,0.0625,ml,14.99
@@ -1560,12 +1560,12 @@ produce,Paramount,Pistachios No Shells Roasted Light Salt,ParamountPistachios No
 produce,President's Choice,Salted Virginia Peanuts,President's ChoiceSalted Virginia Peanuts454 g,$3.99ea,$0.88/ 100g,valu_mart,0.0088,g,3.99
 produce,,Premium Baby Spinach With Fruit & Nuts,Premium Baby Spinach With Fruit & Nuts296 g,$8.00ea,$2.70/ 100g,valu_mart,0.027000000000000003,g,8.00
 produce,GoodLeaf,Pea Shoots,GoodLeafPea Shoots50 g,$4.49ea,$8.98/ 100g,valu_mart,0.0898,g,4.49
-produce,,Romaine Lettuce,Romaine Lettuce1 ea,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
-produce,,Caribbean Avocado,Caribbean Avocado1 ea,$4.49ea,$4.49/ 1ea,valu_mart,0,,4.49
-produce,,Leeks,Leeks1 bunch,$5.49ea,$5.49/ 1ea,valu_mart,0,,5.49
+produce,,Romaine Lettuce,Romaine Lettuce1 ea,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
+produce,,Caribbean Avocado,Caribbean Avocado1 ea,$4.49ea,$4.49/ 1ea,valu_mart,4.49,,4.49
+produce,,Leeks,Leeks1 bunch,$5.49ea,$5.49/ 1ea,valu_mart,5.49,,5.49
 produce,The Little Potato Company,Oven BBQ Ready Onion Chive Potatoes,The Little Potato CompanyOven BBQ Ready Onion Chive Potatoes454 g,$4.99ea,$1.10/ 100g,valu_mart,0.011000000000000001,g,4.99
 produce,POM Wonderful,100% Pomegranate Juice,POM Wonderful100% Pomegranate Juice473 ml,$6.99ea,$1.48/ 100ml,valu_mart,0.0148,ml,6.99
-produce,,"Spinach, Bunched","Spinach, Bunched1 ea",$2.99ea,$2.99/ 1ea,valu_mart,0,,2.99
+produce,,"Spinach, Bunched","Spinach, Bunched1 ea",$2.99ea,$2.99/ 1ea,valu_mart,2.99,,2.99
 produce,PC Organics,Organics Yellow Onions,PC OrganicsOrganics Yellow Onions2 lb bag,$4.99ea,$0.55/ 100g,valu_mart,0.0055000000000000005,g,4.99
 produce,President's Choice,Salted California Pistachios,President's ChoiceSalted California Pistachios225 g,$5.99ea,$2.66/ 100g,valu_mart,0.026600000000000002,g,5.99
 produce,,Carrots & Snap Peas ,Carrots & Snap Peas 250 g,$4.00ea,$1.60/ 100g,valu_mart,0.016,g,4.00
@@ -1595,7 +1595,7 @@ produce,The Little Potato Company,Microwave Ready Lemon and Garden Herb Potatoes
 produce,Gourmet Garden,Lightly Dried Cilantro,Gourmet GardenLightly Dried Cilantro10 g,$5.99ea,$59.90/ 100g,valu_mart,0.599,g,5.99
 produce,Gourmet Garden,Basil Stir-In Paste,Gourmet GardenBasil Stir-In Paste115 g,$5.99ea,$5.21/ 100g,valu_mart,0.0521,g,5.99
 produce,PC Organics,Organic Lime,PC OrganicsOrganic Lime1 lb bag,$6.99ea,$1.54/ 100g,valu_mart,0.0154,g,6.99
-produce,,"Spinach, Kale, Celery Juice","Spinach, Kale, Celery Juice1 ea",$13.00ea,$13.00/ 1ea,valu_mart,0,,13.00
+produce,,"Spinach, Kale, Celery Juice","Spinach, Kale, Celery Juice1 ea",$13.00ea,$13.00/ 1ea,valu_mart,13.0,,13.00
 produce,President's Choice,Hazelnuts in Shell,President's ChoiceHazelnuts in Shell0.454 kg,$7.99ea,$1.76/ 100g,valu_mart,0.0176,g,7.99
 produce,,Fruit Salad Small,Fruit Salad Small440 g,$7.00ea,$1.59/ 100g,valu_mart,0.0159,g,7.00
 produce,,Mixed Cut Peppers ,Mixed Cut Peppers 1 kg,$6.00ea,$1.50/ 100g,valu_mart,0.015,g,6.00
@@ -1620,7 +1620,7 @@ produce,Farmer's Market,Red Delicious Apples,Farmer's MarketRed Delicious Apples
 produce,Marzetti,Caramel Dip Snack,MarzettiCaramel Dip Snack6x340.0 g,$6.49ea,$13.52/ 100g,valu_mart,0.1352,g,6.49
 produce,PC Organics,Organics Whole Shitake Mushrooms,PC OrganicsOrganics Whole Shitake Mushrooms100 g,$4.99ea,$4.99/ 100g,valu_mart,0.0499,g,4.99
 produce,,Envy Apples,Envy Apples,$1.76(est.)ea,$8.80/ 1kg,valu_mart,0.0088,g,1.76
-produce,,"Mint, Fresh","Mint, Fresh1 bunch",$1.99ea,$1.99/ 1ea,valu_mart,0,,1.99
+produce,,"Mint, Fresh","Mint, Fresh1 bunch",$1.99ea,$1.99/ 1ea,valu_mart,1.99,,1.99
 produce,Greenhouse,Fiery Ginger Juice,GreenhouseFiery Ginger Juice240 ml,$14.99ea,$6.25/ 100ml,valu_mart,0.0625,ml,14.99
 produce,,Green Cabbage,Green Cabbage,$4.77(est.)ea,$2.84/ 1kg,valu_mart,0.0028399999999999996,g,4.77
 produce,President's Choice,Ambrosia Apples,President's ChoiceAmbrosia Apples,$1.69(est.)ea,$7.69/ 1kg,valu_mart,0.007690000000000001,g,1.69
@@ -1653,20 +1653,20 @@ produce,,Organic Booster Farma-C+,Organic Booster Farma-C+4x60.0 ml,$14.99ea,$6.
 produce,President's Choice,"Ready Veggie, Kale Blend","President's ChoiceReady Veggie, Kale Blend340 g",$5.99ea,$1.76/ 100g,valu_mart,0.0176,g,5.99
 produce,,Sweet Potatoes,Sweet Potatoes1 kg,$6.00ea,$0.60/ 100g,valu_mart,0.006,g,6.00
 produce,Gourmet Garden,"Lightly Dried, Ginger Bowl","Gourmet GardenLightly Dried, Ginger Bowl220 g",$5.99ea,$27.23/ 100g,valu_mart,0.2723,g,5.99
-produce,,Organic Rainbow Swiss Chard,Organic Rainbow Swiss Chard1 ea,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,,Organic Rainbow Swiss Chard,Organic Rainbow Swiss Chard1 ea,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,,Dates,Dates1 kg,$6.49ea,$0.65/ 100g,valu_mart,0.006500000000000001,g,6.49
-produce,,Large Organic Pineapple,Large Organic Pineapple1 ea,$5.99ea,$5.99/ 1ea,valu_mart,0,,5.99
+produce,,Large Organic Pineapple,Large Organic Pineapple1 ea,$5.99ea,$5.99/ 1ea,valu_mart,5.99,,5.99
 produce,President's Choice,Beets Mixed 907G,President's ChoiceBeets Mixed 907G907 g,$3.99ea,$0.44/ 100g,valu_mart,0.0044,g,3.99
 produce,,Blueberry Organic Kombucha,Blueberry Organic Kombucha355 ml,$3.99ea,$1.12/ 100ml,valu_mart,0.011200000000000002,ml,3.99
 produce,,Watermelon Cubed Small 300G,Watermelon Cubed Small 300G1 kg,$6.00ea,$0.60/ 100g,valu_mart,0.006,g,6.00
 produce,,Premium Greek Classic,Premium Greek Classic342 g,$8.00ea,$2.34/ 100g,valu_mart,0.023399999999999997,g,8.00
 produce,Marzetti,Cream Cheese Fruit Dip,MarzettiCream Cheese Fruit Dip106 g,$1.49ea,$1.38/ 100g,valu_mart,0.0138,g,1.49
-produce,,Yellow Dragon Fruit,Yellow Dragon Fruit1 ea,$5.49ea,$5.49/ 1ea,valu_mart,0,,5.49
+produce,,Yellow Dragon Fruit,Yellow Dragon Fruit1 ea,$5.49ea,$5.49/ 1ea,valu_mart,5.49,,5.49
 produce,Paramount,"Pistachios, Roasted & Unsalted","ParamountPistachios, Roasted & Unsalted225 g",$6.49ea,$2.88/ 100g,valu_mart,0.0288,g,6.49
 produce,,Mango Diced,Mango Diced1 kg,$6.00ea,$1.60/ 100g,valu_mart,0.016,g,6.00
 produce,PC Organics,Organics Whole Shitake Mushrooms,PC OrganicsOrganics Whole Shitake Mushrooms100 g,$4.99ea,$4.99/ 100g,valu_mart,0.0499,g,4.99
 produce,,Bean Sprouts,Bean Sprouts454 g,$2.49ea,$0.55/ 100g,valu_mart,0.0055000000000000005,g,2.49
-produce,PC Organics,Celery Hearts,PC OrganicsCelery Hearts1 ea,$4.99ea,$2.50/ 1ea,valu_mart,0,,4.99
+produce,PC Organics,Celery Hearts,PC OrganicsCelery Hearts1 ea,$4.99ea,$2.50/ 1ea,valu_mart,2.5,,4.99
 produce,,Horseradish,Horseradish,$6.94(est.)ea,$19.82/ 1kg,valu_mart,0.01982,g,6.94
 produce,Paramount,Pistachios No Shells Chili Roasted,ParamountPistachios No Shells Chili Roasted155 g,$8.99ea,$5.80/ 100g,valu_mart,0.057999999999999996,g,8.99
 produce,Remedy,Org Kom Rasp Lemn 700Ml  ,RemedyOrg Kom Rasp Lemn 700Ml  700 ml,$4.99ea,$0.71/ 100ml,valu_mart,0.0070999999999999995,ml,4.99
@@ -1674,7 +1674,7 @@ produce,President's Choice,Fingerling Potatoes,President's ChoiceFingerling Pota
 produce,PC Organics,Organic Mini Carrots 1lb Bag,PC OrganicsOrganic Mini Carrots 1lb Bag1 lb bag,$3.99ea,$0.88/ 100g,valu_mart,0.0088,g,3.99
 produce,The Little Potato Company,Microwave Ready Garlic Parsley Potatoes,The Little Potato CompanyMicrowave Ready Garlic Parsley Potatoes454 g,$4.99ea,$1.10/ 100g,valu_mart,0.011000000000000001,g,4.99
 produce,,Cheddar & Bacon Potato Salad,Cheddar & Bacon Potato Salad,$8.76(est.)ea,$21.90/ 1kg,valu_mart,0.0219,g,8.76
-produce,Farmer's Market,Mini Cucumbers,Farmer's MarketMini Cucumbers6 pack,$4.99ea,$0.83/ 1ea,valu_mart,0,,4.99
+produce,Farmer's Market,Mini Cucumbers,Farmer's MarketMini Cucumbers6 pack,$4.99ea,$0.83/ 1ea,valu_mart,0.83,,4.99
 produce,Paramount,Pistachios Lightly Salted,ParamountPistachios Lightly Salted450 g,$11.99ea,$2.66/ 100g,valu_mart,0.026600000000000002,g,11.99
 produce,Dole,Organic Cranberries,DoleOrganic Cranberries227 g,$3.99ea,$1.76/ 100g,valu_mart,0.0176,g,3.99
 produce,,Broccoli Cashew Crunch Salad,Broccoli Cashew Crunch Salad,$5.48(est.)ea,$21.90/ 1kg,valu_mart,0.0219,g,5.48
@@ -1704,7 +1704,7 @@ produce,Farmer's Market,McIntosh Apples,Farmer's MarketMcIntosh Apples4 lb bag,$
 produce,,Caesar Salad Mini,Caesar Salad Mini135 g,$5.00ea,$4.55/ 100g,valu_mart,0.0455,g,5.00
 produce,,Honeycrisp Apples,Honeycrisp Apples,$2.38(est.)ea,$9.90/ 1kg,valu_mart,0.0099,g,2.38
 produce,,Baby Spinach,Baby Spinach250 g,$8.00ea,$3.20/ 100g,valu_mart,0.032,g,8.00
-produce,,Red Leaf Lettuce,Red Leaf Lettuce1 ea,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,,Red Leaf Lettuce,Red Leaf Lettuce1 ea,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,,Blueberry Organic Kombucha,Blueberry Organic Kombucha355 ml,$3.99ea,$1.12/ 100ml,valu_mart,0.011200000000000002,ml,3.99
 produce,,Coleslaw Yogurt Dressing,Coleslaw Yogurt Dressing,$8.76(est.)ea,$21.90/ 1kg,valu_mart,0.0219,g,8.76
 produce,PC Organics,Organic Carrots,PC OrganicsOrganic Carrots2 lb bag,$3.99ea,$0.44/ 100g,valu_mart,0.0044,g,3.99
@@ -1737,7 +1737,7 @@ produce,,"Plantains, Single","Plantains, Single",$0.94(est.)ea,$2.84/ 1kg,valu_m
 produce,President's Choice,Walnuts,President's ChoiceWalnuts0.454 kg,$4.99ea,$1.10/ 100g,valu_mart,0.011000000000000001,g,4.99
 produce,,Halo Mandarin,Halo Mandarin2 lb,$9.99ea,$1.10/ 100g,valu_mart,0.011000000000000001,g,9.99
 produce,,Sweet Green Peppers,Sweet Green Peppers,$2.77(est.)ea,$9.90/ 1kg,valu_mart,0.0099,g,2.77
-produce,,Green Swiss Chard,Green Swiss Chard1 bunch,$3.99ea,$3.99/ 1ea,valu_mart,0,,3.99
+produce,,Green Swiss Chard,Green Swiss Chard1 bunch,$3.99ea,$3.99/ 1ea,valu_mart,3.99,,3.99
 produce,Greenhouse,Cranberry Kombucha,GreenhouseCranberry Kombucha340 ml,$4.99ea,$1.47/ 100ml,valu_mart,0.0147,ml,4.99
 produce,President's Choice,Ruby Little Gems Potatoes,President's ChoiceRuby Little Gems Potatoes0.68 kg,$3.99ea,$0.59/ 100g,valu_mart,0.0059,g,3.99
 produce,,Vine Cherry Tomatoes,Vine Cherry Tomatoes255 g,$6.99ea,$2.74/ 100g,valu_mart,0.0274,g,6.99
@@ -1747,7 +1747,7 @@ produce,,Genuine Coconut Organic Coconut Chunks,Genuine Coconut Organic Coconut 
 produce,,White Potatoes,White Potatoes,$1.98(est.)ea,$5.49/ 1kg,valu_mart,0.00549,g,1.98
 produce,Dole,Sunflower Bacon Crunch Chopped Salad Kit,DoleSunflower Bacon Crunch Chopped Salad Kit346 g,$6.99ea,$2.01/ 100g,valu_mart,0.020099999999999996,g,6.99
 produce,PC Organics,Organics Sliced Cremini Mushrooms,PC OrganicsOrganics Sliced Cremini Mushrooms227 g,$3.29ea,$1.45/ 100g,valu_mart,0.014499999999999999,g,3.29
-produce,,Coconuts,Coconuts1 ea,$2.49ea,$2.49/ 1ea,valu_mart,0,,2.49
+produce,,Coconuts,Coconuts1 ea,$2.49ea,$2.49/ 1ea,valu_mart,2.49,,2.49
 produce,Bolthouse,Strawberry Banana,BolthouseStrawberry Banana946 ml,$6.99ea,$0.74/ 100ml,valu_mart,0.0074,ml,6.99
 produce,,Thai Noodle with Chicken Salad,Thai Noodle with Chicken Salad,$5.91(est.)ea,$21.90/ 1kg,valu_mart,0.0219,g,5.91
 produce,President's Choice,Spring Herb Vinagrette Pouch,President's ChoiceSpring Herb Vinagrette Pouch45 ml,$0.49ea,$1.09/ 100ml,valu_mart,0.0109,ml,0.49
@@ -1768,17 +1768,17 @@ produce,,Pitted Honey Dates,Pitted Honey Dates907 g,$6.99ea,$0.77/ 100g,valu_mar
 produce,President's Choice,Yellow Mini Potatoes,President's ChoiceYellow Mini Potatoes0.68 kg,$3.99ea,$0.59/ 100g,valu_mart,0.0059,g,3.99
 produce,Paramount,"Wonderful Pistachios, Roasted & Salted","ParamountWonderful Pistachios, Roasted & Salted225 g",$6.49ea,$2.88/ 100g,valu_mart,0.0288,g,6.49
 produce,,Canary Melon,Canary Melon,$5.00(est.)ea,$0.51/ 100g,valu_mart,0.0051,g,5.00
-produce,,Plums,Plums907 g,$5.99ea,$5.99/ 1ea,valu_mart,0,,5.99
+produce,,Plums,Plums907 g,$5.99ea,$5.99/ 1ea,valu_mart,5.99,,5.99
 produce,,Caesar Salad Family Size,Caesar Salad Family Size1 kg,$16.00ea,$1.76/ 100g,valu_mart,0.0176,g,16.00
 produce,,Bartlett Pears,Bartlett Pears,$1.38(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999999999995,g,1.38
 produce,,Premium Chicken Caesar Salad,Premium Chicken Caesar Salad274 g,$8.00ea,$2.92/ 100g,valu_mart,0.0292,g,8.00
 produce,President's Choice,Chopped Mexican Style Street Corn Salad Kit,President's ChoiceChopped Mexican Style Street Corn Salad Kit285 g,$6.99ea,$2.45/ 100g,valu_mart,0.0245,g,6.99
 produce,,Celery Root,Celery Root,$3.33(est.)ea,$4.39/ 1kg,valu_mart,0.00439,g,3.33
 produce,PC Organics,Honeycrisp Apples 3Lb Bag,PC OrganicsHoneycrisp Apples 3Lb Bag1.36 kg,$11.99ea,$0.88/ 100g,valu_mart,0.0088,g,11.99
-produce,,Organic Mango,Organic Mango1 ea,$3.99ea,$3.99/ 1ea,valu_mart,0,,3.99
+produce,,Organic Mango,Organic Mango1 ea,$3.99ea,$3.99/ 1ea,valu_mart,3.99,,3.99
 produce,,Cubanelle Peppers,Cubanelle Peppers,$1.68(est.)ea,$9.90/ 1kg,valu_mart,0.0099,g,1.68
 produce,,Fresh Orange Juice,Fresh Orange Juice947 ml,$12.00ea,$1.20/ 100ml,valu_mart,0.012,ml,12.00
-produce,Farmer's Market,Cucumbers 11 count,Farmer's MarketCucumbers 11 count750 g,$7.99ea,$0.73/ 1ea,valu_mart,0,,7.99
+produce,Farmer's Market,Cucumbers 11 count,Farmer's MarketCucumbers 11 count750 g,$7.99ea,$0.73/ 1ea,valu_mart,0.73,,7.99
 produce,,White Mushrooms,White Mushrooms,$0.36(est.)ea,$1.21/ 100g,valu_mart,0.0121,g,0.36
 produce,PC Organics,Arugula & Baby Spinach Salad Mix,PC OrganicsArugula & Baby Spinach Salad Mix142 g,$5.99ea,$4.22/ 100g,valu_mart,0.042199999999999994,g,5.99
 produce,Love Beets,Cooked Beets,Love BeetsCooked Beets250 g,$5.49ea,$2.20/ 100g,valu_mart,0.022000000000000002,g,5.49
@@ -1789,17 +1789,17 @@ produce,,Raspberries 1/2 pint,Raspberries 1/2 pint170 g,$2.99ea,$1.76/ 100g,valu
 produce,Gourmet Garden,Lightly Dried Parsley,Gourmet GardenLightly Dried Parsley10 g,$5.99ea,$59.90/ 100g,valu_mart,0.599,g,5.99
 produce,,Cobb Salad with Cheddar Chips,Cobb Salad with Cheddar Chips335 g,$8.00ea,$2.39/ 100g,valu_mart,0.0239,g,8.00
 produce,,Premium Caesar Salad,Premium Caesar Salad257 g,$8.00ea,$3.11/ 100g,valu_mart,0.0311,g,8.00
-produce,,Avocado,Avocado1 ea,$2.49ea,$2.49/ 1ea,valu_mart,0,,2.49
+produce,,Avocado,Avocado1 ea,$2.49ea,$2.49/ 1ea,valu_mart,2.49,,2.49
 produce,,Apple Cosmic Crisp,Apple Cosmic Crisp,$2.11(est.)ea,$8.80/ 1kg,valu_mart,0.0088,g,2.11
 produce,,Chestnuts,Chestnuts454 g,$7.99ea,$1.76/ 100g,valu_mart,0.0176,g,7.99
-produce,,Red Swiss Chard,Red Swiss Chard1 bunch,$3.99ea,$3.99/ 1ea,valu_mart,0,,3.99
+produce,,Red Swiss Chard,Red Swiss Chard1 bunch,$3.99ea,$3.99/ 1ea,valu_mart,3.99,,3.99
 produce,Farmer's Market,Spartan Apples,Farmer's MarketSpartan Apples4 lb bag,$6.99ea,$0.39/ 100g,valu_mart,0.0039000000000000003,g,6.99
 produce,President's Choice,Garden Salad,President's ChoiceGarden Salad0.34 kg,$5.49ea,$1.61/ 100g,valu_mart,0.0161,g,5.49
 produce,President's Choice,Bacon Caesar Chop Salad Kit,President's ChoiceBacon Caesar Chop Salad Kit326 g,$6.99ea,$2.14/ 100g,valu_mart,0.021400000000000002,g,6.99
 produce,PC Organics,Organic Enoki Mushrooms,PC OrganicsOrganic Enoki Mushrooms150 g,$3.99ea,$2.66/ 100g,valu_mart,0.026600000000000002,g,3.99
 produce,,Empire Apples,Empire Apples,$1.05(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999999999995,g,1.05
-produce,President's Choice,"Live Lettuce Trio, 2-pack","President's ChoiceLive Lettuce Trio, 2-pack1 ea",$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
-produce,,Organic Green Kale,Organic Green Kale1 bunch,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,President's Choice,"Live Lettuce Trio, 2-pack","President's ChoiceLive Lettuce Trio, 2-pack1 ea",$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
+produce,,Organic Green Kale,Organic Green Kale1 bunch,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,Farmer's Market,Empire Apples,Farmer's MarketEmpire Apples4 lb bag,$6.99ea,$0.39/ 100g,valu_mart,0.0039000000000000003,g,6.99
 produce,Farmer's Market,Fuji Apples,Farmer's MarketFuji Apples1.81 kg,$6.99ea,$0.39/ 100g,valu_mart,0.0039000000000000003,g,6.99
 produce,PC Blue Menu,Blue Menu Unsalted Virginia Peanuts,PC Blue MenuBlue Menu Unsalted Virginia Peanuts454 g,$3.99ea,$0.88/ 100g,valu_mart,0.0088,g,3.99
@@ -1811,14 +1811,14 @@ produce,,Jazz Apples,Jazz Apples,$1.38(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999
 produce,No Name,Naturally Imperfect Lemons 3lb Bag,No NameNaturally Imperfect Lemons 3lb Bag1.36 kg,$5.99ea,$0.44/ 100g,valu_mart,0.0044,g,5.99
 produce,President's Choice,White Potatoes,President's ChoiceWhite Potatoes5 lb bag,$5.99ea,$0.26/ 100g,valu_mart,0.0026,g,5.99
 produce,Bolthouse,Green Goodness,BolthouseGreen Goodness946 ml,$6.99ea,$0.74/ 100ml,valu_mart,0.0074,ml,6.99
-produce,,Cantaloupe,Cantaloupe1 ea,$5.99ea,$5.99/ 1ea,valu_mart,0,,5.99
+produce,,Cantaloupe,Cantaloupe1 ea,$5.99ea,$5.99/ 1ea,valu_mart,5.99,,5.99
 produce,PC Organics,Organic Black Oyster Whole Mushrooms,PC OrganicsOrganic Black Oyster Whole Mushrooms114 g,$3.99ea,$3.50/ 100g,valu_mart,0.035,g,3.99
 produce,,Large Chicken Caesar Salad,Large Chicken Caesar Salad656 g,$12.00ea,$1.83/ 100g,valu_mart,0.0183,g,12.00
 produce,,Kumato Tomatoes,Kumato Tomatoes454 g,$5.99ea,$1.32/ 100g,valu_mart,0.0132,g,5.99
 produce,President's Choice,Yellow Hot Hot Peppers,President's ChoiceYellow Hot Hot Peppers226 g,$5.99ea,$2.65/ 100g,valu_mart,0.0265,g,5.99
 produce,The Little Potato Company,Microwave Ready Garlic Parsley Potatoes,The Little Potato CompanyMicrowave Ready Garlic Parsley Potatoes454 g,$4.99ea,$1.10/ 100g,valu_mart,0.011000000000000001,g,4.99
 produce,,Shishito Peppers,Shishito Peppers227 g,$4.99ea,$2.20/ 100g,valu_mart,0.022000000000000002,g,4.99
-produce,,Plums,Plums907 g,$5.99ea,$5.99/ 1ea,valu_mart,0,,5.99
+produce,,Plums,Plums907 g,$5.99ea,$5.99/ 1ea,valu_mart,5.99,,5.99
 produce,President's Choice,Coleslaw,President's ChoiceColeslaw397 g,$3.49ea,$0.88/ 100g,valu_mart,0.0088,g,3.49
 produce,President's Choice,Variety Pack Tomatoes,President's ChoiceVariety Pack Tomatoes680 g,$7.99ea,$1.17/ 100g,valu_mart,0.011699999999999999,g,7.99
 produce,Farmer's Market,Mandarin Oranges,Farmer's MarketMandarin Oranges2 lb bag,$4.99ea,$0.55/ 100g,valu_mart,0.0055000000000000005,g,4.99
@@ -1832,10 +1832,10 @@ produce,,Parsnips 1lb Bag,Parsnips 1lb Bag1 lb bag,$4.99ea,$1.10/ 100g,valu_mart
 produce,,Spartan Apples,Spartan Apples,$1.38(est.)ea,$6.59/ 1kg,valu_mart,0.0065899999999999995,g,1.38
 produce,,Raspberries 1/2 pint,Raspberries 1/2 pint170 g,$2.99ea,$1.76/ 100g,valu_mart,0.0176,g,2.99
 produce,,Apple Cosmic Crisp,Apple Cosmic Crisp,$2.11(est.)ea,$8.80/ 1kg,valu_mart,0.0088,g,2.11
-produce,,Avocado,Avocado1 ea,$2.49ea,$2.49/ 1ea,valu_mart,0,,2.49
+produce,,Avocado,Avocado1 ea,$2.49ea,$2.49/ 1ea,valu_mart,2.49,,2.49
 produce,PC Organics,Organic Red Potatoes,PC OrganicsOrganic Red Potatoes3 lb bag,$4.99ea,$0.37/ 100g,valu_mart,0.0037,g,4.99
 produce,Marzetti,"Fruit Dip, Cream Cheese","MarzettiFruit Dip, Cream Cheese255 g",$5.99ea,$2.36/ 100g,valu_mart,0.0236,g,5.99
-produce,,Organic Iceberg Lettuce,Organic Iceberg Lettuce1 ea,$5.99ea,$5.99/ 1ea,valu_mart,0,,5.99
+produce,,Organic Iceberg Lettuce,Organic Iceberg Lettuce1 ea,$5.99ea,$5.99/ 1ea,valu_mart,5.99,,5.99
 produce,,Honeycrisp Apples,Honeycrisp Apples,$2.38(est.)ea,$9.90/ 1kg,valu_mart,0.0099,g,2.38
 produce,PC Organics,Organic Enoki Mushrooms,PC OrganicsOrganic Enoki Mushrooms150 g,$3.99ea,$2.66/ 100g,valu_mart,0.026600000000000002,g,3.99
 produce,President's Choice,Arugula,President's ChoiceArugula0.142 kg,$4.99ea,$3.51/ 100g,valu_mart,0.0351,g,4.99
@@ -1848,13 +1848,13 @@ produce,President's Choice,Sage,President's ChoiceSage28 g,$2.99ea,,valu_mart,2.
 produce,Eat Smart,Sunflower Kale Vegetable Salad Kit,Eat SmartSunflower Kale Vegetable Salad Kit340 g,$6.49ea,$1.91/ 100g,valu_mart,0.0191,g,6.49
 produce,,Clementines,Clementines5 lbs,$6.99ea,$0.30/ 100g,valu_mart,0.003,g,6.99
 produce,Farmer's Market,Empire Apples,Farmer's MarketEmpire Apples4 lb bag,$6.99ea,$0.39/ 100g,valu_mart,0.0039000000000000003,g,6.99
-produce,,Organic Green Kale,Organic Green Kale1 bunch,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,,Organic Green Kale,Organic Green Kale1 bunch,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,Wholly Guacamole,Classic Bowl ,Wholly GuacamoleClassic Bowl 213 g,$5.99ea,$2.81/ 100g,valu_mart,0.0281,g,5.99
 produce,,Mixed Dried Mushrooms,Mixed Dried Mushrooms14 g,$5.49ea,$39.21/ 100g,valu_mart,0.3921,g,5.49
 produce,,Cranberries,Cranberries340 g,$2.49ea,$0.73/ 100g,valu_mart,0.0073,g,2.49
-produce,,Potato Baking Tray,Potato Baking Tray1 ea,$4.99ea,$4.99/ 1ea,valu_mart,0,,4.99
+produce,,Potato Baking Tray,Potato Baking Tray1 ea,$4.99ea,$4.99/ 1ea,valu_mart,4.99,,4.99
 produce,Bolthouse,Green Goodness,BolthouseGreen Goodness946 ml,$6.99ea,$0.74/ 100ml,valu_mart,0.0074,ml,6.99
-produce,,Mini Seedless Watermelon,Mini Seedless Watermelon1 ea,$6.99ea,$6.99/ 1ea,valu_mart,0,,6.99
+produce,,Mini Seedless Watermelon,Mini Seedless Watermelon1 ea,$6.99ea,$6.99/ 1ea,valu_mart,6.99,,6.99
 produce,PC Organics,Organic Black Oyster Whole Mushrooms,PC OrganicsOrganic Black Oyster Whole Mushrooms114 g,$3.99ea,$3.50/ 100g,valu_mart,0.035,g,3.99
 produce,President's Choice,Yellow Hot Hot Peppers,President's ChoiceYellow Hot Hot Peppers226 g,$5.99ea,$2.65/ 100g,valu_mart,0.0265,g,5.99
 produce,President's Choice,Scotch Bonnet Hot Peppers,President's ChoiceScotch Bonnet Hot Peppers113 g,$5.99ea,$5.30/ 100g,valu_mart,0.053,g,5.99
@@ -1929,7 +1929,7 @@ seafood,President's Choice,Butter & Lemon Grilling Lobster Tail Skewers,Presiden
 seafood,President's Choice,Smoked Atlantic Salmon,President's ChoiceSmoked Atlantic Salmon150 g,$11.99ea,$7.99/ 100g,valu_mart,0.0799,g,11.99
 seafood,,"Fresh Atlantic Salmon Fillets, Skin On, Packaged, Club Size","Fresh Atlantic Salmon Fillets, Skin On, Packaged, Club Size",$29.37(est.)ea,$34.15/ 1kg,valu_mart,0.03415,g,29.37
 seafood,True North,Salmon Burger,True NorthSalmon Burger568 g,$12.99ea,$2.29/ 100g,valu_mart,0.0229,g,12.99
-seafood,,Lobster Tail 2-3 Oz” (1 Ea),Lobster Tail 2-3 Oz” (1 Ea)57 g,$6.99ea,$6.99/ 1ea,valu_mart,0,,6.99
+seafood,,Lobster Tail 2-3 Oz” (1 Ea),Lobster Tail 2-3 Oz” (1 Ea)57 g,$6.99ea,$6.99/ 1ea,valu_mart,6.99,,6.99
 seafood,Anchor Bay,Mussel Meat,Anchor BayMussel Meat340 g,$5.99ea,$1.76/ 100g,valu_mart,0.0176,g,5.99
 seafood,President's Choice,Wild Atlantic Cod Fillets ,President's ChoiceWild Atlantic Cod Fillets 280 g,$7.99ea,$2.85/ 100g,valu_mart,0.0285,g,7.99
 seafood,President's Choice,Pacific White Shrimp Cooked Peeled Responsibly Farmed Jumbo ,President's ChoicePacific White Shrimp Cooked Peeled Responsibly Farmed Jumbo 400 g,$18.99ea,$4.75/ 100g,valu_mart,0.0475,g,18.99

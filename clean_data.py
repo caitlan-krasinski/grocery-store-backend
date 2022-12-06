@@ -1,6 +1,47 @@
 import re
 import pandas as pd 
 
+def find_per_unit_price(price, unit):
+    unit_type = ''
+    if 'kg' in unit: 
+        gram = unit.split('kg')[0]
+        if gram == '/': gram = 1
+        pup = float(price) / (float(gram)*1000) # 1000 g in kg
+        unit_type = 'g'
+    elif 'g' in unit:
+        gram = unit.split('g')[0]
+        if gram == '/': gram = 1
+        pup = float(price) / float(gram)
+        unit_type = 'g'
+    elif 'lb' in unit:
+        gram = unit.split('lb')[0]
+        if gram == '/': gram = 1
+        pup = float(price) / (float(gram)*453.592)
+        unit_type = 'g'
+    elif 'ml' in unit:
+        ml = unit.split('ml')[0]
+        if ml == '/': ml = 1
+        pup = float(price) / float(ml)
+        unit_type = 'ml'
+    elif 'l' in unit:
+        ml = unit.split('l')[0]
+        if unit == '/': ml = 1
+        pup = float(price) / (float(ml)*1000)
+        unit_type = 'ml'
+    elif "'s'" in unit:
+        num = unit.split("'s'")[0]
+        pup = float(price) / (float(num))
+        unit_type = 'number_of_units'
+    elif 'pk' in unit:
+        num = unit.split("pk")[0]
+        pup = float(price) / (float(num))
+        unit_type = 'number_of_units'
+    else: 
+        pup = price
+        unit_type = None
+            
+    return pup, unit_type
+
 
 def clean_loblaw_co_data(df):
     prices = []
@@ -17,19 +58,7 @@ def clean_loblaw_co_data(df):
         if not isinstance(per_unit_price, float):  # not nan
             unit = per_unit_price.split('/')[1]
             price = float(per_unit_price.split('/')[0].replace('$', '').replace(',', ''))
-            unit_type = ''
-            if 'kg' in unit: 
-                gram = float(unit.split('kg')[0])*1000 # 1000 g in kg
-                pup = price / gram
-                unit_type = 'g'
-            elif 'g' in unit:
-                gram = float(unit.split('g')[0])
-                pup = price / gram
-                unit_type = 'g'
-            elif 'ml' in unit:
-                ml = float(unit.split('ml')[0])
-                pup = price / ml
-                unit_type = 'ml'
+            pup, unit_type = find_per_unit_price(price, unit)
         else: 
             pup = s
             unit_type = ''
@@ -53,6 +82,7 @@ def clean_flipp_data(df):
     unit_types = []
     for index, row in df.iterrows():
         s = row.price
+        store = row.store
         
         price = ''
         unit = ''
@@ -80,48 +110,45 @@ def clean_flipp_data(df):
         
         
         # see if there are units 
-        pup = price
+        # in price column 
         try: 
-            unit = re.findall('(?:[/lbkgml]+)',s)[-1] # this may error out in which cas no units 
+            unit = re.findall('(?:[/lbkgml]+)',s)[-1] # this may error out in which case no units 
             
             if unit == '/': unit = None
 
             if unit is not None:  # not nan
-                unit_type = ''
-                if 'kg' in unit: 
-                    gram = unit.split('kg')[0]
-                    if gram == '/': gram = 1
-                    pup = float(price) / (float(gram)*1000) # 1000 g in kg
-                    unit_type = 'g'
-                elif 'g' in unit:
-                    gram = unit.split('g')[0]
-                    if gram == '/': gram = 1
-                    pup = float(price) / float(gram)
-                    unit_type = 'g'
-                elif 'lb' in unit:
-                    gram = unit.split('lb')[0]
-                    if gram == '/': gram = 1
-                    pup = float(price) / (float(gram)*453.592)
-                    unit_type = 'g'
-                elif 'ml' in unit:
-                    ml = unit.split('ml')[0]
-                    if ml == '/': ml = 1
-                    pup = float(price) / float(ml)
-                    unit_type = 'ml'
-                elif 'l' in unit:
-                    ml = unit.split('l')[0]
-                    if unit == '/': ml = 1
-                    pup = float(price) / (float(ml)*1000)
-                    unit_type = 'ml'
-                else: 
-                    pup = price
-                    unit_type = None
+                pup,unit_type =  find_per_unit_price(price, unit)
             else: 
                 pup = price
                 unit_type = None
         except: 
             pup = price
             unit_type = None
+        
+        # in product description 
+        if unit_type == None: # use above price per_unit parsing  as default / standard 
+            try: 
+                if store == 'zehrs' or store == 'no_frills' or store == 'valu_mart' and unit :
+                    desc = row.product_name
+                    if ',' in desc: unit = desc.split(',')[-1]
+                    else: unit = None
+                    unit = re.findall('(([0-9]+) g|([0-9]+) kg|([0-9]+)\'s)|[0-9]+ pk',unit)[-1][0]
+
+                elif store == 'freshco':
+                    desc = row.product_name
+                    unit = re.findall('(([0-9]+) g|([0-9]+) kg|([0-9]+)\'s)|[0-9]+ pk',desc)[-1][0]
+
+                else:
+                    unit = None
+                    
+                if unit is not None:  # not nan
+                    pup,unit_type =  find_per_unit_price(price, unit)
+                else: 
+                    pup = price
+                    unit_type = None
+            except: 
+                pup = price
+                unit_type = None
         
         
         prices.append(price)
@@ -164,6 +191,7 @@ print('done cleaning loblaw co')
 
 for store in ['freshco', 'walmart', 'sobeys', 'food_basics', 'zehrs', 'valu_mart', 'no_frills']:
     store_df = pd.read_csv(f'raw_data/{store}/flyer_deals.csv')
+    store_df['store'] = store
 
     df = clean_flipp_data(store_df)
     df.to_csv(f'clean_data/{store}/flyer_deals.csv', index=False)
