@@ -48,10 +48,10 @@ KRAFT Peanut Butter,$8.97 ,sobeys,8.97,8.97,
 COMPLIMENTS Large White Eggs,$9.47 ,sobeys,9.47,9.47,
 DANONE Oikos Greek Yogurt,$9.99 ,sobeys,9.99,9.99,
 GATORADE Team Pack,$17.99 ,sobeys,17.99,17.99,
-MILLER Light,promo retail$16.25 ,sobeys,16.25,16.25,
-HEINEKEN,promo retail$15.95 ,sobeys,15.95,15.95,
-SLEEMAN Original Draught,promo retail$14.50 ,sobeys,14.50,14.50,
-,promo retail$14.50 ,sobeys,14.50,14.50,
+MILLER Light,promo retail$16.25 ,sobeys,16.25,0.01625,ml
+HEINEKEN,promo retail$15.95 ,sobeys,15.95,0.01595,ml
+SLEEMAN Original Draught,promo retail$14.50 ,sobeys,14.50,0.0145,ml
+,promo retail$14.50 ,sobeys,14.50,0.0145,ml
 Yams or Sweet Onion,$1.99 /lb 4.39/kg,sobeys,1.99,0.00199,g
 Bartlett Pears,$2.99 /lb 6.59/kg,sobeys,2.99,0.00299,g
 Large Green Kiwi,$3.99 ,sobeys,3.99,3.99,
@@ -193,8 +193,8 @@ PANACHE Italian Cheese,STARTING AT$6.99 ,sobeys,6.99,6.99,
 MISTO ITALIANO,$11.00 ,sobeys,11.00,11.00,
 BOURSIN Truffle Cheese,$7.79 ,sobeys,7.79,7.79,
 SNOWDONIA Truffle Cheese,$11.99 ,sobeys,11.99,11.99,
-"PILLER'S Peppered, Tuscan or Honey Bourbon Salami",$4.49 /100 g,sobeys,4.49,4.49,
-MARCANGELO DOP Prosciutto,$5.99 /100g,sobeys,5.99,5.99,
+"PILLER'S Peppered, Tuscan or Honey Bourbon Salami",$4.49 /100 g,sobeys,4.49,4.49,g
+MARCANGELO DOP Prosciutto,$5.99 /100g,sobeys,5.99,5.99,g
 PARMA Prosciutto di Parma PDO/DOP,$9.99 ,sobeys,9.99,9.99,
 PRANA ORGANIC Superseeds,$4.99 ,sobeys,4.99,4.99,
 PRANA ORGANIC Chia Seeds,$6.99 ,sobeys,6.99,6.99,
@@ -214,5 +214,5 @@ TEMPTATIONS Cat Treats,$1.99 ,sobeys,1.99,1.99,
 ORGANIC Fairtrade Bananas,$1.19 /lb 2.62/kg,sobeys,1.19,0.0011899999999999999,g
 Festive Sausages,$5.99 ea,sobeys,5.99,5.99,
 Compliments Mint-flavoured Baking Chips,$2.99 ,sobeys,2.99,2.99,
-Compliments Red Velvet Cake Mix (500 g); Lemon Square Mix (500 g); Shortbread Cookie Mix (500 g); Deluxe Brownie Mix (500 g),Only$2.99 each,sobeys,2.99,2.99,
-,Only$2.99 each,sobeys,2.99,2.99,
+Compliments Red Velvet Cake Mix (500 g); Lemon Square Mix (500 g); Shortbread Cookie Mix (500 g); Deluxe Brownie Mix (500 g),Only$2.99 each,sobeys,2.99,0.00299,ml
+,Only$2.99 each,sobeys,2.99,0.00299,ml

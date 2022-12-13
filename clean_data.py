@@ -5,27 +5,27 @@ def find_per_unit_price(price, unit):
     unit_type = ''
     if 'kg' in unit: 
         gram = unit.split('kg')[0]
-        if gram == '/': gram = 1
+        if gram == '/' or gram == '': gram = 1
         pup = float(price) / (float(gram)*1000) # 1000 g in kg
         unit_type = 'g'
     elif 'g' in unit:
         gram = unit.split('g')[0]
-        if gram == '/': gram = 1
+        if gram == '/' or gram == '': gram = 1
         pup = float(price) / float(gram)
         unit_type = 'g'
     elif 'lb' in unit:
         gram = unit.split('lb')[0]
-        if gram == '/': gram = 1
+        if gram == '/' or gram == '': gram = 1
         pup = float(price) / (float(gram)*453.592)
         unit_type = 'g'
     elif 'ml' in unit:
         ml = unit.split('ml')[0]
-        if ml == '/': ml = 1
+        if ml == '/' or ml == '': ml = 1
         pup = float(price) / float(ml)
         unit_type = 'ml'
     elif 'l' in unit:
         ml = unit.split('l')[0]
-        if unit == '/': ml = 1
+        if unit == '/' or ml == '': ml = 1
         pup = float(price) / (float(ml)*1000)
         unit_type = 'ml'
     elif "'s'" in unit:
@@ -34,6 +34,10 @@ def find_per_unit_price(price, unit):
         unit_type = 'number_of_units'
     elif 'pk' in unit:
         num = unit.split("pk")[0]
+        pup = float(price) / (float(num))
+        unit_type = 'number_of_units'
+    elif 'pack' in unit:
+        num = unit.split("pack")[0]
         pup = float(price) / (float(num))
         unit_type = 'number_of_units'
     else: 
@@ -112,7 +116,7 @@ def clean_flipp_data(df):
         # see if there are units 
         # in price column 
         try: 
-            unit = re.findall('(?:[/lbkgml]+)',s)[-1] # this may error out in which case no units 
+            unit = re.findall('(?:[lbkgml]+)',s)[-1] # this may error out in which case no units 
             
             if unit == '/': unit = None
 
@@ -132,11 +136,11 @@ def clean_flipp_data(df):
                     desc = row.product_name
                     if ',' in desc: unit = desc.split(',')[-1]
                     else: unit = None
-                    unit = re.findall('(([0-9]+) g|([0-9]+) kg|([0-9]+)\'s)|[0-9]+ pk',unit)[-1][0]
+                    unit = re.findall('(([0-9]+) g|([0-9]+) kg|([0-9]+)\'s)|[0-9]+ pk|[0-9]+ pack',unit)[-1][0]
 
                 elif store == 'freshco':
                     desc = row.product_name
-                    unit = re.findall('(([0-9]+) g|([0-9]+) kg|([0-9]+)\'s)|[0-9]+ pk',desc)[-1][0]
+                    unit = re.findall('(([0-9]+) g|([0-9]+) kg|([0-9]+)\'s)|[0-9]+ pk|[0-9]+ pack',desc)[-1][0]
 
                 else:
                     unit = None
