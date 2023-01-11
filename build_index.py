@@ -4,6 +4,11 @@ import pandas as pd
 from nltk.stem import PorterStemmer
 from pickle import dump
 import os
+import time 
+
+start_time = time.time()
+
+print('------------ building indexes')
 
 ps = PorterStemmer() # stemming for better results 
 
@@ -49,4 +54,4 @@ for store in stores:
     dump(globals()[f"{store}_flyer_index"], open(os.path.join('catalogue_index', f'{store}_flyer_index.pkl'), 'wb'))
     dump(globals()[f"{store}_regular_index"], open(os.path.join('catalogue_index', f'{store}_regular_index.pkl'), 'wb'))
     
-print('done building indexes')
+print('completed in ', time.time() - start_time, 'seconds')
