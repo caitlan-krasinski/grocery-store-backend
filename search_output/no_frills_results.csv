@@ -1,0 +1,8 @@
+,list_item,store,product_name,price,per_unit_price,source,similarity
+0,2% milk,no_frills,2% Milk,4.99,0.0025,reg,1.0
+1,Cheddar Cheese,no_frills,Medium Cheddar Cheese,4.99,0.0125,reg,0.6666666666666666
+2,white sliced bread,no_frills,White Bread,1.79,0.0027,reg,0.6666666666666666
+3,ground beef,no_frills,Medium Ground Beef,14.26,0.011,reg,0.6666666666666666
+4,clementines,no_frills,Clementines,3.99,0.0017,reg,1.0
+5,chicken breast,no_frills,Chicken Breast Strips,10.99,0.0137,reg,0.6666666666666666
+6,potatoes,no_frills,Sweet Potato,1.37,0.00218,reg,0.5
