@@ -4,8 +4,14 @@ Scrapers for FYDP grocery product and price data
 ## Setup
 `pip install -r requirements.txt`
 
-## Run 
-`python run_scraper.py`
+## Runs
+**Script to scrape, preprocess and index data:**
+`python get_data.py` - to be run weekly on Thursdays 
+<br></br>
+**Script for search:**
+`python search.py <grocery_list>`
+
+*grocery_list* argument must be passed as a string like so: `"['2% milk', 'Cheddar Cheese', 'white sliced bread']"`
 
 ## Some helpful resources:
 
