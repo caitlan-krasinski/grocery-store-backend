@@ -1,5 +1,6 @@
-# grocery-store-data-scrapers
-Scrapers for FYDP grocery product and price data
+# grocery-store-backend
+
+Python backend for data scrapers and search/optimization 
 
 ## Setup
 `pip install -r requirements.txt`
