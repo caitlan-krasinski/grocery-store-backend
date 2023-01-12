@@ -1,8 +1,4 @@
-,list_item,store,product_name,price,per_unit_price,source,similarity
-0,2% milk,zehrs,2% Milk,4.99,0.0025,reg,1.0
-1,Cheddar Cheese,zehrs,Medium Cheddar Cheese,9.79,0.0139999999999999,reg,0.6666666666666666
-2,white sliced bread,zehrs,White Bread,2.69,0.004,reg,0.6666666666666666
-3,ground beef,zehrs,Lean Ground Beef,10.0,0.011,reg,0.6666666666666666
-4,clementines,zehrs,Organic Clementines,9.99,0.011,reg,0.5
-5,chicken breast,zehrs,Chicken Breast,9.36,0.0065899999999999,reg,1.0
-6,potatoes,zehrs,Russet Potatoes,2.99,0.0007,reg,0.5
+,list_item,store,product_name,price,per_unit_price,is_sale,similarity
+0,2% milk,zehrs,2% Milk,4.99,0.0025,False,1.0
+1,Cheddar Cheese,zehrs,Old Cheddar Cheese,9.79,0.0139999999999999,False,0.6666666666666666
+2,white sliced bread,zehrs,White Bread,2.69,0.004,False,0.6666666666666666

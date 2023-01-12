@@ -1,9 +1,11 @@
 import pandas as pd
 from nltk.stem import PorterStemmer
 import time
+import sys
+import ast
 from pickle import load
 
-# packages for alt sim scoring 
+### packages for alt sim scoring ###
 # import spacy
 # from sentence_similarity import sentence_similarity
 # from math import sqrt
@@ -18,19 +20,22 @@ start_time = time.time()
 
 ps = PorterStemmer() # stemming for better results 
 
-grocery_list = ['2% milk', 'Cheddar Cheese', 'white sliced bread', 'ground beef', 
-                'clementines', 'chicken breast', 'potatoes']
 
+# grocery_list = ['2% milk', 'Cheddar Cheese', 'white sliced bread', 'ground beef', 
+#                 'clementines', 'chicken breast', 'potatoes']
+
+# take grocery list from terminal 
+grocery_list = ast.literal_eval(sys.argv[1])
 
 def search(grocery_list, ps):
-    stores = ['zehrs', 'no_frills', 'valu_mart']
+    stores = ['zehrs', 'no_frills', 'valu_mart'] # add other stores when we have all data 
 
     # make variables 
     for store in stores:
         globals()[f"{store}_results"] = pd.DataFrame() # dynamically create variable names 
 
         
-    for store in stores:
+    for store in stores: # retrieval for each store 
         
         # load data
         regular_priced = pd.read_csv(f'clean_data/{store}/regular_prices.csv')
@@ -40,10 +45,10 @@ def search(grocery_list, ps):
         globals()[f"{store}_regular_index"] = load(open(f"catalogue_index/{store}_regular_index.pkl",'rb'))
         globals()[f"{store}_flyer_index"] = load(open(f"catalogue_index/{store}_flyer_index.pkl",'rb'))
         
-        final_selection = pd.DataFrame(columns = ['list_item', 'store', 'product_name', 'price', 'per_unit_price', 'source'])
+        final_selection = pd.DataFrame(columns = ['list_item', 'store', 'product_name', 'price', 'per_unit_price', 'is_sale'])
         
         for item in grocery_list:
-            item_selection = pd.DataFrame(columns = ['list_item', 'store', 'product_name', 'price', 'per_unit_price', 'source'])
+            item_selection = pd.DataFrame(columns = ['list_item', 'store', 'product_name', 'price', 'per_unit_price', 'is_sale'])
 
             stem_item = ps.stem(item).lower()
             reg_idxs = []
@@ -73,34 +78,37 @@ def search(grocery_list, ps):
                 flyer_df = regular_priced.iloc[flyer_idxs]
 
 
+            ##### search regular priced data #####
             for index, row in reg_df.iterrows():
-                product_name = row['product'].split(',')[0]
+                product_name = row['product_text'].split(',')[0]
                 per_unit_price = row['per_unit_price2']
                 price = row['price2']
+                is_sale = row.is_sale
 
                 similarity = jaccard_similarity(stem_item.split(' '), ps.stem(product_name).lower().split(' '))
         
                 if similarity >= 0.5: # can tweak threshold but this is a good one for now  
-                    data = { 'list_item':item, 'store':store, 'product_name':product_name, 'price':price, 'per_unit_price':per_unit_price, 'similarity':similarity, 'source': 'reg' }
+                    data = { 'list_item':item, 'store':store, 'product_name':product_name, 'price':price, 'per_unit_price':per_unit_price, 'similarity':similarity, 'is_sale': is_sale}
                     item_selection = item_selection.append(data, ignore_index=True)
                     
                     
             ##### search flyer data #####
-            for index, row in flyer_df.iterrows():
+            if store not in ['zehrs', 'no_frills', 'valu_mart']: # dont need to search flyer for these stores 
+                for index, row in flyer_df.iterrows():
 
-                try: 
-                    product_name = row['product_name'].replace(',', '')
-                    price = row['price2']
-                    per_unit_price = row.per_unit_price2
+                    try: 
+                        product_name = row['product_name'].replace(',', '')
+                        price = row['price2']
+                        per_unit_price = row.per_unit_price2
 
-                    # find items  
-                    similarity = jaccard_similarity(stem_item.split(' '), ps.stem(product_name).lower().split(' '))
+                        # find items  
+                        similarity = jaccard_similarity(stem_item.split(' '), ps.stem(product_name).lower().split(' '))
 
-                    if similarity >= 0.5: # can tweak threshold but this is a good one for now  
-                        data = { 'list_item':item, 'store':store, 'product_name':product_name, 'price':price, 'per_unit_price': per_unit_price, 'similarity':similarity, 'source': 'flyer' }
-                        item_selection = item_selection.append(data, ignore_index=True)
-                
-                except: continue
+                        if similarity >= 0.5: # can tweak threshold but this is a good one for now  
+                            data = { 'list_item':item, 'store':store, 'product_name':product_name, 'price':price, 'per_unit_price': per_unit_price, 'similarity':similarity, 'is_sale': True }
+                            item_selection = item_selection.append(data, ignore_index=True)
+                    
+                    except: continue
 
             try:
                 # find lowest price from top similarities
@@ -117,7 +125,7 @@ def search(grocery_list, ps):
         # dump results to csv 
         globals()[f"{store}_results"].to_csv(f'search_output/{store}_results.csv')
     
-    # return [zehrs_results, no_frills_results, valu_mart_results] 
+    return [zehrs_results, no_frills_results, valu_mart_results] 
 
 search(grocery_list, ps)
     
