@@ -122,7 +122,7 @@ for store_prod in store_vars.keys():
     product_divs = soup.find_all("div", {"class": "product-tracking"})
 
     # initialize data frame
-    df = pd.DataFrame(columns = ['category', 'brand', 'product_text', 'product_name', 'price_text', 'per_unit_price_text'])
+    df = pd.DataFrame(columns = ['category', 'brand', 'product_text', 'product_name', 'price_text', 'sale_price', 'per_unit_price_text', 'is_sale'])
 
     # iterate through each prod div and collect name, price and per_unit_price
     for div in product_divs:
@@ -135,18 +135,35 @@ for store_prod in store_vars.keys():
         except:
             brand = ''
 
+        # deal_badge = prod_details[0].find_all("div", {"class": "product-tile-deal-badge"})
+
+        # try: 
+        #     sale_badge = deal_badge[0].find_all("div", {"class": "product-badge__icon product-badge__icon--sale product-badge__icon--product-tile"})[0]
+        #     # sale_text = sale_badge[0].find_all("div", {"class": "product-badge__icon__text product-badge__icon__text--sale"})[0]
+        #     sale = True
+        # except: 
+        #     sale = False 
+
         product = prod_details[0].find_all("span", {"class": "product-name__item product-name__item--name"})[0].text
         
         prod_details = prod_details[0].find_all("div", {"class": "product-tile__details__info__section"})
         prod_info = prod_details[0].find_all("div", {"class": "product-prices product-prices--product-tile"})
-        
-        price_text = prod_info[0].find_all("span", {"class": "price selling-price-list__item__price selling-price-list__item__price--now-price"})[0].text
+
+        # if sale: 
+        try:
+            # if there is a was-price tag then it is on sale currently 
+            price_text = prod_info[0].find_all("span", {"class": "price selling-price-list__item__price selling-price-list__item__price--was-price"})[0].text
+            sale_price = prod_info[0].find_all("span", {"class": "price selling-price-list__item__price selling-price-list__item__price--now-price"})[0].text
+            sale = True
+        except:
+            price_text = prod_info[0].find_all("span", {"class": "price selling-price-list__item__price selling-price-list__item__price--now-price"})[0].text
+            sale_price = None
+            sale = False
 
         try: # some items don't have a per unit price
             per_unit_price_text = prod_info[0].find_all("span", {"class": "price comparison-price-list__item__price"})[0].text
         except:
             per_unit_price_text = None
-
 
         
         # append data to df 
@@ -155,7 +172,9 @@ for store_prod in store_vars.keys():
                         'product_text' : product, 
                         'product_name': name, 
                         'price_text': price_text,
-                        'per_unit_price_text': per_unit_price_text}
+                        'sale_price': sale_price,
+                        'per_unit_price_text': per_unit_price_text,
+                        'is_sale': sale}
                     , ignore_index=True)
 
         df.to_csv(f'raw_data/{store_details["store"]}/{store_details["category_name"]}.csv', index=False)

@@ -23,17 +23,19 @@ flyer_vars = { 'freshco':{'store':'freshco',
                     'link':'https://flipp.com/en-ca/waterloo-on/flyer/5326814-food-basics-flyer?postal_code=N2J4L6',
                     'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-food-basics-flyer?postal_code=N2J4L6'}
 
+
+        ## NO LONGER NEED loblaw co stores flipp data since it is scraped directly from store site 
             # loblaw co stores have to be difficult and add in dat range, this may be something we have to add in each week we run but also
             # can work out a way to dynamically add in flyer ranges 
-            , 'zehrs':{'store':'zehrs',
-                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5326328-zehrs-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6',
-                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-zehrs-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6'}
-            , 'valu_mart':{'store':'valu_mart',
-                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5322987-valumart-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6',
-                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-valumart-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6'}
-            , 'no_frills':{'store':'no_frills',
-                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5324898-no-frills-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6',
-                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-no-frills-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6'}
+        #     , 'zehrs':{'store':'zehrs',
+        #             'link':'https://flipp.com/en-ca/waterloo-on/flyer/5326328-zehrs-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6',
+        #             'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-zehrs-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6'}
+        #     , 'valu_mart':{'store':'valu_mart',
+        #             'link':'https://flipp.com/en-ca/waterloo-on/flyer/5322987-valumart-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6',
+        #             'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-valumart-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6'}
+        #     , 'no_frills':{'store':'no_frills',
+        #             'link':'https://flipp.com/en-ca/waterloo-on/flyer/5324898-no-frills-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6',
+        #             'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-no-frills-weekly-flyer-valid-thursday-november-17-wednesday-november-23?postal_code=N2J4L6'}
 
 }
 

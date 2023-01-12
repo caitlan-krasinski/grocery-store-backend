@@ -26,7 +26,7 @@ for store in stores:
 
 
     for index, row in regular_priced.iterrows():
-        product_name = row['product']
+        product_name = row.product_text
 
         product = ps.stem(product_name).lower()
 
@@ -36,19 +36,20 @@ for store in stores:
             else:
                 globals()[f"{store}_regular_index"][word].append(index)
 
-    for index, row in flyer.iterrows():
-        product_name = row['product_name']
-        
-        try: # in case of numbers only in word 
-            product = ps.stem(product_name).lower()
+    if store not in ['zehrs', 'no_frills', 'valu_mart']: # dont need to read flipp data 
+        for index, row in flyer.iterrows():
+            product_name = row['product_name']
+            
+            try: # in case of numbers only in word 
+                product = ps.stem(product_name).lower()
 
-            for word in product.split(): 
-                if word not in globals()[f"{store}_flyer_index"].keys():
-                    globals()[f"{store}_flyer_index"][word] = [index]
-                else:
-                    globals()[f"{store}_flyer_index"][word].append(index)
-        except:
-            continue
+                for word in product.split(): 
+                    if word not in globals()[f"{store}_flyer_index"].keys():
+                        globals()[f"{store}_flyer_index"][word] = [index]
+                    else:
+                        globals()[f"{store}_flyer_index"][word].append(index)
+            except:
+                continue
 
     # save index 
     dump(globals()[f"{store}_flyer_index"], open(os.path.join('catalogue_index', f'{store}_flyer_index.pkl'), 'wb'))

@@ -53,12 +53,17 @@ def clean_loblaw_co_data(df):
     unit_types = []
 
     for index, row in df.iterrows():
-        s = row.price
+        is_sale = row.is_sale 
+        if is_sale:
+            s = row.sale_price
+        else:
+            s = row.price_text
+        # s = row.price
         s = re.findall('(?:[\£\$\€]{1}[,\d]+.?\d*)',s)[-1]
         s = s.replace('$', '') # remove $
         
         pup = 0
-        per_unit_price = row.per_unit_price
+        per_unit_price = row.per_unit_price_text
         if not isinstance(per_unit_price, float):  # not nan
             unit = per_unit_price.split('/')[1]
             price = float(per_unit_price.split('/')[0].replace('$', '').replace(',', ''))
@@ -85,7 +90,7 @@ def clean_flipp_data(df):
     per_unit_prices = []
     unit_types = []
     for index, row in df.iterrows():
-        s = row.price
+        s = row.price_text
         store = row.store
         
         price = ''
@@ -193,7 +198,7 @@ for store in ['zehrs', 'no_frills', 'valu_mart']:
 
 print('done cleaning loblaw co')
 
-for store in ['freshco', 'walmart', 'sobeys', 'food_basics', 'zehrs', 'valu_mart', 'no_frills']:
+for store in ['freshco', 'walmart', 'sobeys', 'food_basics']:
     store_df = pd.read_csv(f'raw_data/{store}/flyer_deals.csv')
     store_df['store'] = store
 
