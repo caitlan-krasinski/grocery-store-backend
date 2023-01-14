@@ -10,18 +10,18 @@ import time
 import scrapers.scraper as scraper
 
 
-flyer_vars = { 'freshco':{'store':'freshco',
-                    'link': 'https://flipp.com/en-ca/waterloo-on/flyer/5325015-freshco-weekly-eflyer-11171123?postal_code=N2J4L6',
-                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-freshco-weekly-eflyer-11171123?postal_code=N2J4L6'}
-            , 'walmart':{'store':'walmart',
-                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5324716-walmart-flyer?postal_code=N2J4L6',
+flyer_vars = { #'freshco':{'store':'freshco',
+#                     'link': 'https://flipp.com/en-ca/waterloo-on/flyer/5325015-freshco-weekly-eflyer-11171123?postal_code=N2J4L6',
+#                     'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-freshco-weekly-eflyer-11171123?postal_code=N2J4L6'}
+            'walmart':{'store':'walmart', # need to double check walmart data each week 
+                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5426645-walmart-flyer?postal_code=N2J4L6',
                     'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-walmart-flyer?postal_code=N2J4L6'}
-            , 'sobeys':{'store':'sobeys',
-                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5329089-sobeys-weekly-flyer-ontario?postal_code=N2J4L6',
-                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-sobeys-weekly-flyer-ontario?postal_code=N2J4L6'}
-            , 'food_basics':{'store':'food_basics',
-                    'link':'https://flipp.com/en-ca/waterloo-on/flyer/5326814-food-basics-flyer?postal_code=N2J4L6',
-                    'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-food-basics-flyer?postal_code=N2J4L6'}
+            # , 'sobeys':{'store':'sobeys',
+            #         'link':'https://flipp.com/en-ca/waterloo-on/flyer/5329089-sobeys-weekly-flyer-ontario?postal_code=N2J4L6',
+            #         'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-sobeys-weekly-flyer-ontario?postal_code=N2J4L6'}
+            # , 'food_basics':{'store':'food_basics',
+            #         'link':'https://flipp.com/en-ca/waterloo-on/flyer/5326814-food-basics-flyer?postal_code=N2J4L6',
+            #         'item_link':'https://flipp.com/en-ca/waterloo-on/item/{item}-food-basics-flyer?postal_code=N2J4L6'}
 
 
         ## NO LONGER NEED loblaw co stores flipp data since it is scraped directly from store site 
