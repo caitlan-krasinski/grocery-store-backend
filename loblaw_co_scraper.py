@@ -12,8 +12,6 @@ import time
 from bs4 import BeautifulSoup
 import scrapers.scraper as scraper
 
-print('------------ running loblaw co scaper')
-
 # variable store 
 store_vars = { 
               'zehrs_produce':{'store':'zehrs',
@@ -81,8 +79,6 @@ store_vars = {
 
 # START RUN 
 start_time = time.time()
-
-print('process started')
 
 
 # SET OPTIONS 
@@ -181,5 +177,3 @@ for store_prod in store_vars.keys():
 
     print(f'completed {store_prod} \n\n')
 
-
-print(f'completed in {(time.time() - start_time)}')

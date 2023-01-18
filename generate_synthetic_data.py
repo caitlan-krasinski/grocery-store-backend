@@ -9,13 +9,9 @@ emperical study
 
 import pandas as pd 
 import random 
-import time
 import warnings
 warnings.filterwarnings("ignore")
 
-
-print('generating synthetic data')
-start_time = time.time()
 
 stores = {'freshco' : {'produce': [0.51, 00.86]
                     , 'bakery': [0.79, 0.93]
@@ -63,5 +59,3 @@ for store in stores.keys():
     
     globals()[f"{store}_synthetic_data"].pop(globals()[f"{store}_synthetic_data"].columns[0])
     globals()[f"{store}_synthetic_data"].to_csv(f'clean_data/{store}/synthetic_data.csv', index=False)
-
-print(f'data generated in {time.time() - start_time}')

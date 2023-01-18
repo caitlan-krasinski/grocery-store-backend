@@ -5,11 +5,7 @@ main computational load comes from the per unit price parsing and calculating
 
 import pandas as pd
 import re 
-import time
 
-start_time = time.time()
-
-print('starting flipp data cleaning')
 
 def extract_number_unit(text, unit):
     '''
@@ -138,7 +134,5 @@ for store in stores:
     
     # save clean_data 
     clean_data.to_csv(f'clean_data/{store}/flyer_deals.csv', index=False)
-
-print(f'completed in {time.time() - start_time}\n')
 
     
