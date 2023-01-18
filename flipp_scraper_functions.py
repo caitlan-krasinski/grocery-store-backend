@@ -1,3 +1,7 @@
+'''
+reference: https://gist.github.com/jQwotos/37c54992881824d7084680ee91c9633c 
+'''
+
 import requests
 
 link = 'https://flipp.com'

@@ -2,8 +2,6 @@
 Flipp flyer scraper v2 powered by requests 
 Selenium to scrape item ids
 requests to call backend url of flipp to collect metadata 
-
-reference: https://gist.github.com/jQwotos/37c54992881824d7084680ee91c9633c 
 '''
 
 # IMPORTS 
