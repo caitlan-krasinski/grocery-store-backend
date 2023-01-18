@@ -49,18 +49,23 @@ def find_per_unit_price(price, unit):
 
 def clean_loblaw_co_data(df):
     prices = []
+    reg_prices = []
     per_unit_prices = []
     unit_types = []
 
     for index, row in df.iterrows():
         is_sale = row.is_sale 
         if is_sale:
+            s_was = row.price_text
             s = row.sale_price
         else:
             s = row.price_text
         # s = row.price
         s = re.findall('(?:[\£\$\€]{1}[,\d]+.?\d*)',s)[-1]
         s = s.replace('$', '') # remove $
+
+        s_was = re.findall('(?:[\£\$\€]{1}[,\d]+.?\d*)',s_was)[-1]
+        s_was = s_was.replace('$', '') # remove $
         
         pup = 0
         per_unit_price = row.per_unit_price_text
@@ -73,12 +78,16 @@ def clean_loblaw_co_data(df):
             unit_type = ''
         
         prices.append(s)
+
+        if is_sale: reg_prices.append(s_was)
+        else: reg_prices.append(s)
+
         per_unit_prices.append(pup)
         unit_types.append(unit_type)
         
-    df['per_unit_price2'] = per_unit_prices
+    df['per_unit_price'] = per_unit_prices
     df['unit_type'] = unit_types
-    df['price2'] = prices
+    df['price'] = prices
 
     return df
         
@@ -90,17 +99,19 @@ def clean_flipp_data(df):
     per_unit_prices = []
     unit_types = []
     for index, row in df.iterrows():
-        s = row.price_text
-        store = row.store
+        s = row.current_price
+        store = row.merchant
+
+
         
         price = ''
         unit = ''
         
-        # remove items that aren't groceries or for general pop 
-        if '*' in s: drop = 1 # electronics 
-        elif 'Scene+' in s: drop = 1 # offer not avail to everyone
-        elif 'when you' in s: drop = 1 # offer not avail to everyone
-        else: drop = 0
+        # # remove items that aren't groceries or for general pop 
+        # if '*' in s: drop = 1 # electronics 
+        # elif 'Scene+' in s: drop = 1 # offer not avail to everyone
+        # elif 'when you' in s: drop = 1 # offer not avail to everyone
+        # else: drop = 0
             
         # multiple units for deal  
         if '/$' in s: 
@@ -165,8 +176,8 @@ def clean_flipp_data(df):
         unit_types.append(unit_type)    
         drop_items.append(drop)
                
-    df['price2'] = prices
-    df['per_unit_price2'] = per_unit_prices
+    df['price'] = prices
+    df['per_unit_price'] = per_unit_prices
     df['unit_type'] = unit_types
     df['drop_col'] = drop_items 
     df = df[df['drop_col'] == 0]
