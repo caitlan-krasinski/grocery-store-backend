@@ -9,12 +9,12 @@ print('##################### PROCESS STARTED #####################')
 # import loblaw_data_cleaning
 
 # 3. generate
-import generate_synthetic_data
-import combine_flipp_synth_data
+# import generate_synthetic_data
+# import combine_flipp_synth_data
 
 # 4. index 
 # revamp indexing with new data 
-# import build_index
+import build_index
 
 print('##################### PROCESS COMPLETE #####################')
 print('###################### DATA COLLECTED ######################')
