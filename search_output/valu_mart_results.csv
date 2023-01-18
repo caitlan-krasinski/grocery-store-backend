@@ -1,4 +1,8 @@
 ,list_item,store,product_name,price,per_unit_price,is_sale,similarity
-0,2% milk,valu_mart,2% Milk,4.99,0.0025,False,1.0
-1,Cheddar Cheese,valu_mart,Old Cheddar Cheese,9.79,0.0139999999999999,False,0.6666666666666666
-2,white sliced bread,valu_mart,White Bread,2.79,0.0040999999999999,False,0.6666666666666666
+0,2% milk,valu_mart,2% Milk,4.99,0.25,False,1.0
+1,Cheddar Cheese,valu_mart,Old Cheddar Cheese,9.79,1.4,False,0.6666666666666666
+2,white sliced bread,valu_mart,White Bread,2.79,0.41,False,0.6666666666666666
+3,ground beef,valu_mart,Lean Ground Beef,10.0,1.1,False,0.6666666666666666
+4,clementines,valu_mart,Clementines,6.99,0.39,False,1.0
+5,chicken breast,valu_mart,Boneless Skinless Chicken Breasts,12.0,1.86,False,0.5
+6,potatoes,valu_mart,Russet Potatoes,5.99,0.13,False,0.5

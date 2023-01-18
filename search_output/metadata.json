@@ -1,0 +1,17 @@
+{
+    "1": {
+        "store": "food_basics",
+        "file_name": "food_basics_results.csv",
+        "subtotal": 0.0
+    },
+    "2": {
+        "store": "food_basics",
+        "file_name": "food_basics_results.csv",
+        "subtotal": 0.0
+    },
+    "3": {
+        "store": "food_basics",
+        "file_name": "food_basics_results.csv",
+        "subtotal": 50.83
+    }
+}

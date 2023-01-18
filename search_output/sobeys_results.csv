@@ -1,0 +1,8 @@
+,list_item,store,product_name,price,per_unit_price,is_sale,similarity
+0,2% milk,sobeys,2% Milk,5.335400726201769,0.267304645601291,False,1.0
+1,Cheddar Cheese,sobeys,Medium Cheddar Cheese,10.467649921746556,1.4969060153672296,False,0.6666666666666666
+2,white sliced bread,sobeys,White Bread,3.0064581830254262,0.4470569788885392,False,0.6666666666666666
+3,ground beef,sobeys,Lean Ground Beef,12.684515004652074,1.395296650511728,False,0.6666666666666666
+4,clementines,sobeys,Organic Clementines,10.806390236622748,1.1898928188473497,False,0.5
+5,chicken breast,sobeys,Chicken Breast Strips,17.74563649150825,2.2197901258141126,False,0.6666666666666666
+6,potatoes,sobeys,Red Potatoes,6.479507258996022,0.2812473935457372,False,0.5
