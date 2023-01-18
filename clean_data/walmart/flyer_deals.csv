@@ -1,320 +1,662 @@
-product_name,price_text,store,price2,per_unit_price2,unit_type
-Cara Cara Oranges 3 lb, $2.44 ,walmart,2.44,2.44,
-Cara Cara Blood Oranges 2 lb., $2.44 ,walmart,2.44,2.44,
-Fresh Pork Combination Chops, $1.97 lb.,walmart,1.97,0.004343110107762041,g
-Ruffles Chips, $2.97 ,walmart,2.97,2.97,
-Ruffles Chips, $2.97 ,walmart,2.97,2.97,
-Nestlé Drumstick, $4.44 ,walmart,4.44,4.44,
-Del Monte Novelties or Real Dairy Confectionery Tubs, $4.44 ,walmart,4.44,4.44,
-Country Harvest Grain Bread, $2.77 ,walmart,2.77,2.77,
-Folgers Ground Coffee, $8.97 ,walmart,8.97,8.97,
-Cashmere Bathroom Tissue, $9.97 ,walmart,9.97,9.97,
-, $9.97 ,walmart,9.97,9.97,
-Nappa Cabbage, $1.27 lb.,walmart,1.27,0.0027998730136333974,g
-Nappa Cabbage or Lobok, $1.27 lb.,walmart,1.27,0.0027998730136333974,g
-Aroy-D Coconut Milk, $1.88 ,walmart,1.88,1.88,
-Delicious Kitchen Coconut Milk or Coconut Water, $1.88 ,walmart,1.88,1.88,
-Delicious Coconut Milk, $1.88 ,walmart,1.88,1.88,
-Delicious Kitchen Jasmine Rice, $13.88 ,walmart,13.88,13.88,
-Great Value Vegetable Oil, $15.88 ,walmart,15.88,15.88,
-Great Value Canola Oil, $15.88 ,walmart,15.88,15.88,
-, $15.88 ,walmart,15.88,15.88,
-, $15.88 ,walmart,15.88,15.88,
-Lee Kum Kee Hoisin Sauce, $2.48 ,walmart,2.48,2.48,
-Panda Oyster Sauce, $2.48 ,walmart,2.48,2.48,
-Marutai Noodles, $2.98 ,walmart,2.98,2.98,
-Marutai Noodles, $2.98 ,walmart,2.98,2.98,
-ChaCheer Sunflower Seeds, $2.28 ,walmart,2.28,2.28,
-Chacheer Sunflower Seeds, $2.28 ,walmart,2.28,2.28,
-Lotte Koala's March Cookies, $4.88 ,walmart,4.88,4.88,
-Fresh Angus Beef Stewing Cubes, $7.88 lb.,walmart,7.88,0.017372440431048165,g
-Fresh Lean Ground Pork Value Pack, $6.88 ,walmart,6.88,6.88,
-Siwin Dumplings, $3.98 ,walmart,3.98,3.98,
-Siwin Dumplings or Potstickers, $3.98 ,walmart,3.98,3.98,
-O'Tasty Dumplings, $4.48 ,walmart,4.48,4.48,
-O'Tasty Dumplings, $4.48 ,walmart,4.48,4.48,
-Aqua Star Frozen Basa Fillet, $5.00 ,walmart,5.00,5.00,
-Joe's Tasty Travels Walnuts, $11.00 ,walmart,11.00,11.00,
-Joe's Tasty Travels Almonds, $11.00 ,walmart,11.00,11.00,
-Salton 10-Cup Rice Cooker & Steamer, $21.98 ,walmart,21.98,21.98,
-Starfrit The Rock 3L Electric Dual-Sided Hot Pot, $48.88 ,walmart,48.88,48.88,
-Campbell's Broth, $1.47 ,walmart,1.47,1.47,
-Heinz Ketchup, $3.97 ,walmart,3.97,3.97,
-Campbell's Broth, $1.47 ,walmart,1.47,1.47,
-Heinz Ketchup, $3.97 ,walmart,3.97,3.97,
-Allen's Juice or Drinks, $1.97 ,walmart,1.97,1.97,
-Yoplait Tubes 8 Pack Yogurt, $1.88 ,walmart,1.88,1.88,
-Minigo 6-Pack Yogurt, $1.88 ,walmart,1.88,1.88,
-Cheemo Perogies, $2.27 ,walmart,2.27,2.27,
-Cheemo Perogies, $2.27 ,walmart,2.27,2.27,
-Minute Maid Drinks, $2.97 ,walmart,2.97,2.97,
-Minute Maid Drinks, $2.97 ,walmart,2.97,2.97,
-M&M's Milk Chocolate or Peanut Bowl Size, $6.97 ,walmart,6.97,6.97,
-Clif Bar, $8.97 ,walmart,8.97,8.97,
-Clif Bar, $8.97 ,walmart,8.97,8.97,
-Pillsbury Pizza Pops, $15.47 ,walmart,15.47,15.47,
-Pillsbury Pizza Pops, $15.47 ,walmart,15.47,15.47,
-, $15.47 ,walmart,15.47,15.47,
-Great Value Pickles, $2.47 ,walmart,2.47,2.47,
-Coca-Cola,3 for $6.00 or $2.47 each,walmart,2.47,2.47,
-Sprite,3 for $6.00 or $2.47 each,walmart,2.47,2.47,
-Chef Boyardee,4 for $7.00 or $1.97 each,walmart,1.97,1.97,
-Activia Yogurt Tubs,3 for $10.00 or $4.18 each,walmart,4.18,4.18,
-Activia Yogurt Tubs,3 for $10.00 or 4.18 each,walmart,10.00,10.00,
-Christie Cookies,3 for $8.00 or $3.28 each,walmart,3.28,3.28,
-Christie Cookies,3 for $8.00 or 3.28 each,walmart,8.00,8.00,
-Orville Redenbacher Popcorn,2 for $9.00 or $5.27 each,walmart,5.27,5.27,
-Orville Redenbacher Popcorn,2 for $9.00 or 5.27 each,walmart,9.00,9.00,
-Danone Oikos Yogurt,3 for $11.00 or $4.28 each,walmart,4.28,4.28,
-Danone Oikos Yogurt,3 for $11.00 or $4.28 each,walmart,4.28,4.28,
-,3 for $11.00 or $4.28 each,walmart,4.28,4.28,
-,3 for $11.00 or $4.28 each,walmart,4.28,4.28,
-,3 for $11.00 or $4.28 each,walmart,4.28,4.28,
-Your Fresh Market Meal Kits, $9.97 ,walmart,9.97,9.97,
-Your Fresh Market Carrots, $2.47 ,walmart,2.47,2.47,
-Rainbow Peppers, $4.47 ,walmart,4.47,4.47,
-Great Value Popcorn Chicken or Meatballs, $9.00 ,walmart,9.00,9.00,
-Great Value Meatballs, $9.00 ,walmart,9.00,9.00,
-Marcangelo Bacon-Wrapped Fine Herb Pork Sirloin Roast 600 g or BBQ Roast 800 g, $12.00 ,walmart,12.00,12.00,
-Lou's Kitchen Fully Cooked Entrees, $8.97 ,walmart,8.97,8.97,
-Schneiders Pepperettes, $9.97 ,walmart,9.97,9.97,
-Your Fresh Market™ Sliced Deli Meats, $3.47 ,walmart,3.47,3.47,
-Your Fresh Market™ Sliced Deli Meats, $3.47 ,walmart,3.47,3.47,
-Furlani Garlic Toast, $4.47 ,walmart,4.47,4.47,
-Your Fresh Market™ Cheese Slices, $5.97 ,walmart,5.97,5.97,
-Your Fresh Market™ Cheese Slices, $5.97 ,walmart,5.97,5.97,
-Furlani Garlic Toast, $4.47 ,walmart,4.47,4.47,
-Dempster's Bread or Hostess Value Snack Cakes,2 for $5.50 or $2.97 to $3.37 each,walmart,3.37,3.37,
-Wonder Bread,2 for $5.50 or 2.97 to 3.37 each,walmart,5.50,5.50,
-Sara Lee Little Bites,2 for $7.00 or 4.27 each,walmart,7.00,7.00,
-Sara Lee Little Bites,2 for $7.00 or $4.27 each,walmart,4.27,4.27,
-Your Fresh Market™ Chocolate Chip Cookies, $6.00 ,walmart,6.00,6.00,
-Our Finest Frozen Entrees, $3.97 ,walmart,3.97,3.97,
-Great Value Frozen Fruit Cocktails, $4.47 ,walmart,4.47,4.47,
-Great Value Frozen Fruit Cocktails, $4.47 ,walmart,4.47,4.47,
-Our Finest Frozen Entrees, $3.97 ,walmart,3.97,3.97,
-Huggies 16x Wipes, $23.97 ,walmart,23.97,23.97,
-"Enfamil A+, A+ 2 or Geantlease A+ Ready to Feed", $53.97 ,walmart,53.97,53.97,
-Rascal + Friends Jumbo Box Diapers, $26.97 ,walmart,26.97,26.97,
-Rascal + Friends CoComelon Training Pants, $26.97 ,walmart,26.97,26.97,
-Huggies 16x Wipes, $23.97 ,walmart,23.97,23.97,
-Enfamil A+ 2 Ready to Feed, $53.97 ,walmart,53.97,53.97,
-, $53.97 ,walmart,53.97,53.97,
-Great Value Frozen Organic Fruit, $6.97 ,walmart,6.97,6.97,
-Great Value The Ultimate Meatless Burger, $8.97 ,walmart,8.97,8.97,
-Great Value Organic Eggs 12-Pack, $6.28 ,walmart,6.28,6.28,
-Great Value Oats, $2.47 ,walmart,2.47,2.47,
-Great Value Sauces, $1.77 ,walmart,1.77,1.77,
-Great Value Canned Pineapple, $1.67 ,walmart,1.67,1.67,
-Great Value Canned Pineapple, $1.67 ,walmart,1.67,1.67,
-Great Value Sauces, $1.77 ,walmart,1.77,1.77,
-Great Value Almond Beverage, $1.97 ,walmart,1.97,1.97,
-Great Value Almond Beverage, $1.97 ,walmart,1.97,1.97,
-Great Value Canned Beans,4 for $5.00 or 1.17 each,walmart,5.00,5.00,
-Great Value Cheese Slices, $4.78 ,walmart,4.78,4.78,
-Great Value Nutri-Bowl Entrees, $3.47 ,walmart,3.47,3.47,
-Great Value Cheese Slices, $4.78 ,walmart,4.78,4.78,
-Great Value Smoothie Yogurt Bars, $6.98 ,walmart,6.98,6.98,
-Great Value Drinkable Yogurt, $4.48 ,walmart,4.48,4.48,
-Great Value Smoothie Yogurt Bars, $6.98 ,walmart,6.98,6.98,
-Great Value Drinkable Yogurt, $4.48 ,walmart,4.48,4.48,
-SpongeTowels Ultra Paper Towels, $5.97 ,walmart,5.97,5.97,
-Finish Quantum Ultimate Detergent Tabs, $16.97 ,walmart,16.97,16.97,
-Finish Quantum Max Detergent Tabs, $16.97 ,walmart,16.97,16.97,
-Downy Unstopables, $15.97 ,walmart,15.97,15.97,
-Gain Scent Beads, $15.97 ,walmart,15.97,15.97,
-Tide Liquid Laundry Detergent, $20.97 ,walmart,20.97,20.97,
-Air Wick Essential Mist Kit, $9.97 ,walmart,9.97,9.97,
-Air Wick Scented Oil Refills, $9.97 ,walmart,9.97,9.97,
-Swiffer Sweeper Dry Cloths 105 - 36s, $9.97 ,walmart,9.97,9.97,
-Woolite 2.96 Laundry Detergent, $13.97 ,walmart,13.97,13.97,
-Lysol Laundry Disinfectant 2.7 L, $13.97 ,walmart,13.97,13.97,
-Swiffer Sweeper Wet Refills 12s -24s or Dry Cloths 10s -36s, $9.97 ,walmart,9.97,9.97,
-Great Value Eco Towels, $6.97 ,walmart,6.97,6.97,
-Ziploc Freezer or Storage Bags, $8.97 ,walmart,8.97,8.97,
-Royale Facial Tissue, $18.77 ,walmart,18.77,18.77,
-Royale Facial Tissue, $18.77 ,walmart,18.77,18.77,
-Ziploc Freezer or Storage Bag, $8.97 ,walmart,8.97,8.97,
-AXE Body Spray, $3.97 ,walmart,3.97,3.97,
-Old Spice Deodorant 85 g, $5.47 ,walmart,5.47,5.47,
-"Always Pads, Liners or Period Underwear or Tampax Tampons or L. Natural Tampons",2 for $16.00 or 8.48 to 10.98 each,walmart,16.00,16.00,
-AXE Deodorant, $3.97 ,walmart,3.97,3.97,
-Secret Antiperspirant 73g or Old Spice Deodorant 85g, $5.47 ,walmart,5.47,5.47,
-Tampax Tampons,2 for $16.00 or 8.48 to 10.98 each,walmart,16.00,16.00,
-L'Oréal Paris Preference Hair Colour, $10.97 ,walmart,10.97,10.97,
-L'Oréal Paris Preference Hair Colour, $10.97 ,walmart,10.97,10.97,
-Aveeno or Neutrogena Hand or Body Lotion, $10.97 ,walmart,10.97,10.97,
-Aveeno or Neutrogena Hand or Body Lotion, $10.97 ,walmart,10.97,10.97,
-Tylenol Pain Relief, $9.67 ,walmart,9.67,9.67,
-Nexium 24HR Antacid, $12.97 ,walmart,12.97,12.97,
-Jamieson Melatonin 60s, $11.17 ,walmart,11.17,11.17,
-Jamieson B50 Complex Vitamins, $11.17 ,walmart,11.17,11.17,
-Jamieson Calcium or Magnesium, $10.77 ,walmart,10.77,10.77,
-Jamieson Magnesium, $10.77 ,walmart,10.77,10.77,
-Always Discreet Underwear,2 for $52.00 or $28.97 each,walmart,28.97,28.97,
-Crest Pro-Health Multi-Protection Mouthwash 1L, $5.97 ,walmart,5.97,5.97,
-Garnier Whole Blends Shampoo or Conditioner, $7.96 ,walmart,7.96,7.96,
-L'Oréal Paris Hair Expertise Shampoo or Conditioner, $9.37 ,walmart,9.37,9.37,
-"L'Oreal Paris Ever Pure, Hair Expertise Shampoo or Conditioner or Wonder Water", $9.37 ,walmart,9.37,9.37,
-L'Oréal Paris Ever Pure Hair Expertise Shampoo, $9.37 ,walmart,9.37,9.37,
-Crest GUM Toothpaste 110 mL, $5.97 ,walmart,5.97,5.97,
-Vaseline Intensive Care Hand or Body Lotion, $5.78 ,walmart,5.78,5.78,
-Softsoap Hand Soap Refill, $5.97 ,walmart,5.97,5.97,
-Dove Body Wash 354 mL, $4.97 ,walmart,4.97,4.97,
-Dial Hand Soap Refills, $4.97 ,walmart,4.97,4.97,
-Dial Hand Soap Refills, $4.97 ,walmart,4.97,4.97,
-Neutrogena Hydro Boost Gel Cream, $18.47 ,walmart,18.47,18.47,
-"Dove Body Wash 354 mL, Men+Care 3 Bars or Body Wash 400 mL", $4.97 ,walmart,4.97,4.97,
-Maybelline Volum' Express The Falsies Mascara, $5.98 ,walmart,5.98,5.98,
-Garnier Belle Color Hair Colour,2 for $12.00 or 7.47 each,walmart,12.00,12.00,
-Garnier Belle Color Hair Colour,2 for $12.00 or $7.47 each,walmart,7.47,7.47,
-CoverGirl Clean Fresh Skincare Serum, $18.47 ,walmart,18.47,18.47,
-CoverGirl Clean Fresh Skincare Serum, $18.47 ,walmart,18.47,18.47,
-Equate Conditioner, $3.97 ,walmart,3.97,3.97,
-Equate Moisture Shampoo, $3.97 ,walmart,3.97,3.97,
-Equate Mouthwash, $5.98 ,walmart,5.98,5.98,
-Equate Mouthwash, $5.98 ,walmart,5.98,5.98,
-Equate Hand Soap, $3.97 ,walmart,3.97,3.97,
-Equate Hand Soap, $3.97 ,walmart,3.97,3.97,
-Equate Square, $7.47 ,walmart,7.47,7.47,
-, $7.47 ,walmart,7.47,7.47,
-Galaxy A53 Postpaid Phone, $0.00 ¹ $ down % APR $28.75/mo. for 24 mo.,walmart,28.75,28.75,
-Moto G Pure Prepaid Phone, $169.00 ,walmart,169.00,169.00,
-Philips LED 60W A19 Bulbs 3-Pack, $14.98 ,walmart,14.98,14.98,
-3M Large Picture Hanging Strips Value Packs, $11.77 ,walmart,11.77,11.77,
-3M Command Medium Utility Hooks, $11.77 ,walmart,11.77,11.77,
-Mobil 1 Synthetic Motor Oil, $34.97 ,walmart,34.97,34.97,
-Valvoline Synthetic Motor Oil, $35.97 ,walmart,35.97,35.97,
-Serta Sertapedic So Calm! Lavender Knit Pillow, $14.97 ,walmart,14.97,14.97,
-Serta 5-in-1 Ultimate Mattress Pad, $49.97 ,walmart,49.97,49.97,
-Beautyrest Sheet Set, $19.88 ,walmart,19.88,19.88,
-Beautyrest Sheet Set, $19.88 ,walmart,19.88,19.88,
-Beautyrest Sheet Set, $19.88 ,walmart,19.88,19.88,
-Beautyrest Blanket, $29.88 ,walmart,29.88,29.88,
-Serta So Fluffy! Antimicrobial Duvet, $94.97 ,walmart,94.97,94.97,
-Beautyrest Sheet Set, $19.88 ,walmart,19.88,19.88,
-Beautyrest Sheet Set, $19.88 ,walmart,19.88,19.88,
-Beautyrest Blanket, $29.88 ,walmart,29.88,29.88,
-Beauty Sheet Set, $19.88 ,walmart,19.88,19.88,
-Full Size Wax Warmer, $22.97 ,walmart,22.97,22.97,
-Full Size Wax Warmer, $22.97 ,walmart,22.97,22.97,
-Hometrends Ribbed Bath Towels, $10.97 ,walmart,10.97,10.97,
-Beautyrest 7-Piece Bed in a Bag, $69.88 ,walmart,69.88,69.88,
-Hometrends Ribbed Bath Towels, $10.97 ,walmart,10.97,10.97,
-Hometrends Ribbed Bath Towels, $10.97 ,walmart,10.97,10.97,
-, $10.97 ,walmart,10.97,10.97,
-, $10.97 ,walmart,10.97,10.97,
-Sistema Bento Box, $9.87 ,walmart,9.87,9.87,
-Contigo Shake & Go Bottles, $15.97 ,walmart,15.97,15.97,
-Contigo Shake & Go Bottles, $15.97 ,walmart,15.97,15.97,
-Sistema Bento Box, $9.87 ,walmart,9.87,9.87,
-Sterilite 26 L Latch Clear Tote, $7.97 ,walmart,7.97,7.97,
-Sterilite 26 L Latch Clear Tote, $7.97 ,walmart,7.97,7.97,
-Mistral 19 L Classic Step Can, $13.57 ,walmart,13.57,13.57,
-Mistral 19 L Classic Step Can, $13.57 ,walmart,13.57,13.57,
-Sterilite 68 L Tuff1 Tote, $14.97 ,walmart,14.97,14.97,
-Sterilite 10-Pack 5.7 L Totes, $14.97 ,walmart,14.97,14.97,
-Sterilite 4-Pack 11.4 L Totes, $14.97 ,walmart,14.97,14.97,
-Sterlite 47 L Wheeled Tote, $19.97 ,walmart,19.97,19.97,
-Hamilton Beach 0.7-cu. ft. Microwave, $69.97 ,walmart,69.97,69.97,
-T-fal Ultra 4.2 L Air Fryer, $98.97 ,walmart,98.97,98.97,
-Kalorik 2-qt. Com act Air Fryer, $42.88 ,walmart,42.88,42.88,
-Arctic King 3-cu. ft. Upright or 5-cu. ft. Chest Freezer, $197.97 ,walmart,197.97,197.97,
-Arctic King 5-cu. ft. Chest Freezer, $197.97 ,walmart,197.97,197.97,
-Brita 4-Pack Filters, $24.97 ,walmart,24.97,24.97,
-NutriBullet GO Portable Blender, $29.98 ,walmart,29.98,29.98,
-Ninja Twisti High Speed Blender Duo, $119.98 ,walmart,119.98,119.98,
-Dirt Devil 4-in-1 Power Stick Vacuum with Removable Hand Vac, $49.98 ,walmart,49.98,49.98,
-Hoover Power Dash Carpet Cleaner, $129.98 ,walmart,129.98,129.98,
-IAMS Dry Dog Food, $14.97 ,walmart,14.97,14.97,
-IAMS Dry Dog Food, $14.97 ,walmart,14.97,14.97,
-IAMS Dry Cat Food, $11.47 ,walmart,11.47,11.47,
-IAMS Dry Cat Food, $11.47 ,walmart,11.47,11.47,
-, $11.47 ,walmart,11.47,11.47,
-, $11.47 ,walmart,11.47,11.47,
-, $11.47 ,walmart,11.47,11.47,
-, $11.47 ,walmart,11.47,11.47,
-, $11.47 ,walmart,11.47,11.47,
-, $11.47 ,walmart,11.47,11.47,
-Centrum Men Multivitamins, $11.47 ,walmart,11.47,11.47,
-Centrum Women Multivitamins, $11.47 ,walmart,11.47,11.47,
-Centrum Women Multivitamins, $11.47 ,walmart,11.47,11.47,
-Centrum Men or Women Multivitamins, $11.47 ,walmart,11.47,11.47,
-Emergen-C Kidz Junior Immune+ Support,2 for $22.00 or $13.97 each,walmart,13.97,13.97,
-Emergen-C Kidz Junior or Kidz Junior Immune+ Support,2 for $22.00 or 13.97 each,walmart,22.00,22.00,
-Centrum Kid Chewable Tablets, $9.97 ,walmart,9.97,9.97,
-Centrum Kids Chewable Tablets, $9.97 ,walmart,9.97,9.97,
-Centrum Men or Women Minis Immunity, $11.47 ,walmart,11.47,11.47,
-Centrum Men or Women Minis Immunity*, $11.47 ,walmart,11.47,11.47,
-Centrum Select Multivitamins, $27.97 ,walmart,27.97,27.97,
-Centrum Select or Forte Multivitamins, $27.97 ,walmart,27.97,27.97,
-Emergen-C,2 for $22.00 or $13.97 each,walmart,13.97,13.97,
-Centrum MultiGummies, $15.47 ,walmart,15.47,15.47,
-Centrum MultiGummies, $15.47 ,walmart,15.47,15.47,
-Emergen-C,2 for $22.00 or $13.97 each,walmart,13.97,13.97,
-,2 for $22.00 or $13.97 each,walmart,13.97,13.97,
-Aveeno Baby Suncare Products, $16.47 ,walmart,16.47,16.47,
-Aveeno Baby Suncare Products, $16.47 ,walmart,16.47,16.47,
-Aveeno Baby Value Size Wash & Shampoo, $21.97 ,walmart,21.97,21.97,
-Aveeno Baby Eczema Cream, $18.97 ,walmart,18.97,18.97,
-Aveeno Baby Lotion, $13.47 ,walmart,13.47,13.47,
-Aveeno Baby Wash & Shampoo, $13.47 ,walmart,13.47,13.47,
-Aveeno Shampoo or Conditioner, $10.18 ,walmart,10.18,10.18,
-Aveeno Shampoo or Conditioner, $10.18 ,walmart,10.18,10.18,
-Aveeno Hand or Body Lotion, $10.97 ,walmart,10.97,10.97,
-Aveeno Hand or Body Lotion, $10.97 ,walmart,10.97,10.97,
-Aveeno Body Wash, $8.77 ,walmart,8.77,8.77,
-Aveeno Body Wash, $8.77 ,walmart,8.77,8.77,
-Aveeno Skincare, $24.47 ,walmart,24.47,24.47,
-Aveeno Skincare, $24.47 ,walmart,24.47,24.47,
-, $24.47 ,walmart,24.47,24.47,
-fairlife Milk, $4.17 ,walmart,4.17,4.17,
-Fairlife Milk, $4.17 ,walmart,4.17,4.17,
-Simply Orange Juice, $4.47 ,walmart,4.47,4.47,
-Simply Orange Juice, $4.47 ,walmart,4.47,4.47,
-Minute Maid Orange Juice, $2.97 ,walmart,2.97,2.97,
-Minute Maid No Sugar Added Lemonade, $2.97 ,walmart,2.97,2.97,
-Minute Maid No Sugar Added Lemonade, $2.97 ,walmart,2.97,2.97,
-Gold Peak Lemon or Raspberry Tea, $6.18 ,walmart,6.18,6.18,
-Honest Kids Organic Apple Juice, $2.77 ,walmart,2.77,2.77,
-Gold Peak Lemon Tea, $6.18 ,walmart,6.18,6.18,
-, $6.18 ,walmart,6.18,6.18,
-Coca-Cola® 500 ml, $1.98 ,walmart,1.98,1.98,
-Coca-Cola® Mini Cans 6 x 222 mL, $3.77 ,walmart,3.77,3.77,
-Coca-Cola® Zero Sugar 12 x 355 mL, $6.77 ,walmart,6.77,6.77,
-Peace Tea® 12 x 341 mL, $6.47 ,walmart,6.47,6.47,
-AHA™ Sparkling Water Beverage 12 x 355 mL, $5.47 ,walmart,5.47,5.47,
-, $5.47 ,walmart,5.47,5.47,
-Kraft Hazelnut Spread 725 g,2 for $10.00 or 5.77 to 5.88 each,walmart,10.00,10.00,
-Kraft Peanut Butter 750 g - 1 kg,2 for $10.00 or 5.77 to 5.88 each,walmart,10.00,10.00,
-Philiadelphia Cream Cheese,2 for $7.50 or 4.28 each,walmart,7.50,7.50,
-Philiadelphia Cream Cheese,2 for $7.50 or 4.28 each,walmart,7.50,7.50,
-Maxwell House Single-Serve Coffee Pods 30s,2 for $30.00 or 15.97 each,walmart,30.00,30.00,
-Maxwell House Single-Serve Coffee Pods 30s,2 for $30.00 or 15.97 each,walmart,30.00,30.00,
-Nabob Single-Serve Coffee Pods 30s,2 for $34.00 or 17.97 each,walmart,34.00,34.00,
-Nabob Single-Serve Coffee Pods 30s,2 for $34.00 or 17.97 each,walmart,34.00,34.00,
-Kraft Salad Dressing, $3.27 ,walmart,3.27,3.27,
-Kraft Salad Dressing, $3.27 ,walmart,3.27,3.27,
-Kraft Dinner Singles,4 for $5.00 or 1.57 each,walmart,5.00,5.00,
-Heinz Seriously Good Mayo, $4.97 ,walmart,4.97,4.97,
-Kraft Miracle Whip, $4.97 ,walmart,4.97,4.97,
-Kraft Dinner KD Cups,4 for $6.00 or 1.97 each,walmart,6.00,6.00,
-Kraft Dinner KD Cups,4 for $6.00 or 1.97 each,walmart,6.00,6.00,
-St. Louis Bar & Grill Garlic Dill Sauce, $3.97 ,walmart,3.97,3.97,
-Heinz Mayochup, $3.97 ,walmart,3.97,3.97,
-, $3.97 ,walmart,3.97,3.97,
-CHRISTIE OREO Cookies,3 for $8.00 or $3.28 each,walmart,3.28,3.28,
-CHRISTIE CHIPS AHOY! Cookies,3 for $8.00 or $3.28 each,walmart,3.28,3.28,
-RITZ Original Crackers 200 g,3 for $7.00 or 2.78 each,walmart,7.00,7.00,
-RITZ Bits Sandwiches 180 g,3 for $7.00 or 2.78 each,walmart,7.00,7.00,
-Cadbury Dairy Milk,3 for $6.00 or $2.48 each,walmart,2.48,2.48,
-CHRISTIE Mini Cookies,3 for $7.00 or $2.78 each,walmart,2.78,2.78,
-CHRISTIE Mini Cookies,3 for $7.00 or 2.78 each,walmart,7.00,7.00,
-,3 for $7.00 or 2.78 each,walmart,7.00,7.00,
-Clorox Disinfecting Wipes 35s, $2.47 ,walmart,2.47,2.47,
-Clorox Disinfecting Wipes 355, $2.47 ,walmart,2.47,2.47,
-Clorox Original Bleach, $2.47 ,walmart,2.47,2.47,
-Clorox Toilet Bowl Cleaner, $2.47 ,walmart,2.47,2.47,
-Clorox Toilet Bowl Cleaner, $2.47 ,walmart,2.47,2.47,
-Clorox Clean-Up Disinfecting Bleach Cleaner, $3.97 ,walmart,3.97,3.97,
-, $3.97 ,walmart,3.97,3.97,
+,merchant,brand,product,description,current_price,per_unit_price,units,sku,flyer_valid_from,flyer_valid_to,image_url,price
+0,Walmart,,Cara Cara Oranges 3 lb,"Each. Product of USA.
+#30925672.",,0.17930945284161393,100g,30925672.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/514897a8-8c73-11ed-a040-0ec6e2beadde/x_large,2.44
+1,Walmart,,Cara Cara Blood Oranges 2 lb.,"Each. Product of USA.
+#30221813.",,0.26896417926242083,100g,30174964.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/51b03ea8-8c73-11ed-a040-0ec6e2beadde/x_large,2.44
+2,Walmart,,Fresh Pork Combination Chops,"Cut from 100% Canadian pork.
+#31105646
+
+4.34/kg. Save $5.51/kg
+Was $9.85/kg",,0.43431101077620415,100g,31105646.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/509522ae-8c73-11ed-a040-0ec6e2beadde/x_large,1.97
+3,Walmart,Ruffles,Ruffles Chips,Each. Selected varieties and sizes. #30464165.,,2.97,,30464165.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/4f15f962-8c73-11ed-a040-0ec6e2beadde/x_large,2.97
+4,Walmart,Ruffles,Ruffles Chips,"Each. Selected varieties and sizes.
+#31744447.",,2.97,,31744447.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283477864/1673967093/extra_large.jpg,2.97
+5,Walmart,Nestlé,Nestlé Drumstick,Each. Frozen Selected varieties and sizes. #9140285,,4.44,,9140285.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/4f86e4ba-8c73-11ed-a040-0ec6e2beadde/x_large,4.44
+6,Walmart,,Del Monte Novelties or Real Dairy Confectionery Tubs,"Each. Frozen. Selected varieties and sizes
+#30294135",,4.44,,30294135.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/4fa03dde-8c73-11ed-a040-0ec6e2beadde/x_large,4.44
+7,Walmart,Country Harvest,Country Harvest Grain Bread,"Each. Selected varieties. 600 g.
+#30881191.",,0.46166666666666667,100g,30881191.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/500a52dc-8c73-11ed-a040-0ec6e2beadde/x_large,2.77
+8,Walmart,Country Harvest,Country Harvest Grain Bread,"Each Selected varieties 600 g
+#30881191",,0.46166666666666667,100g,30881191.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/4ffb3a72-8c73-11ed-a040-0ec6e2beadde/x_large,2.77
+9,Walmart,Folgers,Folgers Ground Coffee,"Each. 816 g.
+#30759982",,1.099264705882353,100g,30759982.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/4eab6944-8c73-11ed-a040-0ec6e2beadde/x_large,8.97
+10,Walmart,,Cashmere Bathroom Tissue,24-pack. #30159998,,0.4154166666666667,packs,30159998.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258306/50c1d326-8c73-11ed-a040-0ec6e2beadde/x_large,9.97
+11,Walmart,,lunar,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/284287786/1673967105/extra_large.jpg,
+12,Walmart,,Nappa Cabbage,"Product of USA or
+Mexico
+#50106013.
+2.80/kg",,0.2799873013633397,100g,50106013.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258312/4d6f01bc-8c73-11ed-aedd-0e1ba86a8db4/x_large,1.27
+13,Walmart,,Nappa Cabbage or Lobok,"Product of USA or Mexico
+#31305670",,0.2799873013633397,100g,31305670.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258312/4e91d0c4-8c73-11ed-aedd-0e1ba86a8db4/x_large,1.27
+14,Walmart,Aroy-D,Aroy-D Coconut Milk,"Each, 400 ml
+#31256306",,0.4699999999999999,100ml,31256306.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258312/4d710e12-8c73-11ed-aedd-0e1ba86a8db4/x_large,1.88
+15,Walmart,Delicious Kitchen,Delicious Kitchen Coconut Milk or Coconut Water,"Each. 1 L.
+#30627005.",,0.188,100ml,30627005.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258312/4dd24128-8c73-11ed-aedd-0e1ba86a8db4/x_large,1.88
+16,Walmart,,Delicious Coconut Milk,"Each. 1L.
+#30615309.",,1.88,,30615309.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258312/4dcfb0fc-8c73-11ed-aedd-0e1ba86a8db4/x_large,1.88
+17,Walmart,Delicious Kitchen,Delicious Kitchen Jasmine Rice,"Each. 8 kg.
+#31578034.",,0.1735,100g,31578034.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258312/4e34ff20-8c73-11ed-aedd-0e1ba86a8db4/x_large,13.88
+18,Walmart,Great Value,Great Value Vegetable Oil,"Each. 5 L. 
+30119686",,0.3176,100ml,30119686.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258312/4d18a808-8c73-11ed-aedd-0e1ba86a8db4/x_large,15.88
+19,Walmart,Great Value,Great Value Canola Oil,"Each. 5 L.
+#30119684.",,0.3176,100ml,30119684.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258312/4e77a2a8-8c73-11ed-aedd-0e1ba86a8db4/x_large,15.88
+20,Walmart,,Digital gift cards,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283496299/1673967103/extra_large.jpg,
+21,Walmart,,lunar,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/284287790/1673967416/extra_large.jpg,
+22,Walmart,Lee Kum Kee,Lee Kum Kee Hoisin Sauce,"Each. 410 mL - 443 mL.
+#9286611",,2.48,,9286611.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4ea2e56c-8c73-11ed-823e-0e7faade0358/x_large,2.48
+23,Walmart,,Panda Oyster Sauce,"Each.
+410 mL - 443 mL.
+#9286681.",,2.48,,9286681.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4ef30ede-8c73-11ed-823e-0e7faade0358/x_large,2.48
+24,Walmart,,Marutai Noodles,"Each. Selected varieties and sizes
+#30739995",,2.98,,30739995.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4e9cb43a-8c73-11ed-823e-0e7faade0358/x_large,2.98
+25,Walmart,Marutai,Marutai Noodles,Each. Selected varieties and sizes. 30739940,,2.98,,30739940.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4e5549ec-8c73-11ed-823e-0e7faade0358/x_large,2.98
+26,Walmart,ChaCheer,ChaCheer Sunflower Seeds,Each. Selected varieties. 260 g. #30799496.,,0.8769230769230769,100g,30799496.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4e48ac96-8c73-11ed-823e-0e7faade0358/x_large,2.28
+27,Walmart,Chacheer,Chacheer Sunflower Seeds,"Each. Selected varieties. Selected 260g
+30927339",,2.28,,30927339.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4dfa5e92-8c73-11ed-823e-0e7faade0358/x_large,2.28
+28,Walmart,,Lotte Koala's March Cookies,"Each. Selected
+varieties195 g.
+#50108618.",,2.5025641025641026,100g,50108618.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4fb25eec-8c73-11ed-823e-0e7faade0358/x_large,4.88
+29,Walmart,Lotte Koala's,Lotte Koala's March Cookies,"Each. Selected
+varieties. 195 g.
+50108618.",,2.5025641025641026,100g,50108618.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4f5e2944-8c73-11ed-823e-0e7faade0358/x_large,4.88
+30,Walmart,,Fresh Angus Beef Stewing Cubes,"Cut from 100% Canada AAA Angus beef.
+#30317492
+
+17.37/kg, Save 2.41/kg, Was 19.78/kg.",,1.7372440431048166,100g,30317492.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4f51f016-8c73-11ed-823e-0e7faade0358/x_large,7.88
+31,Walmart,,Fresh Lean Ground Pork Value Pack,"Each. Cut from
+100% Canadian
+pork. 
+31620419.",,6.88,,31620419.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4ffbc0d2-8c73-11ed-823e-0e7faade0358/x_large,6.88
+32,Walmart,,Siwin Dumplings,"Each. Selected
+varieties and sizes.
+#30907165.",,3.98,,30907165.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4e0cb45c-8c73-11ed-823e-0e7faade0358/x_large,3.98
+33,Walmart,,Siwin Dumplings or Potstickers,"Each. Selected varieties and sizes.
+#30907162.",,3.98,,30907162.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4dc485ce-8c73-11ed-823e-0e7faade0358/x_large,3.98
+34,Walmart,O'Tasty,O'Tasty Dumplings,"Each. Selected varieties. 567g.
+#30283349.",,4.48,,30283349.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4ceea530-8c73-11ed-823e-0e7faade0358/x_large,4.48
+35,Walmart,O'Tasty,O'Tasty Dumplings,"Each. Selected varieties. 567 g.
+#31544024",,0.7901234567901235,100g,31544024.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4db5c9da-8c73-11ed-823e-0e7faade0358/x_large,4.48
+36,Walmart,,Aqua Star Frozen Basa Fillet,"400 g 
+
+#30940591",,1.25,100g,30940591.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4d74de20-8c73-11ed-823e-0e7faade0358/x_large,5.0
+37,Walmart,,Joe's Tasty Travels Walnuts,"Each. 550 g - 700 g.
+#30189716.",,2.0,100g,30189716.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4cea14d4-8c73-11ed-823e-0e7faade0358/x_large,11.0
+38,Walmart,Joe's Tasty Travels,Joe's Tasty Travels Almonds,"Each. 550 g - 700 9.
+#30409115.",,2.0,100g,30409115.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4f07232e-8c73-11ed-823e-0e7faade0358/x_large,11.0
+39,Walmart,Salton,Salton 10-Cup Rice Cooker & Steamer,"Each.
+31420730",,21.98,,31420730.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4d6b6a52-8c73-11ed-823e-0e7faade0358/x_large,21.98
+40,Walmart,,Starfrit The Rock 3L Electric Dual-Sided Hot Pot,Each. #30347125,,48.88,,30347125.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258316/4d2e824a-8c73-11ed-823e-0e7faade0358/x_large,48.88
+41,Walmart,Campbell's,Campbell's Broth,"Each. Selected varieties. 900 mL.
+#9237018",,1.47,,9237018.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4cbbaad6-8c73-11ed-9947-0e7faade0358/x_large,1.47
+42,Walmart,Heinz,Heinz Ketchup,"Each. 750 mL - 1 L
+#9276970",,0.397,100ml,9276970.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4d0741da-8c73-11ed-9947-0e7faade0358/x_large,3.97
+43,Walmart,Campbell's,Campbell's Broth,"Each. Selected varieties. 900 mL.
+#9275318.",,1.47,,9275318.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4cbe098e-8c73-11ed-9947-0e7faade0358/x_large,1.47
+44,Walmart,Heinz,Heinz Ketchup,"Each. 750 mL - 1 L.
+#9276949",,0.397,100ml,9276949.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4d09f98e-8c73-11ed-9947-0e7faade0358/x_large,3.97
+45,Walmart,Allen's,Allen's Juice or Drinks,"Pack. Selected varieties. 8x200 mL.
+#9273939",,1.97,,9273939.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/512d3bc0-8c73-11ed-9947-0e7faade0358/x_large,1.97
+46,Walmart,Yoplait,Yoplait Tubes 8 Pack Yogurt,"Each.
+Selected varieties and sizes.
+#30000241.",,1.88,,30000241.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4d57fe22-8c73-11ed-9947-0e7faade0358/x_large,1.88
+47,Walmart,,Minigo 6-Pack Yogurt,"Each. Selected varieties and sizes.
+#9073358",,1.88,,9073358.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4d5663fa-8c73-11ed-9947-0e7faade0358/x_large,1.88
+48,Walmart,Cheemo,Cheemo Perogies,"Each. Selected varieties.
+907 g. #9122463.",,0.25027563395810365,100g,9122463.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/510c5f90-8c73-11ed-9947-0e7faade0358/x_large,2.27
+49,Walmart,Cheemo,Cheemo Perogies,"Each. Selected varieties. 907 g.
+#9122456",,0.25027563395810365,100g,9122456.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/50ce9714-8c73-11ed-9947-0e7faade0358/x_large,2.27
+50,Walmart,Minute Maid,Minute Maid Drinks,"Each. Selected varieties.
+1.75 L.
+#30056524.",,0.16971428571428573,100ml,30056524.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4da07e7c-8c73-11ed-9947-0e7faade0358/x_large,2.97
+51,Walmart,Minute Maid,Minute Maid Drinks,"Each. Selected varieties.
+1.54 L - 1.75 L.
+#31374099",,0.1928571428571429,100ml,31374099.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4da3b1fa-8c73-11ed-9947-0e7faade0358/x_large,2.97
+52,Walmart,,M&M's Milk Chocolate or Peanut Bowl Size,Each. 400 g. #184191,,1.7425,100g,184191.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4e3dd352-8c73-11ed-9947-0e7faade0358/x_large,6.97
+53,Walmart,Clif,Clif Bar,"Pack. Selected varieties.
+6 x 68 g.
+#31577971",,13.191176470588237,100g,31577971.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4e4263cc-8c73-11ed-9947-0e7faade0358/x_large,8.97
+54,Walmart,,Clif Bar,"Pack. Selected varieties.
+6 x 68 9. #31577972.",,8.97,,31577972.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4e88d6c2-8c73-11ed-9947-0e7faade0358/x_large,8.97
+55,Walmart,Pillsbury,Pillsbury Pizza Pops,"30-pack. Frozen.
+Selected varieties.
+2.85 kg.
+#30003098.",,0.5156666666666667,packs,30003098.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4e93995e-8c73-11ed-9947-0e7faade0358/x_large,15.47
+56,Walmart,Pillsbury,Pillsbury Pizza Pops,"30-pack. Frozen.
+Selected varieties.
+2.85 kg. #30003096.",,0.5156666666666667,packs,30003096.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4ed388ac-8c73-11ed-9947-0e7faade0358/x_large,15.47
+57,Walmart,,Locked in low prices,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283494207/1673967067/extra_large.jpg,
+58,Walmart,Great Value,Great Value Pickles,"Each. 500 mL.
+#30610029.",,2.47,,30610029.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/5167b354-8c73-11ed-9947-0e7faade0358/x_large,2.47
+59,Walmart,Great Value,Great Value Mac & Cheese,"Each. 225 g.
+#30115171",,0.3422222222222222,100g,30115171.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/51849f1e-8c73-11ed-9947-0e7faade0358/x_large,0.77
+60,Walmart,Great Value,Great Value Tuna,"Each. 170 g.
+#30369709.",,0.5705882352941176,100g,30369709.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258356/541baf42-8c73-11ed-acc5-0e7faade0358/x_large,0.97
+61,Walmart,Great Value,Great Value Tuna,"Each. 170 g.
+#30369709.",,0.5705882352941176,100g,30369709.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/51bfa780-8c73-11ed-9947-0e7faade0358/x_large,0.97
+62,Walmart,Coca-Cola,Coca-Cola,"2L
+#9221495",,2.0,,9221495.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/5072211e-8c73-11ed-9947-0e7faade0358/x_large,6.0
+63,Walmart,,Sprite,2 L #9226206.,,2.0,,9226206.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/50b249f6-8c73-11ed-9947-0e7faade0358/x_large,6.0
+64,Walmart,,Chef Boyardee,"Selected varieties and sizes.
+#9273302.",,1.75,,9273302.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4ef6c006-8c73-11ed-9947-0e7faade0358/x_large,7.0
+65,Walmart,Chef Boyardee,Chef Boyardee,Selected varieties and sizes. 9273288,,1.75,,9273288.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4f30c0f8-8c73-11ed-9947-0e7faade0358/x_large,7.0
+66,Walmart,Activia,Activia Yogurt Tubs,"Selected flavours. 650 g.
+9049712",,3.3333333333333335,,9049712.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4f4d40fc-8c73-11ed-9947-0e7faade0358/x_large,10.0
+67,Walmart,Activia,Activia Yogurt Tubs,"Selected flavours. 650 g.
+#9049719",,3.3333333333333335,,9049719.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4f96907c-8c73-11ed-9947-0e7faade0358/x_large,10.0
+68,Walmart,Christie,Christie Cookies,"Selected varieties and sizes.
+#31181656",,2.6666666666666665,,31181656.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/50082746-8c73-11ed-9947-0e7faade0358/x_large,8.0
+69,Walmart,Christie,Christie Cookies,"Selected varieties and sizes.
+#31182847",,2.6666666666666665,,31182847.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/5062a2e8-8c73-11ed-9947-0e7faade0358/x_large,8.0
+70,Walmart,Orville Redenbacher,Orville Redenbacher Popcorn,"Selected varieties and sizes.
+#30596219",,4.5,,30596219.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4fad16d0-8c73-11ed-9947-0e7faade0358/x_large,9.0
+71,Walmart,Orville Redenbacher,Orville Redenbacher Popcorn,"Selected varieties
+and sizes. #30596220.",,4.5,,30596220.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4ffdf2e4-8c73-11ed-9947-0e7faade0358/x_large,9.0
+72,Walmart,Danone,Danone Oikos Yogurt,"Selected flavours.
+4 x 100 g
+#30205496.",,3.6666666666666665,,30205496.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4dea62d0-8c73-11ed-9947-0e7faade0358/x_large,11.0
+73,Walmart,Danone,Danone Oikos Yogurt,"Selected flavours.
+4 x 100 g.
+#30589638.",,3.6666666666666665,,30589638.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258358/4deb56cc-8c73-11ed-9947-0e7faade0358/x_large,11.0
+74,Walmart,,Walmart,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283494265/1673967074/extra_large.jpg,
+75,Walmart,,Site to Store,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283494269/1673967074/extra_large.jpg,
+76,Walmart,,Meals made easy,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/284287780/1673967079/extra_large.jpg,
+77,Walmart,Your Fresh Market,Your Fresh Market Meal Kits,"Each. Selected varieties and sizes.
+#30645260",,9.97,,30645260.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/4694ba6c-8c73-11ed-8153-0e1ba86a8db4/x_large,9.97
+78,Walmart,Your Fresh Market,Your Fresh Market Carrots,"Bag. Product of Ontario. Canada No.1.
+1.36 kg.
+31383341.
+
+Also available, Yellow onions, product of Ontario,
+Canada No.1,1.36 kg, #31383342, 2.47.",,0.18161764705882352,100g,31383341.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/478f85c8-8c73-11ed-8153-0e1ba86a8db4/x_large,2.47
+79,Walmart,,Rainbow Peppers,3-pack. Product of Canada or Mexico. #31567452.,,1.49,packs,31567452.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/4767e194-8c73-11ed-8153-0e1ba86a8db4/x_large,4.47
+80,Walmart,Great Value,Great Value Popcorn Chicken or Meatballs,"Each Bagged, Frozen
+Selected Varieties and sizes
+#30225814",,9.0,,30225814.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/474e0cce-8c73-11ed-8153-0e1ba86a8db4/x_large,9.0
+81,Walmart,Great Value,Great Value Meatballs,"Each. Bagged. Frozen. Selected varieties and sizes.
+30225814.",,9.0,,30225814.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/4726f15c-8c73-11ed-8153-0e1ba86a8db4/x_large,9.0
+82,Walmart,Marcangelo,Marcangelo Bacon-Wrapped Fine Herb Pork Sirloin Roast 600 g or BBQ Roast 800 g,"Each.
+#30158812",,2.0,100g,30158812.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/4705853a-8c73-11ed-8153-0e1ba86a8db4/x_large,12.0
+83,Walmart,Lou's Kitchen,Lou's Kitchen Fully Cooked Entrees,"Each. Selected Varieties
+375g- 400g
+#30630510",,8.97,,30630510.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/46df3aa6-8c73-11ed-8153-0e1ba86a8db4/x_large,8.97
+84,Walmart,Schneiders,Schneiders Pepperettes,Each. Selected varieties. 300 g - 375 g. #30452376,,3.3233333333333337,100g,30452376.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/46bc748a-8c73-11ed-8153-0e1ba86a8db4/x_large,9.97
+85,Walmart,Your Fresh Market™,Your Fresh Market™ Sliced Deli Meats,"Each. Selected varieties.
+175 g.
+#30904141",,1.9828571428571429,100g,30904141.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/461a8012-8c73-11ed-8153-0e1ba86a8db4/x_large,3.47
+86,Walmart,Your Fresh Market™,Your Fresh Market™ Sliced Deli Meats,Each. Selected varieties. 175 g. #30904136,,1.9828571428571429,100g,30904136.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/4656cd06-8c73-11ed-8153-0e1ba86a8db4/x_large,3.47
+87,Walmart,Furlani,Furlani Garlic Toast,"Each. Selected
+varieties.
+638 g.
+#30303115.",,0.7006269592476488,100g,30303115.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/45ab5124-8c73-11ed-8153-0e1ba86a8db4/x_large,4.47
+88,Walmart,Your Fresh Market™,Your Fresh Market™ Cheese Slices,Each. Made with 100% Canadian milk. Selected varieties. 160 g - 180 g. #30438179.,,3.7312499999999997,100g,30438179.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/47b0e5ce-8c73-11ed-8153-0e1ba86a8db4/x_large,5.97
+89,Walmart,Your Fresh Market™,Your Fresh Market™ Cheese Slices,"Each. Made with 100% Canadian milk. Selected varieties. 160 g - 180 g.
+#30465641",,3.7312499999999997,100g,30465641.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/47d759f2-8c73-11ed-8153-0e1ba86a8db4/x_large,5.97
+90,Walmart,Furlani,Furlani Garlic Toast,Each. Selected varieties. 638 g. #9810245.,,0.7006269592476488,100g,9810245.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/460c7788-8c73-11ed-8153-0e1ba86a8db4/x_large,4.47
+91,Walmart,,Dempster's Bread or Hostess Value Snack Cakes,"Selected varieties and sizes.
+8108891.",,2.75,,8108891.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/47f11a0e-8c73-11ed-8153-0e1ba86a8db4/x_large,5.5
+92,Walmart,Wonder,Wonder Bread,"Selected varieties
+and sizes.
+#30881985.",,2.75,,30881985.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/4815c5d4-8c73-11ed-8153-0e1ba86a8db4/x_large,5.5
+93,Walmart,,Sara Lee Little Bites,"Selected varieties. 234 g.
+30827928.",,3.5,,30827928.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/455fe23e-8c73-11ed-8153-0e1ba86a8db4/x_large,7.0
+94,Walmart,Sara Lee,Sara Lee Little Bites,"Selected varieties. 234 g.
+#31090227",,3.5,,31090227.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/45a42c28-8c73-11ed-8153-0e1ba86a8db4/x_large,7.0
+95,Walmart,Your Fresh Market™,Your Fresh Market™ Chocolate Chip Cookies,"Pack. 819 g.
+#30433145",,0.7326007326007326,100g,30433145.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283478336/1673967058/extra_large.jpg,6.0
+96,Walmart,Our Finest,Our Finest Frozen Entrees,"Each. Selected Varieties
+350g
+#30507050",,3.97,,30507050.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/451ba61e-8c73-11ed-8153-0e1ba86a8db4/x_large,3.97
+97,Walmart,Great Value,Great Value Frozen Fruit Cocktails,"Each. 400 g - 600 g
+#30705185",,1.1175,100g,30705185.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/48297ca0-8c73-11ed-8153-0e1ba86a8db4/x_large,4.47
+98,Walmart,Great Value,Great Value Frozen Fruit Cocktails,"Each. 400 g - 600 g.
+#30705186",,1.1175,100g,30705186.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/484bc724-8c73-11ed-8153-0e1ba86a8db4/x_large,4.47
+99,Walmart,Our Finest,Our Finest Frozen Entrees,Each. Selected varieties. 350 g. #30507053.,,1.1342857142857143,100g,30507053.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/45156a60-8c73-11ed-8153-0e1ba86a8db4/x_large,3.97
+100,Walmart,Huggies,Huggies 16x Wipes,"Each.
+#30142102",,23.97,,30142102.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/4444afe2-8c73-11ed-8153-0e1ba86a8db4/x_large,23.97
+101,Walmart,,"Enfamil A+, A+ 2 or Geantlease A+ Ready to Feed","Pack. 18 x 237 mL.
+#30305920.",,53.97,,30305920.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/44872142-8c73-11ed-8153-0e1ba86a8db4/x_large,53.97
+102,Walmart,,Rascal + Friends Jumbo Box Diapers,"Each. 
+31618411.",,26.97,,31618411.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/444390ee-8c73-11ed-8153-0e1ba86a8db4/x_large,26.97
+103,Walmart,Rascal + Friends,Rascal + Friends CoComelon Training Pants,"Each.
+#30470033",,26.97,,30470033.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/4484cdfc-8c73-11ed-8153-0e1ba86a8db4/x_large,26.97
+104,Walmart,Huggies,Huggies 16x Wipes,"Each.
+#30528425",,23.97,,30528425.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/44ccfd52-8c73-11ed-8153-0e1ba86a8db4/x_large,23.97
+105,Walmart,Enfamil,Enfamil A+ 2 Ready to Feed,"Pack 18 x 237 mL
+#30305981.",,53.97,,30305981.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258334/44c8e262-8c73-11ed-8153-0e1ba86a8db4/x_large,53.97
+106,Walmart,,Walmart Canada,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283478398/1673967065/extra_large.jpg,
+107,Walmart,Great Value,Great Value Frozen Organic Fruit,"Each. 600 g.
+#30154618.",,1.1616666666666666,100g,30154618.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/44030bbe-8c73-11ed-aad3-0efae983d694/x_large,6.97
+108,Walmart,Great Value,Great Value The Ultimate Meatless Burger,"8-pack. 904 g
+#30616977",,1.12125,packs,30616977.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/4389b80e-8c73-11ed-aad3-0efae983d694/x_large,8.97
+109,Walmart,Great Value,Great Value Organic Eggs 12-Pack,Pack. #30070165,,6.28,,30070165.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/41e7e688-8c73-11ed-aad3-0efae983d694/x_large,6.28
+110,Walmart,Great Value,Great Value Oats,"Each. Selected varieties.
+#31243617.",,2.47,,31243617.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/430ff348-8c73-11ed-aad3-0efae983d694/x_large,2.47
+111,Walmart,,Great Value Sauces,"Each. Selected
+varieties. 6x113 g.
+#9258450.",,1.5663716814159294,100g,9258450.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/42ca67ce-8c73-11ed-aad3-0efae983d694/x_large,1.77
+112,Walmart,Great Value,Great Value Canned Pineapple,"Each. Selected varieties. 540 mL.
+#31474652.",,1.67,,31474652.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/41934754-8c73-11ed-aad3-0efae983d694/x_large,1.67
+113,Walmart,Great Value,Great Value Canned Pineapple,Each. Selected varieties. 540 mL. #31474654,,1.67,,31474654.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/42efe3c8-8c73-11ed-aad3-0efae983d694/x_large,1.67
+114,Walmart,Great Value,Great Value Sauces,Each. Selected varieties. 6 x 113 g. #9206979,,1.5663716814159294,100g,9206979.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/43da110a-8c73-11ed-aad3-0efae983d694/x_large,1.77
+115,Walmart,Great Value,Great Value Almond Beverage,"Each. Selected
+varieties. 946 mL.
+30079007.",,1.97,,30079007.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/4149a2ac-8c73-11ed-aad3-0efae983d694/x_large,1.97
+116,Walmart,Great Value,Great Value Almond Beverage,"Each. Selected varieties. 946 mL.
+#30079017",,1.97,,30079017.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/41484c22-8c73-11ed-aad3-0efae983d694/x_large,1.97
+117,Walmart,Great Value,Great Value Canned Beans,"Selected Varieties
+540 mL
+#9229507",,1.25,,9229507.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/41926afa-8c73-11ed-aad3-0efae983d694/x_large,5.0
+118,Walmart,Great Value,Great Value Canned Beans,"Selected varieties. 540 mL.
+9238087.",,1.25,,9238087.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/42afb154-8c73-11ed-aad3-0efae983d694/x_large,5.0
+119,Walmart,Great Value,Great Value Cheese Slices,"Each. Selected
+varieties and sizes.
+#31284511.",,4.78,,31284511.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/4222403a-8c73-11ed-aad3-0efae983d694/x_large,4.78
+120,Walmart,Great Value,Great Value Nutri-Bowl Entrees,Each. Selected varieties. 300 g. #30884477.,,1.1566666666666667,100g,30884477.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/42695dc6-8c73-11ed-aad3-0efae983d694/x_large,3.47
+121,Walmart,Great Value,Great Value Cheese Slices,"Each. Selected varieties and sizes.
+#31284512.",,4.78,,31284512.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/423db392-8c73-11ed-aad3-0efae983d694/x_large,4.78
+122,Walmart,Great Value,Great Value Nutri-Bowl Entrees,"Each. Selected varieties. 300 g.
+#30881282",,1.1566666666666667,100g,30881282.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/428436b4-8c73-11ed-aad3-0efae983d694/x_large,3.47
+123,Walmart,Great Value,Great Value Smoothie Yogurt Bars,"Pack. Selected flavours. 6 x 80 mL.
+#30065299.",,6.98,,30065299.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/432fdfd2-8c73-11ed-aad3-0efae983d694/x_large,6.98
+124,Walmart,Great Value,Great Value Drinkable Yogurt,"Pack. Selected flavours 8 x 93 ml
+#31157463",,4.81720430107527,100ml,31157463.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/41da5fea-8c73-11ed-aad3-0efae983d694/x_large,4.48
+125,Walmart,Great Value,Great Value Smoothie Yogurt Bars,Pack. Selected flavours. 6 x 80 mL. #30065349.,,6.98,,30065349.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/436f2f5c-8c73-11ed-aad3-0efae983d694/x_large,6.98
+126,Walmart,Great Value,Great Value Drinkable Yogurt,"Pack. Selected flavours. 8 x 93 mL.
+31157462.",,4.48,,31157462.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258289/43b89a3e-8c73-11ed-aad3-0efae983d694/x_large,4.48
+127,Walmart,SpongeTowels,SpongeTowels Ultra Paper Towels,"6-pack.
+#30160352",,0.995,packs,30160352.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4d824dda-8c73-11ed-86df-0efae983d694/x_large,5.97
+128,Walmart,,Finish Quantum Ultimate Detergent Tabs,Each. Selected varieties and sizes. #30391664,,16.97,,30391664.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4d7e75e8-8c73-11ed-86df-0efae983d694/x_large,16.97
+129,Walmart,Finish,Finish Quantum Max Detergent Tabs,"Each. Selected varieties and sizes.
+#30122981",,16.97,,30122981.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4dc7cfb8-8c73-11ed-86df-0efae983d694/x_large,16.97
+130,Walmart,Downy,Downy Unstopables,"Each. Selected varieties. 752 g.
+#30306406",,2.123670212765958,100g,30306406.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4de14ea2-8c73-11ed-86df-0efae983d694/x_large,15.97
+131,Walmart,Gain,Gain Scent Beads,"Each. Selected varieties.
+752 g. #31736510.",,2.123670212765958,100g,31736510.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4e18042e-8c73-11ed-86df-0efae983d694/x_large,15.97
+132,Walmart,Tide,Tide Liquid Laundry Detergent,Each. Selected varieties and sizes. #31377269.,,20.97,,31377269.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4e2f1efc-8c73-11ed-86df-0efae983d694/x_large,20.97
+133,Walmart,Air Wick,Air Wick Essential Mist Kit,"Each. Selected varieties and sizes.
+#50092625",,9.97,,50092625.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4e64a22a-8c73-11ed-86df-0efae983d694/x_large,9.97
+134,Walmart,Air Wick,Air Wick Scented Oil Refills,"Each. Selected varieties and sizes.
+#31166075",,9.97,,31166075.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4e86aadc-8c73-11ed-86df-0efae983d694/x_large,9.97
+135,Walmart,Swiffer,Swiffer Sweeper Dry Cloths 105 - 36s,"Each. Selected varieties.
+#30722275.",,9.97,,30722275.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4eb08c9e-8c73-11ed-86df-0efae983d694/x_large,9.97
+136,Walmart,Woolite,Woolite 2.96 Laundry Detergent,"Each. Selected varieties.
+#31671667",,0.47195945945945944,100ml,31671667.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4efb24d4-8c73-11ed-86df-0efae983d694/x_large,13.97
+137,Walmart,Lysol,Lysol Laundry Disinfectant 2.7 L,"Each. Selected varieties.
+#31071067",,0.5174074074074074,100ml,31071067.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4f1fba60-8c73-11ed-86df-0efae983d694/x_large,13.97
+138,Walmart,,Swiffer Sweeper Wet Refills 12s -24s or Dry Cloths 10s -36s,"Each. Selected Varieties
+#31655989",,9.97,,31655989.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4ed16a9a-8c73-11ed-86df-0efae983d694/x_large,9.97
+139,Walmart,Great Value,Great Value Eco Towels,"6-pack.
+#31690798.",,1.1616666666666666,packs,31690798.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4f46b962-8c73-11ed-86df-0efae983d694/x_large,6.97
+140,Walmart,Ziploc,Ziploc Freezer or Storage Bags,Each. Selected varieties and sizes. #401564,,8.97,,401564.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4f761590-8c73-11ed-86df-0efae983d694/x_large,8.97
+141,Walmart,Royale,Royale Facial Tissue,18-pack. #30520121.,,1.0427777777777778,packs,30520121.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4fc5c13a-8c73-11ed-86df-0efae983d694/x_large,18.77
+142,Walmart,Royale,Royale Facial Tissue,18-pack. #30520119,,1.0427777777777778,packs,30520119.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/50039dac-8c73-11ed-86df-0efae983d694/x_large,18.77
+143,Walmart,Ziploc,Ziploc Freezer or Storage Bag,Each. Selected varieties and sizes. #401557,,8.97,,401557.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/4fb1e9a8-8c73-11ed-86df-0efae983d694/x_large,8.97
+144,Walmart,AXE,AXE Body Spray,"Each. Selected varieties
+and sizes. #247132.",,3.97,,247132.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/50125a9a-8c73-11ed-86df-0efae983d694/x_large,3.97
+145,Walmart,Old Spice,Old Spice Deodorant 85 g,"Each. Selected varieties.
+#30018600",,6.435294117647058,100g,30018600.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/5064b10a-8c73-11ed-86df-0efae983d694/x_large,5.47
+146,Walmart,,"Always Pads, Liners or Period Underwear or Tampax Tampons or L. Natural Tampons","Includes Infinity. Radiant, Pearl. ZZZ and L. Selected varieties and sizes. #30520056.",,8.0,,30520056.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/50b0ca40-8c73-11ed-86df-0efae983d694/x_large,16.0
+147,Walmart,AXE,AXE Deodorant,"Each. Selected varieties and sizes.
+#30884096",,3.97,,30884096.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/50522d96-8c73-11ed-86df-0efae983d694/x_large,3.97
+148,Walmart,,Secret Antiperspirant 73g or Old Spice Deodorant 85g,"Each. Selected Varieties
+#30564853",,5.47,,30564853.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/5094fcd4-8c73-11ed-86df-0efae983d694/x_large,5.47
+149,Walmart,Tampax,Tampax Tampons,"Includes Infinity, Radiant, Pearl, ZZZ and L.Selected varieties and sizes. #31330834",,8.0,,31330834.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/50e4983e-8c73-11ed-86df-0efae983d694/x_large,16.0
+150,Walmart,L'Oréal,L'Oréal Paris Preference Hair Colour,Each. #30797479.,,10.97,,30797479.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/50fb0c5e-8c73-11ed-86df-0efae983d694/x_large,10.97
+151,Walmart,L'Oréal,L'Oréal Paris Preference Hair Colour,Each. #31190830,,10.97,,31190830.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/5129f8b6-8c73-11ed-86df-0efae983d694/x_large,10.97
+152,Walmart,,Aveeno or Neutrogena Hand or Body Lotion,"Each. Selected varieties and sizes.
+#263832",,10.97,,263832.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/51513340-8c73-11ed-86df-0efae983d694/x_large,10.97
+153,Walmart,,Aveeno or Neutrogena Hand or Body Lotion,"Each. Selected varieties and
+sizes. #30893685.",,10.97,,30893685.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/51807da8-8c73-11ed-86df-0efae983d694/x_large,10.97
+154,Walmart,Tylenol,Tylenol Pain Relief,"Each. 100s.
+#31194042",,9.67,,31194042.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/52be5d52-8c73-11ed-86df-0efae983d694/x_large,9.67
+155,Walmart,Nexium,Nexium 24HR Antacid,"Each. 14 capsules.
+#31402439",,12.97,,31402439.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/51a7ba44-8c73-11ed-86df-0efae983d694/x_large,12.97
+156,Walmart,Jamieson,Jamieson Melatonin 60s,"Each. Selected varieties.
+#31196855",,11.17,,31196855.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/522ebbde-8c73-11ed-86df-0efae983d694/x_large,11.17
+157,Walmart,,Jamieson B50 Complex Vitamins,Each. Selected varieties. #31198186.,,11.17,,31198186.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/525e8eae-8c73-11ed-86df-0efae983d694/x_large,11.17
+158,Walmart,Jamieson,Jamieson Calcium or Magnesium,Each. Selected varieties and sizes. #31435362.,,10.77,,31435362.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/51d45874-8c73-11ed-86df-0efae983d694/x_large,10.77
+159,Walmart,Jamieson,Jamieson Magnesium,"Each. Selected varieties and sizes.
+#31435362",,10.77,,31435362.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/52115a62-8c73-11ed-86df-0efae983d694/x_large,10.77
+160,Walmart,Always,Always Discreet Underwear,"Selected varieties and sizes.
+#31247469",,26.0,,31247469.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258344/5286f2ea-8c73-11ed-86df-0efae983d694/x_large,52.0
+161,Walmart,Scope,Crest Pro-Health Multi-Protection Mouthwash 1L,Each. #30572166,,5.97,,30572166.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/45c5a632-8c73-11ed-b896-0e7faade0358/x_large,5.97
+162,Walmart,Garnier,Garnier Whole Blends Shampoo or Conditioner,"Each 650 mL
+#31217933",,7.96,,31217933.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/47778aa4-8c73-11ed-b896-0e7faade0358/x_large,7.96
+163,Walmart,L'Oréal,L'Oréal Paris Hair Expertise Shampoo or Conditioner,Each. Selected varieties and sizes. #31462494.,,9.37,,31462494.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/47c039ac-8c73-11ed-b896-0e7faade0358/x_large,9.37
+164,Walmart,L'Oreal,"L'Oreal Paris Ever Pure, Hair Expertise Shampoo or Conditioner or Wonder Water",Each. Selected varieties and sizes. #30525304,,9.37,,30525304.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/4774ee02-8c73-11ed-b896-0e7faade0358/x_large,9.37
+165,Walmart,L'Oréal Paris,L'Oréal Paris Ever Pure Hair Expertise Shampoo,"Each, Selected varieties and sizes
+
+#30525296",,9.37,,30525296.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/47b62a16-8c73-11ed-b896-0e7faade0358/x_large,9.37
+166,Walmart,Crest,Crest GUM Toothpaste 110 mL,Each. #30923698.,,5.97,,30923698.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/45c2df2e-8c73-11ed-b896-0e7faade0358/x_large,5.97
+167,Walmart,Colgate,Colgate MaxFresh 52 mL or Cavity Protection 95 mL Toothpaste,"Each.
+#30120409.",,0.88,,30120409.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/4601d1fc-8c73-11ed-b896-0e7faade0358/x_large,0.88
+168,Walmart,Vaseline,Vaseline Intensive Care Hand or Body Lotion,"Each 295 ml
+#30273273",,1.959322033898305,100ml,30273273.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/48378084-8c73-11ed-b896-0e7faade0358/x_large,5.78
+169,Walmart,Softsoap,Softsoap Hand Soap Refill,"Each. 1.47 L.
+#31643024.",,0.40612244897959177,100ml,31643024.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/472cf7dc-8c73-11ed-b896-0e7faade0358/x_large,5.97
+170,Walmart,Softsoap,Softsoap Hand Soap Refill,"Each. 1.47 L. 
+31643023",,0.40612244897959177,100ml,31643023.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/47275f20-8c73-11ed-b896-0e7faade0358/x_large,5.97
+171,Walmart,Colgate,Colgate Cavity Protection 95 mL Toothpaste,"Each.
+#31217342.",,0.88,,31217342.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/46078d0e-8c73-11ed-b896-0e7faade0358/x_large,0.88
+172,Walmart,,Dove Body Wash 354 mL,"Each. Selected varieties.
+#243675.",,4.97,,243675.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/469a620a-8c73-11ed-b896-0e7faade0358/x_large,4.97
+173,Walmart,Dial,Dial Hand Soap Refills,Each. Selected varieties. 946 mL - 1.53 L. #31273672,,0.3248366013071895,100ml,31273672.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/46dc89a0-8c73-11ed-b896-0e7faade0358/x_large,4.97
+174,Walmart,Dial,Dial Hand Soap Refills,"Each. Selected varieties.
+946 mL - 1.53 L.
+#31273701.",,0.3248366013071895,100ml,31273701.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/46e466ac-8c73-11ed-b896-0e7faade0358/x_large,4.97
+175,Walmart,Neutrogena,Neutrogena Hydro Boost Gel Cream,"Each. 47mL
+#31056361",,18.47,,31056361.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/4988a9b8-8c73-11ed-b896-0e7faade0358/x_large,18.47
+176,Walmart,Dove,"Dove Body Wash 354 mL, Men+Care 3 Bars or Body Wash 400 mL",Each. Selected varieties. #30037540,,4.97,,30037540.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/46a1d5d0-8c73-11ed-b896-0e7faade0358/x_large,4.97
+177,Walmart,Maybelline,Maybelline Volum' Express The Falsies Mascara,"Each.
+#4614225.",,5.98,,4614225.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/4914262e-8c73-11ed-b896-0e7faade0358/x_large,5.98
+178,Walmart,Garnier,Garnier Belle Color Hair Colour,"Selected varieties.
+#30797412.",,6.0,,30797412.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/47f61964-8c73-11ed-b896-0e7faade0358/x_large,12.0
+179,Walmart,Garnier,Garnier Belle Color Hair Colour,Selected varieties. #30797455,,6.0,,30797455.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/4803b132-8c73-11ed-b896-0e7faade0358/x_large,12.0
+180,Walmart,,CoverGirl Clean Fresh Skincare Serum,Each. #50069742.,,18.47,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/493e4972-8c73-11ed-b896-0e7faade0358/x_large,18.47
+181,Walmart,CoverGirl,CoverGirl Clean Fresh Skincare Serum,"Each.
+#50069742.",,18.47,,50069742.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/495628a8-8c73-11ed-b896-0e7faade0358/x_large,18.47
+182,Walmart,Equate,Equate Conditioner,"Each 900 mL.
+#31434181",,3.97,,31434181.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/48fcf0b2-8c73-11ed-b896-0e7faade0358/x_large,3.97
+183,Walmart,Equate,Equate Moisture Shampoo,"Each. 900 mL.
+#31434180",,3.97,,31434180.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/48d373fe-8c73-11ed-b896-0e7faade0358/x_large,3.97
+184,Walmart,Equate,Equate Mouthwash,"Each. 1.5 L.
+#31382505.",,0.3986666666666667,100ml,31382505.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/46436bd0-8c73-11ed-b896-0e7faade0358/x_large,5.98
+185,Walmart,Equate,Equate Mouthwash,"Each. 1.5 L.
+#31382506.",,0.3986666666666667,100ml,31382506.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/464b5f0c-8c73-11ed-b896-0e7faade0358/x_large,5.98
+186,Walmart,Equate,Equate Hand Soap,"Each. 1.65 L.
+31396744.",,0.2406060606060606,100ml,31396744.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/488f53d6-8c73-11ed-b896-0e7faade0358/x_large,3.97
+187,Walmart,Equate,Equate Hand Soap,"Each. 1.65 L.
+31396742.",,0.2406060606060606,100ml,31396742.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/48bba274-8c73-11ed-b896-0e7faade0358/x_large,3.97
+188,Walmart,Equate,Equate Suncare,"Each. Selected varieties and sizes.
+#30297096.",,7.47,,30297096.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/48788bb0-8c73-11ed-b896-0e7faade0358/x_large,7.47
+189,Walmart,Equate,Equate Square,"Each. Selected varieties and sizes
+#30296006",,7.47,,30296006.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258294/484d1ad4-8c73-11ed-b896-0e7faade0358/x_large,7.47
+190,Walmart,,Mastercard,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492716/1673967059/extra_large.jpg,
+191,Walmart,onn,"onn 43"" 4K UHD HDR Roku Smart TV",Each. #31413209,,328.0,,31413209.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4c56bf7c-8c73-11ed-9cdf-0e1ba86a8db4/x_large,328.0
+192,Walmart,onn.,"onn. 55"" 4K UHD HDR TV",Each. #31413212,,498.0,,31413212.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4c9554f8-8c73-11ed-9cdf-0e1ba86a8db4/x_large,498.0
+193,Walmart,HP,HP DeskJet 2723E All-in-One Printer,"Each.
+50107001.
+
+Also available, HP#67 black ink,
+#31781036
+21.98",,69.98,,50107001.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4d7c9a2a-8c73-11ed-9cdf-0e1ba86a8db4/x_large,69.98
+194,Walmart,,Galaxy A53 Postpaid Phone,Each. #30737820,,0.0,,30737820.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4a2b0528-8c73-11ed-9cdf-0e1ba86a8db4/x_large,0.0
+195,Walmart,Moto G,Moto G Pure Prepaid Phone,"Each.
+#31279504",,169.0,,31279504.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4a3edcba-8c73-11ed-9cdf-0e1ba86a8db4/x_large,169.0
+196,Walmart,Philips,Philips LED 60W A19 Bulbs 3-Pack,"Pack. Available in three
+colours. #31744170.",,14.98,,31744170.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4a80ca62-8c73-11ed-9cdf-0e1ba86a8db4/x_large,14.98
+197,Walmart,3M,3M Large Picture Hanging Strips Value Packs,"Pack. #30761335
+
+More selection available, #30271838/761333/6/1118994",,11.77,,30761335.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4aaa684a-8c73-11ed-9cdf-0e1ba86a8db4/x_large,11.77
+198,Walmart,3M Command,3M Command Medium Utility Hooks,"Pack. #30049120.
+
+More selection available.
+3330271838/761333/6/1118994.",,11.77,,30049120.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4ad4c1ee-8c73-11ed-9cdf-0e1ba86a8db4/x_large,11.77
+199,Walmart,Mobil 1,Mobil 1 Synthetic Motor Oil,"Each.
+#4.73 L.
+30952980",,0.739323467230444,100ml,30952980.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4b1f73ba-8c73-11ed-9cdf-0e1ba86a8db4/x_large,34.97
+200,Walmart,,Valvoline Synthetic Motor Oil,"Each. 5 L.
+#30168417",,0.7194,100ml,30168417.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4d0ae970-8c73-11ed-9cdf-0e1ba86a8db4/x_large,35.97
+201,Walmart,Serta,Serta Sertapedic So Calm! Lavender Knit Pillow,"Each. 20""x26""
+#30527425.",,14.97,,30527425.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4b518512-8c73-11ed-9cdf-0e1ba86a8db4/x_large,14.97
+202,Walmart,Serta,Serta 5-in-1 Ultimate Mattress Pad,"Each. Twin.
+#31749070.
+
+Double, #31749071, 54.97;
+Queen, #31749072, 59.97;
+King, #31749073, 64.97;",,49.97,,31749070.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4b6a4c46-8c73-11ed-9cdf-0e1ba86a8db4/x_large,49.97
+203,Walmart,Beautyrest,Beautyrest Sheet Set,"Set. Twin. #30495459
+
+Also available,
+Double, #30495301, 24.88;
+Queen, #30495303, 29.88;
+King, #30495449, 34.88.",,19.88,,30495459.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492747/1673967071/extra_large.jpg,19.88
+204,Walmart,,Beautyrest Sheet Set,"Set. Twin. #30495295
+
+Also available, Double #30495301, $24.88; Queen, #30495303, $29.88; King #30495449, $34.88",,19.88,,30495295.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492745/1673967069/extra_large.jpg,19.88
+205,Walmart,Beautyrest,Beautyrest Sheet Set,"Set. Twin. #30495295
+
+Also available, Double, #30495301, 24.88; Queen, #30495303, 29.88; King, #30495449, 34.88",,19.88,,30495295.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492743/1673967069/extra_large.jpg,19.88
+206,Walmart,,Beautyrest Blanket,"Each. Double/queen.
+#30460855.
+
+Also available, King,
+#30460856/60. $34.88.",,29.88,,30460855.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492737/1673967066/extra_large.jpg,29.88
+207,Walmart,Serta,Serta So Fluffy! Antimicrobial Duvet,"Each. Double/queen.
+31156943.
+
+Also available, King,
+#31156944, 104.97.",,94.97,,31156943.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4bc27a2e-8c73-11ed-9cdf-0e1ba86a8db4/x_large,94.97
+208,Walmart,Beautyrest,Beautyrest Sheet Set,"Set. Twin. #30495295.
+
+Also available,
+Double, #30495301, 24.88;
+Queen, #30495303, 29.88;
+King, #30495449, 34.88",,19.88,,30495295.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492749/1673967071/extra_large.jpg,19.88
+209,Walmart,Beautyrest,Beautyrest Sheet Set,"Set. Twin. #30495295.
+
+Also available.
+Double, #30495301. 24.88;
+Queen, #30495303, 29.88;
+King, #30495449, 34.88.",,19.88,,30495295.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492751/1673967072/extra_large.jpg,19.88
+210,Walmart,,Beautyrest Blanket,"Each. Double/queen.
+#30460855
+
+Also available, King,
+#30460856/60, 34.88",,29.88,,30460855.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492739/1673967067/extra_large.jpg,29.88
+211,Walmart,,Beauty Sheet Set,"Set. Twin. #30495295
+
+Also available,
+Double, #30495301, 24.88;
+Queen, #30495303, 29.88;
+King, #30495449, 34.88.",,19.88,,30495295.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492753/1673967073/extra_large.jpg,19.88
+212,Walmart,,Full Size Wax Warmer,"Each. 
+#30909447
+
+Also available, Wax melts, #31578116/20, 4.97",,22.97,,30909447.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4cf2bc74-8c73-11ed-9cdf-0e1ba86a8db4/x_large,22.97
+213,Walmart,,Full Size Wax Warmer,"Each. #30590788.
+
+Also available, Wax melts, #31578116/20, 4.97.",,22.97,,30590788.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4c120fda-8c73-11ed-9cdf-0e1ba86a8db4/x_large,22.97
+214,Walmart,Hometrends,Hometrends Ribbed Bath Towels,"Each.
+30286554.",,10.97,,30286554.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492805/1673967081/extra_large.jpg,10.97
+215,Walmart,Beautyrest,Beautyrest 7-Piece Bed in a Bag,"Set. Double/queen.
+#30719212.
+Also available, King, #30719213, 69.88",,69.88,,30719212.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4c35da50-8c73-11ed-9cdf-0e1ba86a8db4/x_large,69.88
+216,Walmart,Hometrends,Hometrends Ribbed Bath Towels,"Each. 
+#30282323.",,10.97,,30282323.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258349/4cb32bae-8c73-11ed-9cdf-0e1ba86a8db4/x_large,10.97
+217,Walmart,Hometrends,Hometrends Ribbed Bath Towels,"Each.
+#30282323",,10.97,,30282323.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492803/1673967080/extra_large.jpg,10.97
+218,Walmart,,Walmart Canada,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492808/1673967083/extra_large.jpg,
+219,Walmart,,Financial-services,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283492807/1673967082/extra_large.jpg,
+220,Walmart,Sistema,Sistema Bento Box,Each. #30108483,,9.87,,30108483.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/50dc107e-8c73-11ed-92c4-0ec6e2beadde/x_large,9.87
+221,Walmart,,Contigo Shake & Go Bottles,Each. #30707898,,15.97,,30707898.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/522d62ac-8c73-11ed-92c4-0ec6e2beadde/x_large,15.97
+222,Walmart,,Contigo Shake & Go Bottles,"Each.
+#31104451",,15.97,,31104451.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/51c80ca4-8c73-11ed-92c4-0ec6e2beadde/x_large,15.97
+223,Walmart,Sistema,Sistema Bento Box,"Each.
+#30440895.",,9.87,,30440895.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/5132dc06-8c73-11ed-92c4-0ec6e2beadde/x_large,9.87
+224,Walmart,Sterilite,Sterilite 26 L Latch Clear Tote,Each. #50087496.,,0.030653846153846157,100ml,50087496.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/50c3a930-8c73-11ed-92c4-0ec6e2beadde/x_large,7.97
+225,Walmart,Sterilite,Sterilite 26 L Latch Clear Tote,"Each.
+50087495.",,0.030653846153846157,100ml,50087495.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/52460122-8c73-11ed-92c4-0ec6e2beadde/x_large,7.97
+226,Walmart,,Mistral 19 L Classic Step Can,"Each. 
+1449659.",,0.07142105263157895,100ml,1449659.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/536350be-8c73-11ed-92c4-0ec6e2beadde/x_large,13.57
+227,Walmart,,Mistral 19 L Classic Step Can,Each. #1441563,,0.07142105263157895,100ml,1441563.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/50553446-8c73-11ed-92c4-0ec6e2beadde/x_large,13.57
+228,Walmart,Sterilite,Sterilite 70.5 L Hamper,Each. #50087473,,0.028326241134751774,100ml,50087473.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/53e0ca6c-8c73-11ed-92c4-0ec6e2beadde/x_large,19.97
+229,Walmart,,Sterilite 68 L Tuff1 Tote,Each.,,0.022014705882352943,100ml,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/529f3e0e-8c73-11ed-92c4-0ec6e2beadde/x_large,14.97
+230,Walmart,Sterilite,Sterilite 10-Pack 5.7 L Totes,Each. #50087489.,,0.26263157894736844,100ml,50087489.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/531d5e6a-8c73-11ed-92c4-0ec6e2beadde/x_large,14.97
+231,Walmart,Sterilite,Sterilite 4-Pack 11.4 L Totes,"Each.
+#50087490.",,0.13131578947368422,100ml,50087490.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/5306f756-8c73-11ed-92c4-0ec6e2beadde/x_large,14.97
+232,Walmart,Sterlite,Sterlite 47 L Wheeled Tote,"Each
+30405183",,0.04248936170212766,100ml,30405183.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/52ae930e-8c73-11ed-92c4-0ec6e2beadde/x_large,19.97
+233,Walmart,Hamilton Beach,Hamilton Beach 0.7-cu. ft. Microwave,"Each.
+#31387395",,69.97,,31387395.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/5154fbd8-8c73-11ed-92c4-0ec6e2beadde/x_large,69.97
+234,Walmart,T-fal,T-fal Ultra 4.2 L Air Fryer,"Each.
+#30053536.",,2.3564285714285713,100ml,30053536.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/51ae1a74-8c73-11ed-92c4-0ec6e2beadde/x_large,98.97
+235,Walmart,Kalorik,Kalorik 2-qt. Com act Air Fryer,"Each.
+#31751376.",,42.88,,31751376.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/53f3c89c-8c73-11ed-92c4-0ec6e2beadde/x_large,42.88
+236,Walmart,Arctic King,Arctic King 3-cu. ft. Upright or 5-cu. ft. Chest Freezer,"Each.
+#31701437",,197.97,,31701437.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/505b2266-8c73-11ed-92c4-0ec6e2beadde/x_large,197.97
+237,Walmart,Arctic King,Arctic King 5-cu. ft. Chest Freezer,Each. #31701437,,197.97,,31701437.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/54657b86-8c73-11ed-92c4-0ec6e2beadde/x_large,197.97
+238,Walmart,Brita,Brita 4-Pack Filters,"Pack. 
+#030450383",,24.97,,30450383.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/5491e342-8c73-11ed-92c4-0ec6e2beadde/x_large,24.97
+239,Walmart,,NutriBullet GO Portable Blender,"Each.
+#30320579",,29.98,,30320579.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/5535f676-8c73-11ed-92c4-0ec6e2beadde/x_large,29.98
+240,Walmart,Ninja,Ninja Twisti High Speed Blender Duo,Each. #30382382,,119.98,,30382382.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/54e6112e-8c73-11ed-92c4-0ec6e2beadde/x_large,119.98
+241,Walmart,Dirt Devil,Dirt Devil 4-in-1 Power Stick Vacuum with Removable Hand Vac,"Each.
+30661328.",,49.98,,30661328.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/54bfaa5c-8c73-11ed-92c4-0ec6e2beadde/x_large,49.98
+242,Walmart,Hoover,Hoover Power Dash Carpet Cleaner,"Each. Dual tank system keeps
+clean and dirty water separate
+#30162322",,129.98,,30162322.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/5580078e-8c73-11ed-92c4-0ec6e2beadde/x_large,129.98
+243,Walmart,IAMS,IAMS Dry Dog Food,"Each. 318 kg.
+#31162858",,0.0047075471698113215,100g,31162858.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/55f1d24c-8c73-11ed-92c4-0ec6e2beadde/x_large,14.97
+244,Walmart,IAMS,IAMS Dry Dog Food,"Each. 3.18 kg.
+#30288295.",,0.4707547169811321,100g,30288295.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/560846e4-8c73-11ed-92c4-0ec6e2beadde/x_large,14.97
+245,Walmart,IAMS,IAMS Dry Cat Food,"Each. Selected flavours. 1.59 kg.
+#31329434",,0.7213836477987422,100g,31329434.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/55ae99f0-8c73-11ed-92c4-0ec6e2beadde/x_large,11.47
+246,Walmart,IAMS,IAMS Dry Cat Food,Each. Selected flavours. 1.59 kg. #31329432.,,0.7213836477987422,100g,31329432.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258350/55c30dc2-8c73-11ed-92c4-0ec6e2beadde/x_large,11.47
+247,Walmart,,learn more,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283685658/1673967094/extra_large.jpg,
+248,Walmart,,Mastercard,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283475908/1673967092/extra_large.jpg,
+249,Walmart,,learn more,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283685658/1673967094/extra_large.jpg,
+250,Walmart,,Grocery Home Shopping,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283476471/1673967092/extra_large.jpg,
+251,Walmart,,Grocery,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283475049/1673967063/extra_large.jpg,
+252,Walmart,,Find a Pharmacy Near Me,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283685731/1673967093/extra_large.jpg,
+253,Walmart,,shop,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283680088/1673967413/extra_large.jpg,
+254,Walmart,,Centrum Men Multivitamins,Each. 90's. #31198601,,11.47,,31198601.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4ed98e14-8c73-11ed-bd03-0efae983d694/x_large,11.47
+255,Walmart,Centrum,Centrum Women Multivitamins,"Each. 90s.
+31198603",,11.47,,31198603.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4ee0a636-8c73-11ed-bd03-0efae983d694/x_large,11.47
+256,Walmart,Centrum,Centrum Women Multivitamins,Each. 90s. #31198768,,11.47,,31198768.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4c6497d2-8c73-11ed-bd03-0efae983d694/x_large,11.47
+257,Walmart,Centrum,Centrum Men or Women Multivitamins,"Each. 90s
+#31198601/3/768/9",,11.47,,31198769.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4cb072a6-8c73-11ed-bd03-0efae983d694/x_large,11.47
+258,Walmart,Emergen-C,Emergen-C Kidz Junior Immune+ Support,"Selected varieties and sizes.
+31402862.",,11.0,,31402862.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4cb6fb12-8c73-11ed-bd03-0efae983d694/x_large,22.0
+259,Walmart,Emergen-C,Emergen-C Kidz Junior or Kidz Junior Immune+ Support,Selected varieties and sizes. 31402863.,,11.0,,31402863.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4d043602-8c73-11ed-bd03-0efae983d694/x_large,22.0
+260,Walmart,Centrum,Centrum Kid Chewable Tablets,Each. Selected varieties and sizes. #31439941,,9.97,,31439941.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4d080052-8c73-11ed-bd03-0efae983d694/x_large,9.97
+261,Walmart,Centrum,Centrum Kids Chewable Tablets,"Each. Selected varieties and sizes.
+#30873237",,9.97,,30873237.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4d652160-8c73-11ed-bd03-0efae983d694/x_large,9.97
+262,Walmart,,Centrum Men or Women Minis Immunity,"Each. Selected Varieties and sizes
+31402869",,11.47,,31402869.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4d697544-8c73-11ed-bd03-0efae983d694/x_large,11.47
+263,Walmart,,Centrum Men or Women Minis Immunity*,"Each. Selected varieties and sizes.
+#31402868.",,11.47,,31402868.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4dbc0b7e-8c73-11ed-bd03-0efae983d694/x_large,11.47
+264,Walmart,Centrum,Centrum Select Multivitamins,"Each. Selected varieties. 250s.
+#31198435",,27.97,,31198435.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4dc187fc-8c73-11ed-bd03-0efae983d694/x_large,27.97
+265,Walmart,Centrum,Centrum Select or Forte Multivitamins,"Each. Selected varieties. 250s.
+#31198406.",,27.97,,31198406.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4e1ba052-8c73-11ed-bd03-0efae983d694/x_large,27.97
+266,Walmart,,Emergen-C,"Selected flavours and sizes.
+#31198598.",,11.0,,31198598.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4c0f6b2c-8c73-11ed-bd03-0efae983d694/x_large,22.0
+267,Walmart,Centrum,Centrum MultiGummies,"Each. Selected varieties and sizes.
+31198429.",,15.47,,31198429.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4e75979c-8c73-11ed-bd03-0efae983d694/x_large,15.47
+268,Walmart,Centrum,Centrum MultiGummies,"Each. Selected varieties and sizes
+#31198429",,15.47,,31198429.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4e7b9ed0-8c73-11ed-bd03-0efae983d694/x_large,15.47
+269,Walmart,Emergen-C,Emergen-C,"Selected flavours and sizes.
+#31198437.",,11.0,,31198437.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258292/4c0f6b2c-8c73-11ed-bd03-0efae983d694/x_large,22.0
+270,Walmart,,shop,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/284063159/1673967110/extra_large.jpg,
+271,Walmart,Aveeno,Aveeno Baby Suncare Products,Each. Selected varieties and sizes. #30111574,,16.47,,30111574.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/53649730-8c73-11ed-ba58-0ec6e2beadde/x_large,16.47
+272,Walmart,,Aveeno Baby Suncare Products,Each. Selected varieties and sizes. 30125717,,16.47,,30125717.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/519cf848-8c73-11ed-ba58-0ec6e2beadde/x_large,16.47
+273,Walmart,Aveeno,Aveeno Baby Value Size Wash & Shampoo,"Each.975 ml
+30127116",,2.2533333333333334,100ml,30127116.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/51a25964-8c73-11ed-ba58-0ec6e2beadde/x_large,21.97
+274,Walmart,Aveeno,Aveeno Baby Eczema Cream,"Each. 330 mL.
+#31153421.",,18.97,,31153421.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/5376c176-8c73-11ed-ba58-0ec6e2beadde/x_large,18.97
+275,Walmart,Aveeno,Aveeno Baby Lotion,"Each. 532 mL
+#290612.",,13.47,,290612.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/53f72cbc-8c73-11ed-ba58-0ec6e2beadde/x_large,13.47
+276,Walmart,Aveeno,Aveeno Baby Wash & Shampoo,"Each. 532 mL.
+290612",,13.47,,290612.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/5416ca68-8c73-11ed-ba58-0ec6e2beadde/x_large,13.47
+277,Walmart,Aveeno,Aveeno Shampoo or Conditioner,"Each. 354 ml.
+#30897317.",,2.8757062146892656,100ml,30897317.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/52893762-8c73-11ed-ba58-0ec6e2beadde/x_large,10.18
+278,Walmart,Aveeno,Aveeno Shampoo or Conditioner,Each. 354 ml. #30897530,,2.8757062146892656,100ml,30897530.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/529d2cc2-8c73-11ed-ba58-0ec6e2beadde/x_large,10.18
+279,Walmart,Aveeno,Aveeno Hand or Body Lotion,Each. Selected varieties and sizes. 30061959/190840,,10.97,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/5463b2f6-8c73-11ed-ba58-0ec6e2beadde/x_large,10.97
+280,Walmart,Aveeno,Aveeno Hand or Body Lotion,"Each. Selected varieties and sizes
+30061959/190840",,10.97,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/5487db22-8c73-11ed-ba58-0ec6e2beadde/x_large,10.97
+281,Walmart,Aveeno,Aveeno Body Wash,"Each. 32 mL
+#30895825.",,8.77,,30895825.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/52187752-8c73-11ed-ba58-0ec6e2beadde/x_large,8.77
+282,Walmart,Aveeno,Aveeno Body Wash,"Each. 532 mL.
+#30895893.",,8.77,,30895893.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/522a653e-8c73-11ed-ba58-0ec6e2beadde/x_large,8.77
+283,Walmart,Aveeno,Aveeno Skincare,Each. Selected varieties and sizes. 31222797.,,24.47,,31222797.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/530df5d8-8c73-11ed-ba58-0ec6e2beadde/x_large,24.47
+284,Walmart,Aveeno,Aveeno Skincare,Each. Selected varieties and sizes. #30808777,,24.47,,30808777.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258264/53013fbe-8c73-11ed-ba58-0ec6e2beadde/x_large,24.47
+285,Walmart,,shop,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283676363/1673967103/extra_large.jpg,
+286,Walmart,fairlife,fairlife Milk,Each. Selected varieties. 1.5 l. #30747889,,4.17,,30747889.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/3f7b5358-8c73-11ed-a869-0edc53c25ee6/x_large,4.17
+287,Walmart,Fairlife,Fairlife Milk,"Each. Selected varieties 1.5L
+30747890",,4.17,,30747890.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/3e3cbe46-8c73-11ed-a869-0edc53c25ee6/x_large,4.17
+288,Walmart,Simply Orange,Simply Orange Juice,"Each. Selected varieties. 1.54 L.
+#31506607.",,0.2902597402597402,100ml,31506607.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/4072df06-8c73-11ed-a869-0edc53c25ee6/x_large,4.47
+289,Walmart,Simply Orange,Simply Orange Juice,"Each. Selected varieties. 1.54 L.
+31506609",,0.2902597402597402,100ml,31506609.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/4072df06-8c73-11ed-a869-0edc53c25ee6/x_large,4.47
+290,Walmart,Minute Maid,Minute Maid Orange Juice,"Each. 1.75L.
+#30056524.",,2.97,,30056524.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/3fc8e0be-8c73-11ed-a869-0edc53c25ee6/x_large,2.97
+291,Walmart,Minute Maid,Minute Maid No Sugar Added Lemonade,Each. Selected varieties. 1.54 l. #31374099,,2.97,,31374099.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/40d0544c-8c73-11ed-a869-0edc53c25ee6/x_large,2.97
+292,Walmart,Minute Maid,Minute Maid No Sugar Added Lemonade,"Each. Selected varieties.
+1.54 L.
+#31374099.",,0.1928571428571429,100ml,31374099.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/40f3fd02-8c73-11ed-a869-0edc53c25ee6/x_large,2.97
+293,Walmart,Gold Peak,Gold Peak Lemon or Raspberry Tea,"Each. 2.63 L
+31504991",,0.23498098859315592,100ml,31504991.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/3f70e648-8c73-11ed-a869-0edc53c25ee6/x_large,6.18
+294,Walmart,Honest,Honest Kids Organic Apple Juice,Pack. 5 x 200 mL. 31715325.,,2.77,,31715325.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/40913668-8c73-11ed-a869-0edc53c25ee6/x_large,2.77
+295,Walmart,Gold Peak,Gold Peak Lemon Tea,"Each. 2.63 L.
+31504991.",,0.23498098859315592,100ml,31504991.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258273/400c59ac-8c73-11ed-a869-0edc53c25ee6/x_large,6.18
+296,Walmart,,learn more,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283677615/1673967099/extra_large.jpg,
+297,Walmart,Coca-Cola,Coca-Cola® 500 ml,"Each.
+#31097622",,0.396,100ml,31097622.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283475911/1673967094/extra_large.jpg,1.98
+298,Walmart,Coca-Cola,Coca-Cola® Mini Cans 6 x 222 mL,"Pack Selected flavours. 
+9239972.",,3.77,,9239972.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283475909/1673967092/extra_large.jpg,3.77
+299,Walmart,Coca-Cola®,Coca-Cola® Zero Sugar 12 x 355 mL,Pack. #9232788.,,6.77,,9232788.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258279/51cbf148-8c73-11ed-9846-0ec6e2beadde/x_large,6.77
+300,Walmart,Peace Tea®,Peace Tea® 12 x 341 mL,Pack. Selected flavours. #31740772.,,6.47,,31740772.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283475912/1673967095/extra_large.jpg,6.47
+301,Walmart,AHA™,AHA™ Sparkling Water Beverage 12 x 355 mL,"Pack. Selected flavours.
+#31432089",,5.47,,31432089.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258279/53711eba-8c73-11ed-9846-0ec6e2beadde/x_large,5.47
+302,Walmart,,shop,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283685654/1673967091/extra_large.jpg,
+303,Walmart,Kraft,Kraft Hazelnut Spread 725 g,#30632951,,5.0,,30632951.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2cd9d6ae-8d43-11ed-b23d-0ec6e2beadde/x_large,10.0
+304,Walmart,,Kraft Peanut Butter 750 g - 1 kg,#9263131,,5.0,,9263131.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2cf567fc-8d43-11ed-b23d-0ec6e2beadde/x_large,10.0
+305,Walmart,Philiadelphia,Philiadelphia Cream Cheese,"Selected varieties.
+#30093603",,3.75,,30093603.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2d97821c-8d43-11ed-b23d-0ec6e2beadde/x_large,7.5
+306,Walmart,Philiadelphia,Philiadelphia Cream Cheese,"Selected varieties.
+
+#9045834",,3.75,,9045834.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2ecfb140-8d43-11ed-b23d-0ec6e2beadde/x_large,7.5
+307,Walmart,Maxwell House,Maxwell House Single-Serve Coffee Pods 30s,#30872674.,,15.0,,30872674.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2d1304b0-8d43-11ed-b23d-0ec6e2beadde/x_large,30.0
+308,Walmart,,Maxwell House Single-Serve Coffee Pods 30s,#30872672.,,15.0,,30872672.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2d341916-8d43-11ed-b23d-0ec6e2beadde/x_large,30.0
+309,Walmart,Nabob,Nabob Single-Serve Coffee Pods 30s,#30872679,,17.0,,30872679.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2d50ec30-8d43-11ed-b23d-0ec6e2beadde/x_large,34.0
+310,Walmart,Nabob,Nabob Single-Serve Coffee Pods 30s,#30872678.,,17.0,,30872678.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2d7fb57e-8d43-11ed-b23d-0ec6e2beadde/x_large,34.0
+311,Walmart,Kraft,Kraft Salad Dressing,"Each. Selected varieties.
+475 mL
+#30325886",,3.27,,30325886.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2dbc9a70-8d43-11ed-b23d-0ec6e2beadde/x_large,3.27
+312,Walmart,Kraft,Kraft Salad Dressing,"Each. Selected varieties.
+475 mL #30322803.",,3.27,,30322803.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2dcf6ce0-8d43-11ed-b23d-0ec6e2beadde/x_large,3.27
+313,Walmart,Kraft,Kraft Dinner Singles,"225 g
+#9275867.",,1.25,,9275867.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2e7a5c9a-8d43-11ed-b23d-0ec6e2beadde/x_large,5.0
+314,Walmart,Heinz,Heinz Seriously Good Mayo,"800ml
+
+#31571193",,4.97,,31571193.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2e3ad188-8d43-11ed-b23d-0ec6e2beadde/x_large,4.97
+315,Walmart,Kraft,Kraft Miracle Whip,"890ml
+
+#9201024",,4.97,,9201024.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2e4c2bb8-8d43-11ed-b23d-0ec6e2beadde/x_large,4.97
+316,Walmart,Kraft,Kraft Dinner KD Cups,"58g
+#9219951",,1.5,,9219951.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2e03c102-8d43-11ed-b23d-0ec6e2beadde/x_large,6.0
+317,Walmart,Kraft,Kraft Dinner KD Cups,58 g. #9219937.,,1.5,,9219937.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2e130266-8d43-11ed-b23d-0ec6e2beadde/x_large,6.0
+318,Walmart,St. Louis,St. Louis Bar & Grill Garlic Dill Sauce,"350mL
+#30102045",,3.97,,30102045.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2c710fa2-8d43-11ed-b23d-0ec6e2beadde/x_large,3.97
+319,Walmart,Heinz,Heinz Mayochup,"560 mL
+#30969865",,3.97,,30969865.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15264990/2eb58932-8d43-11ed-b23d-0ec6e2beadde/x_large,3.97
+320,Walmart,,win,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283680084/1673967102/extra_large.jpg,
+321,Walmart,CHRISTIE,CHRISTIE OREO Cookies,"Selected varieties. 270 g- 285 g.
+#31182847.",,2.6666666666666665,,31182847.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258299/43ae2e78-8c73-11ed-ba13-0e1ba86a8db4/x_large,8.0
+322,Walmart,CHRISTIE,CHRISTIE CHIPS AHOY! Cookies,"Selected varieties.
+270 g - 285 g.
+#31181656",,2.6666666666666665,,31181656.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258299/45cd5b98-8c73-11ed-ba13-0e1ba86a8db4/x_large,8.0
+323,Walmart,,RITZ Original Crackers 200 g,#30714315.,,2.3333333333333335,,30714315.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258299/435e1d7a-8c73-11ed-ba13-0e1ba86a8db4/x_large,7.0
+324,Walmart,RITZ,RITZ Bits Sandwiches 180 g,,,2.3333333333333335,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258299/4446216a-8c73-11ed-ba13-0e1ba86a8db4/x_large,7.0
+325,Walmart,CADBURY,CADBURY DAIRY MILK,"100 g
+#30202974",,2.0,,30202974.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258299/43ff06d6-8c73-11ed-ba13-0e1ba86a8db4/x_large,6.0
+326,Walmart,Cadbury,Cadbury Dairy Milk,100 g. #31716123,,2.0,,31716123.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258299/449a3598-8c73-11ed-ba13-0e1ba86a8db4/x_large,6.0
+327,Walmart,CHRISTIE,CHRISTIE Mini Cookies,"Selected varieties. 180 g.
+30065661.",,2.3333333333333335,,30065661.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258299/44f9b086-8c73-11ed-ba13-0e1ba86a8db4/x_large,7.0
+328,Walmart,CHRISTIE,CHRISTIE Mini Cookies,"Selected varieties. 180 g.
+#30065665.",,2.3333333333333335,,30065665.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258299/456957b0-8c73-11ed-ba13-0e1ba86a8db4/x_large,7.0
+329,Walmart,,shop,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/284063165/1673967101/extra_large.jpg,
+330,Walmart,Clorox,Clorox Disinfecting Wipes 35s,"Each. Selected varieties.
+30010983.",,2.47,,30010983.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258268/4e71787e-8c73-11ed-bbf1-0e7faade0358/x_large,2.47
+331,Walmart,Clorox,Clorox Disinfecting Wipes 355,"Each. Selected varieties.
+#30010982.",,2.47,,30010982.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258268/4f0ad8ac-8c73-11ed-bbf1-0e7faade0358/x_large,2.47
+332,Walmart,Clorox,Clorox Original Bleach,"Each. 127 L.
+30127805.",,0.0019448818897637797,100ml,30127805.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258268/5025712a-8c73-11ed-bbf1-0e7faade0358/x_large,2.47
+333,Walmart,Clorox,Clorox Toilet Bowl Cleaner,"Each. Selected varieties.
+709 mL
+#31303134.",,2.47,,31303134.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283477255/1673967099/extra_large.jpg,2.47
+334,Walmart,Clorox,Clorox Toilet Bowl Cleaner,Each. Selected varieties 709 ml. #31370554,,0.3483779971791256,100ml,31370554.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283477254/1673967098/extra_large.jpg,2.47
+335,Walmart,Clorox,Clorox Clean-Up Disinfecting Bleach Cleaner,"Each 946 mL.
+#30195555.",,3.97,,30195555.0,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_pdf_images/15258268/516699d8-8c73-11ed-bbf1-0e7faade0358/x_large,3.97
+336,Walmart,,Sign Up,,,,,,2023-01-12T00:00:00-05:00,2023-01-18T23:59:59-05:00,http://f.wishabi.net/page_items/283685729/1673967082/extra_large.jpg,

@@ -1,5 +1,13 @@
+'''
+script to clean loblaw co stores data after scraping.
+'''
+
 import pandas as pd
 import re 
+import time
+
+print('starting loblaw co data cleaning')
+start_time = time.time()
 
 stores = ['zehrs', 'no_frills', 'valu_mart']
 
@@ -66,5 +74,6 @@ for store in stores:
                         'is_sale': is_sale
                     }, ignore_index = True)
 
-    clean_data.to_csv(f'clean_data/{store}/regular_prices.csv')
+    clean_data.to_csv(f'clean_data/{store}/{store}_data.csv')
 
+print(f'completed in {time.time() - start_time}')

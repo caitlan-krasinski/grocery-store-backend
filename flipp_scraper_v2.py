@@ -2,6 +2,8 @@
 Flipp flyer scraper v2 powered by requests 
 Selenium to scrape item ids
 requests to call backend url of flipp to collect metadata 
+
+reference: https://gist.github.com/jQwotos/37c54992881824d7084680ee91c9633c 
 '''
 
 # IMPORTS 
@@ -82,6 +84,6 @@ for flyer_details in flyer_vars.keys():
         , 'image_url' ]] 
     df.to_csv(f'raw_data/{flyer["store"]}/flyer_deals.csv', index=False)
 
-    print(f'completed {flyer["store"]} in {(time.time() - start_time)}')
+    print(f'completed {flyer["store"]} in {(time.time() - start_time)} \n')
 
 driver.close() # close driver window 

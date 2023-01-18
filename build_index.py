@@ -22,7 +22,7 @@ for store in stores:
 for store in stores:
 
     regular_priced = pd.read_csv(f'clean_data/{store}/regular_prices.csv')
-    flyer = pd.read_csv(f'clean_data/{store}/flyer_deals.csv')
+    # flyer = pd.read_csv(f'clean_data/{store}/flyer_deals.csv')
 
 
     for index, row in regular_priced.iterrows():

@@ -5,6 +5,11 @@ main computational load comes from the per unit price parsing and calculating
 
 import pandas as pd
 import re 
+import time
+
+start_time = time.time()
+
+print('starting flipp data cleaning')
 
 def extract_number_unit(text, unit):
     '''
@@ -35,6 +40,7 @@ def per_unit_price(price, text):
 
     if text.lower() == 'each':
         pup = price
+        unit = 'each'
     elif 'kg' in text:
         unit = '100g'
         number_of_units = extract_number_unit(text, 'kg')
@@ -95,8 +101,11 @@ for store in stores:
             
         # break down price if multi unit deal (ex: 2/ or 3 for)
         if multi_deal == multi_deal: 
-            number_of_units_for_deal = int(re.findall(r'[\d]+', multi_deal)[0])
-            price = float(price / number_of_units_for_deal)
+            try:
+                number_of_units_for_deal = int(re.findall(r'[\d]+', multi_deal)[0])
+                price = float(price / number_of_units_for_deal)
+            except:
+                continue
 
 
         # identify per unit pricing 
@@ -131,5 +140,7 @@ for store in stores:
     
     # save clean_data 
     clean_data.to_csv(f'clean_data/{store}/flyer_deals.csv')
+
+print(f'completed in {time.time() - start_time}')
 
     
