@@ -11,7 +11,7 @@ import pandas as pd
 import random 
 import time
 
-print('generating synthetic data')
+print('\ngenerating synthetic data')
 start_time = time.time()
 
 stores = {'freshco' : {'produce': [0.51, 00.86]
@@ -51,9 +51,13 @@ for store in stores.keys():
 
         category_data.loc[:, 'price'] *= scaling_factor
         category_data.loc[:, 'per_unit_price'] *= scaling_factor
+        category_data.loc[:, 'sale_price'] = None
+        category_data.loc[:, 'sale_per_unit_price'] = None
+        category_data['store'] = store
 
-        globals()[f"{store}_synthetic_data"] = globals()[f"{store}_synthetic_data"].append(category_data)
-
-    globals()[f"{store}_synthetic_data"].to_csv(f'clean_data/{store}/{store}_synthetic_data')
+        globals()[f"{store}_synthetic_data"] = globals()[f"{store}_synthetic_data"].append(category_data, ignore_index=True)
+    
+    globals()[f"{store}_synthetic_data"].pop(globals()[f"{store}_synthetic_data"].columns[0])
+    globals()[f"{store}_synthetic_data"].to_csv(f'clean_data/{store}/{store}_synthetic_data.csv')
 
 print(f'data generated in {time.time() - start_time}')

@@ -89,8 +89,8 @@ for store in stores:
 
     raw_data = pd.read_csv(f'raw_data/{store}/flyer_deals.csv')
 
-    clean_data = pd.DataFrame(columns = ['merchant', 'brand', 'product', 'description', 'current_price', 'per_unit_price', 'units'
-                , 'sku', 'flyer_valid_from', 'flyer_valid_to', 'image_url'])
+    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'price', 'per_unit_price', 'units'])
+                # , 'sku', 'flyer_valid_from', 'flyer_valid_to', 'image_url'])
 
     for index, row in raw_data.iterrows():
         product = row['name']
@@ -125,17 +125,18 @@ for store in stores:
             pup, unit = price, None 
 
         clean_data = clean_data.append({
-                        'merchant': row.merchant, 
+                        'store': row.merchant, 
+                        'category': 'flyer',
                         'brand': row.brand, 
                         'product': product, 
-                        'description': row.description, 
+                        # 'description': row.description, 
                         'price': row.current_price, 
                         'per_unit_price': pup,
                         'units': unit, # unit for pup (ml, g, etc)
-                        'sku': row.sku,
-                        'flyer_valid_from': row.flyer_valid_from,
-                        'flyer_valid_to': row.flyer_valid_to, 
-                        'image_url': row.image_url
+                        # 'sku': row.sku,
+                        # 'flyer_valid_from': row.flyer_valid_from,
+                        # 'flyer_valid_to': row.flyer_valid_to, 
+                        # 'image_url': row.image_url
                     }, ignore_index = True)
     
     # save clean_data 
