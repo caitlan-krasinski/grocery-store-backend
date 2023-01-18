@@ -10,6 +10,7 @@ print('##################### PROCESS STARTED #####################')
 
 # 3. generate
 import generate_synthetic_data
+import combine_flipp_synth_data
 
 # 4. index 
 # revamp indexing with new data 

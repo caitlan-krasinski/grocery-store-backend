@@ -76,4 +76,4 @@ for store in stores:
 
     clean_data.to_csv(f'clean_data/{store}/{store}_data.csv')
 
-print(f'completed in {time.time() - start_time}')
+print(f'completed in {time.time() - start_time}\n')

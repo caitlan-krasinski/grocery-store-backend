@@ -62,15 +62,15 @@ def per_unit_price(price, text):
         number_of_units = extract_number_unit(text, 'ml')
         pup = (float(price) / float(number_of_units))*100
     elif "'s'" in text: # ex: 5's
-        unit = 'packs'
+        unit = '1ea'
         number_of_units = extract_number_unit(text, "'s'")
         pup = float(price) / (float(number_of_units))
     elif 'pk' in text:  # ex: 5 pk
-        unit = 'packs'
+        unit = '1ea'
         number_of_units = extract_number_unit(text, 'pk')
         pup = float(price) / (float(number_of_units))
     elif 'pack' in text: # ex: 5 pack 
-        unit = 'packs'
+        unit = '1ea'
         number_of_units = extract_number_unit(text, 'pack')
         pup = float(price) / (float(number_of_units))
     else: # no applicable units
@@ -89,8 +89,7 @@ for store in stores:
 
     raw_data = pd.read_csv(f'raw_data/{store}/flyer_deals.csv')
 
-    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'price', 'per_unit_price', 'units'])
-                # , 'sku', 'flyer_valid_from', 'flyer_valid_to', 'image_url'])
+    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'price', 'sale_price', 'per_unit_price', 'sale_per_unit_price', 'units', 'is_sale'])
 
     for index, row in raw_data.iterrows():
         product = row['name']
@@ -113,11 +112,11 @@ for store in stores:
         if product_unit == product_unit: # explicitly in product_unit col
             pup, unit = per_unit_price(price, product_unit)
 
-        elif re.findall('''((([0-9]+)-([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+)-([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)-(kg|g|lb|L|ml|pk|pack)))''',product) != []: # parse from product name
+        if unit == unit and re.findall('''((([0-9]+)-([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+)-([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)-(kg|g|lb|L|ml|pk|pack)))''',product) != []: # parse from product name
             product_units = re.findall('''((([0-9]+)-([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+)-([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)-(kg|g|lb|L|ml|pk|pack)))''',product)[0][0]
             pup, unit = per_unit_price(price, product_units)  
             
-        elif description == description and re.findall('''((([0-9]+)-([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+)-([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)-(kg|g|lb|L|ml|pk|pack)))''',description) != []: # parse from product desc
+        elif unit == unit and description == description and re.findall('''((([0-9]+)-([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+)-([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)-(kg|g|lb|L|ml|pk|pack)))''',description) != []: # parse from product desc
             product_units = re.findall('''((([0-9]+)-([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+)-([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)-(kg|g|lb|L|ml|pk|pack)))''',description)[0][0]
             pup, unit = per_unit_price(price, product_units)  
 
@@ -125,23 +124,21 @@ for store in stores:
             pup, unit = price, None 
 
         clean_data = clean_data.append({
-                        'store': row.merchant, 
+                        'store': store, 
                         'category': 'flyer',
                         'brand': row.brand, 
                         'product': product, 
-                        # 'description': row.description, 
-                        'price': row.current_price, 
-                        'per_unit_price': pup,
+                        'price': None ,
+                        'sale_price': row.current_price, 
+                        'per_unit_price': None,
+                        'sale_per_unit_price': pup,
                         'units': unit, # unit for pup (ml, g, etc)
-                        # 'sku': row.sku,
-                        # 'flyer_valid_from': row.flyer_valid_from,
-                        # 'flyer_valid_to': row.flyer_valid_to, 
-                        # 'image_url': row.image_url
+                        'is_sale': True
                     }, ignore_index = True)
     
     # save clean_data 
-    clean_data.to_csv(f'clean_data/{store}/flyer_deals.csv')
+    clean_data.to_csv(f'clean_data/{store}/flyer_deals.csv', index=False)
 
-print(f'completed in {time.time() - start_time}')
+print(f'completed in {time.time() - start_time}\n')
 
     
