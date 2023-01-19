@@ -8,38 +8,35 @@ EX: python search_v2.py "['2% milk', 'Cheddar Cheese', 'white sliced bread']"
 
 '''
 
+# general data 
 import pandas as pd
+
+# nltk 
 from nltk.stem import PorterStemmer
+from nltk.metrics.distance import jaccard_distance
+
+# timing
 import time
+
+# reading in cmd arguments
 import sys
 import ast
+
+# saving data
 from pickle import load
 import json 
-
-### packages for alt sim scoring ###
-# import spacy
-# from sentence_similarity import sentence_similarity
-# from math import sqrt
-
-def jaccard_similarity(x,y):
-    intersection_cardinality = len(set.intersection(*[set(x), set(y)]))
-    union_cardinality = len(set.union(*[set(x), set(y)]))
-    return intersection_cardinality/float(union_cardinality)
-
 
 start_time = time.time()
 
 ps = PorterStemmer() # stemming for better results 
 
 
-# grocery_list = "['2% milk', 'Cheddar Cheese', 'white sliced bread', 'ground beef', 
-#                 'clementines', 'chicken breast', 'potatoes']"
-
 # take grocery list from terminal 
 grocery_list = ast.literal_eval(sys.argv[1])
+n_stores = ast.literal_eval(sys.argv[2])
 
 def search(grocery_list, ps):
-    stores = ['zehrs', 'no_frills', 'valu_mart', 'walmart', 'sobeys', 'freshco', 'food_basics']
+    stores = ['zehrs', 'no_frills', 'valu_mart', 'sobeys', 'freshco'] #, 'walmart', 'food_basics']
 
     # make variables 
     for store in stores:
@@ -61,7 +58,6 @@ def search(grocery_list, ps):
 
             stem_item = ps.stem(item).lower()
             idxs = []
-            # flyer_idxs = []
 
             for word in stem_item.split():
                 try: # list item word not in index
@@ -75,7 +71,7 @@ def search(grocery_list, ps):
                 store_df = store_data.iloc[idxs]
 
 
-            ##### search regular priced data #####
+            ##### search items #####
             for index, row in store_df.iterrows():
                 
                 product_name = row['product']
@@ -88,7 +84,8 @@ def search(grocery_list, ps):
                     price = row.price
                     per_unit_price = row.per_unit_price
 
-                similarity = jaccard_similarity(stem_item.split(' '), ps.stem(product_name).lower().split(' '))
+                # similarity = jaccard_similarity(stem_item.split(' '), ps.stem(product_name).lower().split(' '))
+                similarity = jaccard_distance(set(stem_item.lower().split(' ')), set(ps.stem(product_name).lower().split(' ')))
         
                 if similarity >= 0.5: # can tweak threshold but this is a good one for now  
                     data = { 'list_item':item, 'store':store, 'product_name':product_name, 'price':price, 'per_unit_price':per_unit_price, 'similarity':similarity, 'is_sale': is_sale}
@@ -96,9 +93,6 @@ def search(grocery_list, ps):
            
             try:
                 # find lowest price from top similarities
-                
-                # ************** need to decide between per unit pricing and total price difference
-                # ************** maybe some units need per unit some dont 
                 cheapest_item = item_selection.sort_values(by=['per_unit_price', 'similarity'], ascending = [True, False])
 
                 final_selection = final_selection.append(dict(cheapest_item.iloc[0]), ignore_index=True)
@@ -140,9 +134,10 @@ def find_n_cheapest_stores(n, results):
                             , 'file_name': f'{store}_results.csv'
                             , 'subtotal': cost}
 
-        remove_key = per_unit_subtotals.pop(min_store)
+        per_unit_subtotals.pop(min_store)
     
     return cheapest_stores
+
 
 def generate_metadata_file(metadata):
     with open("search_output/metadata.json", "w") as write_file:
@@ -155,4 +150,5 @@ metadata = find_n_cheapest_stores(3, results_dict)
 
 generate_metadata_file(metadata)
     
-print(time.time() - start_time, 'seconds')
+print(f'completed in {time.time() - start_time} seconds')
+print('results in csv results and metadata file in search_output folder')

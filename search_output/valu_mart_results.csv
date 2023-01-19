@@ -1,8 +1,6 @@
-,list_item,store,product_name,price,per_unit_price,is_sale,similarity
-0,2% milk,valu_mart,2% Milk,4.99,0.25,False,1.0
-1,Cheddar Cheese,valu_mart,Old Cheddar Cheese,9.79,1.4,False,0.6666666666666666
-2,white sliced bread,valu_mart,White Bread,2.79,0.41,False,0.6666666666666666
-3,ground beef,valu_mart,Lean Ground Beef,10.0,1.1,False,0.6666666666666666
-4,clementines,valu_mart,Clementines,6.99,0.39,False,1.0
-5,chicken breast,valu_mart,Boneless Skinless Chicken Breasts,12.0,1.86,False,0.5
-6,potatoes,valu_mart,Russet Potatoes,5.99,0.13,False,0.5
+,Unnamed: 0,store,category,brand,product,price,sale_price,per_unit_price,sale_per_unit_price,units,is_sale,similarity,comparable_price
+0,246.0,valu_mart,dairy_and_eggs,Neilson,2% Milk,3.49,,0.35,,100ml,0.0,100.0,0.35
+1,24.0,valu_mart,dairy_and_eggs,No Name,Old Cheddar Cheese,9.79,,1.4,,100g,0.0,66.66666666666667,1.4
+2,668.0,valu_mart,bakery,Wonder,"Bread, Sliced White",3.79,,0.56,,100g,0.0,75.0,0.56
+3,1016.0,valu_mart,meat,,Lean Ground Beef,7.27,,15.41,,1kg,0.0,66.66666666666667,15.41
+4,1432.0,valu_mart,produce,,Clementines,6.99,,0.39,,100g,0.0,100.0,0.39

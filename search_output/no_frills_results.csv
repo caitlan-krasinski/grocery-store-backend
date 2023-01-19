@@ -1,8 +1,6 @@
-,list_item,store,product_name,price,per_unit_price,is_sale,similarity
-0,2% milk,no_frills,"True Taste, 2% Milk",5.49,0.27,False,0.5
-1,Cheddar Cheese,no_frills,"Beef Burger, Cheddar Cheese",15.99,1.42,False,0.5
-2,white sliced bread,no_frills,White Bread,2.29,0.34,False,0.6666666666666666
-3,ground beef,no_frills,Lean Ground Beef,10.0,1.1,False,0.6666666666666666
-4,clementines,no_frills,Clementines,6.99,0.39,False,1.0
-5,chicken breast,no_frills,Halal Chicken Breast Strips,6.19,1.65,False,0.5
-6,potatoes,no_frills,Russet Potatoes,3.88,0.09,False,0.5
+,Unnamed: 0,store,category,brand,product,price,sale_price,per_unit_price,sale_per_unit_price,units,is_sale,similarity,comparable_price
+0,409.0,no_frills,dairy_and_eggs,Neilson,2% Milk,2.39,,0.51,,100ml,0.0,100.0,0.51
+1,139.0,no_frills,dairy_and_eggs,No Name,Medium Cheddar Cheese,3.59,,1.8,,100g,0.0,66.66666666666667,1.8
+2,568.0,no_frills,bakery,Wonder,"Bread, Sliced White",2.89,,0.43,,100g,0.0,75.0,0.43
+3,856.0,no_frills,meat,,Lean Ground Beef,7.0,,1.4,,100g,0.0,66.66666666666667,1.4
+4,1268.0,no_frills,produce,,Clementines,6.99,,0.39,,100g,0.0,100.0,0.39

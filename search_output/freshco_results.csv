@@ -1,8 +1,6 @@
-,list_item,store,product_name,price,per_unit_price,is_sale,similarity
-0,2% milk,freshco,2% Milk,4.538761105643599,0.2273928409641081,False,1.0
-1,Cheddar Cheese,freshco,Medium Cheddar Cheese,8.904703652154474,1.2733999093990056,False,0.6666666666666666
-2,white sliced bread,freshco,White Bread,2.4261382648145964,0.3607640542475236,False,0.6666666666666666
-3,ground beef,freshco,Lean Ground Beef,9.948871137891317,1.0943758251680449,False,0.6666666666666666
-4,clementines,freshco,Organic Clementines,6.685973822277575,0.7361933137642976,False,0.5
-5,chicken breast,freshco,Chicken Breast Strips,13.918470721909948,1.74105244913098,False,0.6666666666666666
-6,potatoes,freshco,Red Potatoes,4.008907226771038,0.1740093287079248,False,0.5
+,store,category,brand,product,price,sale_price,per_unit_price,sale_per_unit_price,units,is_sale,similarity,comparable_price
+0,freshco,dairy_and_eggs,Neilson,2% Milk,3.083446923473306,,0.3092542637111871,,100ml,0.0,100.0,0.3092542637111871
+1,freshco,dairy_and_eggs,No Name,Medium Cheddar Cheese,3.902061150944096,,1.9555784322913297,,100g,0.0,66.66666666666667,1.9555784322913297
+2,freshco,bakery,Wonder,"Bread, Sliced White",3.4182394139952863,,0.5050696759465331,,100g,0.0,75.0,0.5050696759465331
+3,freshco,meat,,Lean Ground Beef,6.96420979652392,,1.3928419593047838,,100g,0.0,66.66666666666667,1.3928419593047838
+4,freshco,meat,Zabiha Halal,Chicken Breast Strips,13.918470721909948,,1.74105244913098,,100g,0.0,66.66666666666667,1.74105244913098
