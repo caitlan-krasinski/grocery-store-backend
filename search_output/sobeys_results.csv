@@ -1,6 +1,6 @@
-,store,category,brand,product,price,sale_price,per_unit_price,sale_per_unit_price,units,is_sale,similarity,comparable_price
-0,sobeys,dairy_and_eggs,Neilson,2% Milk,3.6246509943535066,,0.3635343180177558,,100ml,0.0,100.0,0.3635343180177558
-1,sobeys,dairy_and_eggs,No Name,Medium Cheddar Cheese,4.586947718518154,,2.298819952171103,,100g,0.0,66.66666666666667,2.298819952171103
-2,sobeys,bakery,Wonder,"Bread, Sliced White",4.235864874968909,,0.6258797704439549,,100g,0.0,75.0,0.6258797704439549
-3,sobeys,meat,,Lean Ground Beef,8.87916050325645,,1.77583210065129,,100g,0.0,66.66666666666667,1.77583210065129
-4,sobeys,meat,Zabiha Halal,Chicken Breast Strips,17.74563649150825,,2.2197901258141126,,100g,0.0,66.66666666666667,2.2197901258141126
+store,category,brand,product,price,sale_price,per_unit_price,sale_per_unit_price,units,is_sale,list_item,similarity,comparable_price
+sobeys,dairy_and_eggs,Neilson,2% Milk,3.6246509943535066,,0.3635343180177558,,100ml,0.0,2% milk,100.0,0.3635343180177558
+sobeys,dairy_and_eggs,No Name,Medium Cheddar Cheese,4.586947718518154,,2.298819952171103,,100g,0.0,Cheddar Cheese,66.66666666666667,2.298819952171103
+sobeys,bakery,Wonder,"Bread, Sliced White",4.235864874968909,,0.6258797704439549,,100g,0.0,white sliced bread,75.0,0.6258797704439549
+sobeys,meat,,Lean Ground Beef,8.87916050325645,,1.77583210065129,,100g,0.0,ground beef,66.66666666666667,1.77583210065129
+sobeys,meat,Zabiha Halal,Chicken Breast Strips,17.74563649150825,,2.2197901258141126,,100g,0.0,chicken breast,66.66666666666667,2.2197901258141126

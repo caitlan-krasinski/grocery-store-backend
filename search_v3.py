@@ -21,6 +21,8 @@ import json
 import warnings
 warnings.filterwarnings("ignore")
 
+import cost_minimization as cost_min
+
 start_time = time.time()
 
 ps = PorterStemmer() # stemming for better results 
@@ -61,13 +63,15 @@ def search(grocery_list, ps):
             # collect indexes for most similar obs 
             idxs = []
             sims = []
-            for item in most_similar: 
-                if item[1] >= 52: 
-                    idxs.append(item[2])
-                    sims.append(item[1])
+            for product in most_similar: 
+                if product[1] >= 52: 
+                    idxs.append(product[2])
+                    sims.append(product[1])
 
             selected_data = data.iloc[idxs]
             
+            selected_data['list_item']= item
+
             selected_data['similarity']= sims
 
             # comparable price: sale_price if is_sale, price if not is_sale
@@ -83,7 +87,7 @@ def search(grocery_list, ps):
         globals()[f"{store}_results"] = final_selection
     
         # dump results to csv 
-        globals()[f"{store}_results"].to_csv(f'search_output/{store}_results.csv')
+        globals()[f"{store}_results"].to_csv(f'search_output/{store}_results.csv', index=False)
     
     return {'zehrs': zehrs_results
         , 'no_frills': no_frills_results
@@ -95,5 +99,7 @@ def search(grocery_list, ps):
 
 
 results_dict = search(grocery_list, ps)
+
+optimal = cost_min.n_store_selection(n_stores, results_dict)
     
 print(f'completed in {time.time() - start_time} seconds')
