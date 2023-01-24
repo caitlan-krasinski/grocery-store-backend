@@ -2,9 +2,11 @@
 Script to search each stores catologe of data for a users specified grocery list 
 
 Format to run:
-python search_v3.py <grocery_list>
+python search_v3.py <grocery_list> <n_stores>
 
-EX: python search_v3.py "['2% milk', 'Cheddar Cheese', 'white sliced bread']" 1
+EX: python search_v3.py "['2% milk', 'Cheddar Cheese', 'white sliced bread']" 2
+
+grocery_list must be passed with " " around the actual list object 
 
 '''
  
@@ -75,31 +77,39 @@ def search(grocery_list, ps):
             selected_data['similarity']= sims
 
             # comparable price: sale_price if is_sale, price if not is_sale
-            selected_data['comparable_price'] = np.where(selected_data['is_sale'] == True, selected_data['sale_per_unit_price'], selected_data['per_unit_price'])
-            
+            selected_data['comparable_PUP'] = np.where(selected_data['is_sale'] == True, selected_data['sale_per_unit_price'], selected_data['per_unit_price'])
+            selected_data['comparable_price'] = np.where(selected_data['is_sale'] == True, selected_data['sale_price'], selected_data['price'])
+
+
             try:
                 # take the cheapest item 
-                cheapest_item = selected_data.sort_values(by=['comparable_price', 'similarity'], ascending = [True, False])
-                final_selection = final_selection.append(dict(selected_data.iloc[0]), ignore_index=True)
+                cheapest_item = selected_data.sort_values(by=['price', 'similarity'], ascending = [True, False])
+                final_selection = final_selection.append(dict(cheapest_item.iloc[0]), ignore_index=True)
             except: continue
 
                 
         globals()[f"{store}_results"] = final_selection
     
         # dump results to csv 
-        globals()[f"{store}_results"].to_csv(f'search_output/{store}_results.csv', index=False)
+        # globals()[f"{store}_results"].to_csv(f'search_output/{store}_results.csv', index=False)
     
     return {'zehrs': zehrs_results
         , 'no_frills': no_frills_results
         , 'valu_mart': valu_mart_results
-        # , 'walmart': walmart_results
         , 'sobeys': sobeys_results
-        , 'freshco': freshco_results}
-        # , 'food_basics': food_basics_results}
+        , 'freshco': freshco_results
+        # , 'walmart': walmart_results
+        # , 'food_basics': food_basics_results
+        }
 
 
 results_dict = search(grocery_list, ps)
 
-optimal = cost_min.n_store_selection(n_stores, results_dict)
+output = cost_min.n_store_selection(n_stores, results_dict)
+
+with open("search_output/output.json", "w") as outfile:
+    json.dump(output, outfile)
+
+print(output)
     
-print(f'completed in {time.time() - start_time} seconds')
+# print(f'completed in {time.time() - start_time} seconds')

@@ -1,8 +1,0 @@
-,list_item,store,product_name,price,per_unit_price,is_sale,similarity
-0,2% milk,walmart,2% Milk,0.0,0.0,False,1.0
-1,Cheddar Cheese,walmart,Medium Cheddar Cheese,0.0,0.0,False,0.6666666666666666
-2,white sliced bread,walmart,Organic White Sliced Bread,0.0,0.0,False,0.75
-3,ground beef,walmart,Lean Ground Beef,0.0,0.0,False,0.6666666666666666
-4,clementines,walmart,Organic Clementines,0.0,0.0,False,0.5
-5,chicken breast,walmart,Chicken Breast Strips,0.0,0.0,False,0.6666666666666666
-6,potatoes,walmart,Sweet Potato,0.0,0.0,False,0.5

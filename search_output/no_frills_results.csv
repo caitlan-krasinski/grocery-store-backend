@@ -1,6 +1,0 @@
-Unnamed: 0,store,category,brand,product,price,sale_price,per_unit_price,sale_per_unit_price,units,is_sale,list_item,similarity,comparable_price
-409.0,no_frills,dairy_and_eggs,Neilson,2% Milk,2.39,,0.51,,100ml,0.0,2% milk,100.0,0.51
-139.0,no_frills,dairy_and_eggs,No Name,Medium Cheddar Cheese,3.59,,1.8,,100g,0.0,Cheddar Cheese,66.66666666666667,1.8
-568.0,no_frills,bakery,Wonder,"Bread, Sliced White",2.89,,0.43,,100g,0.0,white sliced bread,75.0,0.43
-856.0,no_frills,meat,,Lean Ground Beef,7.0,,1.4,,100g,0.0,ground beef,66.66666666666667,1.4
-1268.0,no_frills,produce,,Clementines,6.99,,0.39,,100g,0.0,clementines,100.0,0.39

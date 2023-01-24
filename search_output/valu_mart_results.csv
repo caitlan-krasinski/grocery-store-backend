@@ -1,6 +1,0 @@
-Unnamed: 0,store,category,brand,product,price,sale_price,per_unit_price,sale_per_unit_price,units,is_sale,list_item,similarity,comparable_price
-246.0,valu_mart,dairy_and_eggs,Neilson,2% Milk,3.49,,0.35,,100ml,0.0,2% milk,100.0,0.35
-24.0,valu_mart,dairy_and_eggs,No Name,Old Cheddar Cheese,9.79,,1.4,,100g,0.0,Cheddar Cheese,66.66666666666667,1.4
-668.0,valu_mart,bakery,Wonder,"Bread, Sliced White",3.79,,0.56,,100g,0.0,white sliced bread,75.0,0.56
-1016.0,valu_mart,meat,,Lean Ground Beef,7.27,,15.41,,1kg,0.0,ground beef,66.66666666666667,15.41
-1432.0,valu_mart,produce,,Clementines,6.99,,0.39,,100g,0.0,clementines,100.0,0.39

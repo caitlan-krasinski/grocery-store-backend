@@ -1,6 +1,0 @@
-store,category,brand,product,price,sale_price,per_unit_price,sale_per_unit_price,units,is_sale,list_item,similarity,comparable_price
-freshco,dairy_and_eggs,Neilson,2% Milk,3.083446923473306,,0.3092542637111871,,100ml,0.0,2% milk,100.0,0.3092542637111871
-freshco,dairy_and_eggs,No Name,Medium Cheddar Cheese,3.902061150944096,,1.9555784322913297,,100g,0.0,Cheddar Cheese,66.66666666666667,1.9555784322913297
-freshco,bakery,Wonder,"Bread, Sliced White",3.4182394139952863,,0.5050696759465331,,100g,0.0,white sliced bread,75.0,0.5050696759465331
-freshco,meat,,Lean Ground Beef,6.96420979652392,,1.3928419593047838,,100g,0.0,ground beef,66.66666666666667,1.3928419593047838
-freshco,meat,Zabiha Halal,Chicken Breast Strips,13.918470721909948,,1.74105244913098,,100g,0.0,chicken breast,66.66666666666667,1.74105244913098
