@@ -23,7 +23,7 @@ for store in stores:
     raw_data = raw_data.append(seafood)
     raw_data['store'] = store
 
-    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'price', 'sale_price', 'price_unit'
+    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'full_product_text', 'price', 'sale_price', 'price_unit'
                 , 'per_unit_price', 'sale_per_unit_price', 'units', 'price_per_1', 'is_sale'])
 
     for index, row in raw_data.iterrows():
@@ -38,6 +38,8 @@ for store in stores:
             price_was = price
 
         price_per_1 = '/' not in re.findall('(?<=.[0-9]{2}).*$', price)[0]
+
+        list_price = float(re.findall('(([0-9]+)\.([0-9]+))', price)[0][0])
 
         if price_per_1:
             price_unit = 'each'
@@ -69,6 +71,8 @@ for store in stores:
                         'category': row.category,
                         'brand': row.brand, 
                         'product': row.product_text, 
+                        'full_product_text': row.product_name,
+                        'list_price': list_price, 
                         'price': price_was,
                         'sale_price':  price,
                         'price_unit': price_unit, 

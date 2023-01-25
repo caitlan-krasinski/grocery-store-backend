@@ -42,10 +42,12 @@ for store in stores.keys():
     for category in stores[store].keys():
         category_data = baseline[baseline['category'] == category]
 
+        columns = category_data.columns
+
         scaling_factor_range = stores[store][category]
 
         # can iterate to do random scaling factor for each item but for now keep const across 
-        # same cateegory items 
+        # same category items 
         scaling_factor = random.uniform(scaling_factor_range[0], scaling_factor_range[1])
 
         category_data.loc[:, 'price'] *= scaling_factor
@@ -54,6 +56,8 @@ for store in stores.keys():
         category_data.loc[:, 'sale_per_unit_price'] = None
         category_data['store'] = store
         category_data['is_sale'] = False
+
+        category_data = category_data[columns]
 
         globals()[f"{store}_synthetic_data"] = globals()[f"{store}_synthetic_data"].append(category_data, ignore_index=True)
     

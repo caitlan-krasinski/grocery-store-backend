@@ -85,7 +85,7 @@ for store in stores:
 
     raw_data = pd.read_csv(f'raw_data/{store}/flyer_deals.csv')
 
-    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'price', 'sale_price', 'price_unit','per_unit_price', 'sale_per_unit_price', 'units', 'price_per_1', 'is_sale'])
+    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'full_product_text', 'price', 'sale_price', 'price_unit','per_unit_price', 'sale_per_unit_price', 'units', 'price_per_1', 'is_sale'])
 
     for index, row in raw_data.iterrows():
         product = row['name']
@@ -129,7 +129,8 @@ for store in stores:
                         'store': store, 
                         'category': 'flyer',
                         'brand': row.brand, 
-                        'product': product, 
+                        'product': product,
+                        'full_product_text': product,
                         'price': None ,
                         'sale_price': row.current_price, 
                         'price_unit': price_unit, 

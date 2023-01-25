@@ -7,5 +7,7 @@ for store in stores:
     synth = pd.read_csv(f'clean_data/{store}/synthetic_data.csv')
 
     all_data = flipp.append(synth)
+    
+    all_data['store'] = store
 
     all_data.to_csv(f'clean_data/{store}/{store}_data.csv', index=False)
