@@ -70,4 +70,4 @@ for store in stores:
                         'is_sale': is_sale
                     }, ignore_index = True)
 
-    clean_data.to_csv(f'clean_data/{store}/{store}_data.csv')
+    clean_data.to_csv(f'clean_data/{store}/{store}_data.csv', ignore_index=False)

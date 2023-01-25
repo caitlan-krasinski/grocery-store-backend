@@ -74,8 +74,7 @@ def final_json(PUP_subtotal_results, subtotal_results, output_results):
     for i in range(3):
         store_s = keys_in_order[i]
 
-        df_results = output_results[store_s].drop(columns=['Unnamed: 0'])
-
+        df_results = output_results[store_s]#.drop(columns=['Unnamed: 0'])
 
         output[i+1] = {'store': store_s
                     , 'subtotal': subtotal_results[store_s]
