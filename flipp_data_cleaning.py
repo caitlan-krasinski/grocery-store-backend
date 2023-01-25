@@ -85,7 +85,7 @@ for store in stores:
 
     raw_data = pd.read_csv(f'raw_data/{store}/flyer_deals.csv')
 
-    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'price', 'sale_price', 'per_unit_price', 'sale_per_unit_price', 'units', 'is_sale'])
+    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'price', 'sale_price', 'price_unit','per_unit_price', 'sale_per_unit_price', 'units', 'price_per_1', 'is_sale'])
 
     for index, row in raw_data.iterrows():
         product = row['name']
@@ -107,6 +107,12 @@ for store in stores:
 
         if product_unit == product_unit: # explicitly in product_unit col
             pup, unit = per_unit_price(price, product_unit)
+            price_per_1 = False 
+            price_unit = product_unit
+        else:
+            price_per_1 = True
+            price_unit = 'each'
+
 
         if unit == unit and re.findall('''((([0-9]+)-([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+)-([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)-(kg|g|lb|L|ml|pk|pack)))''',product) != []: # parse from product name
             product_units = re.findall('''((([0-9]+)-([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+)-([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)\.([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+) (kg|g|lb|L|ml|pk|pack))|(([0-9]+)-(kg|g|lb|L|ml|pk|pack)))''',product)[0][0]
@@ -126,9 +132,11 @@ for store in stores:
                         'product': product, 
                         'price': None ,
                         'sale_price': row.current_price, 
+                        'price_unit': price_unit, 
                         'per_unit_price': None,
                         'sale_per_unit_price': pup,
                         'units': unit, # unit for pup (ml, g, etc)
+                        'price_per_1': price_per_1, # the whole price is the price for a single unit (ie: 1 apple, 1 box of KD; not /lb, etc)
                         'is_sale': True
                     }, ignore_index = True)
     

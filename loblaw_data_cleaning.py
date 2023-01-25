@@ -23,8 +23,8 @@ for store in stores:
     raw_data = raw_data.append(seafood)
     raw_data['store'] = store
 
-    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'price', 'sale_price'
-                , 'per_unit_price', 'sale_per_unit_price', 'units', 'is_sale'])
+    clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'price', 'sale_price', 'price_unit'
+                , 'per_unit_price', 'sale_per_unit_price', 'units', 'price_per_1', 'is_sale'])
 
     for index, row in raw_data.iterrows():
 
@@ -36,6 +36,13 @@ for store in stores:
         else:
             price = row.price_text
             price_was = price
+
+        price_per_1 = '/' not in re.findall('(?<=.[0-9]{2}).*$', price)[0]
+
+        if price_per_1:
+            price_unit = 'each'
+        else: 
+            price_unit = re.findall('(?<=.[0-9]{2}).*$', price)[0]
 
         price = float(re.findall('(([0-9]+)\.([0-9]+))', price)[0][0])
         price_was = float(re.findall('(([0-9]+)\.([0-9]+))', price_was)[0][0])
@@ -64,10 +71,12 @@ for store in stores:
                         'product': row.product_text, 
                         'price': price_was,
                         'sale_price':  price,
+                        'price_unit': price_unit, 
                         'per_unit_price': pup_was,
                         'sale_per_unit_price': pup,
                         'units': unit,
+                        'price_per_1': price_per_1,
                         'is_sale': is_sale
                     }, ignore_index = True)
 
-    clean_data.to_csv(f'clean_data/{store}/{store}_data.csv', ignore_index=False)
+    clean_data.to_csv(f'clean_data/{store}/{store}_data.csv', index=False)

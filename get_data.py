@@ -36,12 +36,14 @@ import generate_synthetic_data
 import combine_flipp_synth_data
 print(f'completed in {time.time() - start_time} \n')
 
-# 4. index 
-print('------------ building indexes')
 
-start_time = time.time() 
-import build_index
-print(f'completed in {time.time() - start_time} \n')
+## INDEXING DEPRECATED 
+# # 4. index 
+# print('------------ building indexes')
+
+# start_time = time.time() 
+# import build_index
+# print(f'completed in {time.time() - start_time} \n')
 
 print('##################### PROCESS COMPLETE #####################')
 print('###################### DATA COLLECTED ######################')
