@@ -9,18 +9,14 @@ stores = ['zehrs', 'no_frills', 'valu_mart']
 
 for store in stores:
 
-    dairy = pd.read_csv(f'raw_data/{store}/dairy_and_eggs.csv')
-    bakery = pd.read_csv(f'raw_data/{store}/bakery.csv')
-    meat = pd.read_csv(f'raw_data/{store}/meat.csv')
-    produce = pd.read_csv(f'raw_data/{store}/produce.csv')
-    seafood = pd.read_csv(f'raw_data/{store}/seafood.csv')
-
+    # read in raw data
+    categories = ['dairy_and_eggs', 'bakery', 'meat', 'produce', 'seafood', 'pantry', 'snacks', 'drinks', 'frozen', 'household_items']
     raw_data = pd.DataFrame()
-    raw_data = raw_data.append(dairy)
-    raw_data = raw_data.append(bakery)
-    raw_data = raw_data.append(meat)
-    raw_data = raw_data.append(produce)
-    raw_data = raw_data.append(seafood)
+    for category in categories:
+        try:
+            data  = pd.read_csv(f'raw_data/{store}/{category}.csv')
+            raw_data = raw_data.append(data)
+        except: continue
     raw_data['store'] = store
 
     clean_data = pd.DataFrame(columns = ['store', 'category', 'brand', 'product', 'full_product_text', 'price', 'sale_price', 'price_unit'

@@ -3000,3 +3000,1371 @@ zehrs,seafood,Seaquest,Crab Leg Style,SeaquestCrab Leg Style454 g,6.49,,each,1.4
 zehrs,seafood,President's Choice,Everything Seasoned Smoked Steelhead Salmon,President's ChoiceEverything Seasoned Smoked Steelhead Salmon150 g,13.99,,each,9.33,,100g,True,False,13.99
 zehrs,seafood,President's Choice,Smoked Atlantic Salmon,President's ChoiceSmoked Atlantic Salmon150 g,13.99,,each,9.33,,100g,True,False,13.99
 zehrs,seafood,Seaquest,King Crab Flavoured Wild Alaska Pollock Chunks,SeaquestKing Crab Flavoured Wild Alaska Pollock Chunks227 g,3.99,,each,1.76,,100g,True,False,3.99
+zehrs,pantry,No Name,Medium Whole Prunes,No NameMedium Whole Prunes750 g,11.49,10.49,each,1.5334604385128692,1.4,100g,True,True,10.49
+zehrs,pantry,Paese Mio,Tomato Purée,Paese MioTomato Purée720 ml,2.99,,each,0.42,,100ml,True,False,2.99
+zehrs,pantry,Club House,Signature Blends Cajun One Step Seasoning,Club HouseSignature Blends Cajun One Step Seasoning560 g,14.49,,each,2.59,,100g,True,False,14.49
+zehrs,pantry,No Name,Sultana Raisins Club Size,No NameSultana Raisins Club Size2 kg,12.99,,each,0.65,,100g,True,False,12.99
+zehrs,pantry,Pickapeppa,Sauce Spicy Mango,PickapeppaSauce Spicy Mango148 ml,4.99,,each,3.37,,100ml,True,False,4.99
+zehrs,pantry,Casa Bonita,Roasted Jalapeño Salsa Mild,Casa BonitaRoasted Jalapeño Salsa Mild300 ml,5.99,,each,2.0,,100ml,True,False,5.99
+zehrs,pantry,Jason's,"Bread Crumbs, Plain","Jason'sBread Crumbs, Plain425 g",4.79,,each,1.13,,100g,True,False,4.79
+zehrs,pantry,Ushia,Fine Egg Noodles,UshiaFine Egg Noodles196 g,1.29,0.99,each,0.6645454545454546,0.51,100g,True,True,0.99
+zehrs,pantry,No Name,Long Grain Brown Rice,No NameLong Grain Brown Rice900 g,4.49,,each,0.5,,100g,True,False,4.49
+zehrs,pantry,McCormicks,Hollandaise Sauce,McCormicksHollandaise Sauce56 g,2.49,,each,4.45,,100g,True,False,2.49
+zehrs,pantry,Fire In The Kitchen,Burger Batter,Fire In The KitchenBurger Batter120 g,10.99,,each,9.16,,100g,True,False,10.99
+zehrs,pantry,Unico,"Eggplants in Oil, Hot","UnicoEggplants in Oil, Hot375 ml",4.89,,each,1.3,,100ml,True,False,4.89
+zehrs,pantry,Silani,Date Syrup,SilaniDate Syrup900 g,6.99,,each,0.78,,100g,True,False,6.99
+zehrs,pantry,Suraj,Kalonji Seed ,SurajKalonji Seed 200 g,2.49,,each,1.25,,100g,True,False,2.49
+zehrs,pantry,Manischewitz,"Egg Noodles, Fine","ManischewitzEgg Noodles, Fine340 g",2.99,,each,0.88,,100g,True,False,2.99
+zehrs,pantry,Dawson's,Cremini Habanero,Dawson'sCremini Habanero155 ml,9.99,,each,6.45,,100ml,True,False,9.99
+zehrs,pantry,Galil,Olives Grn Man,GalilOlives Grn Man652 g,4.49,,each,0.69,,100g,True,False,4.49
+zehrs,pantry,Thai Kitchen,Yellow Curry Paste,Thai KitchenYellow Curry Paste112 g,5.99,,each,5.35,,100g,True,False,5.99
+zehrs,pantry,Haddar,Ground Black Pepper ,HaddarGround Black Pepper 37 g,1.99,,each,5.38,,100g,True,False,1.99
+zehrs,pantry,Nupak,Long Grain White Rice,NupakLong Grain White Rice2 kg,5.49,,each,0.27,,100g,True,False,5.49
+zehrs,pantry,Old Bay,Seasoning,Old BaySeasoning680 g,15.99,,each,2.35,,100g,True,False,15.99
+zehrs,pantry,Desi,Spice Mix Bbq,DesiSpice Mix Bbq710 g,13.19,,each,1.86,,100g,True,False,13.19
+zehrs,pantry,Mother,"Lime Pickle, Hot","MotherLime Pickle, Hot500 g",5.49,,each,1.1,,100g,True,False,5.49
+zehrs,pantry,Aroy D,Sukiyaki Sauce ,Aroy DSukiyaki Sauce 220 g,2.29,,each,1.04,,100g,True,False,2.29
+zehrs,pantry,Motola,"Olives, King Size, Pitted","MotolaOlives, King Size, Pitted670 g",5.49,5.29,each,0.8198676748582231,0.79,100g,True,True,5.29
+zehrs,pantry,Kung Fu,Soy Sauce,Kung FuSoy Sauce1 l,5.99,,each,0.6,,100ml,True,False,5.99
+zehrs,pantry,Cholula,Chipotle Hot Sauce,CholulaChipotle Hot Sauce150 ml,7.29,4.99,each,4.864869739478958,3.33,100ml,True,True,4.99
+zehrs,pantry,McCormicks,"International Roast Gravy for Poultry Sauce Mix, 25% Less Salt","McCormicksInternational Roast Gravy for Poultry Sauce Mix, 25% Less Salt30 g",2.49,,each,8.3,,100g,True,False,2.49
+zehrs,pantry,Matouks,Calypso Hot Sauce,MatouksCalypso Hot Sauce300 ml,3.79,,each,1.26,,100ml,True,False,3.79
+zehrs,pantry,La Dee Da,Sweet Potato Minestrone,La Dee DaSweet Potato Minestrone475 ml,6.99,6.49,each,1.475546995377504,1.37,100ml,True,True,6.49
+zehrs,pantry,Suraj,Brown Basmati Rice,SurajBrown Basmati Rice1.81 kg,6.99,,each,0.39,,100g,True,False,6.99
+zehrs,pantry,Franks,Frank's RedHot Cayenne Pepper Sauce Original,FranksFrank's RedHot Cayenne Pepper Sauce Original148 ml,4.49,3.99,each,3.038345864661654,2.7,100ml,True,True,3.99
+zehrs,pantry,Unico,"Pasta Sauce, Original","UnicoPasta Sauce, Original680 ml",2.99,,each,0.44,,100ml,True,False,2.99
+zehrs,pantry,Haddar,Garlic Powder ,HaddarGarlic Powder 37 g,1.99,,each,5.38,,100g,True,False,1.99
+zehrs,pantry,Clic,Quinoa Grains Box,ClicQuinoa Grains Box500 g,8.49,,each,1.7,,100g,True,False,8.49
+zehrs,pantry,Cool Runnings,Fish Seasoning,Cool RunningsFish Seasoning350 g,4.29,,each,1.23,,100g,True,False,4.29
+zehrs,pantry,Grace,Johnny Cake Mix,GraceJohnny Cake Mix270 g,2.19,,each,0.81,,100g,True,False,2.19
+zehrs,pantry,Suraj,Almond Oil,SurajAlmond Oil237 ml,5.69,,each,2.4,,100ml,True,False,5.69
+zehrs,pantry,Lee Kum Kee,Hot Chili Oil,Lee Kum KeeHot Chili Oil207 ml,4.29,,each,2.07,,100ml,True,False,4.29
+zehrs,pantry,Ginger Goat,"Peach, Basil & Maple Syrup Hot Sauce Peaches N Scream","Ginger GoatPeach, Basil & Maple Syrup Hot Sauce Peaches N Scream148 ml",11.99,,each,8.1,,100ml,True,False,11.99
+zehrs,pantry,Unico,Durum Semolina,UnicoDurum Semolina750 g,2.99,,each,0.4,,100g,True,False,2.99
+zehrs,pantry,Lee Kum Kee,Minced Garlic,Lee Kum KeeMinced Garlic326 g,4.99,,each,1.53,,100g,True,False,4.99
+zehrs,pantry,Cool Runnings,Chicken Seasoning,Cool RunningsChicken Seasoning850 g,6.19,,each,0.73,,100g,True,False,6.19
+zehrs,pantry,La Dee Da,Cauliflower Garlic Ginger Soup,La Dee DaCauliflower Garlic Ginger Soup475 ml,6.99,6.49,each,1.475546995377504,1.37,100ml,True,True,6.49
+zehrs,pantry,Tilda,Wholegrain Basmati Rice,TildaWholegrain Basmati Rice1.81 kg,11.99,,each,0.6599999999999999,,100g,True,False,11.99
+zehrs,pantry,Italpasta,"Artisan Pasta, Penne Rigate","ItalpastaArtisan Pasta, Penne Rigate450 g",2.29,,each,0.51,,100g,True,False,2.29
+zehrs,pantry,Bush's Best,Mild Kidney Beans ,Bush's BestMild Kidney Beans 398 ml,2.79,2.69,each,0.705278810408922,0.68,100ml,True,True,2.69
+zehrs,pantry,Club House,Minute Tapioca,Club HouseMinute Tapioca227 g,4.29,,each,1.8900000000000001,,100g,True,False,4.29
+zehrs,pantry,Unico,"Pasta Sauce, Original","UnicoPasta Sauce, Original680 ml",2.99,,each,0.44,,100ml,True,False,2.99
+zehrs,pantry,Golden Temple,Wheat Atta Flour,Golden TempleWheat Atta Flour9 kg,17.99,,each,0.2,,100g,True,False,17.99
+zehrs,pantry,Organico Bello,OB Spicy Marinara,Organico BelloOB Spicy Marinara685 ml,10.99,,each,1.6,,100ml,True,False,10.99
+zehrs,pantry,Haddar,Garlic Powder ,HaddarGarlic Powder 37 g,1.99,,each,5.38,,100g,True,False,1.99
+zehrs,pantry,Maggi,Tamarina Sauce,MaggiTamarina Sauce340 ml,4.49,,each,1.32,,100ml,True,False,4.49
+zehrs,pantry,Clic,Quinoa Grains Box,ClicQuinoa Grains Box500 g,8.49,,each,1.7,,100g,True,False,8.49
+zehrs,pantry,Cool Runnings,Fish Seasoning,Cool RunningsFish Seasoning350 g,4.29,,each,1.23,,100g,True,False,4.29
+zehrs,pantry,Grace,Johnny Cake Mix,GraceJohnny Cake Mix270 g,2.19,,each,0.81,,100g,True,False,2.19
+zehrs,pantry,Suraj,Almond Oil,SurajAlmond Oil237 ml,5.69,,each,2.4,,100ml,True,False,5.69
+zehrs,pantry,Unico,Sunflower Oil,UnicoSunflower Oil1 l,8.99,,each,0.9,,100ml,True,False,8.99
+zehrs,pantry,Dececco,Pasta Cornetti No. 81,DececcoPasta Cornetti No. 81454 g,3.49,,each,0.77,,100g,True,False,3.49
+zehrs,pantry,,Golden Phoenix Thai Jasmine Rice,Golden Phoenix Thai Jasmine Rice8 kg,27.99,,each,0.34,,100g,True,False,27.99
+zehrs,pantry,Colavita,"Oils, Extra Virgin Olive Oil, Mediterranean","ColavitaOils, Extra Virgin Olive Oil, Mediterranean750 ml",16.99,,each,2.27,,100ml,True,False,16.99
+zehrs,pantry,Muskoka,French Onion Dip Mix ,MuskokaFrench Onion Dip Mix 58 g,4.49,,each,7.74,,100g,True,False,4.49
+zehrs,pantry,Aurora,Green Olives Cerignola,AuroraGreen Olives Cerignola1 l,7.49,,each,0.75,,100ml,True,False,7.49
+zehrs,pantry,No Name,Thompson Seedless Raisins Club Size,No NameThompson Seedless Raisins Club Size2 kg,14.99,,each,0.75,,100g,True,False,14.99
+zehrs,pantry,A Taste of Thai,Lite Coconut Milk,A Taste of ThaiLite Coconut Milk398 ml,4.29,,each,1.08,,100ml,True,False,4.29
+zehrs,pantry,Kokuho,Premium Rice,KokuhoPremium Rice2.26 kg,13.99,,each,0.62,,100g,True,False,13.99
+zehrs,pantry,Suraj,Rice Flour,SurajRice Flour800 g,3.29,,each,0.41,,100g,True,False,3.29
+zehrs,pantry,Peace River Honey,Pineapple Jalapeno Honey,Peace River HoneyPineapple Jalapeno Honey375 g,10.99,8.99,each,2.9339265850945493,2.4,100g,True,True,8.99
+zehrs,pantry,Rose, Jasmine White Scented Rice,Rose Jasmine White Scented Rice8 kg,29.99,,each,0.37,,100g,True,False,29.99
+zehrs,pantry,Tamam,Green Lentils,TamamGreen Lentils540 ml,1.29,,each,0.24000000000000002,,100ml,True,False,1.29
+zehrs,pantry,President's Choice,Crispy Jalapenos ,President's ChoiceCrispy Jalapenos 142 g,4.99,,each,3.51,,100g,True,False,4.99
+zehrs,pantry,Zinda,Whole Wheat Couscous,ZindaWhole Wheat Couscous907 g,3.99,,each,0.44,,100g,True,False,3.99
+zehrs,pantry,McCormicks,"International Roast Gravy for Poultry Sauce Mix, 25% Less Salt","McCormicksInternational Roast Gravy for Poultry Sauce Mix, 25% Less Salt30 g",2.49,,each,8.3,,100g,True,False,2.49
+zehrs,pantry,Matouks,Calypso Hot Sauce,MatouksCalypso Hot Sauce300 ml,3.79,,each,1.26,,100ml,True,False,3.79
+zehrs,pantry,La Dee Da,Sweet Potato Minestrone,La Dee DaSweet Potato Minestrone475 ml,6.99,6.49,each,1.475546995377504,1.37,100ml,True,True,6.49
+zehrs,pantry,Achva,Tahini,AchvaTahini500 g,5.99,,each,1.2,,100g,True,False,5.99
+zehrs,pantry,La Dee Da,Cauliflower Garlic Ginger Soup,La Dee DaCauliflower Garlic Ginger Soup475 ml,6.99,6.49,each,1.475546995377504,1.37,100ml,True,True,6.49
+zehrs,pantry,Tilda,Wholegrain Basmati Rice,TildaWholegrain Basmati Rice1.81 kg,11.99,,each,0.6599999999999999,,100g,True,False,11.99
+zehrs,pantry,Century,Tuna Flakes in Oil,CenturyTuna Flakes in Oil180 g,2.49,1.99,each,1.3888944723618093,1.11,100g,True,True,1.99
+zehrs,pantry,Caesarstea,Crystal Rock Sugar,CaesarsteaCrystal Rock Sugar375 g,4.99,,each,1.33,,100g,True,False,4.99
+zehrs,pantry,Grace,Guava Jelly,GraceGuava Jelly340 g,4.39,,each,1.29,,100g,True,False,4.39
+zehrs,pantry,Heiwa,Japanese Bread Crumbs    ,HeiwaJapanese Bread Crumbs    227 g,2.99,,each,1.32,,100g,True,False,2.99
+zehrs,pantry,Club House,"Marinade Mix, Meat","Club HouseMarinade Mix, Meat32 g",2.49,,each,7.780000000000001,,100g,True,False,2.49
+zehrs,pantry,Manny's,Corn Tortillas Soft Taco Size,Manny'sCorn Tortillas Soft Taco Size255 g,3.79,,each,1.49,,100g,True,False,3.79
+zehrs,pantry,Walkers,Traditional Jamaican Jerk Seasoning,WalkersTraditional Jamaican Jerk Seasoning280 g,4.69,,each,1.68,,100g,True,False,4.69
+zehrs,pantry,President's Choice,Horseradish Dijon Mustard,President's ChoiceHorseradish Dijon Mustard325 ml,3.29,,each,1.01,,100ml,True,False,3.29
+zehrs,pantry,Nong Shim,Neoguri Meal Noodles,Nong ShimNeoguri Meal Noodles4x480.0 g,5.49,,each,1.14,,100g,True,False,5.49
+zehrs,pantry,David Rocco,Pasta Sauce Pomodoro & Basilico,David RoccoPasta Sauce Pomodoro & Basilico650 ml,9.99,8.99,each,1.5335038932146827,1.38,100ml,True,True,8.99
+zehrs,pantry,Wilton,Tall Gold Birthday Candles,WiltonTall Gold Birthday Candles12 ea,2.99,,each,0.25,,1ea,True,False,2.99
+zehrs,pantry,Wilton,"White Nonpareils Sprinkles Pouch, 40 g","WiltonWhite Nonpareils Sprinkles Pouch, 40 g40 g",1.59,,each,3.98,,100g,True,False,1.59
+zehrs,pantry,Lidia's,Marinara,Lidia'sMarinara708 g,10.99,,each,1.55,,100g,True,False,10.99
+zehrs,pantry,Nong Shim,Shin Brand Shin Big Bowl,Nong ShimShin Brand Shin Big Bowl114 g,1.99,,each,1.7499999999999998,,100g,True,False,1.99
+zehrs,pantry,,Sherry Cooking Wine,Sherry Cooking Wine500 ml,6.49,,each,1.3,,100ml,True,False,6.49
+zehrs,pantry,H and H,Coconut,H and HCoconut500 g,10.99,,each,2.2,,100g,True,False,10.99
+zehrs,pantry,S&F,Riga Sprats,S&FRiga Sprats160 g,3.29,,each,2.06,,100g,True,False,3.29
+zehrs,pantry,,"Stir-Fried Noodle Buldak Ramen, Hot Chicken Flavour","Stir-Fried Noodle Buldak Ramen, Hot Chicken Flavour70 g",2.29,,each,3.2699999999999996,,100g,True,False,2.29
+zehrs,pantry,President's Choice,World of Flavours Mexican Chicken Soup ,President's ChoiceWorld of Flavours Mexican Chicken Soup 540 ml,3.49,,each,0.65,,100ml,True,False,3.49
+zehrs,pantry,President's Choice,Moroccan Shakshuka Cooking Sauce,President's ChoiceMoroccan Shakshuka Cooking Sauce400 ml,5.99,,each,1.5,,100ml,True,False,5.99
+zehrs,pantry,Nutella,Hazelnut Spread with Cocoa,NutellaHazelnut Spread with Cocoa1 kg,10.99,,each,1.1,,100g,True,False,10.99
+zehrs,pantry,O Olive Oil,Vinegar California Fig Balsamic,O Olive OilVinegar California Fig Balsamic300 ml,14.99,,each,5.0,,100ml,True,False,14.99
+zehrs,pantry,Pataks,Hot Curry Paste,PataksHot Curry Paste284 ml,6.49,,each,2.29,,100ml,True,False,6.49
+zehrs,pantry,Young & Young,Rice Vermicelli,Young & YoungRice Vermicelli454 g,3.29,,each,0.72,,100g,True,False,3.29
+zehrs,pantry,President's Choice,Soy Sauce,President's ChoiceSoy Sauce591 ml,5.49,,each,0.93,,100ml,True,False,5.49
+zehrs,pantry,Lucky Me!,Pancit Canton Chow Mein Noodles Philippine Lemon Flavour,Lucky Me!Pancit Canton Chow Mein Noodles Philippine Lemon Flavour60 g,0.89,,each,1.4800000000000002,,100g,True,False,0.89
+zehrs,pantry,Ching's,Hakka Noodles Chowmein Masala Mild  Seasoning Mix,Ching'sHakka Noodles Chowmein Masala Mild  Seasoning Mix50 g,1.59,,each,3.18,,100g,True,False,1.59
+zehrs,pantry,Herdez,Green Salsa     ,HerdezGreen Salsa     453 g,3.49,,each,0.77,,100g,True,False,3.49
+zehrs,pantry,Stock and Barrel,Ground Almonds,Stock and BarrelGround Almonds150 g,5.99,,each,3.99,,100g,True,False,5.99
+zehrs,pantry,Tamam,Liquid Honey,TamamLiquid Honey500 g,5.99,,each,1.2,,100g,True,False,5.99
+zehrs,pantry,Blue Dragon,Pad Thai Cooking Kit 3 Step,Blue DragonPad Thai Cooking Kit 3 Step220 g,5.0,4.49,each,2.2717149220489974,2.04,100g,True,True,4.49
+zehrs,pantry,Pure Via,Granulated Stevia,Pure ViaGranulated Stevia275 g,11.49,,each,4.18,,100g,True,False,11.49
+zehrs,pantry,Kokuho,Rice,KokuhoRice2 kg,11.99,,each,0.6,,100g,True,False,11.99
+zehrs,pantry,No Name,Crushed Pineapple in Pineapple Juice,No NameCrushed Pineapple in Pineapple Juice540 ml,2.49,,each,0.46,,100ml,True,False,2.49
+zehrs,pantry,Tamam,Jam Preserve Strawberry    ,TamamJam Preserve Strawberry    370 g,4.79,,each,1.29,,100g,True,False,4.79
+zehrs,pantry,MTR,Shahi Paneer,MTRShahi Paneer300 g,3.29,,each,1.1,,100g,True,False,3.29
+zehrs,pantry,Dr Oetker,"Shirriff Mousse Mix, Strawberry","Dr OetkerShirriff Mousse Mix, Strawberry69 g",2.49,,each,3.61,,100g,True,False,2.49
+zehrs,pantry,The Spice Tailor,Classic Butter Chicken Mild,The Spice TailorClassic Butter Chicken Mild285 ml,6.99,,each,2.45,,100ml,True,False,6.99
+zehrs,pantry,President's Choice,Orange Blossom Honey,President's ChoiceOrange Blossom Honey375 g,3.99,,each,1.06,,100g,True,False,3.99
+zehrs,pantry,Grace,Mackerel in Tomato Sauce with Hot Chili,GraceMackerel in Tomato Sauce with Hot Chili155 g,1.29,,each,0.8300000000000001,,100g,True,False,1.29
+zehrs,pantry,Clover Leaf,Solid Tuna in Light Olive Oil,Clover LeafSolid Tuna in Light Olive Oil240 g,6.99,,each,2.91,,100g,True,False,6.99
+zehrs,pantry,Lynch,Sub Sauce,LynchSub Sauce375 ml,5.99,,each,1.6,,100ml,True,False,5.99
+zehrs,pantry,President's Choice,Manuka Honey,President's ChoiceManuka Honey375 g,5.49,,each,1.46,,100g,True,False,5.49
+zehrs,pantry,Marie Sharp's,Mild Habanero Pepper Sauce,Marie Sharp'sMild Habanero Pepper Sauce148 ml,6.99,,each,4.72,,100ml,True,False,6.99
+zehrs,pantry,Renees,Sweet Onion Vinaigrette Salad Dressing,ReneesSweet Onion Vinaigrette Salad Dressing350 ml,6.49,,each,1.85,,100ml,True,False,6.49
+zehrs,pantry,No Name,"Pecan Halves, Club Pack","No NamePecan Halves, Club Pack1 kg",29.99,,each,3.0,,100g,True,False,29.99
+zehrs,pantry,Haldiram,Minute Khana Dum Biryani Mild,HaldiramMinute Khana Dum Biryani Mild200 g,3.29,,each,1.65,,100g,True,False,3.29
+zehrs,pantry,Swiss Chalet,SwissChalet Sauce Hot Chicken Sandwich Homestyle Gravy,Swiss ChaletSwissChalet Sauce Hot Chicken Sandwich Homestyle Gravy284 ml,2.39,,each,0.84,,100ml,True,False,2.39
+zehrs,pantry,Frooti,Sweetened Kesar Mango Pulp,FrootiSweetened Kesar Mango Pulp850 g,4.99,,each,0.59,,100g,True,False,4.99
+zehrs,pantry,Kosa, Baby Corn Cut In Brine,Kosa Baby Corn Cut In Brine425 g,1.99,,each,0.47,,100g,True,False,1.99
+zehrs,pantry,San Miguel,Purefoods Corned Beef,San MiguelPurefoods Corned Beef340 g,6.99,,each,2.06,,100g,True,False,6.99
+zehrs,pantry,Briannas,"Salad Dressing, Real French Vinaigrette","BriannasSalad Dressing, Real French Vinaigrette355 ml",5.99,5.49,each,1.6911657559198543,1.55,100ml,True,True,5.49
+zehrs,pantry,La Costena,"Salsa, Hot","La CostenaSalsa, Hot453 g",4.39,,each,0.97,,100g,True,False,4.39
+zehrs,pantry,Pataks,Light Butter Chicken Cooking Sauce,PataksLight Butter Chicken Cooking Sauce400 ml,6.49,,each,1.6200000000000003,,100ml,True,False,6.49
+zehrs,pantry,Cleopatra,Egyptian Rice Camolino,CleopatraEgyptian Rice Camolino4.534 kg,16.99,,each,0.37,,100g,True,False,16.99
+zehrs,pantry,Basse,Bassé Exotic Fruit Mix,BasseBassé Exotic Fruit Mix425 g,6.99,6.49,each,1.647873651771957,1.53,100g,True,True,6.49
+zehrs,pantry,Grace,Organic Coconut Sugar,GraceOrganic Coconut Sugar500 g,7.69,,each,1.54,,100g,True,False,7.69
+zehrs,pantry,La Costena,Green Pickled Jalapeño Peppers,La CostenaGreen Pickled Jalapeño Peppers200 ml,1.79,,each,0.9,,100ml,True,False,1.79
+zehrs,pantry,Briannas,"Salad Dressing, Dijon Honey Mustard","BriannasSalad Dressing, Dijon Honey Mustard355 ml",5.99,5.49,each,1.6911657559198543,1.55,100ml,True,True,5.49
+zehrs,pantry,McCormicks,"International Sauce Mix, Green Peppercorn","McCormicksInternational Sauce Mix, Green Peppercorn38 g",2.49,,each,6.55,,100g,True,False,2.49
+zehrs,pantry,Jack Daniels,Honey BBQ Sauce,Jack DanielsHoney BBQ Sauce473 ml,7.49,,each,1.5800000000000003,,100ml,True,False,7.49
+zehrs,pantry,Chivers,Marmalade Olde English    ,ChiversMarmalade Olde English    340 g,4.29,,each,1.26,,100g,True,False,4.29
+zehrs,pantry,Clover Leaf,Whole Pacific Oysters,Clover LeafWhole Pacific Oysters133 g,4.49,,each,3.3800000000000003,,100g,True,False,4.49
+zehrs,pantry,Tastee,Chili Salted Radish Strip,TasteeChili Salted Radish Strip369 g,4.39,,each,1.19,,100g,True,False,4.39
+zehrs,pantry,Unico,"Pizza Sauce, Hot & Spicy","UnicoPizza Sauce, Hot & Spicy213 ml",1.99,,each,0.93,,100ml,True,False,1.99
+zehrs,pantry,No Name,Light Whipped Dressing,No NameLight Whipped Dressing890 ml,5.99,,each,0.6700000000000002,,100ml,True,False,5.99
+zehrs,pantry,Stagg,Slow Burn Homestyle Pork Chili With Beans,StaggSlow Burn Homestyle Pork Chili With Beans425 g,4.29,,each,1.01,,100g,True,False,4.29
+zehrs,pantry,Stock and Barrel,White Sesame Seeds,Stock and BarrelWhite Sesame Seeds250 g,4.99,,each,2.0,,100g,True,False,4.99
+zehrs,pantry,Barilla,Pasta Fettuccine,BarillaPasta Fettuccine410 g,2.99,,each,0.7299999999999999,,100g,True,False,2.99
+zehrs,pantry,Club House,"Pork Gravy Mix, 25% Less Salt","Club HousePork Gravy Mix, 25% Less Salt24 g",2.49,,each,10.37,,100g,True,False,2.49
+zehrs,pantry,Suraj,"Chilli Powder, Hot","SurajChilli Powder, Hot400 g",3.69,,each,0.9200000000000002,,100g,True,False,3.69
+zehrs,pantry,Unico,Farfalle,UnicoFarfalle700 g,2.29,,each,0.33,,100g,True,False,2.29
+zehrs,pantry,Suraj,Garam Masala,SurajGaram Masala400 g,4.49,3.99,each,1.1253132832080202,1.0,100g,True,True,3.99
+zehrs,pantry,Apo,White King Puto Mix,ApoWhite King Puto Mix400 g,3.49,,each,0.8699999999999999,,100g,True,False,3.49
+zehrs,pantry,Ginger Goat,"Beet, Pomegranate & Carolina Reaper Hot Sauce We Got The Beets","Ginger GoatBeet, Pomegranate & Carolina Reaper Hot Sauce We Got The Beets148 ml",11.99,,each,8.1,,100ml,True,False,11.99
+zehrs,pantry,Lucky Me!,"Supreme Instant Noodles, Artificial Bone Marrow Flavour","Lucky Me!Supreme Instant Noodles, Artificial Bone Marrow Flavour65 g",1.79,,each,2.75,,100g,True,False,1.79
+zehrs,pantry,S&W,Pineapple Slices In Extra Light Syrup,S&WPineapple Slices In Extra Light Syrup540 ml,3.59,,each,0.66,,100ml,True,False,3.59
+zehrs,pantry,Golden Temple,Flour,Golden TempleFlour9 kg,23.99,,each,0.27,,100g,True,False,23.99
+zehrs,pantry,Club House,Apple Pie Spice,Club HouseApple Pie Spice38 g,6.49,,each,17.08,,100g,True,False,6.49
+zehrs,pantry,Lee Kum Kee,Original Stir-Fry Sauce,Lee Kum KeeOriginal Stir-Fry Sauce448 ml,3.29,,each,0.7300000000000001,,100ml,True,False,3.29
+zehrs,pantry,Aurora,Ammonium Bicarbonate,AuroraAmmonium Bicarbonate30 g,1.79,,each,5.97,,100g,True,False,1.79
+zehrs,pantry,Streit's,"Matzo Meal, Easy Pour","Streit'sMatzo Meal, Easy Pour354 g",3.99,,each,1.13,,100g,True,False,3.99
+zehrs,pantry,La Dee Da,Gourmet Sauces Sauce Savoury Mushroom Basil,La Dee DaGourmet Sauces Sauce Savoury Mushroom Basil500 ml,8.49,,each,1.7899999999999998,,100ml,True,False,8.49
+zehrs,pantry,Catelli,"Ancient Grains, Spaghettini Pasta","CatelliAncient Grains, Spaghettini Pasta340 g",3.49,,each,1.03,,100g,True,False,3.49
+zehrs,pantry,Suraj,"Ground Black Pepper, Kali Mirch","SurajGround Black Pepper, Kali Mirch400 g",9.19,,each,2.3,,100g,True,False,9.19
+zehrs,pantry,Gefen,"Instant Noodle Soup, Chicken","GefenInstant Noodle Soup, Chicken66 g",1.99,,each,3.02,,100g,True,False,1.99
+zehrs,pantry,Ho-Ya,Pad Thai Instant Noodle,Ho-YaPad Thai Instant Noodle80 g,1.99,,each,2.49,,100g,True,False,1.99
+zehrs,pantry,Golden Panda,Jasmine Rice Milagrosa,Golden PandaJasmine Rice Milagrosa8 kg,22.99,,each,0.29,,100g,True,False,22.99
+zehrs,pantry,President's Choice,Couscous,President's ChoiceCouscous1.8 kg,10.99,,each,0.61,,100g,True,False,10.99
+zehrs,pantry,Al Fez,Shawarma Marinade,Al FezShawarma Marinade157 ml,4.69,,each,2.99,,100ml,True,False,4.69
+zehrs,pantry,Wilton,Happy Birthday Multicolor White Dot Candles,WiltonHappy Birthday Multicolor White Dot Candles12 ea,2.99,,each,0.25,,1ea,True,False,2.99
+zehrs,pantry,Catelli,"SuperGreens, Fusilli Pasta","CatelliSuperGreens, Fusilli Pasta300 g",3.49,,each,1.16,,100g,True,False,3.49
+zehrs,pantry,Basse,Bassé Popcorn Mix,BasseBassé Popcorn Mix520 g,6.99,6.49,each,1.3463020030816641,1.25,100g,True,True,6.49
+zehrs,pantry,President's Choice,Frosted Flakes Cereal,President's ChoiceFrosted Flakes Cereal650 g,4.29,,each,0.66,,100g,True,False,4.29
+zehrs,pantry,ABC,Stir Fried Noodle,ABCStir Fried Noodle350 g,2.59,,each,0.74,,100g,True,False,2.59
+zehrs,pantry,Al Fez,Apricot & Coriander Sauce,Al FezApricot & Coriander Sauce400 ml,5.99,,each,1.5,,100ml,True,False,5.99
+zehrs,pantry,G Hughes Smokehouse,Bbq Sauce Sweet & Spicy,G Hughes SmokehouseBbq Sauce Sweet & Spicy490 ml,6.99,,each,1.43,,100ml,True,False,6.99
+zehrs,pantry,,"Oils, Lion & Globe Peanut Oil, Extra Virgin","Oils, Lion & Globe Peanut Oil, Extra Virgin900 ml",10.79,,each,1.1999999999999997,,100ml,True,False,10.79
+zehrs,pantry,Unico,Capellini,UnicoCapellini750 g,2.29,,each,0.31,,100g,True,False,2.29
+zehrs,pantry,Suraj,Wheat Semolina Sooji,SurajWheat Semolina Sooji2 kg,5.99,,each,0.3,,100g,True,False,5.99
+zehrs,pantry,East India Company,Sauce Vindalọọ Curry,East India CompanySauce Vindalọọ Curry350 ml,6.99,,each,2.0,,100ml,True,False,6.99
+zehrs,pantry,Dececco,Pasta Penne Rigate No. 41,DececcoPasta Penne Rigate No. 41450 g,3.49,,each,0.77,,100g,True,False,3.49
+zehrs,pantry,Rummo,Rummo Gluten Free Penne Rigate,RummoRummo Gluten Free Penne Rigate340 g,4.99,,each,1.47,,100g,True,False,4.99
+zehrs,pantry,Ushia,Egg Noodles,UshiaEgg Noodles196 g,1.29,0.99,each,0.6645454545454546,0.51,100g,True,True,0.99
+zehrs,pantry,Mr Noodles,"Spicy Chicken, Club Pack","Mr NoodlesSpicy Chicken, Club Pack12x85.0 g",6.49,,each,0.64,,100g,True,False,6.49
+zehrs,pantry,Unico,Elbows,UnicoElbows750 g,2.29,,each,0.31,,100g,True,False,2.29
+zehrs,pantry,No Name,Tomato Sauce,No NameTomato Sauce213 ml,1.49,,each,0.7,,100ml,True,False,1.49
+zehrs,pantry,No Name,Dark Roast Peanut Butter ,No NameDark Roast Peanut Butter 1 kg,4.79,,each,0.4799999999999999,,100g,True,False,4.79
+zehrs,pantry,Inca's Gold,Organic Chia Black,Inca's GoldOrganic Chia Black454 g,12.99,,each,2.86,,100g,True,False,12.99
+zehrs,pantry,Spam,Tocino Flavoured,SpamTocino Flavoured340 g,5.49,,each,1.61,,100g,True,False,5.49
+zehrs,pantry,Desi,Spice Mix Tandoori Masala,DesiSpice Mix Tandoori Masala710 g,13.19,,each,1.86,,100g,True,False,13.19
+zehrs,pantry,Tamam,Chickpeas ,TamamChickpeas 540 ml,1.29,,each,0.24000000000000002,,100ml,True,False,1.29
+zehrs,pantry,,Lion & Globe Peanut Oil,Lion & Globe Peanut Oil2 l,20.99,,each,10.5,,1ea,True,False,20.99
+zehrs,pantry,,Basmati Rice Premium (Case),Basmati Rice Premium (Case)4.54 kg,17.29,,each,0.38,,100g,True,False,17.29
+zehrs,pantry,President's Choice,Pure Concord Grape Jelly,President's ChoicePure Concord Grape Jelly500 ml,5.49,,each,1.1,,100ml,True,False,5.49
+zehrs,pantry,Rooster,Mung Green Beans,RoosterMung Green Beans454 g,2.99,,each,0.66,,100g,True,False,2.99
+zehrs,pantry,Suraj,"Fenugreek Seeds, Methi Dana","SurajFenugreek Seeds, Methi Dana400 g",2.49,,each,0.62,,100g,True,False,2.49
+zehrs,pantry,La Costena,"Salsa, Hot","La CostenaSalsa, Hot453 g",4.39,,each,0.97,,100g,True,False,4.39
+zehrs,pantry,Tastie,Star Anise,TastieStar Anise80 g,4.99,,each,6.24,,100g,True,False,4.99
+zehrs,pantry,President's Choice,Table Syrup With 10% Maple Syrup,President's ChoiceTable Syrup With 10% Maple Syrup750 ml,8.49,,each,1.13,,100ml,True,False,8.49
+zehrs,pantry,Palm,Corned Beef & Garlic,PalmCorned Beef & Garlic326 g,5.99,,each,1.84,,100g,True,False,5.99
+zehrs,pantry,Brar's,Desi Ghee Cooking Oil   ,Brar'sDesi Ghee Cooking Oil   800 g,16.99,,each,2.12,,100g,True,False,16.99
+zehrs,pantry,Melinda's,Ghost Pepper Sauce Bhut Jolokia,Melinda'sGhost Pepper Sauce Bhut Jolokia148 ml,5.99,,each,4.05,,100ml,True,False,5.99
+zehrs,pantry,Sempio,Red Pepper Powder Fine Grind,SempioRed Pepper Powder Fine Grind500 g,7.99,,each,1.6000000000000003,,100g,True,False,7.99
+zehrs,pantry,Africa Finest,Ijebu Garri Cassava Meal,Africa FinestIjebu Garri Cassava Meal4.54 kg,20.49,,each,0.45,,100g,True,False,20.49
+zehrs,pantry,Sempio,Hot Pepper Paste,SempioHot Pepper Paste500 g,6.69,,each,1.34,,100g,True,False,6.69
+zehrs,pantry,Stock and Barrel,"Almonds, Roasted","Stock and BarrelAlmonds, Roasted400 g",13.99,,each,3.5,,100g,True,False,13.99
+zehrs,pantry,Bare Creations,Granola Bite Mix Spark Coffee Toffee,Bare CreationsGranola Bite Mix Spark Coffee Toffee500 g,13.99,,each,2.8,,100g,True,False,13.99
+zehrs,pantry,Jakeman's,Maple Sugar Shaker,Jakeman'sMaple Sugar Shaker1 ea,9.49,,each,9.49,,1ea,True,False,9.49
+zehrs,pantry,Sanotti O Sesame,O'Sesame Chocolate Spread Keto Smooth,Sanotti O SesameO'Sesame Chocolate Spread Keto Smooth350 g,8.99,,each,2.57,,100g,True,False,8.99
+zehrs,pantry,Apo,San Marino Corned Tuna,ApoSan Marino Corned Tuna180 g,2.09,,each,1.16,,100g,True,False,2.09
+zehrs,pantry,Aurora,Black Olives Seasoned Oven Baked,AuroraBlack Olives Seasoned Oven Baked900 g,9.99,,each,1.11,,100g,True,False,9.99
+zehrs,pantry,Sherni's,Chicken Curry,Sherni'sChicken Curry500 ml,7.49,,each,1.5,,100ml,True,False,7.49
+zehrs,pantry,Jakeman's,Maple Syrup 100% Pure,Jakeman'sMaple Syrup 100% Pure250 ml,6.99,,each,2.8000000000000003,,100ml,True,False,6.99
+zehrs,pantry,Heavenly Flavors,Chili Oil,Heavenly FlavorsChili Oil255 ml,9.99,,each,3.92,,100ml,True,False,9.99
+zehrs,pantry,Sempio,Soy Bean Paste    ,SempioSoy Bean Paste    460 g,5.19,,each,1.13,,100g,True,False,5.19
+zehrs,pantry,Fire In The Kitchen,Piri Piri Seasoning,Fire In The KitchenPiri Piri Seasoning120 g,10.99,,each,9.16,,100g,True,False,10.99
+zehrs,pantry,Shan,Arabic Seasoning Mix Kabsa Rice,ShanArabic Seasoning Mix Kabsa Rice60 g,2.29,,each,3.82,,100g,True,False,2.29
+zehrs,pantry,Glicks,"Pie Crust, 9 in","GlicksPie Crust, 9 in170 g",2.99,,each,1.76,,100g,True,False,2.99
+zehrs,pantry,Rawcology,Organic Raw Crunch Granola Banana With Maca,RawcologyOrganic Raw Crunch Granola Banana With Maca200 g,10.99,,each,5.5,,100g,True,False,10.99
+zehrs,pantry,Billy Bee,Pure Natural White Honey,Billy BeePure Natural White Honey500 g,8.99,,each,1.8,,100g,True,False,8.99
+zehrs,pantry,Catelli,"Gluten Free, Lasagne Pasta","CatelliGluten Free, Lasagne Pasta250 g",3.99,,each,1.6,,100g,True,False,3.99
+zehrs,pantry,East India Company,Sauce Butter Chicken,East India CompanySauce Butter Chicken350 ml,6.99,,each,2.0,,100ml,True,False,6.99
+zehrs,pantry,Yawdi's,Jerk Marinade Sauce,Yawdi'sJerk Marinade Sauce250 ml,7.99,,each,3.2000000000000006,,100ml,True,False,7.99
+zehrs,pantry,Frontier Soup,Homemade in Minutes Soup Mix Tortilla,Frontier SoupHomemade in Minutes Soup Mix Tortilla128 g,8.99,,each,7.02,,100g,True,False,8.99
+zehrs,pantry,S&W,Pineapple Eidbits In Extra Light Syrup,S&WPineapple Eidbits In Extra Light Syrup540 ml,2.99,,each,0.55,,100ml,True,False,2.99
+zehrs,pantry,Tamam,Jam Preserve Apricot    ,TamamJam Preserve Apricot    370 g,4.79,,each,1.29,,100g,True,False,4.79
+zehrs,pantry,Casa Bonita,Fire Roasted Habanero Salsa Hot,Casa BonitaFire Roasted Habanero Salsa Hot300 ml,5.99,,each,2.0,,100ml,True,False,5.99
+zehrs,pantry,Sherni's,Butter Chicken,Sherni'sButter Chicken500 ml,7.49,,each,1.5,,100ml,True,False,7.49
+zehrs,pantry,Voisin's,Maple Cinnamon Pancake & Waffle Mix,Voisin'sMaple Cinnamon Pancake & Waffle Mix240 g,3.49,,each,1.45,,100g,True,False,3.49
+zehrs,pantry,S&F,Chocolate Hazelnut Spread,S&FChocolate Hazelnut Spread400 g,3.49,,each,0.8699999999999999,,100g,True,False,3.49
+zehrs,pantry,Africa Finest,Plantain Flour,Africa FinestPlantain Flour910 g,9.29,,each,1.02,,100g,True,False,9.29
+zehrs,pantry,Cache Cuisine,Pancake & Waffle Mix Premium Buttermilk Complete Value Pack,Cache CuisinePancake & Waffle Mix Premium Buttermilk Complete Value Pack908 g,5.99,,each,0.66,,100g,True,False,5.99
+zehrs,pantry,Melinda's,Original Habanero Mango Pepper Sauce,Melinda'sOriginal Habanero Mango Pepper Sauce148 ml,5.99,,each,4.05,,100ml,True,False,5.99
+zehrs,pantry,Palm,Corned Beef Hash,PalmCorned Beef Hash425 g,5.99,,each,1.4100000000000001,,100g,True,False,5.99
+zehrs,pantry,No Name,Light Ranch Dressing,No NameLight Ranch Dressing475 ml,3.19,,each,0.67,,100ml,True,False,3.19
+zehrs,pantry,Al Shifa,Acacia Honey,Al ShifaAcacia Honey500 g,18.99,,each,3.8,,100g,True,False,18.99
+zehrs,pantry,President's Choice,Vidalia Onion Dressing,President's ChoiceVidalia Onion Dressing475 ml,3.99,,each,0.8400000000000001,,100ml,True,False,3.99
+zehrs,pantry,Paldo,King Cup Hot & Spicy Instant Noodles  ,PaldoKing Cup Hot & Spicy Instant Noodles  110 g,2.89,,each,2.63,,100g,True,False,2.89
+zehrs,pantry,Club House,"Salads 'n Dips Dressing Mix, Country Herb","Club HouseSalads 'n Dips Dressing Mix, Country Herb28 g",1.99,,each,7.11,,100g,True,False,1.99
+zehrs,pantry,Phlippen,Phlippen Original,PhlippenPhlippen Original375 ml,9.99,,each,2.66,,100ml,True,False,9.99
+zehrs,pantry,Good Food for Good,Org Classic Bolognese,Good Food for GoodOrg Classic Bolognese450 ml,10.49,,each,2.33,,100ml,True,False,10.49
+zehrs,pantry,La Tourangelle,Avocado Oil Spray,La TourangelleAvocado Oil Spray147 ml,9.99,,each,6.8,,100ml,True,False,9.99
+zehrs,pantry,Botan,Calrose Rice     ,BotanCalrose Rice     8 kg,29.99,,each,0.37,,100g,True,False,29.99
+zehrs,pantry,MDH,Chicken Curry Masala,MDHChicken Curry Masala100 g,2.79,,each,2.79,,100g,True,False,2.79
+zehrs,pantry,,White Cooking Wine,White Cooking Wine500 ml,5.99,,each,1.2,,100ml,True,False,5.99
+zehrs,pantry,Grace,Organic Virgin Coconut Oil,GraceOrganic Virgin Coconut Oil1 l,19.29,,each,1.93,,100ml,True,False,19.29
+zehrs,pantry,Tamam,Zaatar Aleppo Blend    ,TamamZaatar Aleppo Blend    454 g,7.99,,each,1.76,,100g,True,False,7.99
+zehrs,pantry,,Yellow Rock Sugar ,Yellow Rock Sugar 400 g,1.99,,each,0.5,,100g,True,False,1.99
+zehrs,pantry,Pataks,Korma Cooking Sauce Kit 3 Step,PataksKorma Cooking Sauce Kit 3 Step315 g,5.69,,each,1.81,,100g,True,False,5.69
+zehrs,pantry,Guy Fieri,Bourbon Brown Sugar BBQ Sauce,Guy FieriBourbon Brown Sugar BBQ Sauce494 ml,6.99,,each,1.41,,100ml,True,False,6.99
+zehrs,pantry,Tamam,Ground Sumac     ,TamamGround Sumac     200 g,8.99,,each,4.5,,100g,True,False,8.99
+zehrs,pantry,MTR,PaneerMakhani,MTRPaneerMakhani300 g,3.29,,each,1.1,,100g,True,False,3.29
+zehrs,pantry,Grace,"Corned Beef, Low Sodium","GraceCorned Beef, Low Sodium340 g",4.49,,each,1.32,,100g,True,False,4.49
+zehrs,pantry,Sir Kensington's,Mayonnaise Classic,Sir Kensington'sMayonnaise Classic354 ml,8.99,,each,2.54,,100ml,True,False,8.99
+zehrs,pantry,Kraft,Sandwich Spread,KraftSandwich Spread475 ml,5.99,,each,1.26,,100ml,True,False,5.99
+zehrs,pantry,Kosa,Quail Eggs In Water,KosaQuail Eggs In Water425 g,4.99,,each,1.17,,100g,True,False,4.99
+zehrs,pantry,Planters,Crunchy Peanut Butter,PlantersCrunchy Peanut Butter1 kg,6.99,,each,0.7000000000000001,,100g,True,False,6.99
+zehrs,pantry,MDH,Chunky Chat Masala,MDHChunky Chat Masala100 g,2.79,,each,2.79,,100g,True,False,2.79
+zehrs,pantry,Mega,"Sardines, In Tomato Sauce Chili Added ","MegaSardines, In Tomato Sauce Chili Added 155 g",1.29,,each,0.8300000000000001,,100g,True,False,1.29
+zehrs,pantry,T&T,3-Minute Wide Ramen Noodles,T&T3-Minute Wide Ramen Noodles504 g,4.29,,each,0.8500000000000001,,100g,True,False,4.29
+zehrs,pantry,O Food,Bibimbap Hot Sauce,O FoodBibimbap Hot Sauce300 g,3.99,,each,1.33,,100g,True,False,3.99
+zehrs,pantry,Suraj,Chickpeas,SurajChickpeas907 g,3.99,,each,0.44,,100g,True,False,3.99
+zehrs,pantry,Smuckers,Pure Orange Marmalade,SmuckersPure Orange Marmalade500 ml,7.99,6.49,each,1.600462249614792,1.3,100ml,True,True,6.49
+zehrs,pantry,Tim Hortons,Chicken and Rice Soup,Tim HortonsChicken and Rice Soup540 ml,4.49,,each,0.83,,100ml,True,False,4.49
+zehrs,pantry,Al Fez, Natural Tahini,Al Fez Natural Tahini160 g,6.49,,each,4.06,,100g,True,False,6.49
+zehrs,pantry,Tamam,Ground Sumac,TamamGround Sumac50 g,2.49,,each,4.98,,100g,True,False,2.49
+zehrs,pantry,Hidden Valley,"Original Ranch Salad Dressing & Topping, Gluten Free","Hidden ValleyOriginal Ranch Salad Dressing & Topping, Gluten Free473 ml",5.99,,each,1.27,,100ml,True,False,5.99
+zehrs,pantry,Kosa, Whole Miniature Corn,Kosa Whole Miniature Corn425 g,2.29,,each,0.54,,100g,True,False,2.29
+zehrs,pantry,Aseel,Vegetable Ghee Large,AseelVegetable Ghee Large2 kg,15.49,,each,0.77,,100g,True,False,15.49
+zehrs,pantry,Kosa,Sweet Thai Chilli Sauce,KosaSweet Thai Chilli Sauce830 g,3.89,,each,0.4699999999999999,,100g,True,False,3.89
+zehrs,pantry,Briannas,"Salad Dressing, Rich Poppy Seed","BriannasSalad Dressing, Rich Poppy Seed355 ml",5.99,5.49,each,1.6911657559198543,1.55,100ml,True,True,5.49
+zehrs,pantry,Dawson's,Sauce Piquante Sweet Pear Chili,Dawson'sSauce Piquante Sweet Pear Chili155 ml,9.99,,each,6.45,,100ml,True,False,9.99
+zehrs,pantry,Blue Dragon,Medium Egg Noodles,Blue DragonMedium Egg Noodles300 g,4.69,4.19,each,1.5670644391408113,1.4,100g,True,True,4.19
+zehrs,pantry,Cirio,Pizzassimo- Pizza Sauce,CirioPizzassimo- Pizza Sauce400 g,2.29,,each,0.57,,100g,True,False,2.29
+zehrs,pantry,PC Blue Menu,Plum Sauce,PC Blue MenuPlum Sauce350 ml,5.29,,each,1.51,,100ml,True,False,5.29
+zehrs,pantry,President's Choice,Sweetened Dried Cranberries,President's ChoiceSweetened Dried Cranberries150 g,3.79,,each,2.53,,100g,True,False,3.79
+zehrs,pantry,Dr Oetker,"Shirriff Mousse Mix, Milk Chocolate","Dr OetkerShirriff Mousse Mix, Milk Chocolate87 g",2.49,,each,2.86,,100g,True,False,2.49
+zehrs,pantry,Cool Runnings,Caribbean Spice & Roasted Garlic,Cool RunningsCaribbean Spice & Roasted Garlic800 g,4.29,,each,0.54,,100g,True,False,4.29
+zehrs,pantry,Rooster,Mid-Oleic Sunflower Oil,RoosterMid-Oleic Sunflower Oil2.84 l,15.99,,each,0.56,,100ml,True,False,15.99
+zehrs,pantry,La Nonna,Caramel Spread Dulce De Leche,La NonnaCaramel Spread Dulce De Leche380 g,5.49,4.99,each,1.4412625250501003,1.31,100g,True,True,4.99
+zehrs,pantry,La Dee Da,Gourmet Sauces Sauce Butternut Squash Beet,La Dee DaGourmet Sauces Sauce Butternut Squash Beet500 ml,8.49,,each,1.7899999999999998,,100ml,True,False,8.49
+zehrs,pantry,T&T,Sliced Water Chestnuts,T&TSliced Water Chestnuts227 ml,0.99,,each,0.44,,100ml,True,False,0.99
+zehrs,pantry,T&T,Glutinous Rice,T&TGlutinous Rice1.8 kg,6.99,,each,0.39,,100g,True,False,6.99
+zehrs,pantry,President's Choice,"Tropical Mango, Pineapple, Coconut And Ginger Sweetened Dried Fruit Blend","President's ChoiceTropical Mango, Pineapple, Coconut And Ginger Sweetened Dried Fruit Blend300 g",7.49,,each,2.5,,100g,True,False,7.49
+zehrs,pantry,Crown,"Chunk Light Tuna, In Oil","CrownChunk Light Tuna, In Oil170 g",2.29,,each,1.35,,100g,True,False,2.29
+zehrs,pantry,KFI,Cooking Sauce Vegan Butter Chicken,KFICooking Sauce Vegan Butter Chicken395 ml,5.79,,each,1.47,,100ml,True,False,5.79
+zehrs,pantry,Suraj,Light Red Kidney Beans,SurajLight Red Kidney Beans1.8 kg,6.99,,each,0.39,,100g,True,False,6.99
+zehrs,pantry,Sapporo,"Ichiban Japanese Style Noodles, Hot & Spicy","SapporoIchiban Japanese Style Noodles, Hot & Spicy100 g",1.29,,each,1.29,,100g,True,False,1.29
+zehrs,pantry,McCormicks,"Dry Sauce Mix, Hollandaise","McCormicksDry Sauce Mix, Hollandaise56 g",2.49,,each,4.45,,100g,True,False,2.49
+zehrs,pantry,No Name,"Horseradish, Extra Hot","No NameHorseradish, Extra Hot250 ml",1.99,,each,0.8,,100ml,True,False,1.99
+zehrs,pantry,Kraft,Pizza Kit,KraftPizza Kit850 g,8.99,,each,1.06,,100g,True,False,8.99
+zehrs,pantry,Suraj,Fennel Seed ,SurajFennel Seed 250 g,2.99,,each,1.2,,100g,True,False,2.99
+zehrs,pantry,Grace,Butter Beans,GraceButter Beans540 ml,1.99,,each,0.37,,100ml,True,False,1.99
+zehrs,pantry,Tamam,Blaturtle Beans     ,TamamBlaturtle Beans     540 ml,1.29,,each,0.24000000000000002,,100ml,True,False,1.29
+zehrs,pantry,Peace River Honey,Hot Honey,Peace River HoneyHot Honey375 g,10.99,8.99,each,2.9339265850945493,2.4,100g,True,True,8.99
+zehrs,pantry,Rooster,Extra Fancy Long Grain Rice,RoosterExtra Fancy Long Grain Rice8 kg,19.99,,each,0.25,,100g,True,False,19.99
+zehrs,pantry,Clover Leaf,Gourmet Chunk White Tuna in Olive Oil Jalapeño,Clover LeafGourmet Chunk White Tuna in Olive Oil Jalapeño142 g,3.99,,each,2.81,,100g,True,False,3.99
+zehrs,pantry,Cullen's,Organic Canned Navy Beans,Cullen'sOrganic Canned Navy Beans540 ml,4.49,,each,0.83,,100ml,True,False,4.49
+zehrs,pantry,Suraj,Brown Mustard Seed ,SurajBrown Mustard Seed 100 g,1.39,,each,1.39,,100g,True,False,1.39
+zehrs,pantry,Chief,Curry Powder,ChiefCurry Powder85 g,1.69,,each,1.99,,100g,True,False,1.69
+zehrs,pantry,Kitchens of India,Koi Tikka Masala Paste,Kitchens of IndiaKoi Tikka Masala Paste100 g,2.29,,each,2.29,,100g,True,False,2.29
+zehrs,pantry,Sanotti O Sesame,O'Sesame Chocolate Spread,Sanotti O SesameO'Sesame Chocolate Spread370 g,8.99,,each,2.43,,100g,True,False,8.99
+zehrs,pantry,Cool Runnings,Ox Tail Seasoning,Cool RunningsOx Tail Seasoning330 g,4.29,,each,1.3,,100g,True,False,4.29
+zehrs,pantry,MTR,Dosa Mix,MTRDosa Mix500 g,3.49,,each,0.7,,100g,True,False,3.49
+zehrs,pantry,Saha,Middle Eastern Style Chicken Marinade Shish Taouk,SahaMiddle Eastern Style Chicken Marinade Shish Taouk250 ml,8.49,,each,3.4,,100ml,True,False,8.49
+zehrs,pantry,Swiss Chalet,SwissChalet Sauce Beef Gravy,Swiss ChaletSwissChalet Sauce Beef Gravy284 ml,2.39,,each,0.84,,100ml,True,False,2.39
+zehrs,pantry,Kozlik's,"Kozlik’s Canadian Mustard, XXX Hot","Kozlik'sKozlik’s Canadian Mustard, XXX Hot250 ml",6.49,,each,2.6,,100ml,True,False,6.49
+zehrs,pantry,Jakeman's,Maple Spread ,Jakeman'sMaple Spread 345 g,15.49,,each,4.49,,100g,True,False,15.49
+zehrs,pantry,Nupak,Brown Lentils,NupakBrown Lentils900 g,4.79,,each,0.53,,100g,True,False,4.79
+zehrs,pantry,,Hearts Of Palm,Hearts Of Palm398 ml,3.29,,each,0.83,,100ml,True,False,3.29
+zehrs,pantry,Firecracker,Hot Sauce Authentic Trinidadian,FirecrackerHot Sauce Authentic Trinidadian200 ml,9.99,,each,5.0,,100ml,True,False,9.99
+zehrs,pantry,East India Company,Sauce Tikka Masala,East India CompanySauce Tikka Masala350 ml,6.99,,each,2.0,,100ml,True,False,6.99
+zehrs,pantry,Voisin's,Maple Syrup,Voisin'sMaple Syrup500 ml,10.49,,each,2.1,,100ml,True,False,10.49
+zehrs,pantry,Stock and Barrel,Slivered Almonds,Stock and BarrelSlivered Almonds150 g,6.99,,each,4.66,,100g,True,False,6.99
+zehrs,pantry,Yawdi's,Mustard Sauce,Yawdi'sMustard Sauce250 ml,7.99,,each,3.2000000000000006,,100ml,True,False,7.99
+zehrs,pantry,Rooster,Tempura Batter Mix ,RoosterTempura Batter Mix 150 g,1.29,,each,0.86,,100g,True,False,1.29
+zehrs,pantry,,Pasta Sauce Mushroom,Pasta Sauce Mushroom660 ml,11.99,,each,1.82,,100ml,True,False,11.99
+zehrs,pantry,Cache Cuisine,Chocoluscious Triple Chocolate Brownie Mix Value Pack,Cache CuisineChocoluscious Triple Chocolate Brownie Mix Value Pack908 g,8.49,,each,0.9399999999999998,,100g,True,False,8.49
+zehrs,pantry,Nature's Mix,Maple Walnut Granola,Nature's MixMaple Walnut Granola312 g,7.99,,each,2.56,,100g,True,False,7.99
+zehrs,pantry,NO.7,Hot Sauce Chipotle,NO.7Hot Sauce Chipotle350 g,7.99,,each,2.28,,100g,True,False,7.99
+zehrs,pantry,Bar Harbor,Lobster Bisque,Bar HarborLobster Bisque284 ml,6.49,,each,2.29,,100ml,True,False,6.49
+zehrs,pantry,Bisto,Rich Brown Gravy Mix,BistoRich Brown Gravy Mix454 g,8.99,,each,1.98,,100g,True,False,8.99
+zehrs,pantry,Arva Flour Mill,Beer Bread Garlic Parmesan,Arva Flour MillBeer Bread Garlic Parmesan500 g,9.99,,each,2.0,,100g,True,False,9.99
+zehrs,pantry,Phlippen,Phlippen Sweet Heat,PhlippenPhlippen Sweet Heat375 ml,9.99,,each,2.66,,100ml,True,False,9.99
+zehrs,pantry,Club House,Montreal Steak Spice Seasoning,Club HouseMontreal Steak Spice Seasoning60 g,3.49,,each,5.82,,100g,True,False,3.49
+zehrs,pantry,Suraj,Amchoor Powder Mango Powder ,SurajAmchoor Powder Mango Powder 100 g,1.49,,each,1.49,,100g,True,False,1.49
+zehrs,pantry,Aurora,Roasted Peppers,AuroraRoasted Peppers340 g,2.99,,each,0.88,,100g,True,False,2.99
+zehrs,pantry,Kivotos,Honey from Flowers and Conifer Trees Gold Liquid,KivotosHoney from Flowers and Conifer Trees Gold Liquid500 g,9.99,,each,2.0,,100g,True,False,9.99
+zehrs,pantry,Cullen's,Organic Canned Chickpeas,Cullen'sOrganic Canned Chickpeas540 ml,4.49,,each,0.83,,100ml,True,False,4.49
+zehrs,pantry,Nupak,Chick Peas,NupakChick Peas900 g,4.79,,each,0.53,,100g,True,False,4.79
+zehrs,pantry,Jakeman's,Autumn Leaf,Jakeman'sAutumn Leaf1 ea,7.49,,each,7.49,,1ea,True,False,7.49
+zehrs,pantry,Africa Finest,Cassava Meal Ijebu Garri,Africa FinestCassava Meal Ijebu Garri1.814 kg,6.99,,each,0.39,,100g,True,False,6.99
+zehrs,pantry,Ferma,White Kidney Beans,FermaWhite Kidney Beans750 g,3.99,,each,0.53,,100g,True,False,3.99
+zehrs,pantry,Glen Echo,Prepared Mustard Triple Crunch,Glen EchoPrepared Mustard Triple Crunch250 ml,6.49,,each,2.6,,100ml,True,False,6.49
+zehrs,pantry,T&T,Pork Luncheon Meat,T&TPork Luncheon Meat340 g,4.29,3.99,each,1.25796992481203,1.17,100g,True,True,3.99
+zehrs,pantry,Saha,Middle Eastern Style Pizza Base Lahmajoun ,SahaMiddle Eastern Style Pizza Base Lahmajoun 250 ml,8.49,,each,3.4,,100ml,True,False,8.49
+zehrs,pantry,Bare Creations,Granola Bite Mix Exhale Double Chocolate,Bare CreationsGranola Bite Mix Exhale Double Chocolate500 g,13.99,,each,2.8,,100g,True,False,13.99
+zehrs,snacks,Lindt,Vegan Hazelnut Chocolate Bar,LindtVegan Hazelnut Chocolate Bar100 g,6.49,,each,6.49,,100g,True,False,6.49
+zehrs,snacks,Haitai,Honey Butter Chip Sweet Honey Flavour,HaitaiHoney Butter Chip Sweet Honey Flavour60 g,3.29,,each,5.480000000000001,,100g,True,False,3.29
+zehrs,snacks,Paris Toasts,Rusks,Paris ToastsRusks270 g,5.0,,each,1.85,,100g,True,False,5.0
+zehrs,snacks,Lindt,LINDOR Caramel Milk Chocolate Mini Eggs,LindtLINDOR Caramel Milk Chocolate Mini Eggs100 g,4.99,,each,4.99,,100g,True,False,4.99
+zehrs,snacks,Maynards,"Wine Gums, Rolls","MaynardsWine Gums, Rolls44 g",1.79,,each,4.07,,100ea,True,False,1.79
+zehrs,snacks,34 Degrees,Toasted Onion Crispbread,34 DegreesToasted Onion Crispbread127 g,5.99,,each,4.72,,100g,True,False,5.99
+zehrs,snacks,Whisps,Cheddar Cheese Crisps    ,WhispsCheddar Cheese Crisps    60 g,5.99,,each,9.98,,100g,True,False,5.99
+zehrs,snacks,Pepperidge Farm,Monaco Double Chocolate,Pepperidge FarmMonaco Double Chocolate213 g,4.29,,each,2.01,,100g,True,False,4.29
+zehrs,snacks,Covered Bridge,Potato Chips Sea Salt,Covered BridgePotato Chips Sea Salt60 g,1.99,,each,3.32,,100g,True,False,1.99
+zehrs,snacks,Valor,70 % Cacao With Orange Dark Chocolate,Valor70 % Cacao With Orange Dark Chocolate100 g,3.99,,each,3.99,,100g,True,False,3.99
+zehrs,snacks,Pringles,Jalapeno Flavour Potato Chips,PringlesJalapeno Flavour Potato Chips156 g,3.29,,each,2.11,,100g,True,False,3.29
+zehrs,snacks,Mars,"Peanut Free Chocolate Candy Bites, Sharing Bag","MarsPeanut Free Chocolate Candy Bites, Sharing Bag400 g",9.99,,each,2.5,,100g,True,False,9.99
+zehrs,snacks,Dare,Realfruit Sours,DareRealfruit Sours350 g,3.99,,each,1.14,,100g,True,False,3.99
+zehrs,snacks,Christie,Triscuit Thin Crisps Parmesan Garlic Crackers,ChristieTriscuit Thin Crisps Parmesan Garlic Crackers200 g,3.99,,each,2.0,,100g,True,False,3.99
+zehrs,snacks,President's Choice,Peanut Butter Cookie Chips,President's ChoicePeanut Butter Cookie Chips170 g,3.99,,each,2.35,,100g,True,False,3.99
+zehrs,snacks,Terra,Exotic Vegetable Chips Plantains Sea Salt,TerraExotic Vegetable Chips Plantains Sea Salt141 g,5.0,4.49,each,3.541202672605791,3.18,100g,True,True,4.49
+zehrs,snacks,Wrigley,"Fresh Mint Flavoured Mints, 4 Packs","WrigleyFresh Mint Flavoured Mints, 4 Packs4 ea",4.99,,each,1.25,,1ea,True,False,4.99
+zehrs,snacks,Starburst,Gummies Original     ,StarburstGummies Original     164 g,3.79,,each,2.31,,100g,True,False,3.79
+zehrs,snacks,Cookie It Up,"Shortbread Cookies, White Chocolate Cranberry","Cookie It UpShortbread Cookies, White Chocolate Cranberry140 g",4.99,4.49,each,3.5674610244988862,3.21,100g,True,True,4.49
+zehrs,snacks,President's Choice,Milk Chocolate Covered Peanuts,President's ChoiceMilk Chocolate Covered Peanuts400 g,5.49,4.99,each,1.375250501002004,1.25,100g,True,True,4.99
+zehrs,snacks,Lindt, Milk Chocolate,Lindt Milk Chocolate300 g,9.99,,each,3.33,,100g,True,False,9.99
+zehrs,snacks,Three Farmers,Fava Beans Roasted Jalapeño Lime,Three FarmersFava Beans Roasted Jalapeño Lime140 g,4.99,,each,3.56,,100g,True,False,4.99
+zehrs,snacks,Haldiram,Indian Snacks Pani Puri Water Balls,HaldiramIndian Snacks Pani Puri Water Balls275 g,6.49,,each,2.36,,100g,True,False,6.49
+zehrs,snacks,T&T,Ready-to-Eat Organic Chestnuts,T&TReady-to-Eat Organic Chestnuts100 g,1.99,,each,1.99,,100g,True,False,1.99
+zehrs,snacks,Maynards,Swedish Berries Tropical Soft Candy,MaynardsSwedish Berries Tropical Soft Candy185 g,2.99,,each,1.62,,100g,True,False,2.99
+zehrs,snacks,From Farm To Table,Seriously Crispy Kettle Chips Salt & Malt Flavour,From Farm To TableSeriously Crispy Kettle Chips Salt & Malt Flavour142 g,3.69,,each,2.6,,100g,True,False,3.69
+zehrs,snacks,Eat My Shortbread,"Shortbread, Buttercrunch Toffee","Eat My ShortbreadShortbread, Buttercrunch Toffee43 g",2.49,,each,5.79,,100g,True,False,2.49
+zehrs,snacks,Nestle, Quality Street Share Bag,Nestle Quality Street Share Bag190 g,7.49,,each,3.94,,100g,True,False,7.49
+zehrs,snacks,Sprucewood Handmade Cookie Co.,Pure Maple Shortbread,Sprucewood Handmade Cookie Co.Pure Maple Shortbread170 g,6.49,,each,3.82,,100g,True,False,6.49
+zehrs,snacks,Doritos,Jalapeno & Cheddar Chips,DoritosJalapeno & Cheddar Chips235 g,5.49,,each,2.34,,100g,True,False,5.49
+zehrs,snacks,Christie,Wheat Thins Spinach And Roasted Garlic Crackers,ChristieWheat Thins Spinach And Roasted Garlic Crackers175 g,3.99,,each,2.28,,100g,True,False,3.99
+zehrs,snacks,Alma,Wafers Chocolate Belgian,AlmaWafers Chocolate Belgian200 g,1.59,,each,0.8,,100g,True,False,1.59
+zehrs,snacks,Dare,Realjuicee Jumbo Gums,DareRealjuicee Jumbo Gums818 g,4.99,,each,0.6099999999999999,,100g,True,False,4.99
+zehrs,snacks,Kambly,"Biscuits, Caprice","KamblyBiscuits, Caprice100 g",5.99,,each,5.99,,100g,True,False,5.99
+zehrs,snacks,Ovaltine,Biscuits with Malt,OvaltineBiscuits with Malt150 g,1.69,,each,1.13,,100g,True,False,1.69
+zehrs,snacks,Christie,Dads Oatmeal Chocolate Chip Cookies,ChristieDads Oatmeal Chocolate Chip Cookies305 g,4.79,,each,1.57,,100g,True,False,4.79
+zehrs,snacks,Surati,Thai Sweet Chili Flavoured Potato Chips,SuratiThai Sweet Chili Flavoured Potato Chips80 g,1.79,,each,2.24,,100g,True,False,1.79
+zehrs,snacks,Waterbridge,Sour Candy Wine Gums ,WaterbridgeSour Candy Wine Gums 200 g,4.49,,each,2.25,,100g,True,False,4.49
+zehrs,snacks,President's Choice,"Almonds, Bananas, Pineapple, Cranberries & Walnuts Trail Mix","President's ChoiceAlmonds, Bananas, Pineapple, Cranberries & Walnuts Trail Mix700 g",14.99,,each,2.14,,100g,True,False,14.99
+zehrs,snacks,No Name,Fudge-Striped Shortbread Cookies,No NameFudge-Striped Shortbread Cookies368 g,3.49,,each,0.95,,100g,True,False,3.49
+zehrs,snacks,T&T,Chinese Pastry with Egg,T&TChinese Pastry with Egg228 g,2.99,,each,1.31,,100g,True,False,2.99
+zehrs,snacks,Shufra,Premier Chocolate Milk,ShufraPremier Chocolate Milk100 g,2.29,,each,2.29,,100g,True,False,2.29
+zehrs,snacks,No Name,Fudge-Covered Graham Cookies,No NameFudge-Covered Graham Cookies350 g,3.49,,each,1.0,,100g,True,False,3.49
+zehrs,snacks,Hi-Chew,Mango Chewy Candy,Hi-ChewMango Chewy Candy58 g,1.89,,each,3.26,,100g,True,False,1.89
+zehrs,snacks,Pringles,Pizza Flavour Potato Chips,PringlesPizza Flavour Potato Chips156 g,3.29,,each,2.11,,100g,True,False,3.29
+zehrs,snacks,Hardbite,"Handcrafted-Style Chips, BBQ Sweet Potato Chips","HardbiteHandcrafted-Style Chips, BBQ Sweet Potato Chips150 g",5.99,,each,3.99,,100g,True,False,5.99
+zehrs,snacks,Jelly Belly,Kids Mix,Jelly BellyKids Mix100 g,3.49,,each,3.49,,100g,True,False,3.49
+zehrs,snacks,Skittles,"Original Chewy Candy, Bowl Size Bag","SkittlesOriginal Chewy Candy, Bowl Size Bag320 g",5.99,,each,1.87,,100g,True,False,5.99
+zehrs,snacks,Surati,Thai Sweet Chili Flavoured Potato Chips,SuratiThai Sweet Chili Flavoured Potato Chips80 g,1.79,,each,2.24,,100g,True,False,1.79
+zehrs,snacks,Waterbridge,Sour Candy Wine Gums ,WaterbridgeSour Candy Wine Gums 200 g,4.49,,each,2.25,,100g,True,False,4.49
+zehrs,snacks,No Name,Fudge-Striped Shortbread Cookies,No NameFudge-Striped Shortbread Cookies368 g,3.49,,each,0.95,,100g,True,False,3.49
+zehrs,snacks,T&T,Chinese Pastry with Egg,T&TChinese Pastry with Egg228 g,2.99,,each,1.31,,100g,True,False,2.99
+zehrs,snacks,SunRype,Veggie Wildberry Carrot 100% Fruit and Vegetable Bar Snack,SunRypeVeggie Wildberry Carrot 100% Fruit and Vegetable Bar Snack37 g,0.99,,each,2.68,,100g,True,False,0.99
+zehrs,snacks,Nong Shim,Shrimp Chips,Nong ShimShrimp Chips45 g,1.59,,each,3.53,,100g,True,False,1.59
+zehrs,snacks,Nairn's,Fruit Seed Oat Cracker,Nairn'sFruit Seed Oat Cracker225 g,4.99,,each,2.22,,100g,True,False,4.99
+zehrs,snacks,Nestle,Aero Bubbles Milk Chocolate Minis Pouch,NestleAero Bubbles Milk Chocolate Minis Pouch800 g,13.99,,each,1.75,,100g,True,False,13.99
+zehrs,snacks,Munchies,Original Snack Mix 415g,MunchiesOriginal Snack Mix 415g415 g,6.49,,each,1.5599999999999998,,100g,True,False,6.49
+zehrs,snacks,Brookside,Dark Chocolate  Acai & Blueberry,BrooksideDark Chocolate  Acai & Blueberry90 g,3.29,,each,3.66,,100g,True,False,3.29
+zehrs,snacks,Covered Bridge,Potato Chips Thick Cut Sea Salt,Covered BridgePotato Chips Thick Cut Sea Salt142 g,3.99,,each,2.81,,100g,True,False,3.99
+zehrs,snacks,Lay's,Cucumber Flavoured Potato Chips,Lay'sCucumber Flavoured Potato Chips165 g,2.99,,each,1.81,,100g,True,False,2.99
+zehrs,snacks,Lindt,LINDOR Amour Milk Chocolate Hearts Box,LindtLINDOR Amour Milk Chocolate Hearts Box202 g,22.99,,each,11.38,,100g,True,False,22.99
+zehrs,snacks,Lindt, Milk Chocolate With Hazelnuts,Lindt Milk Chocolate With Hazelnuts300 g,9.99,,each,3.33,,100g,True,False,9.99
+zehrs,snacks,President's Choice,"Almonds, Bananas, Pineapple, Cranberries & Walnuts Trail Mix","President's ChoiceAlmonds, Bananas, Pineapple, Cranberries & Walnuts Trail Mix700 g",14.99,,each,2.14,,100g,True,False,14.99
+zehrs,snacks,Enjoy Life,Lentil Chips Salt And Vinegar,Enjoy LifeLentil Chips Salt And Vinegar113 g,5.49,,each,4.86,,100g,True,False,5.49
+zehrs,snacks,Ritter Sport,"Chocolate, Milk  with Butter Biscuit & Cocoa CrÃ¨me","Ritter SportChocolate, Milk  with Butter Biscuit & Cocoa CrÃ¨me100 g",2.99,,each,2.99,,100g,True,False,2.99
+zehrs,snacks,Nestle,KitKat Pops Milk Chocolaty Snacks Pouch,NestleKitKat Pops Milk Chocolaty Snacks Pouch170 g,5.99,,each,3.52,,100g,True,False,5.99
+zehrs,snacks,Darrell Lea,Soft Australian Liquorice Mixed Fruit Flavored,Darrell LeaSoft Australian Liquorice Mixed Fruit Flavored200 g,3.99,,each,2.0,,100g,True,False,3.99
+zehrs,snacks,Reese's,Thins Peanut Butter Cups Dark Chocolate,Reese'sThins Peanut Butter Cups Dark Chocolate165 g,5.49,,each,3.33,,100g,True,False,5.49
+zehrs,snacks,Monde,Eggnog Cookies,MondeEggnog Cookies130 g,2.19,,each,1.68,,100g,True,False,2.19
+zehrs,snacks,Shneider's,Creamy Milk,Shneider'sCreamy Milk100 g,2.99,,each,2.99,,100g,True,False,2.99
+zehrs,snacks,PC Blue Menu,Unsalted Natural Almonds,PC Blue MenuUnsalted Natural Almonds275 g,6.99,,each,2.54,,100g,True,False,6.99
+zehrs,snacks,Handfuel,Cashews Coconut,HandfuelCashews Coconut150 g,6.99,,each,4.66,,100g,True,False,6.99
+zehrs,snacks,Christie,Dads Oatmeal Cookies,ChristieDads Oatmeal Cookies520 g,5.99,5.79,each,1.1483419689119172,1.11,100g,True,True,5.79
+zehrs,snacks,PopCorners,Spicy Cheddar Flavoured Popped-Corn Chips 142g,PopCornersSpicy Cheddar Flavoured Popped-Corn Chips 142g142 g,4.99,,each,3.51,,100g,True,False,4.99
+zehrs,snacks,Miss Vickies,Unsalted kettle cooked potato chips 200g,Miss VickiesUnsalted kettle cooked potato chips 200g200 g,5.49,,each,2.75,,100g,True,False,5.49
+zehrs,snacks,Hershey's,Reese'S Pieces With Chocolate Cookie Candy,Hershey'sReese'S Pieces With Chocolate Cookie Candy170 g,5.49,,each,3.23,,100g,True,False,5.49
+zehrs,snacks,Lindt,SWISS CLASSIC Dark Chocolate Bar,LindtSWISS CLASSIC Dark Chocolate Bar100 g,3.99,,each,3.99,,100g,True,False,3.99
+zehrs,snacks,President's Choice,Milk Chocolate,President's ChoiceMilk Chocolate100 g,2.49,,each,2.49,,100g,True,False,2.49
+zehrs,snacks,President's Choice,Candy Coated Milk Chocolate Eggs,President's ChoiceCandy Coated Milk Chocolate Eggs200 g,3.99,,each,2.0,,100g,True,False,3.99
+zehrs,snacks,President's Choice,Loads Of Ketchup Rippled Potato Chips,President's ChoiceLoads Of Ketchup Rippled Potato Chips200 g,3.49,,each,1.75,,100g,True,False,3.49
+zehrs,snacks,Ritter Sport,Mini Chocolate Mix Assorted Chocolates,Ritter SportMini Chocolate Mix Assorted Chocolates133 g,5.99,,each,4.5,,100g,True,False,5.99
+zehrs,snacks,Werther's,Original Soft Crème Caramel Candy,Werther'sOriginal Soft Crème Caramel Candy128 g,3.49,,each,2.73,,100g,True,False,3.49
+zehrs,snacks,Kagi,"Mini Wafer, Dark Chocolate 60%","KagiMini Wafer, Dark Chocolate 60%125 g",5.49,,each,4.39,,100g,True,False,5.49
+zehrs,snacks,Haribo,Gummy Candies Pocket Size,HariboGummy Candies Pocket Size60 g,1.69,,each,2.82,,100g,True,False,1.69
+zehrs,snacks,Nature Valley,Crunchy Maple Brown Sugar Granola Bars,Nature ValleyCrunchy Maple Brown Sugar Granola Bars210 g,3.99,,each,1.9,,100g,True,False,3.99
+zehrs,snacks,Hershey's,"Chocolate, Milk  with Almonds","Hershey'sChocolate, Milk  with Almonds100 g",2.99,,each,2.99,,100g,True,False,2.99
+zehrs,snacks,Caramilk,Minis Chocolate Bar-Minis,CaramilkMinis Chocolate Bar-Minis147 g,5.99,,each,4.07,,100g,True,False,5.99
+zehrs,snacks,President's Choice,Sea Salt Garden Stix,President's ChoiceSea Salt Garden Stix142 g,2.99,,each,2.11,,100g,True,False,2.99
+zehrs,snacks,No Name,Cheese Flavoured Crunchy Snacks,No NameCheese Flavoured Crunchy Snacks200 g,1.99,,each,1.0,,100g,True,False,1.99
+zehrs,snacks,Christie,Chips Ahoy! Rainbow Cookies,ChristieChips Ahoy! Rainbow Cookies457 g,5.99,5.79,each,1.3138687392055268,1.27,100g,True,True,5.79
+zehrs,snacks,Tostitos,Rounds Tortilla Chips 480g,TostitosRounds Tortilla Chips 480g480 g,6.49,,each,1.35,,100g,True,False,6.49
+zehrs,snacks,Loacker,Quadratini Double Chocolate,LoackerQuadratini Double Chocolate250 g,4.99,,each,2.0,,100g,True,False,4.99
+zehrs,snacks,Planters,Mixed Nuts Deluxe Salted   ,PlantersMixed Nuts Deluxe Salted   200 g,7.49,,each,3.75,,100g,True,False,7.49
+zehrs,snacks,Christie,Triscuit Cracked Pepper And Olive Oil Crackers,ChristieTriscuit Cracked Pepper And Olive Oil Crackers200 g,3.99,,each,2.0,,100g,True,False,3.99
+zehrs,snacks,Dare,Bold ‘n Baked Sweet Chili,DareBold ‘n Baked Sweet Chili150 g,2.99,,each,1.99,,100g,True,False,2.99
+zehrs,snacks,President's Choice,Peanut Free Apple Cereal Bars,President's ChoicePeanut Free Apple Cereal Bars300 g,3.49,,each,1.16,,100g,True,False,3.49
+zehrs,snacks,Carnaby Sweet,Real Milk Chocolate Solid Eggs,Carnaby SweetReal Milk Chocolate Solid Eggs150 g,1.99,,each,1.33,,100g,True,False,1.99
+zehrs,snacks,Martin's Family Fruit Farm,Nothin' But Apple Crispy Apple Chips,Martin's Family Fruit FarmNothin' But Apple Crispy Apple Chips85 g,3.29,,each,3.87,,100g,True,False,3.29
+zehrs,snacks,Cadbury,Smooth Chocolate Bar,CadburySmooth Chocolate Bar90 g,5.99,,each,6.66,,100g,True,False,5.99
+zehrs,snacks,Kind,Dipped Clusters Clusters Dark Chocolate Nuts & Berries,KindDipped Clusters Clusters Dark Chocolate Nuts & Berries113 g,6.49,5.49,each,5.745245901639345,4.86,100g,True,True,5.49
+zehrs,snacks,Betty Crocker,Paw Patrol Special Edition Fruit Flavoured Snacks,Betty CrockerPaw Patrol Special Edition Fruit Flavoured Snacks226 g,3.99,,each,1.77,,100g,True,False,3.99
+zehrs,snacks,Uncle Bob,Popcorn Seasoning Salt & Vinegar,Uncle BobPopcorn Seasoning Salt & Vinegar78 g,5.99,,each,7.68,,100g,True,False,5.99
+zehrs,snacks,Sprucewood Handmade Cookie Co.,Cheddar Shortbread,Sprucewood Handmade Cookie Co.Cheddar Shortbread170 g,6.49,,each,3.82,,100g,True,False,6.49
+zehrs,snacks,Maynards,Fuzzy Peach,MaynardsFuzzy Peach64 g,1.79,,each,2.8,,100g,True,False,1.79
+zehrs,snacks,John Wm. Macy's,CheeseSticks Garlic Romano,John Wm. Macy'sCheeseSticks Garlic Romano113 g,5.99,,each,5.3,,100g,True,False,5.99
+zehrs,snacks,Britannia,Petit Beurre Tea Biscuits,BritanniaPetit Beurre Tea Biscuits150 g,1.99,,each,1.33,,100g,True,False,1.99
+zehrs,snacks,Britannia,Digestive Biscuits,BritanniaDigestive Biscuits400 g,3.99,,each,1.0,,100g,True,False,3.99
+zehrs,snacks,President's Choice,"Chocolate, Coconut, Pumpkin Seed & Quinoa Dark  Clusters","President's ChoiceChocolate, Coconut, Pumpkin Seed & Quinoa Dark  Clusters100 g",4.49,,each,4.49,,100g,True,False,4.49
+zehrs,snacks,34 Degrees,Rosemary Crispbread,34 DegreesRosemary Crispbread127 g,5.99,,each,4.72,,100g,True,False,5.99
+zehrs,snacks,Starburst,"Original Individually Wrapped Chewy Candy, Stick Pack","StarburstOriginal Individually Wrapped Chewy Candy, Stick Pack58 g",1.79,,each,3.09,,100g,True,False,1.79
+zehrs,snacks,Hershey's,"Skor, Toffee Bar","Hershey'sSkor, Toffee Bar39 g",1.79,,each,4.59,,100g,True,False,1.79
+zehrs,snacks,Covered Bridge,"Kettlecorn, White Cheddar","Covered BridgeKettlecorn, White Cheddar125 g",3.99,,each,3.1899999999999995,,100g,True,False,3.99
+zehrs,snacks,Double Dutch,"Cookies, Mini Waffle Bites, Honey Vanilla Flavour","Double DutchCookies, Mini Waffle Bites, Honey Vanilla Flavour160 g",3.99,,each,2.49,,100g,True,False,3.99
+zehrs,snacks,Dare,Realmint Candies Scotch Original,DareRealmint Candies Scotch Original730 g,4.99,,each,0.68,,100g,True,False,4.99
+zehrs,snacks,T&T,Milk Biscuit Egg Roll,T&TMilk Biscuit Egg Roll120 g,2.49,,each,2.08,,100g,True,False,2.49
+zehrs,snacks,Covered Bridge,Potato Chips Creamy Dill,Covered BridgePotato Chips Creamy Dill60 g,1.99,,each,3.32,,100g,True,False,1.99
+zehrs,snacks,Sprucewood Handmade Cookie Co.,Lemon Zest Shortbread,Sprucewood Handmade Cookie Co.Lemon Zest Shortbread170 g,6.49,,each,3.82,,100g,True,False,6.49
+zehrs,snacks,Uncle Bob,White Kernel,Uncle BobWhite Kernel900 g,3.49,,each,0.39,,100g,True,False,3.49
+zehrs,snacks,Double Dutch,"Mini Waffle Bites, Maple Flavour","Double DutchMini Waffle Bites, Maple Flavour160 g",3.99,,each,2.49,,100g,True,False,3.99
+zehrs,snacks,Mentos,Fruit,MentosFruit4 ea,3.49,,each,0.8699999999999999,,1ea,True,False,3.49
+zehrs,snacks,LIFESAVERS,Mints Wint-O-Green      ,LIFESAVERSMints Wint-O-Green      150 g,3.49,,each,2.33,,100g,True,False,3.49
+zehrs,snacks,Christie,Triscuit Roasted Garlic Crackers,ChristieTriscuit Roasted Garlic Crackers200 g,3.99,,each,2.0,,100g,True,False,3.99
+zehrs,snacks,No Name,Peanut Butter Sandwich Crackers,No NamePeanut Butter Sandwich Crackers180 g,2.99,2.79,each,1.6611111111111112,1.55,100g,True,True,2.79
+zehrs,snacks,Dare,Oats & Honey Crackers,DareOats & Honey Crackers250 g,3.99,,each,1.6,,100g,True,False,3.99
+zehrs,snacks,Cookie It Up,"Shortbread Cookies, Salted Butterscotch","Cookie It UpShortbread Cookies, Salted Butterscotch140 g",4.99,4.49,each,3.5674610244988862,3.21,100g,True,True,4.49
+zehrs,snacks,Royalty,Digestive Cookies,RoyaltyDigestive Cookies400 g,3.49,,each,0.8699999999999999,,100g,True,False,3.49
+zehrs,snacks,Dare,Vinta Crackers Rosemary & Olive Oil,DareVinta Crackers Rosemary & Olive Oil250 g,3.99,,each,1.6,,100g,True,False,3.99
+zehrs,snacks,Kinder,Chocolate Bar,KinderChocolate Bar126 g,3.99,,each,3.17,,100g,True,False,3.99
+zehrs,snacks,Reese's,Pieces Candy     ,Reese'sPieces Candy     230 g,5.49,,each,2.39,,100g,True,False,5.49
+zehrs,snacks,Lindt,Mint Dark Chocolate Squares Bag,LindtMint Dark Chocolate Squares Bag151 g,8.99,,each,5.95,,100g,True,False,8.99
+zehrs,snacks,Dare,Realfruit Tropical,DareRealfruit Tropical350 g,3.99,,each,1.14,,100g,True,False,3.99
+zehrs,snacks,Nestle,Caramel Crisp Wafer Bar,NestleCaramel Crisp Wafer Bar120 g,2.99,,each,2.49,,100g,True,False,2.99
+zehrs,snacks,Grace,Sweet Plantain Chips,GraceSweet Plantain Chips85 g,1.49,,each,1.75,,100g,True,False,1.49
+zehrs,snacks,Haddar,Multigrain Rice Cakes Himalayan Salt,HaddarMultigrain Rice Cakes Himalayan Salt99 g,1.29,,each,1.3,,100g,True,False,1.29
+zehrs,snacks,Nairn's,Organic Superseed Oat Cakes,Nairn'sOrganic Superseed Oat Cakes200 g,4.99,,each,2.5,,100g,True,False,4.99
+zehrs,snacks,Alprose,"Chocolate Bar, Milk Chocolate","AlproseChocolate Bar, Milk Chocolate100 g",3.79,,each,3.79,,100g,True,False,3.79
+zehrs,snacks,Grace,Plantain Chips Sweet Chili Flavoured,GracePlantain Chips Sweet Chili Flavoured85 g,1.39,,each,1.64,,100g,True,False,1.39
+zehrs,snacks,Hardbite,"Handcrafted-Style Chips, Lightly Salted Parsnip Chips","HardbiteHandcrafted-Style Chips, Lightly Salted Parsnip Chips150 g",5.99,,each,3.99,,100g,True,False,5.99
+zehrs,snacks,President's Choice,Dark Chocolate Cranberries,President's ChoiceDark Chocolate Cranberries700 g,10.99,,each,1.57,,100g,True,False,10.99
+zehrs,snacks,Haldiram,Tasty Nuts,HaldiramTasty Nuts350 g,3.99,,each,1.14,,100g,True,False,3.99
+zehrs,snacks,Clean Beans,Sweet Mesquite BBQ Roasted Broad Beans,Clean BeansSweet Mesquite BBQ Roasted Broad Beans85 g,2.99,,each,3.52,,100g,True,False,2.99
+zehrs,snacks,President's Choice,Extra Cheesy Little Penguins Snack Crackers,President's ChoiceExtra Cheesy Little Penguins Snack Crackers840 g,12.99,11.99,each,1.5492660550458714,1.43,100g,True,True,11.99
+zehrs,snacks,Snappy Snax,Corn Chips,Snappy SnaxCorn Chips312 g,2.99,2.89,each,0.9621799307958478,0.93,100g,True,True,2.89
+zehrs,snacks,President's Choice,Sea Salt Kettle Cooked Tortilla Chips,President's ChoiceSea Salt Kettle Cooked Tortilla Chips368 g,3.99,,each,1.08,,100g,True,False,3.99
+zehrs,snacks,Voortman,Fudge Striped Shortbread,VoortmanFudge Striped Shortbread320 g,3.99,3.79,each,1.242269129287599,1.18,100g,True,True,3.79
+zehrs,snacks,Excel,"Peppermint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs","ExcelPeppermint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs77 g",4.99,,each,6.48,,100g,True,False,4.99
+zehrs,snacks,President's Choice,Roasted Almonds with Sea Salt,President's ChoiceRoasted Almonds with Sea Salt200 g,4.99,,each,2.5,,100g,True,False,4.99
+zehrs,snacks,Werther's,Original No Sugar Added Caramel Hard Candy,Werther'sOriginal No Sugar Added Caramel Hard Candy70 g,3.49,,each,4.99,,100g,True,False,3.49
+zehrs,snacks,Kashi,Soft Baked Cereal Bars Cocoa 7 Grain 5 Bars,KashiSoft Baked Cereal Bars Cocoa 7 Grain 5 Bars175 g,4.99,3.99,each,2.851428571428571,2.28,100g,True,True,3.99
+zehrs,snacks,President's Choice,Butter Flavour Purple Kernel Microwave Popcorn,President's ChoiceButter Flavour Purple Kernel Microwave Popcorn1980 g,14.99,,each,0.76,,100g,True,False,14.99
+zehrs,snacks,President's Choice,Beet Veggie Snaps,President's ChoiceBeet Veggie Snaps180 g,5.49,5.29,each,3.0511531190926275,2.94,100g,True,True,5.29
+zehrs,snacks,Kelloggs,Special K Nourish Cranberries & Almonds Bar,KelloggsSpecial K Nourish Cranberries & Almonds Bar165 g,4.99,3.99,each,3.026516290726817,2.42,100g,True,True,3.99
+zehrs,snacks,President's Choice,Oatmeal Belgian Chocolate Cookies,President's ChoiceOatmeal Belgian Chocolate Cookies150 g,3.99,,each,2.66,,100g,True,False,3.99
+zehrs,snacks,Jell-O,"Refrigerated Pudding Snacks, Strawberry Cheesecake","Jell-ORefrigerated Pudding Snacks, Strawberry Cheesecake4x99.0 g",4.29,,each,1.08,,100g,True,False,4.29
+zehrs,snacks,Hershey's,Reese'S Pieces Peanut Butter Candy,Hershey'sReese'S Pieces Peanut Butter Candy800 g,15.99,,each,2.0,,100g,True,False,15.99
+zehrs,snacks,Vicenzi,Lady Fingers,VicenziLady Fingers200 g,3.99,,each,2.0,,100g,True,False,3.99
+zehrs,snacks,President's Choice,Mint Slamscuits,President's ChoiceMint Slamscuits240 g,3.99,,each,1.66,,100g,True,False,3.99
+zehrs,snacks,Quaker,Crispy Minis BBQ flavour brown rice chips,QuakerCrispy Minis BBQ flavour brown rice chips100 g,2.99,,each,2.99,,100g,True,False,2.99
+zehrs,snacks,Sunkist,"Fruit Snacks, Assorted Flavours","SunkistFruit Snacks, Assorted Flavours792 g",10.99,,each,1.39,,100g,True,False,10.99
+zehrs,snacks,Betty Crocker,"Fruit Roll Up Snack, Tropical Tie-Dye","Betty CrockerFruit Roll Up Snack, Tropical Tie-Dye141 g",3.99,,each,2.83,,100g,True,False,3.99
+zehrs,snacks,Jack Links,Original Snacksticks Sausage Snacks,Jack LinksOriginal Snacksticks Sausage Snacks225 g,9.99,,each,4.44,,100g,True,False,9.99
+zehrs,snacks,No Name,Ice Cream Cups,No NameIce Cream Cups1 ea,3.49,,each,1.99,,100g,True,False,3.49
+zehrs,snacks,Mentos,"Pure Fresh, Spearmint","MentosPure Fresh, Spearmint50 ea",4.29,,each,0.09,,1ea,True,False,4.29
+zehrs,snacks,Peace By Chocolate,Milk Chocolate With Hazelnuts,Peace By ChocolateMilk Chocolate With Hazelnuts46 g,3.99,,each,8.67,,100g,True,False,3.99
+zehrs,snacks,No Name,"Pretzels and Cheese, Processed Cheese Product","No NamePretzels and Cheese, Processed Cheese Product3x28.0 g",1.49,,each,1.77,,100g,True,False,1.49
+zehrs,snacks,President's Choice,Spicy Cheddar Crackers,President's ChoiceSpicy Cheddar Crackers200 g,3.79,,each,1.9,,100g,True,False,3.79
+zehrs,snacks,President's Choice,The Decadent Chocolate Chunk Cookie,President's ChoiceThe Decadent Chocolate Chunk Cookie300 g,3.99,,each,1.33,,100g,True,False,3.99
+zehrs,snacks,President's Choice,Arrowroot Biscuits ,President's ChoiceArrowroot Biscuits 350 g,3.59,,each,1.03,,100g,True,False,3.59
+zehrs,snacks,FERRERO ROCHER,Fine Hazelnut Chocolate Bag,FERRERO ROCHERFine Hazelnut Chocolate Bag100 g,4.99,,each,4.99,,100g,True,False,4.99
+zehrs,snacks,No Name,Onion Rice Crackers,No NameOnion Rice Crackers100 g,1.99,,each,1.99,,100g,True,False,1.99
+zehrs,snacks,Nestle,Kitkat Gooey Double Chocolate Bar,NestleKitkat Gooey Double Chocolate Bar112 g,2.99,,each,2.67,,100g,True,False,2.99
+zehrs,snacks,Cheetos,Crunchy Cheese Flavoured Snacks,CheetosCrunchy Cheese Flavoured Snacks285 g,5.49,,each,1.93,,100g,True,False,5.49
+zehrs,snacks,No Name,Corn Chips,No NameCorn Chips200 g,1.99,,each,1.0,,100g,True,False,1.99
+zehrs,snacks,John Wm. Macy's,Cheese Sticks  Original Cheddar ,John Wm. Macy'sCheese Sticks  Original Cheddar 113 g,5.99,,each,5.3,,100g,True,False,5.99
+zehrs,snacks,Cadbury,Chocolate Assorted Mini Eggs Chocolate,CadburyChocolate Assorted Mini Eggs Chocolate381 g,14.99,,each,3.93,,100g,True,False,14.99
+zehrs,snacks,Skittles,"Berry Chewy Candy, Bowl Size Bag","SkittlesBerry Chewy Candy, Bowl Size Bag320 g",5.99,,each,1.87,,100g,True,False,5.99
+zehrs,snacks,JOLLY RANCHER,MISFITS Original Gummies,JOLLY RANCHERMISFITS Original Gummies182 g,3.19,,each,1.75,,100g,True,False,3.19
+zehrs,snacks,New York Style,"Bagel Crisps, Sesame","New York StyleBagel Crisps, Sesame170 g",4.69,,each,2.76,,100g,True,False,4.69
+zehrs,snacks,President's Choice,Black Pepper & Sea Salt Crackers,President's ChoiceBlack Pepper & Sea Salt Crackers185 g,3.79,,each,2.05,,100g,True,False,3.79
+zehrs,snacks,Popchips,Sea Salt Original Popped Potato Snack,PopchipsSea Salt Original Popped Potato Snack142 g,3.99,,each,2.81,,100g,True,False,3.99
+zehrs,snacks,Ritter Sport,Alpine Milk Chocolate,Ritter SportAlpine Milk Chocolate100 g,2.99,,each,2.99,,100g,True,False,2.99
+zehrs,snacks,President's Choice,Old Fashioned Dark Chocolate Ice Cream & Dessert Topping,President's ChoiceOld Fashioned Dark Chocolate Ice Cream & Dessert Topping355 ml,3.99,,each,1.12,,100ml,True,False,3.99
+zehrs,snacks,Dentyne,Ice Spearmint Gum,DentyneIce Spearmint Gum4 ea,4.99,,each,1.25,,1ea,True,False,4.99
+zehrs,snacks,Dare,Bear Paws Birthday Cake Cookies,DareBear Paws Birthday Cake Cookies337 g,6.99,,each,2.07,,100g,True,False,6.99
+zehrs,snacks,Enjoy Life,"Plentils Lentil Chips, Sea Salt","Enjoy LifePlentils Lentil Chips, Sea Salt113 g",5.49,,each,4.86,,100g,True,False,5.49
+zehrs,snacks,Tate's Bake Shop,Gluten Free Chocolate Chip Cookies,Tate's Bake ShopGluten Free Chocolate Chip Cookies198 g,7.99,6.99,each,4.0350071530758225,3.53,100g,True,True,6.99
+zehrs,snacks,Spitz,"Sunflower Seeds, Salted","SpitzSunflower Seeds, Salted227 g",3.69,,each,1.76,,100g,True,False,3.69
+zehrs,snacks,Lindt,LINDOR White Chocolate Bar,LindtLINDOR White Chocolate Bar100 g,3.99,,each,3.99,,100g,True,False,3.99
+zehrs,snacks,Fritos,Original Corn Chips 340g,FritosOriginal Corn Chips 340g340 g,4.99,,each,1.47,,100g,True,False,4.99
+zehrs,snacks,Kinder,Bueno Mini T27 Bag,KinderBueno Mini T27 Bag145 g,4.49,,each,3.1,,100g,True,False,4.49
+zehrs,snacks,Voortman,"Turnover Cookie, Strawberry","VoortmanTurnover Cookie, Strawberry300 g",3.79,,each,1.26,,100g,True,False,3.79
+zehrs,snacks,Lundberg,Rice Cake Minis Sea Salt Organic,LundbergRice Cake Minis Sea Salt Organic142 g,6.49,,each,4.57,,100g,True,False,6.49
+zehrs,snacks,Christie,Wheat Thins  Crackers,ChristieWheat Thins  Crackers300 g,4.49,,each,1.5,,100g,True,False,4.49
+zehrs,snacks,Wrigley,"Spearmint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack","WrigleySpearmint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack12 ea",1.79,,each,0.15,,1ea,True,False,1.79
+zehrs,snacks,Ryvita,Snackbread,RyvitaSnackbread125 g,4.49,,each,3.5899999999999994,,100g,True,False,4.49
+zehrs,snacks,Tim Hortons,"Granola Bar, Salted Caramel","Tim HortonsGranola Bar, Salted Caramel5 ea",3.29,,each,,,,True,False,3.29
+zehrs,snacks,McSweeneys,Beef Steak Nuggets Slow Marinated Teriyaki,McSweeneysBeef Steak Nuggets Slow Marinated Teriyaki85 g,6.99,,each,8.22,,100g,True,False,6.99
+zehrs,snacks,Lindt,"Chocolate, 60% Cocoa  Shell with A Delectably Smooth Centre Extra Dark","LindtChocolate, 60% Cocoa  Shell with A Delectably Smooth Centre Extra Dark150 g",8.99,,each,5.99,,100g,True,False,8.99
+zehrs,snacks,Cadbury,Dairy Milk Oreo Chocolate Bar,CadburyDairy Milk Oreo Chocolate Bar38 g,1.79,,each,4.71,,100g,True,False,1.79
+zehrs,snacks,Quaker,"Chewy Harvest Granola Bars, Yogourt - 3 Flavour 30 bar - Variety pack","QuakerChewy Harvest Granola Bars, Yogourt - 3 Flavour 30 bar - Variety pack1.05 kg",16.99,,each,1.62,,100g,True,False,16.99
+zehrs,snacks,Purity,Hard Bread Biscuits,PurityHard Bread Biscuits625 g,7.99,,each,1.28,,100g,True,False,7.99
+zehrs,snacks,Mom's Best,Taralli Original,Mom's BestTaralli Original250 g,5.59,,each,2.24,,100g,True,False,5.59
+zehrs,snacks,Africa Finest,Chin Chin Irresistible Tasty Snack,Africa FinestChin Chin Irresistible Tasty Snack365 g,5.99,,each,1.64,,100g,True,False,5.99
+zehrs,snacks,Lindt,SWISS CLASSIC GRANDES Almond Sea Salt Dark Chocolate Bar,LindtSWISS CLASSIC GRANDES Almond Sea Salt Dark Chocolate Bar150 g,6.49,,each,4.33,,100g,True,False,6.49
+zehrs,snacks,Sprucewood Handmade Cookie Co.,"Shortbread, Chocolate Chips","Sprucewood Handmade Cookie Co.Shortbread, Chocolate Chips170 g",6.49,,each,3.82,,100g,True,False,6.49
+zehrs,snacks,Whisps,Parmesan Cheese Crisps    ,WhispsParmesan Cheese Crisps    60 g,5.99,,each,9.98,,100g,True,False,5.99
+zehrs,snacks,,"Vicky's Artisan Flatbread, Rosemary","Vicky's Artisan Flatbread, Rosemary130 g",6.29,,each,4.84,,100g,True,False,6.29
+zehrs,snacks,Valor,"Milk Chocolate Hazelnut Cream With Stevia, 0% Added Sugars","ValorMilk Chocolate Hazelnut Cream With Stevia, 0% Added Sugars100 g",3.99,,each,3.99,,100g,True,False,3.99
+zehrs,snacks,Covered Bridge,Potato Chips Smokin' Sweet Bbq,Covered BridgePotato Chips Smokin' Sweet Bbq60 g,1.99,,each,3.32,,100g,True,False,1.99
+zehrs,snacks,Karachi Bakery,Pista Biscuits Pistachio Biscuits,Karachi BakeryPista Biscuits Pistachio Biscuits400 g,7.99,,each,2.0,,100g,True,False,7.99
+zehrs,snacks,From Farm To Table,Kettle Chips Sea Salt Flavour,From Farm To TableKettle Chips Sea Salt Flavour142 g,3.69,,each,2.6,,100g,True,False,3.69
+zehrs,snacks,Sprucewood Handmade Cookie Co.,Dark Chocolate Shortbread,Sprucewood Handmade Cookie Co.Dark Chocolate Shortbread170 g,6.49,,each,3.82,,100g,True,False,6.49
+zehrs,snacks,Carr's,Table Water Cracked Pepper Crackers,Carr'sTable Water Cracked Pepper Crackers125 g,2.79,,each,2.23,,100g,True,False,2.79
+zehrs,snacks,Dare,Breton Veggie Bites On the Go Packs,DareBreton Veggie Bites On the Go Packs132 g,2.99,,each,2.27,,100g,True,False,2.99
+zehrs,snacks,M&M's,"Milk Chocolate Candies, Sharing Bag","M&M'sMilk Chocolate Candies, Sharing Bag120 g",3.99,,each,3.33,,100g,True,False,3.99
+zehrs,snacks,Carnaby Sweet,Rainbow Sour Gummies ,Carnaby SweetRainbow Sour Gummies 300 g,2.99,,each,1.0,,100g,True,False,2.99
+zehrs,snacks,Hardbite,Sea Salt & Pepper Handcrafted Potato Chips,HardbiteSea Salt & Pepper Handcrafted Potato Chips150 g,4.49,,each,2.99,,100g,True,False,4.49
+zehrs,snacks,Britannia,Cream Treat Bourbon,BritanniaCream Treat Bourbon100 g,1.29,,each,1.29,,100g,True,False,1.29
+zehrs,snacks,President's Choice,Wine Gums Candy,President's ChoiceWine Gums Candy200 g,2.99,,each,1.5,,100g,True,False,2.99
+zehrs,snacks,M&M's,"Almond Milk Chocolate Candies, Sharing Bag","M&M'sAlmond Milk Chocolate Candies, Sharing Bag185 g",5.99,,each,3.24,,100g,True,False,5.99
+zehrs,snacks,Lotte,Chocolate Almond Stick,LotteChocolate Almond Stick47 g,1.19,,each,3.7199999999999998,,100g,True,False,1.19
+zehrs,snacks,President's Choice,Milk Chocolate Covered Peanuts,President's ChoiceMilk Chocolate Covered Peanuts908 g,10.99,,each,1.21,,100g,True,False,10.99
+zehrs,snacks,Nagi,Protein Snack Makaroons Vanilla Almond,NagiProtein Snack Makaroons Vanilla Almond50 g,4.29,,each,8.58,,100g,True,False,4.29
+zehrs,snacks,Britannia,Digestive Biscuits Sugar Free,BritanniaDigestive Biscuits Sugar Free350 g,3.99,,each,1.14,,100g,True,False,3.99
+zehrs,snacks,Whisps,Cheese Crisps Asiago Pepper Jack 60 g,WhispsCheese Crisps Asiago Pepper Jack 60 g60 g,5.99,,each,9.98,,100g,True,False,5.99
+zehrs,snacks,Manischewitz,"Tam Tams, Original","ManischewitzTam Tams, Original272 g",4.99,,each,1.83,,100g,True,False,4.99
+zehrs,snacks,Lay's,Wavy Original potato chips,Lay'sWavy Original potato chips415 g,6.99,,each,1.6800000000000002,,100g,True,False,6.99
+zehrs,snacks,Clean Beans,Sour Cream & Onion Roasted Broad Beans,Clean BeansSour Cream & Onion Roasted Broad Beans85 g,2.99,,each,3.52,,100g,True,False,2.99
+zehrs,snacks,SunRype,Wildberry Fruit to Go 100% Fruit Snack,SunRypeWildberry Fruit to Go 100% Fruit Snack14 g,0.49,,each,3.5000000000000004,,100g,True,False,0.49
+zehrs,snacks,From Farm To Table,Popcorn White Cheddar Flavour,From Farm To TablePopcorn White Cheddar Flavour125 g,3.49,,each,2.79,,100g,True,False,3.49
+zehrs,snacks,Twizzlers,Tongue Twister Fruity Gummies,TwizzlersTongue Twister Fruity Gummies182 g,3.19,,each,1.75,,100g,True,False,3.19
+zehrs,snacks,SS Frutas,Naturally Sweet Plantain Crunchy Crisps,SS FrutasNaturally Sweet Plantain Crunchy Crisps85 g,1.79,,each,2.11,,100g,True,False,1.79
+zehrs,snacks,,"Vicky's Artisan Flatbread, Multigrain","Vicky's Artisan Flatbread, Multigrain130 g",6.29,,each,4.84,,100g,True,False,6.29
+zehrs,snacks,Goldilocks,Classic Polvorn Cookies,GoldilocksClassic Polvorn Cookies300 g,7.19,,each,2.4,,100g,True,False,7.19
+zehrs,snacks,Jell-O,Oreo Ready-to-Eat Refrigerated Pudding Cups Snack,Jell-OOreo Ready-to-Eat Refrigerated Pudding Cups Snack4x113.0 g,4.29,,each,0.95,,100g,True,False,4.29
+zehrs,snacks,Frito-lay,Flavour Mix 484g,Frito-layFlavour Mix 484g484 g,10.99,,each,2.27,,100g,True,False,10.99
+zehrs,snacks,Want Want,Seaweed Rice Crackers,Want WantSeaweed Rice Crackers308 g,9.49,,each,3.08,,100g,True,False,9.49
+zehrs,snacks,Sarah's Fine Foods,Crostini Garlic Parmesan,Sarah's Fine FoodsCrostini Garlic Parmesan150 g,3.99,,each,2.66,,100g,True,False,3.99
+zehrs,snacks,Haribo,Sweet & Sour Gummy Candies,HariboSweet & Sour Gummy Candies175 g,3.49,,each,1.99,,100g,True,False,3.49
+zehrs,snacks,Haldiram,Tasty Nuts Peanuts,HaldiramTasty Nuts Peanuts150 g,1.99,,each,1.33,,100g,True,False,1.99
+zehrs,snacks,Dare,Breton Veggie Bites On the Go Packs,DareBreton Veggie Bites On the Go Packs132 g,2.99,,each,2.27,,100g,True,False,2.99
+zehrs,snacks,M&M's,"Milk Chocolate Candies, Sharing Bag","M&M'sMilk Chocolate Candies, Sharing Bag120 g",3.99,,each,3.33,,100g,True,False,3.99
+zehrs,snacks,Carnaby Sweet,Rainbow Sour Gummies ,Carnaby SweetRainbow Sour Gummies 300 g,2.99,,each,1.0,,100g,True,False,2.99
+zehrs,snacks,President's Choice,Wine Gums Candy,President's ChoiceWine Gums Candy200 g,2.99,,each,1.5,,100g,True,False,2.99
+zehrs,snacks,M&M's,"Almond Milk Chocolate Candies, Sharing Bag","M&M'sAlmond Milk Chocolate Candies, Sharing Bag185 g",5.99,,each,3.24,,100g,True,False,5.99
+zehrs,snacks,Lotte,Chocolate Almond Stick,LotteChocolate Almond Stick47 g,1.19,,each,3.7199999999999998,,100g,True,False,1.19
+zehrs,snacks,Britannia,Digestive Biscuits Sugar Free,BritanniaDigestive Biscuits Sugar Free350 g,3.99,,each,1.14,,100g,True,False,3.99
+zehrs,snacks,Jelly Belly,"Jelly Beans, Fruit Bowl","Jelly BellyJelly Beans, Fruit Bowl100 g",3.49,,each,3.49,,100g,True,False,3.49
+zehrs,snacks,Britannia,"Fifty Fifty, Cookies","BritanniaFifty Fifty, Cookies372 g",3.49,,each,0.94,,100g,True,False,3.49
+zehrs,snacks,Excel,"Winterfresh Flavoured Sugar Free Chewing Gum, 12 Pieces, 4 Packs","ExcelWinterfresh Flavoured Sugar Free Chewing Gum, 12 Pieces, 4 Packs1 ea",1.79,,each,1.79,,1ea,True,False,1.79
+zehrs,snacks,Bounty,"Coconut Milk Chocolate Bar, Full Size Bag","BountyCoconut Milk Chocolate Bar, Full Size Bag57 g",1.79,,each,3.14,,100g,True,False,1.79
+zehrs,snacks,Britannia,Chunkies Chocolate Chip Cookies,BritanniaChunkies Chocolate Chip Cookies75 g,1.79,,each,2.39,,100g,True,False,1.79
+zehrs,snacks,Pringles,Snack Stacks Sour Cream and Onion,PringlesSnack Stacks Sour Cream and Onion228 g,6.49,,each,2.85,,100g,True,False,6.49
+zehrs,snacks,Wrigley,"Excel Gum, Assorted","WrigleyExcel Gum, Assorted1 ea",19.99,,each,19.99,,1ea,True,False,19.99
+zehrs,snacks,Nong Shim,Shrimp Cracker,Nong ShimShrimp Cracker75 g,1.49,0.99,each,1.9866666666666666,1.32,100g,True,True,0.99
+zehrs,snacks,Garden,Lemon Puff Lemon Flavoured Sandwich Biscuit,GardenLemon Puff Lemon Flavoured Sandwich Biscuit288 g,3.99,,each,1.39,,100g,True,False,3.99
+zehrs,snacks,Galil,"Rice Cake, Multigrain with Chia","GalilRice Cake, Multigrain with Chia100 g",1.99,,each,1.99,,100g,True,False,1.99
+zehrs,snacks,Covered Bridge,"Potato Chips, Sour Crème & Onion","Covered BridgePotato Chips, Sour Crème & Onion60 g",1.99,,each,3.32,,100g,True,False,1.99
+zehrs,snacks,President's Choice,Ruby Cocoa Bean Bar,President's ChoiceRuby Cocoa Bean Bar90 g,2.49,,each,2.77,,100g,True,False,2.49
+zehrs,snacks,Noochpop,Savoury Popcorn Kinda Garlic & Cheesy,NoochpopSavoury Popcorn Kinda Garlic & Cheesy120 g,6.99,,each,5.830000000000001,,100g,True,False,6.99
+zehrs,snacks,Jell-O,"Refrigerated Gelatin Snacks, Orange (4 X 96G)","Jell-ORefrigerated Gelatin Snacks, Orange (4 X 96G)4x96.0 g",4.29,,each,1.12,,100g,True,False,4.29
+zehrs,snacks,TRIDENT,Vibe Spearmint Rush,TRIDENTVibe Spearmint Rush40 ea,4.99,,each,0.12,,1ea,True,False,4.99
+zehrs,snacks,Haldiram,Indian Snacks Chatpata Masala Namkeen,HaldiramIndian Snacks Chatpata Masala Namkeen115 g,1.99,,each,1.73,,100g,True,False,1.99
+zehrs,snacks,Rebisco,Chocolate Cake Bar Chocolate Cream-Filled,RebiscoChocolate Cake Bar Chocolate Cream-Filled420 g,6.49,,each,1.5499999999999998,,100g,True,False,6.49
+zehrs,snacks,Galil,Rice Cakes With Salt   ,GalilRice Cakes With Salt   100 g,1.99,,each,1.99,,100g,True,False,1.99
+zehrs,snacks,President's Choice,Candy Coated Milk Chocolate Eggs,President's ChoiceCandy Coated Milk Chocolate Eggs33 g,1.69,,each,5.12,,100g,True,False,1.69
+zehrs,snacks,Werther's,"Soft Caramel, Chocolate Filling","Werther'sSoft Caramel, Chocolate Filling116 g",3.49,,each,3.01,,100g,True,False,3.49
+zehrs,snacks,Terra,Original Low Sodium,TerraOriginal Low Sodium354 g,11.99,,each,3.39,,100g,True,False,11.99
+zehrs,snacks,Cadbury,"Dairy Milk Chocolate Mousse Bunny, 30g","CadburyDairy Milk Chocolate Mousse Bunny, 30g30 g",1.69,,each,5.63,,100g,True,False,1.69
+zehrs,snacks,From Farm To Table,Popcorn Ancient Grains With Sea Salt,From Farm To TablePopcorn Ancient Grains With Sea Salt125 g,3.49,,each,2.79,,100g,True,False,3.49
+zehrs,snacks,Hershey's,Chocolate Iconic Kisses Milk,Hershey'sChocolate Iconic Kisses Milk200 g,5.49,,each,2.75,,100g,True,False,5.49
+zehrs,snacks,President's Choice,Liquorice Allsorts Candy,President's ChoiceLiquorice Allsorts Candy200 g,2.99,,each,1.5,,100g,True,False,2.99
+zehrs,snacks,PC Blue Menu,Unsalted Natural Walnuts,PC Blue MenuUnsalted Natural Walnuts200 g,6.99,,each,3.5,,100g,True,False,6.99
+zehrs,snacks,Sonoma Creamery,Mild Pepper Jack Crisps,Sonoma CreameryMild Pepper Jack Crisps64 g,6.49,,each,10.14,,100g,True,False,6.49
+zehrs,snacks,SunRype,Fruit to Go 100% Fruit and Vegetable Snack Strawberry Banana,SunRypeFruit to Go 100% Fruit and Vegetable Snack Strawberry Banana14 g,0.49,,each,3.5000000000000004,,100g,True,False,0.49
+zehrs,snacks,Maynards,Swedish Berries  Soft Candy,MaynardsSwedish Berries  Soft Candy816 g,9.99,,each,1.22,,100g,True,False,9.99
+zehrs,snacks,Peek Freans,Lifestyle Selections Bran Crunch Biscuits,Peek FreansLifestyle Selections Bran Crunch Biscuits275 g,3.99,,each,1.45,,100g,True,False,3.99
+zehrs,snacks,Cheetos, Seasoned Popcorn,Cheetos Seasoned Popcorn180 g,5.49,,each,3.05,,100g,True,False,5.49
+zehrs,snacks,Covered Bridge,"Potato Chips, Creamy Dill Pickle","Covered BridgePotato Chips, Creamy Dill Pickle170 g",3.99,,each,2.35,,100g,True,False,3.99
+zehrs,snacks,Jakeman's,Maple Popcorn,Jakeman'sMaple Popcorn140 g,4.79,,each,3.42,,100g,True,False,4.79
+zehrs,snacks,Nong Shim,Shrimp Crackers,Nong ShimShrimp Crackers400 g,5.99,,each,1.5,,100g,True,False,5.99
+zehrs,snacks,Surati,Ready To Eat Snack Papdi Gathiya,SuratiReady To Eat Snack Papdi Gathiya341 g,2.99,,each,0.88,,100g,True,False,2.99
+zehrs,snacks,Snappers,Milk Chocolate Snappers,SnappersMilk Chocolate Snappers170 g,5.49,,each,3.23,,100g,True,False,5.49
+zehrs,snacks,Haribo,Dinos,HariboDinos175 g,3.49,,each,1.99,,100g,True,False,3.49
+zehrs,snacks,Whoppers,Pouch,WhoppersPouch270 g,5.49,,each,2.03,,100g,True,False,5.49
+zehrs,snacks,Noochpop,Popcorn Kinda Nacho,NoochpopPopcorn Kinda Nacho120 g,6.99,,each,5.830000000000001,,100g,True,False,6.99
+zehrs,snacks,Want Want,"Big Shelly Senbei Rice Crackers, Original","Want WantBig Shelly Senbei Rice Crackers, Original92 g",2.79,,each,3.03,,100g,True,False,2.79
+zehrs,snacks,Glico,"Pocky, Chocolate","GlicoPocky, Chocolate40 g",1.99,,each,4.98,,100g,True,False,1.99
+zehrs,snacks,Shneider's,Chocolate Dark,Shneider'sChocolate Dark100 g,2.99,,each,2.99,,100g,True,False,2.99
+zehrs,snacks,Jelly Belly,"Jelly Beans, Fruit Bowl","Jelly BellyJelly Beans, Fruit Bowl100 g",3.49,,each,3.49,,100g,True,False,3.49
+zehrs,snacks,Surati,Cheddar Jalapeno Tubes,SuratiCheddar Jalapeno Tubes80 g,1.79,,each,2.24,,100g,True,False,1.79
+zehrs,snacks,Terra,"Krinkle Cut Sweet Potato Chips, Sea Salt","TerraKrinkle Cut Sweet Potato Chips, Sea Salt165 g",5.0,4.49,each,3.028953229398664,2.72,100g,True,True,4.49
+zehrs,snacks,John Wm. Macy's,CheeseSticks Melting Parmesan,John Wm. Macy'sCheeseSticks Melting Parmesan113 g,5.99,,each,5.3,,100g,True,False,5.99
+zehrs,snacks,Britannia,Tiger  Glucose Biscuit,BritanniaTiger  Glucose Biscuit350 g,1.79,,each,0.6,,100g,True,False,1.79
+zehrs,snacks,Eat My Shortbread,Buttery Shortbread Cookies Original,Eat My ShortbreadButtery Shortbread Cookies Original43 g,2.49,,each,5.79,,100g,True,False,2.49
+zehrs,snacks,Haldiram,Moorukulu,HaldiramMoorukulu150 g,1.99,,each,1.33,,100g,True,False,1.99
+zehrs,snacks,Maynards,Sour Patch Kids Berries Soft Candy,MaynardsSour Patch Kids Berries Soft Candy185 g,2.99,,each,1.62,,100g,True,False,2.99
+zehrs,snacks,Tim Hortons,"Granola Bar, Apple Fritter","Tim HortonsGranola Bar, Apple Fritter5 ea",3.29,,each,,,,True,False,3.29
+zehrs,snacks,Handfuel,Cashews Salted Caramel,HandfuelCashews Salted Caramel150 g,6.99,,each,4.66,,100g,True,False,6.99
+zehrs,snacks,Grissol,Melba Canapé 12 Grain,GrissolMelba Canapé 12 Grain150 g,2.99,,each,1.99,,100g,True,False,2.99
+zehrs,snacks,Haldiram,Indian Biscuits Pista Badam Cookies,HaldiramIndian Biscuits Pista Badam Cookies250 g,4.59,,each,1.84,,100g,True,False,4.59
+zehrs,snacks,Cadbury,Dairy Milk Filled Chocolate Eggs Mini,CadburyDairy Milk Filled Chocolate Eggs Mini362 g,14.99,,each,4.14,,100g,True,False,14.99
+zehrs,snacks,Britannia,Chocolush Biscuits Fourrés Au Chocolat,BritanniaChocolush Biscuits Fourrés Au Chocolat75 g,1.99,,each,2.65,,100g,True,False,1.99
+zehrs,snacks,Hershey's, Kisses Milk Chocolate Easter Candy,Hershey's Kisses Milk Chocolate Easter Candy180 g,5.49,,each,3.05,,100g,True,False,5.49
+zehrs,snacks,Ghirardelli,Milk Chocolate Caramel Bar,GhirardelliMilk Chocolate Caramel Bar100 g,4.99,,each,4.99,,100g,True,False,4.99
+zehrs,snacks,Moon Cheese,White Cheddar Clack Pepper Crackers,Moon CheeseWhite Cheddar Clack Pepper Crackers57 g,6.49,,each,11.39,,100g,True,False,6.49
+zehrs,snacks,Taverners,British Mix Gums ,TavernersBritish Mix Gums 175 g,3.49,,each,1.99,,100g,True,False,3.49
+zehrs,snacks,Covered Bridge,Potato Chips Sea Salt & Vinegar,Covered BridgePotato Chips Sea Salt & Vinegar60 g,1.99,,each,3.32,,100g,True,False,1.99
+zehrs,snacks,34 Degrees,Natural Crispbread,34 DegreesNatural Crispbread127 g,5.99,,each,4.72,,100g,True,False,5.99
+zehrs,snacks,Nestle,Turtles Original King Size,NestleTurtles Original King Size67 g,2.79,,each,4.16,,100g,True,False,2.79
+zehrs,snacks,Nestle,"Big’R Turk, 2-pack","NestleBig’R Turk, 2-pack86 g",2.79,,each,3.24,,100g,True,False,2.79
+zehrs,snacks,Britannia,Little Heart Biscuits,BritanniaLittle Heart Biscuits75 g,1.39,,each,1.85,,100g,True,False,1.39
+zehrs,snacks,T&T,Pineapple Cakes,T&TPineapple Cakes224 g,2.99,,each,1.3300000000000003,,100g,True,False,2.99
+zehrs,snacks,Parle,Marie Biscuits,ParleMarie Biscuits150 g,1.19,,each,0.79,,100g,True,False,1.19
+zehrs,snacks,Mentos,Peppermint,MentosPeppermint37 g,1.29,,each,3.49,,100g,True,False,1.29
+zehrs,snacks,Hershey's,Kisses Lava Cake,Hershey'sKisses Lava Cake180 g,5.49,,each,3.05,,100g,True,False,5.49
+zehrs,snacks,Smart Food,Movie Night Butter Flavour Seasoned Popcorn 150g,Smart FoodMovie Night Butter Flavour Seasoned Popcorn 150g150 g,5.49,,each,3.66,,100g,True,False,5.49
+zehrs,snacks,Rawcology,Apple Cinnamon With Probiotics Organic Oat Clusters,RawcologyApple Cinnamon With Probiotics Organic Oat Clusters90 g,6.49,,each,7.21,,100g,True,False,6.49
+zehrs,snacks,RJ's Licorice,Soft Eating Licorice Original,RJ's LicoriceSoft Eating Licorice Original180 g,4.79,,each,2.66,,100g,True,False,4.79
+zehrs,snacks,Terry's,Orange Flavoured Dark Chocolate ,Terry'sOrange Flavoured Dark Chocolate 90 g,2.99,,each,3.32,,100g,True,False,2.99
+zehrs,snacks,Haribo,Happy-Cola Gummy Candies Share Size,HariboHappy-Cola Gummy Candies Share Size284 g,4.49,,each,1.58,,100g,True,False,4.49
+zehrs,snacks,Christie,"Triscuit Dill, Sea Salt & Olive Oil Crackers","ChristieTriscuit Dill, Sea Salt & Olive Oil Crackers200 g",3.99,,each,2.0,,100g,True,False,3.99
+zehrs,snacks,Simple Pleasures,Spice Snaps,Simple PleasuresSpice Snaps350 g,4.49,,each,1.28,,100g,True,False,4.49
+zehrs,snacks,Martin's Family Fruit Farm,Caramel Daze Crispy Apple Chips,Martin's Family Fruit FarmCaramel Daze Crispy Apple Chips85 g,3.29,,each,3.87,,100g,True,False,3.29
+zehrs,snacks,Paldo,Crab Flavoured Chips ,PaldoCrab Flavoured Chips 50 g,1.99,,each,3.98,,100g,True,False,1.99
+zehrs,snacks,Mr. Cookies,Mr. Chippy Chocolate Chip Cookies,Mr. CookiesMr. Chippy Chocolate Chip Cookies300 g,3.49,,each,1.16,,100g,True,False,3.49
+zehrs,snacks,Bubbie's Biscotti,Handcrafted Biscotti Belgian Chocolate Marble,Bubbie's BiscottiHandcrafted Biscotti Belgian Chocolate Marble252 g,10.99,,each,4.36,,100g,True,False,10.99
+zehrs,snacks,Dare,Realjubes Original,DareRealjubes Original818 g,4.99,,each,0.6099999999999999,,100g,True,False,4.99
+zehrs,snacks,Tostitos,Restaurant Style tortilla chips 455g,TostitosRestaurant Style tortilla chips 455g455 g,6.49,,each,1.4299999999999997,,100g,True,False,6.49
+zehrs,snacks,Loacker,"Biscuits, Gran Pasticceria Coconut","LoackerBiscuits, Gran Pasticceria Coconut100 g",4.49,,each,4.49,,100g,True,False,4.49
+zehrs,snacks,Harvest Snaps,Lentil Snaps Tomato Basil Flavoured Lentil Crips Baked,Harvest SnapsLentil Snaps Tomato Basil Flavoured Lentil Crips Baked85 g,3.79,,each,4.46,,100g,True,False,3.79
+zehrs,snacks,Prigat,Sunflower Seeds,PrigatSunflower Seeds200 g,2.79,,each,1.4,,100g,True,False,2.79
+zehrs,snacks,Lotte,Choco Pie     ,LotteChoco Pie     336 g,5.79,4.99,each,1.728877755511022,1.49,100g,True,True,4.99
+zehrs,snacks,Doritos,Dinamita Chile-Lime Burn rolled tortilla chips,DoritosDinamita Chile-Lime Burn rolled tortilla chips280 g,5.49,,each,1.9600000000000002,,100g,True,False,5.49
+zehrs,snacks,Stik-O,Chocolate Wafer Stick,Stik-OChocolate Wafer Stick280 g,3.29,,each,1.18,,100g,True,False,3.29
+zehrs,snacks,RJ's Licorice,Soft Eating Licorice Raspberry,RJ's LicoriceSoft Eating Licorice Raspberry180 g,4.79,,each,2.66,,100g,True,False,4.79
+zehrs,drinks,Earths Own,Oat Vanilla ,Earths OwnOat Vanilla 1.75 l,4.49,,each,0.26,,100ml,True,False,4.49
+zehrs,drinks,Canada Dry,Ginger Ale,Canada DryGinger Ale2 l,3.99,,each,0.2,,100ml,True,False,3.99
+zehrs,drinks,No Name,Apple Juice from Concentrate,No NameApple Juice from Concentrate1 l,1.79,,each,0.18,,100ml,True,False,1.79
+zehrs,drinks,Suraj,Masala Chai Tea,SurajMasala Chai Tea166 g,5.49,,each,3.31,,100g,True,False,5.49
+zehrs,drinks,Lacroix,Sparkling Water Beverage Natural Lemon Flavoured,LacroixSparkling Water Beverage Natural Lemon Flavoured8x355.0 ml,6.49,,each,0.23,,100ml,True,False,6.49
+zehrs,drinks,Suraj,Cardamom Chai Tea,SurajCardamom Chai Tea166 g,5.49,,each,3.31,,100g,True,False,5.49
+zehrs,drinks,Jacobs,Kronung Instant Coffee,JacobsKronung Instant Coffee100 g,7.99,,each,7.99,,100g,True,False,7.99
+zehrs,drinks,Tchibo,Gold Selections Instant Coffee,TchiboGold Selections Instant Coffee100 g,6.89,,each,6.89,,100g,True,False,6.89
+zehrs,drinks,Dasani,Remineralized Water,DasaniRemineralized Water12x355.0 ml,7.99,,each,0.19,,100ml,True,False,7.99
+zehrs,drinks,Coors,Edge Non-Alcoholic Beer with Natural Flavours Double Brewed ,CoorsEdge Non-Alcoholic Beer with Natural Flavours Double Brewed 12x355.0 ml,21.99,,each,0.52,,100ml,True,False,21.99
+zehrs,drinks,President's Choice,Merlot Dealcoholized Wine,President's ChoiceMerlot Dealcoholized Wine750 ml,7.99,,each,1.07,,100ml,True,False,7.99
+zehrs,drinks,Vin(zero),Alcohol Free Cabernet Sauvignon   ,Vin(zero)Alcohol Free Cabernet Sauvignon   750 ml,12.99,,each,1.73,,100ml,True,False,12.99
+zehrs,drinks,President's Choice,Chardonnay Dealcoholized Wine,President's ChoiceChardonnay Dealcoholized Wine750 ml,7.99,,each,1.07,,100ml,True,False,7.99
+zehrs,drinks,Krombacher,Non Alcoholic Malt Beverage Weizen,KrombacherNon Alcoholic Malt Beverage Weizen6x330.0 ml,11.99,,each,0.61,,100ml,True,False,11.99
+zehrs,drinks,Mountain Dew,Zero Sugar,Mountain DewZero Sugar12x355.0 ml,7.49,,each,0.18,,100ml,True,False,7.49
+zehrs,drinks,President's Choice,Grape Cranberry Cocktail,President's ChoiceGrape Cranberry Cocktail1.89 l,3.49,,each,0.18000000000000002,,100ml,True,False,3.49
+zehrs,drinks,Carl Jung,"De-Alcoholized Wine, Red","Carl JungDe-Alcoholized Wine, Red750 ml",8.49,,each,1.13,,100ml,True,False,8.49
+zehrs,drinks,Coors,Edge Non-Alcoholic Beer with Natural Flavours Double Brewed ,CoorsEdge Non-Alcoholic Beer with Natural Flavours Double Brewed 6x355.0 ml,11.99,,each,0.56,,100ml,True,False,11.99
+zehrs,drinks,Kopiko,Brown Coffee Instant Coffee Mix,KopikoBrown Coffee Instant Coffee Mix825 g,9.49,,each,1.1499999999999997,,100g,True,False,9.49
+zehrs,drinks,PC Black Label,Simple Syrup,PC Black LabelSimple Syrup375 ml,5.29,,each,1.41,,100ml,True,False,5.29
+zehrs,drinks,Dabur, Alphonso Mango Fruit Juice Nectar,Dabur Alphonso Mango Fruit Juice Nectar1 l,4.99,,each,0.5,,100ml,True,False,4.99
+zehrs,drinks,Balzac's,Espresso Grind Coffee Can,Balzac'sEspresso Grind Coffee Can300 g,12.99,,each,4.33,,100g,True,False,12.99
+zehrs,drinks,Voss,Carbonated Artesian Mineralised Water  Sparkling Lemon Cucumber,VossCarbonated Artesian Mineralised Water  Sparkling Lemon Cucumber375 ml,2.79,,each,0.74,,100ml,True,False,2.79
+zehrs,drinks,Kedem,Sparkling Concord Grape Juice,KedemSparkling Concord Grape Juice750 ml,5.79,5.49,each,0.7698907103825137,0.73,100ml,True,True,5.49
+zehrs,drinks,Above,Non-Alcoholic Cocktail Whiskey & Cola,AboveNon-Alcoholic Cocktail Whiskey & Cola4x355.0 ml,8.49,7.99,each,0.595043804755945,0.56,100ml,True,True,7.99
+zehrs,drinks,Fruit2O,Sparkling Black Raspberry,Fruit2OSparkling Black Raspberry502 ml,1.99,,each,0.4,,100ml,True,False,1.99
+zehrs,drinks,Propel,Grape Water,PropelGrape Water591 ml,2.49,,each,0.41999999999999993,,100ml,True,False,2.49
+zehrs,drinks,Zavida,Single Serve Coffee Cups Medium Roast,ZavidaSingle Serve Coffee Cups Medium Roast30 ea,20.99,,each,0.7,,1ea,True,False,20.99
+zehrs,drinks,So Nice,Earths Own Organic Almond Unsweet Vanilla,So NiceEarths Own Organic Almond Unsweet Vanilla1.75 l,5.49,,each,0.31,,100ml,True,False,5.49
+zehrs,drinks,Tealish,Black Tea Organic English Breakfast,TealishBlack Tea Organic English Breakfast37.5 g,9.99,,each,26.64,,100g,True,False,9.99
+zehrs,drinks,Nature,Regular Strength,NatureRegular Strength30 ea,8.29,,each,13.82,,100g,True,False,8.29
+zehrs,drinks,Najjar,100% Arabica Coffee,Najjar100% Arabica Coffee450 g,9.99,,each,2.22,,100g,True,False,9.99
+zehrs,drinks,Glaceau,Smart Water ,GlaceauSmart Water 6x1.0 l,14.99,,each,0.25,,100ml,True,False,14.99
+zehrs,drinks,Freezone,Lemon Mint Drink,FreezoneLemon Mint Drink275 ml,2.29,,each,0.83,,100ml,True,False,2.29
+zehrs,drinks,Nestle,Milo Chocolate Malt Beverage Mix,NestleMilo Chocolate Malt Beverage Mix900 g,13.29,,each,1.48,,100g,True,False,13.29
+zehrs,drinks,Al Rifai,Brazilian Coffee with Cardamom,Al RifaiBrazilian Coffee with Cardamom200 g,3.79,,each,1.9,,100g,True,False,3.79
+zehrs,drinks,Blue Dragon,Coconut Milk,Blue DragonCoconut Milk400 ml,3.49,2.99,each,0.8754180602006689,0.75,100ml,True,True,2.99
+zehrs,drinks,Starbucks,Caffe Verona,StarbucksCaffe Verona794 g,24.99,,each,3.15,,100g,True,False,24.99
+zehrs,drinks,Tetley,Super Herbal Tea-Boost Peach Ginger Dan with Vitamin B6,TetleySuper Herbal Tea-Boost Peach Ginger Dan with Vitamin B640 g,3.99,,each,0.2,,1ea,True,False,3.99
+zehrs,drinks,Nestea,Iced Tea Natural Lemon Flavour  ,NesteaIced Tea Natural Lemon Flavour  500 ml,3.29,,each,0.66,,100ml,True,False,3.29
+zehrs,drinks,Red Bull,"Energy Drink, 4 Pack (Case)","Red BullEnergy Drink, 4 Pack (Case)4x355.0 ml",14.99,,each,1.06,,100ml,True,False,14.99
+zehrs,drinks,Al Rifai,Premium Ground Brazilian Coffee,Al RifaiPremium Ground Brazilian Coffee450 g,8.79,,each,1.9499999999999997,,100g,True,False,8.79
+zehrs,drinks,Nature,Extra Strength,NatureExtra Strength50 g,6.69,,each,13.38,,100g,True,False,6.69
+zehrs,drinks,Odouls,"Amber, De Alcoholized Beer   ","OdoulsAmber, De Alcoholized Beer   12x355.0 ml",11.99,,each,0.28,,100ml,True,False,11.99
+zehrs,drinks,Thirsty Buddha,All Natural Coconut Water,Thirsty BuddhaAll Natural Coconut Water500 ml,3.99,,each,0.8,,100ml,True,False,3.99
+zehrs,drinks,Cool Runnings,Runnings Coconut Water    ,Cool RunningsRunnings Coconut Water    500 ml,2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+zehrs,drinks,Ripple,"Dairy Free Beverage, Unsweetened","RippleDairy Free Beverage, Unsweetened1.42 l",7.49,6.49,each,0.5308782742681049,0.46,100ml,True,True,6.49
+zehrs,drinks,Red Rose,"Tea, Orange Pekoe  Bold & Delicious Blend For a Smooth Sensation","Red RoseTea, Orange Pekoe  Bold & Delicious Blend For a Smooth Sensation144 ea",11.99,,each,0.08,,1ea,True,False,11.99
+zehrs,drinks,Nature,Regular Strength,NatureRegular Strength30 ea,8.29,,each,13.82,,100g,True,False,8.29
+zehrs,drinks,Glaceau,Smart Water ,GlaceauSmart Water 6x1.0 l,14.99,,each,0.25,,100ml,True,False,14.99
+zehrs,drinks,Coors,Edge Non-Alcoholic Beer with Natural Flavours Double Brewed ,CoorsEdge Non-Alcoholic Beer with Natural Flavours Double Brewed 6x355.0 ml,11.99,,each,0.56,,100ml,True,False,11.99
+zehrs,drinks,Tea India,"Chai Tea Latte Mix, Ginger","Tea IndiaChai Tea Latte Mix, Ginger224 g",5.99,,each,2.6700000000000004,,100g,True,False,5.99
+zehrs,drinks,Rooster,Coconut Milk,RoosterCoconut Milk398 ml,2.29,,each,0.58,,100ml,True,False,2.29
+zehrs,drinks,Red Rose,"Tea, Orange Pekoe Black , 100% Rainforest Alliance Certified","Red RoseTea, Orange Pekoe Black , 100% Rainforest Alliance Certified36 ea",4.29,,each,0.12,,1ea,True,False,4.29
+zehrs,drinks,AQUAFINA,Water    ,AQUAFINAWater    591 ml,2.99,,each,0.51,,100ml,True,False,2.99
+zehrs,drinks,Angel,Evaporada (Evaporated Liquid Creamer),AngelEvaporada (Evaporated Liquid Creamer)405 ml,1.99,,each,0.48999999999999994,,100ml,True,False,1.99
+zehrs,drinks,Tea India,"Chai Tea Latte Mix, Milk Tea","Tea IndiaChai Tea Latte Mix, Milk Tea224 g",5.99,,each,2.6700000000000004,,100g,True,False,5.99
+zehrs,drinks,Tata,Loose Black Tea ,TataLoose Black Tea 450 g,8.99,,each,2.0,,100g,True,False,8.99
+zehrs,drinks,Nuba,Carob ,NubaCarob 750 ml,5.49,,each,0.73,,100ml,True,False,5.49
+zehrs,drinks,Zavida,Single Serve Coffee Cups Medium Roast,ZavidaSingle Serve Coffee Cups Medium Roast30 ea,20.99,,each,0.7,,1ea,True,False,20.99
+zehrs,drinks,So Nice,Earths Own Organic Almond Unsweet Vanilla,So NiceEarths Own Organic Almond Unsweet Vanilla1.75 l,5.49,,each,0.31,,100ml,True,False,5.49
+zehrs,drinks,Najjar,100% Arabica Coffee,Najjar100% Arabica Coffee450 g,9.99,,each,2.22,,100g,True,False,9.99
+zehrs,drinks,Freezone,Lemon Mint Drink,FreezoneLemon Mint Drink275 ml,2.29,,each,0.83,,100ml,True,False,2.29
+zehrs,drinks,President's Choice,Grape Cranberry Cocktail,President's ChoiceGrape Cranberry Cocktail1.89 l,3.49,,each,0.18000000000000002,,100ml,True,False,3.49
+zehrs,drinks,Carl Jung,"De-Alcoholized Wine, Red","Carl JungDe-Alcoholized Wine, Red750 ml",8.49,,each,1.13,,100ml,True,False,8.49
+zehrs,drinks,Nature,Extra Strength,NatureExtra Strength50 g,6.69,,each,13.38,,100g,True,False,6.69
+zehrs,drinks,Odouls,"Amber, De Alcoholized Beer   ","OdoulsAmber, De Alcoholized Beer   12x355.0 ml",11.99,,each,0.28,,100ml,True,False,11.99
+zehrs,drinks,Gold Kili,Instant Ginger Latte With Honey,Gold KiliInstant Ginger Latte With Honey250 g,4.99,,each,2.0,,100g,True,False,4.99
+zehrs,drinks,PC Blue Menu,Blueberry Cocktail,PC Blue MenuBlueberry Cocktail1.89 l,3.49,,each,0.18000000000000002,,100ml,True,False,3.49
+zehrs,drinks,Al Rifai,Premium Ground Brazilian Coffee,Al RifaiPremium Ground Brazilian Coffee450 g,8.79,,each,1.9499999999999997,,100g,True,False,8.79
+zehrs,drinks,Tamam,Herbal Tea,TamamHerbal Tea100 g,5.49,,each,5.49,,100g,True,False,5.49
+zehrs,drinks,T&T,Organic Oolong Tea,T&TOrganic Oolong Tea200 g,6.99,,each,3.5,,100g,True,False,6.99
+zehrs,drinks,NOS,Original,NOSOriginal710 ml,3.99,,each,0.56,,100ml,True,False,3.99
+zehrs,drinks,Thirsty Buddha,All Natural Coconut Water,Thirsty BuddhaAll Natural Coconut Water500 ml,3.99,,each,0.8,,100ml,True,False,3.99
+zehrs,drinks,President's Choice,Cream Soda Flavour Sparkling Water,President's ChoiceCream Soda Flavour Sparkling Water12x355.0 ml,5.99,,each,0.14,,100ml,True,False,5.99
+zehrs,drinks,Nestle,Nesquik Less Sugar Chocolate Syrup,NestleNesquik Less Sugar Chocolate Syrup510 ml,6.99,,each,1.37,,100ml,True,False,6.99
+zehrs,drinks,Pepsi,Diet Soda,PepsiDiet Soda2 l,3.99,,each,0.2,,100ml,True,False,3.99
+zehrs,drinks,President's Choice,Ginger Ale,President's ChoiceGinger Ale6x222.0 ml,3.99,,each,0.3,,100ml,True,False,3.99
+zehrs,drinks,Twinings,20ct Earl Grey Decaf,Twinings20ct Earl Grey Decaf20 ea,6.49,,each,0.32,,1ea,True,False,6.49
+zehrs,drinks,Earths Own,"Almond Fresh, Unsweetened Vanilla","Earths OwnAlmond Fresh, Unsweetened Vanilla1.89 l",4.49,,each,0.24,,100ml,True,False,4.49
+zehrs,drinks,Lacroix,Grapefruit Water,LacroixGrapefruit Water8x355.0 ml,6.49,,each,0.23,,100ml,True,False,6.49
+zehrs,drinks,President's Choice,Ruby Red Grapefruit Cocktail,President's ChoiceRuby Red Grapefruit Cocktail1.89 l,3.49,,each,0.18000000000000002,,100ml,True,False,3.49
+zehrs,drinks,Gatorade,Fierce Glacier Cherry Sports Drink,GatoradeFierce Glacier Cherry Sports Drink710 ml,2.39,,each,0.34,,100ml,True,False,2.39
+zehrs,drinks,President's Choice,Original Lemonade,President's ChoiceOriginal Lemonade1.89 l,3.29,,each,0.17,,100ml,True,False,3.29
+zehrs,drinks,Crystal Light,"Pitcher Packs, Lemonade","Crystal LightPitcher Packs, Lemonade56.6 g",3.99,,each,7.05,,100g,True,False,3.99
+zehrs,drinks,Simple Drop,Raspberry Enhanced Water Beverage,Simple DropRaspberry Enhanced Water Beverage1 l,1.59,,each,0.16,,100ml,True,False,1.59
+zehrs,drinks,Silk,Fortified Oat Beverage Original,SilkFortified Oat Beverage Original946 ml,3.29,,each,0.35,,100ml,True,False,3.29
+zehrs,drinks,Tropicana,Blackberry Blueberry Fruit Drink   ,TropicanaBlackberry Blueberry Fruit Drink   1.54 l,5.49,,each,0.36,,100ml,True,False,5.49
+zehrs,drinks,San Pellegrino,"Sparkling Natural Mineral Water, Tangerine & Wild Strawberry","San PellegrinoSparkling Natural Mineral Water, Tangerine & Wild Strawberry8x330.0 ml",9.99,,each,0.38,,100ml,True,False,9.99
+zehrs,drinks,San Pellegrino,Naturali Arancia & Fico D'India Sparkling Orange & Prickly Pear Beverage,San PellegrinoNaturali Arancia & Fico D'India Sparkling Orange & Prickly Pear Beverage6x330.0 ml,6.49,,each,327.78,,100ml,True,False,6.49
+zehrs,drinks,Canada Dry,Premium Ginger Beer,Canada DryPremium Ginger Beer4x237.0 ml,8.99,,each,0.9499999999999998,,100ml,True,False,8.99
+zehrs,drinks,Sparkling Ice,Cherry Limeade Sparkling Water,Sparkling IceCherry Limeade Sparkling Water503 ml,2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+zehrs,drinks,Nestle,Ice Tea Lemon Liquid Water Enhancer,NestleIce Tea Lemon Liquid Water Enhancer52 ml,4.29,,each,8.25,,100ml,True,False,4.29
+zehrs,drinks,Fruit2O,"Fruit 2O Sparkling Water, Raspberry Lemon","Fruit2OFruit 2O Sparkling Water, Raspberry Lemon502 ml",1.99,,each,0.4,,100ml,True,False,1.99
+zehrs,drinks,Minute Maid,"No Sugar Fruit Punch Juice Beverage, 8 Pack","Minute MaidNo Sugar Fruit Punch Juice Beverage, 8 Pack8x200.0 ml",4.19,3.99,each,0.262531328320802,0.25,100ml,True,True,3.99
+zehrs,drinks,Schweppes,Tonic Water,SchweppesTonic Water2 l,3.99,,each,0.2,,100ml,True,False,3.99
+zehrs,drinks,Tetley,Super Green Tea Antiox Tropical With Vitamin C,TetleySuper Green Tea Antiox Tropical With Vitamin C20 ea,3.99,,each,0.2,,1ea,True,False,3.99
+zehrs,drinks,Sparkling Ice,Orange Mango Sparkling Water,Sparkling IceOrange Mango Sparkling Water503 ml,2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+zehrs,drinks,Minute Maid,"Fruit Punch Juice Beverage, 10 Pack","Minute MaidFruit Punch Juice Beverage, 10 Pack10x200.0 ml",4.19,3.99,each,0.21002506265664164,0.2,100ml,True,True,3.99
+zehrs,drinks,Above,Non-Alcoholic Cocktail Gin & Tonic,AboveNon-Alcoholic Cocktail Gin & Tonic4x355.0 ml,9.99,7.99,each,0.7001752190237798,0.56,100ml,True,True,7.99
+zehrs,drinks,Tim Hortons,Orange Pekoe Tea,Tim HortonsOrange Pekoe Tea108 ea,8.99,,each,0.08,,1ea,True,False,8.99
+zehrs,drinks,Paulaner,Non-Alcoholic 0.0% Weissbier ,PaulanerNon-Alcoholic 0.0% Weissbier 500 ml,2.99,,each,0.6,,100ml,True,False,2.99
+zehrs,drinks,Eduscho,Roasted Ground Coffee,EduschoRoasted Ground Coffee250 g,3.89,,each,1.56,,100g,True,False,3.89
+zehrs,drinks,Walini,Classsic Green Tea,WaliniClasssic Green Tea45 g,4.29,,each,9.53,,100g,True,False,4.29
+zehrs,drinks,Ujinotsuyu,"Tea, Green  with Roasted Rice (Genmaicha)","UjinotsuyuTea, Green  with Roasted Rice (Genmaicha)400 g",5.79,,each,1.45,,100g,True,False,5.79
+zehrs,drinks,Twinings,English Breakfast,TwiningsEnglish Breakfast100 g,9.79,,each,9.79,,100g,True,False,9.79
+zehrs,drinks,Perfect Hydration,9.5+ Ph Alkaline Water,Perfect Hydration9.5+ Ph Alkaline Water591 ml,1.99,,each,0.34,,100ml,True,False,1.99
+zehrs,drinks,Maxwell House,Original Roast Coffee 100% Compostable K Cup Coffee Pods,Maxwell HouseOriginal Roast Coffee 100% Compostable K Cup Coffee Pods114 g,9.49,,each,8.32,,100g,True,False,9.49
+zehrs,drinks,Evian,"Spring Water, Bottle","EvianSpring Water, Bottle750 ml",2.99,,each,0.4,,100ml,True,False,2.99
+zehrs,drinks,Foco,Coconut Juice,FocoCoconut Juice520 ml,1.89,,each,0.36,,100ml,True,False,1.89
+zehrs,drinks,Kiki McDonough,Maple Water Lemon,Kiki McDonoughMaple Water Lemon240x240.0 ml,2.99,,each,1.25,,100ml,True,False,2.99
+zehrs,drinks,Balzac's,Blend Ground Coffee Can,Balzac'sBlend Ground Coffee Can300 g,12.99,,each,4.33,,100g,True,False,12.99
+zehrs,drinks,Coca-Cola,"Zero Sugar Dreamworld, 8 pack","Coca-ColaZero Sugar Dreamworld, 8 pack300 ml",6.99,,each,2.33,,100ml,True,False,6.99
+zehrs,drinks,Muskoka,Loon Call Breakfast Blend Pods,MuskokaLoon Call Breakfast Blend Pods230 g,20.99,,each,9.13,,100g,True,False,20.99
+zehrs,drinks,Toro Matcha,Sparkling Ginger,Toro MatchaSparkling Ginger355 ml,3.99,,each,1.12,,100ml,True,False,3.99
+zehrs,drinks,Rubicon,Passion Fruit Juice,RubiconPassion Fruit Juice1 l,2.69,,each,0.27,,100ml,True,False,2.69
+zehrs,drinks,Cool Runnings,Coconut Milk,Cool RunningsCoconut Milk400 ml,1.79,,each,0.45,,100ml,True,False,1.79
+zehrs,drinks,HAO TEA,Jasmine Tea,HAO TEAJasmine Tea200 g,3.99,,each,2.0,,100g,True,False,3.99
+zehrs,drinks,Bolthouse,Strawberry Banana,BolthouseStrawberry Banana450 ml,5.49,,each,1.22,,100ml,True,False,5.49
+zehrs,drinks,Ahmad,"Tea, Earl Grey Tea","AhmadTea, Earl Grey Tea200 g",6.49,,each,3.25,,100g,True,False,6.49
+zehrs,drinks,Molson,Alcohol Beer Lager,MolsonAlcohol Beer Lager6x355.0 ml,5.99,,each,0.28,,100ml,True,False,5.99
+zehrs,drinks,Kosa,Coconut Water ,KosaCoconut Water 520 ml,2.29,,each,0.43999999999999995,,100ml,True,False,2.29
+zehrs,drinks,Tetley,Bellini Herbal Tea    ,TetleyBellini Herbal Tea    20 ea,3.99,,each,0.2,,1ea,True,False,3.99
+zehrs,drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water310 ml,1.29,,each,0.42,,100ml,True,False,1.29
+zehrs,drinks,Bolthouse,Berry Boost Juice,BolthouseBerry Boost Juice450 ml,5.49,,each,1.22,,100ml,True,False,5.49
+zehrs,drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water1 l,3.39,,each,0.34,,100ml,True,False,3.39
+zehrs,drinks,Maxwell House,Pure Ground Coffee Rich Dark Roast,Maxwell HousePure Ground Coffee Rich Dark Roast900 g,12.99,,each,1.44,,100g,True,False,12.99
+zehrs,drinks,Crystal Light,"Singles, Raspberry Ice","Crystal LightSingles, Raspberry Ice24 g",3.99,,each,16.62,,100g,True,False,3.99
+zehrs,drinks,Tropicana,"Pure Premium Orange Juice, Homestyle","TropicanaPure Premium Orange Juice, Homestyle3.78 l",11.99,,each,0.32,,100ml,True,False,11.99
+zehrs,drinks,Nestle,Pure Life Natural Spring Water ,NestlePure Life Natural Spring Water 12x710.0 ml,5.99,,each,0.07,,100ml,True,False,5.99
+zehrs,drinks,Coca-Cola,Water Bottle,Coca-ColaWater Bottle591 ml,2.99,,each,0.51,,100ml,True,False,2.99
+zehrs,drinks,Coca-Cola,Glass Bottle,Coca-ColaGlass Bottle4x355.0 ml,8.99,,each,0.63,,100ml,True,False,8.99
+zehrs,drinks,Grace,Peanut Punch,GracePeanut Punch240 ml,1.29,1.19,each,0.5420168067226891,0.5,100ml,True,True,1.19
+zehrs,drinks,Monster Energy,Ultra Gold,Monster EnergyUltra Gold473 ml,3.99,,each,0.8400000000000001,,100ml,True,False,3.99
+zehrs,drinks,Coca-Cola,"Diet, Bottle","Coca-ColaDiet, Bottle500 ml",2.99,,each,0.6,,100ml,True,False,2.99
+zehrs,drinks,President's Choice,Lemon Thriller Herbal Tea,President's ChoiceLemon Thriller Herbal Tea20 ea,3.99,,each,9.98,,100g,True,False,3.99
+zehrs,drinks,Coca-Cola,Diet Coke  ,Coca-ColaDiet Coke  8x300.0 ml,6.99,,each,0.29,,100ml,True,False,6.99
+zehrs,drinks,Tetley,The Vert Classique,TetleyThe Vert Classique80 ea,9.99,,each,0.12000000000000001,,1ea,True,False,9.99
+zehrs,drinks,Oasis,Fruit Fusion Fruit Juice Boxes,OasisFruit Fusion Fruit Juice Boxes8x200.0 ml,3.49,,each,0.22,,100ml,True,False,3.49
+zehrs,drinks,Tazo,Organic Chai Te Bag ,TazoOrganic Chai Te Bag 20 ea,6.79,,each,0.34,,1ea,True,False,6.79
+zehrs,drinks,Crush,Crush Orange Soda ,CrushCrush Orange Soda 12x355.0 ml,7.49,,each,0.18,,100ml,True,False,7.49
+zehrs,drinks,President's Choice,100% Raspberry Orange Juice,President's Choice100% Raspberry Orange Juice10x200.0 ml,3.89,,each,0.19,,100ml,True,False,3.89
+zehrs,drinks,Simply,Lemonade,SimplyLemonade2.63 l,7.79,,each,0.3,,100ml,True,False,7.79
+zehrs,drinks,President's Choice,"Feeling Soothed Peppermint, Ginger & Fennel Herbal Tea","President's ChoiceFeeling Soothed Peppermint, Ginger & Fennel Herbal Tea20 ea",3.99,,each,0.2,,1ea,True,False,3.99
+zehrs,drinks,Inka, Instant Roasted Grain Beverage,Inka Instant Roasted Grain Beverage200 g,5.99,,each,3.0,,100g,True,False,5.99
+zehrs,drinks,Tim Hortons,"Tea, Black  with Spices Chai  20  Bags","Tim HortonsTea, Black  with Spices Chai  20  Bags20 ea",5.49,,each,0.27,,1ea,True,False,5.49
+zehrs,drinks,Amira,Mango Nectar,AmiraMango Nectar1 l,2.99,,each,0.3,,100ml,True,False,2.99
+zehrs,drinks,Barbican,Regular Malt Beverage,BarbicanRegular Malt Beverage330 ml,1.99,,each,0.6,,100ml,True,False,1.99
+zehrs,drinks,Gold Kili,Instant Coffee Mix,Gold KiliInstant Coffee Mix30x18.0 g,6.49,,each,1.2,,100g,True,False,6.49
+zehrs,drinks,Grace,Sweetened Condensed Whitener,GraceSweetened Condensed Whitener297 ml,1.89,,each,0.64,,100ml,True,False,1.89
+zehrs,drinks,Grace,Pure Creamed Coconut,GracePure Creamed Coconut141 g,1.79,,each,1.27,,100g,True,False,1.79
+zehrs,drinks,Marble Pop,Original,Marble PopOriginal200 ml,2.79,,each,1.4,,100ml,True,False,2.79
+zehrs,drinks,Ujinotsuyu,"Tea, Green  with Roasted Rice (Genmaicha)","UjinotsuyuTea, Green  with Roasted Rice (Genmaicha)400 g",5.79,,each,1.45,,100g,True,False,5.79
+zehrs,drinks,Tim Hortons,Orange Pekoe Tea,Tim HortonsOrange Pekoe Tea108 ea,8.99,,each,0.08,,1ea,True,False,8.99
+zehrs,drinks,Walini,Classsic Green Tea,WaliniClasssic Green Tea45 g,4.29,,each,9.53,,100g,True,False,4.29
+zehrs,drinks,Perfect Hydration,9.5+ Ph Alkaline Water,Perfect Hydration9.5+ Ph Alkaline Water591 ml,1.99,,each,0.34,,100ml,True,False,1.99
+zehrs,drinks,Twinings,English Breakfast,TwiningsEnglish Breakfast100 g,9.79,,each,9.79,,100g,True,False,9.79
+zehrs,drinks,Eduscho,Roasted Ground Coffee,EduschoRoasted Ground Coffee250 g,3.89,,each,1.56,,100g,True,False,3.89
+zehrs,drinks,Paulaner,Non-Alcoholic 0.0% Weissbier ,PaulanerNon-Alcoholic 0.0% Weissbier 500 ml,2.99,,each,0.6,,100ml,True,False,2.99
+zehrs,drinks,DAVIDsTEA,Herbal Infusion Cold 911 Organic,DAVIDsTEAHerbal Infusion Cold 911 Organic14.4 g,9.99,,each,69.38,,100g,True,False,9.99
+zehrs,drinks,Harney & Sons,Ht Tea Blends Tea Sachets Vanilla Comoro,Harney & SonsHt Tea Blends Tea Sachets Vanilla Comoro1 ea,12.99,10.99,each,12.99,10.99,1ea,True,True,10.99
+zehrs,drinks,Maxwell House,Pure Ground Coffee Rich Dark Roast,Maxwell HousePure Ground Coffee Rich Dark Roast900 g,12.99,,each,1.44,,100g,True,False,12.99
+zehrs,drinks,Crystal Light,"Singles, Raspberry Ice","Crystal LightSingles, Raspberry Ice24 g",3.99,,each,16.62,,100g,True,False,3.99
+zehrs,drinks,Tropicana,"Pure Premium Orange Juice, Homestyle","TropicanaPure Premium Orange Juice, Homestyle3.78 l",11.99,,each,0.32,,100ml,True,False,11.99
+zehrs,drinks,Nestle,Pure Life Natural Spring Water ,NestlePure Life Natural Spring Water 12x710.0 ml,5.99,,each,0.07,,100ml,True,False,5.99
+zehrs,drinks,Coca-Cola,Water Bottle,Coca-ColaWater Bottle591 ml,2.99,,each,0.51,,100ml,True,False,2.99
+zehrs,drinks,Coca-Cola,Glass Bottle,Coca-ColaGlass Bottle4x355.0 ml,8.99,,each,0.63,,100ml,True,False,8.99
+zehrs,drinks,Grace,Peanut Punch,GracePeanut Punch240 ml,1.29,1.19,each,0.5420168067226891,0.5,100ml,True,True,1.19
+zehrs,drinks,Monster Energy,Ultra Gold,Monster EnergyUltra Gold473 ml,3.99,,each,0.8400000000000001,,100ml,True,False,3.99
+zehrs,drinks,Coca-Cola,"Diet, Bottle","Coca-ColaDiet, Bottle500 ml",2.99,,each,0.6,,100ml,True,False,2.99
+zehrs,drinks,President's Choice,Lemon Thriller Herbal Tea,President's ChoiceLemon Thriller Herbal Tea20 ea,3.99,,each,9.98,,100g,True,False,3.99
+zehrs,drinks,Coca-Cola,Diet Coke  ,Coca-ColaDiet Coke  8x300.0 ml,6.99,,each,0.29,,100ml,True,False,6.99
+zehrs,drinks,Tetley,The Vert Classique,TetleyThe Vert Classique80 ea,9.99,,each,0.12000000000000001,,1ea,True,False,9.99
+zehrs,drinks,Oasis,Fruit Fusion Fruit Juice Boxes,OasisFruit Fusion Fruit Juice Boxes8x200.0 ml,3.49,,each,0.22,,100ml,True,False,3.49
+zehrs,drinks,Tazo,Organic Chai Te Bag ,TazoOrganic Chai Te Bag 20 ea,6.79,,each,0.34,,1ea,True,False,6.79
+zehrs,drinks,Crush,Crush Orange Soda ,CrushCrush Orange Soda 12x355.0 ml,7.49,,each,0.18,,100ml,True,False,7.49
+zehrs,drinks,President's Choice,100% Raspberry Orange Juice,President's Choice100% Raspberry Orange Juice10x200.0 ml,3.89,,each,0.19,,100ml,True,False,3.89
+zehrs,drinks,Simply,Lemonade,SimplyLemonade2.63 l,7.79,,each,0.3,,100ml,True,False,7.79
+zehrs,drinks,President's Choice,"Feeling Soothed Peppermint, Ginger & Fennel Herbal Tea","President's ChoiceFeeling Soothed Peppermint, Ginger & Fennel Herbal Tea20 ea",3.99,,each,0.2,,1ea,True,False,3.99
+zehrs,drinks,Cycle,"Canadian Spring Water, Resealable Can","CycleCanadian Spring Water, Resealable Can473 ml",2.49,,each,0.53,,100ml,True,False,2.49
+zehrs,drinks,Last Call,Vitamin Beverage Blood Orange,Last CallVitamin Beverage Blood Orange308 ml,3.29,,each,1.07,,100ml,True,False,3.29
+zehrs,drinks,Twinings,Cold Infuse-Watermelon & Mint Tea,TwiningsCold Infuse-Watermelon & Mint Tea30 g,6.49,,each,21.630000000000003,,100g,True,False,6.49
+zehrs,drinks,Fruite,Zesty Raspberry Mixed Fruit Drink,FruiteZesty Raspberry Mixed Fruit Drink1.65 l,2.99,,each,0.17999999999999997,,100ml,True,False,2.99
+zehrs,drinks,Exclusive Brands,Strawshot Wheels Flavor Surprise,Exclusive BrandsStrawshot Wheels Flavor Surprise60 g,2.99,,each,4.98,,100g,True,False,2.99
+zehrs,drinks,iiCiNG,Liquid Beverage Enhancer Cherry Burst,iiCiNGLiquid Beverage Enhancer Cherry Burst48 ml,3.99,,each,8.31,,100ml,True,False,3.99
+zehrs,drinks,Pepsi,Diet Pepsi,PepsiDiet Pepsi8x355.0 ml,7.49,,each,2.11,,100ml,True,False,7.49
+zehrs,drinks,Van Houtte,"Coffee, Original House Blend Dark K-Cup  Pods, 24 CountÂ ","Van HoutteCoffee, Original House Blend Dark K-Cup  Pods, 24 CountÂ 24 ea",18.99,17.99,each,0.7916898276820455,0.75,1ea,True,True,17.99
+zehrs,drinks,Tetley,Strawberry & Watermelon Flavoured Herbal Tea,TetleyStrawberry & Watermelon Flavoured Herbal Tea12 ea,4.49,,each,0.37,,1ea,True,False,4.49
+zehrs,drinks,Twinings,20ct Variety Pack,Twinings20ct Variety Pack20 ea,6.49,,each,0.32,,1ea,True,False,6.49
+zehrs,drinks,Twinings,Goodnight Blend Herbal Tea,TwiningsGoodnight Blend Herbal Tea20 ea,6.49,,each,0.32,,1ea,True,False,6.49
+zehrs,drinks,Tazo,"Calm Chamomile Tea Chamomile, Rose Petals and Soothing Herbs","TazoCalm Chamomile Tea Chamomile, Rose Petals and Soothing Herbs20 ea",6.79,,each,0.34,,1ea,True,False,6.79
+zehrs,drinks,Coca-Cola,Zero Sugar    ,Coca-ColaZero Sugar    8x300.0 ml,6.99,,each,0.29,,100ml,True,False,6.99
+zehrs,drinks,Lacroix,Sparkling Water Beverage Naturally Limoncello Essenced,LacroixSparkling Water Beverage Naturally Limoncello Essenced8x355.0 ml,6.49,,each,0.23,,100ml,True,False,6.49
+zehrs,drinks,Tetley,"Green Tea, Decaf","TetleyGreen Tea, Decaf48 ea",8.99,,each,0.19,,1ea,True,False,8.99
+zehrs,drinks,Nestea,"Zero Iced Tea, Lemon   ","NesteaZero Iced Tea, Lemon   12x341.0 ml",8.99,,each,0.22,,100ml,True,False,8.99
+zehrs,drinks,Red Bull,"Energy Drink, Peach-Nectarine","Red BullEnergy Drink, Peach-Nectarine4x250.0 ml",11.49,,each,1.15,,100ml,True,False,11.49
+zehrs,drinks,Twinings,Cold Infuse- Blueberry Apple Tea,TwiningsCold Infuse- Blueberry Apple Tea30 g,6.49,,each,21.630000000000003,,100g,True,False,6.49
+zehrs,drinks,Organic Traditions,Matcha Latte,Organic TraditionsMatcha Latte6x150.0 g,17.99,,each,2.0,,100g,True,False,17.99
+zehrs,drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water1 l,3.39,,each,0.34,,100ml,True,False,3.39
+zehrs,drinks,Thirsty Buddha,Coconut Water,Thirsty BuddhaCoconut Water6x1.0 l,29.99,,each,0.5,,100ml,True,False,29.99
+zehrs,drinks,Blue Diamond,"Almond Breeze Almond Milk, Unsweetened Vanilla","Blue DiamondAlmond Breeze Almond Milk, Unsweetened Vanilla1.89 l",4.49,,each,0.24,,100ml,True,False,4.49
+zehrs,drinks,Dasani,"Water, Bottle","DasaniWater, Bottle1.5 l",3.79,,each,0.25,,100ml,True,False,3.79
+zehrs,drinks,Kintore Coffee Co,Light Roasted Ground Coffee,Kintore Coffee CoLight Roasted Ground Coffee454 g,19.99,,each,4.4,,100g,True,False,19.99
+zehrs,drinks,Elite,"Aladin Turkish Coffee, Roasted and Ground","EliteAladin Turkish Coffee, Roasted and Ground200 g",6.79,,each,3.4,,100g,True,False,6.79
+zehrs,drinks,Nestle,"Milo, Chocolate Flavoured Drink Mix","NestleMilo, Chocolate Flavoured Drink Mix400 g",5.49,,each,1.3700000000000003,,100g,True,False,5.49
+zehrs,drinks,Tchibo,Exclusive Coffee,TchiboExclusive Coffee250 g,4.29,,each,1.72,,100g,True,False,4.29
+zehrs,drinks,Voss,Artesian Spring Water Still,VossArtesian Spring Water Still500 ml,2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+zehrs,drinks,Nuba, Qamar Al-Din Apricot Nectar,Nuba Qamar Al-Din Apricot Nectar750 ml,5.49,,each,0.73,,100ml,True,False,5.49
+zehrs,drinks,Mott's,T Margarita Mix,Mott'sT Margarita Mix1 l,5.49,,each,0.55,,100ml,True,False,5.49
+zehrs,drinks,Dr Pepper,Soda,Dr PepperSoda591 ml,2.99,,each,0.51,,100ml,True,False,2.99
+zehrs,drinks,Aroma,Sour Cherry Juice From Concentrate ,AromaSour Cherry Juice From Concentrate 6x1.0 l,3.99,,each,0.4,,100ml,True,False,3.99
+zehrs,drinks,Tea India,Tea,Tea IndiaTea681 g,7.99,,each,1.17,,100g,True,False,7.99
+zehrs,drinks,Bubly Sparkling Water,Limited Edition Watermelon,Bubly Sparkling WaterLimited Edition Watermelon12x355.0 ml,6.99,,each,0.16,,100ml,True,False,6.99
+zehrs,drinks,Pepsi,Wild Cherry Soda    ,PepsiWild Cherry Soda    591 ml,2.99,,each,0.51,,100ml,True,False,2.99
+zehrs,drinks,Lotte,Milkis,LotteMilkis1.5 l,4.79,,each,0.32,,100ml,True,False,4.79
+zehrs,drinks,Best,Mango Nectar,BestMango Nectar1 l,3.59,,each,0.36,,100ml,True,False,3.59
+zehrs,drinks,Tealish,Herbal Tea Organic Almond Cookie,TealishHerbal Tea Organic Almond Cookie37.5 g,9.99,,each,26.64,,100g,True,False,9.99
+zehrs,drinks,Crush,Orange Crush,CrushOrange Crush591 ml,2.99,,each,0.51,,100ml,True,False,2.99
+zehrs,drinks,Sunny Delight,Tangy Original,Sunny DelightTangy Original6x240.0 ml,4.39,,each,0.3,,100ml,True,False,4.39
+zehrs,drinks,Cool Runnings,Flavoured Beverage Syrup Kola Champagne,Cool RunningsFlavoured Beverage Syrup Kola Champagne750 ml,4.99,,each,0.67,,100ml,True,False,4.99
+zehrs,drinks,Labatt Blue,Non-Alcoholic Pilsner,Labatt BlueNon-Alcoholic Pilsner6x341.0 ml,8.49,,each,0.4099999999999999,,100ml,True,False,8.49
+zehrs,drinks,Brooke Bond,Red Label Black Tea,Brooke BondRed Label Black Tea450 g,5.99,4.99,each,1.3324448897795593,1.11,100g,True,True,4.99
+zehrs,drinks,Tea at the White House,Black Tea Royal Chocolate Biscuit Cake,Tea at the White HouseBlack Tea Royal Chocolate Biscuit Cake31.2 g,9.99,,each,32.02,,100g,True,False,9.99
+zehrs,drinks,Rubicon,Juice Drink Pineapple & Coconut,RubiconJuice Drink Pineapple & Coconut1 l,3.49,,each,0.35,,100ml,True,False,3.49
+zehrs,drinks,Red Bull,Energy Drink,Red BullEnergy Drink8x250.0 ml,18.99,,each,0.95,,100ml,True,False,18.99
+zehrs,drinks,Nuba,Hibiscus ,NubaHibiscus 750 ml,5.49,,each,0.73,,100ml,True,False,5.49
+zehrs,drinks,ARTO LIFE WTR,Water,ARTO LIFE WTRWater700 ml,2.59,,each,0.37,,100ml,True,False,2.59
+zehrs,drinks,President's Choice,Fresh-Pressed Sweet Apple Cider,President's ChoiceFresh-Pressed Sweet Apple Cider2 l,5.99,,each,0.3,,100ml,True,False,5.99
+zehrs,drinks,Vernors,Ginger Ale ,VernorsGinger Ale 12x355.0 ml,7.49,,each,0.18,,100ml,True,False,7.49
+zehrs,drinks,Dream,Enriched Original Fortified Oat Beverage,DreamEnriched Original Fortified Oat Beverage946 ml,3.29,,each,0.35,,100ml,True,False,3.29
+zehrs,drinks,Minute Maid,"Nutri Multivitamins & Antioxidants 100% Orange Juice, Carton","Minute MaidNutri Multivitamins & Antioxidants 100% Orange Juice, Carton1.75 l",4.99,,each,0.29,,100ml,True,False,4.99
+zehrs,drinks,White Rock,"Seltzer, Lemon Lime","White RockSeltzer, Lemon Lime1 l",0.89,,each,0.09,,100ml,True,False,0.89
+zehrs,drinks,Tealish,Herbal Tea Organic Mint Bliss,TealishHerbal Tea Organic Mint Bliss37.5 g,9.99,,each,26.64,,100g,True,False,9.99
+zehrs,drinks,Tealish,Herbal Tea Organic Sweet Lemon,TealishHerbal Tea Organic Sweet Lemon37.5 g,9.99,,each,26.64,,100g,True,False,9.99
+zehrs,drinks,Monster Energy,"Green Energy Drink, Can","Monster EnergyGreen Energy Drink, Can710 ml",3.99,,each,0.56,,100ml,True,False,3.99
+zehrs,drinks,Balzac's,Dark Affair Coffe Pods,Balzac'sDark Affair Coffe Pods189 g,17.99,,each,9.52,,100g,True,False,17.99
+zehrs,drinks,Kiki McDonough,Maple Water Cranberry,Kiki McDonoughMaple Water Cranberry240x240.0 ml,2.99,,each,1.25,,100ml,True,False,2.99
+zehrs,drinks,Dole,Pineapple Juice ,DolePineapple Juice 1.36 l,3.79,,each,0.28,,100ml,True,False,3.79
+zehrs,drinks,Bolthouse,Holiday Nog,BolthouseHoliday Nog1.54 l,9.99,,each,0.65,,100ml,True,False,9.99
+zehrs,drinks,Budweiser,Bud Zero Can,BudweiserBud Zero Can12x355.0 ml,18.99,,each,0.45,,100ml,True,False,18.99
+zehrs,drinks,Suraj,Guava Drink,SurajGuava Drink1 l,1.49,,each,0.15,,100ml,True,False,1.49
+zehrs,drinks,True Citrus,True Lemon Crystalized Wedges,True CitrusTrue Lemon Crystalized Wedges32x25.6 g,5.49,,each,0.67,,100g,True,False,5.49
+zehrs,drinks,Freezone,Blue Hawaii Drink,FreezoneBlue Hawaii Drink275 ml,2.29,,each,0.83,,100ml,True,False,2.29
+zehrs,drinks,Maxwell House,House Blend Coffee 100% Compostable K Cup Coffee Pods,Maxwell HouseHouse Blend Coffee 100% Compostable K Cup Coffee Pods117 g,9.49,,each,8.11,,100g,True,False,9.49
+zehrs,drinks,Najjar,Coffee Selection with Cardamon   ,NajjarCoffee Selection with Cardamon   450 g,9.99,,each,2.22,,100g,True,False,9.99
+zehrs,drinks,CLAUSTHALER,Clausthaler Non-Alcoholic Beer Original ,CLAUSTHALERClausthaler Non-Alcoholic Beer Original 6x330.0 ml,11.99,,each,3.63,,100ml,True,False,11.99
+zehrs,drinks,5 Hr Energy,"Shot, Extra Strength","5 Hr EnergyShot, Extra Strength57 ml",4.29,,each,7.530000000000001,,100ml,True,False,4.29
+zehrs,drinks,Tealish,Herbal Tea Organic Chamomile Sky,TealishHerbal Tea Organic Chamomile Sky37.5 g,9.99,,each,26.64,,100g,True,False,9.99
+zehrs,drinks,Califia Farms,Califia Unsweetened Almond Vanilla Beverage ,Califia FarmsCalifia Unsweetened Almond Vanilla Beverage 1.4 l,7.49,,each,0.54,,100ml,True,False,7.49
+zehrs,drinks,Lipton,Gold Milk Tea Flavoured Tea Powder,LiptonGold Milk Tea Flavoured Tea Powder561 g,12.99,,each,2.32,,100g,True,False,12.99
+zehrs,drinks,Daydream,Sparkling Water Infused With Hemp Oil & Adaptogens Blackberry Chai,DaydreamSparkling Water Infused With Hemp Oil & Adaptogens Blackberry Chai355 ml,5.99,,each,1.69,,100ml,True,False,5.99
+zehrs,drinks,Tetley,Cleanse Lemon Balm and Honey  ,TetleyCleanse Lemon Balm and Honey  20 ea,3.99,,each,0.2,,1ea,True,False,3.99
+zehrs,drinks,Kronenbourg,Flavoured Wheat Beer Blanc,KronenbourgFlavoured Wheat Beer Blanc6x330.0 ml,11.99,,each,0.61,,100ml,True,False,11.99
+zehrs,drinks,Molson,Alcohol Beer Lager,MolsonAlcohol Beer Lager12x355.0 ml,10.99,,each,0.26,,100ml,True,False,10.99
+zehrs,drinks,Tealish,Herbal Tea Organic Sweet Lemon,TealishHerbal Tea Organic Sweet Lemon37.5 g,9.99,,each,26.64,,100g,True,False,9.99
+zehrs,drinks,Monster Energy,"Green Energy Drink, Can","Monster EnergyGreen Energy Drink, Can710 ml",3.99,,each,0.56,,100ml,True,False,3.99
+zehrs,drinks,Balzac's,Dark Affair Coffe Pods,Balzac'sDark Affair Coffe Pods189 g,17.99,,each,9.52,,100g,True,False,17.99
+zehrs,drinks,Kiki McDonough,Maple Water Cranberry,Kiki McDonoughMaple Water Cranberry240x240.0 ml,2.99,,each,1.25,,100ml,True,False,2.99
+zehrs,drinks,Starbucks,True North Blend,StarbucksTrue North Blend794 g,24.99,,each,3.15,,100g,True,False,24.99
+zehrs,drinks,Dole,Pineapple Juice ,DolePineapple Juice 1.36 l,3.79,,each,0.28,,100ml,True,False,3.79
+zehrs,drinks,Bolthouse,Holiday Nog,BolthouseHoliday Nog1.54 l,9.99,,each,0.65,,100ml,True,False,9.99
+zehrs,drinks,Muskoka,Black Bear Pods,MuskokaBlack Bear Pods220 g,20.99,,each,9.54,,100g,True,False,20.99
+zehrs,drinks,Tetley,Black Tea Earl Grey Decaffeinated,TetleyBlack Tea Earl Grey Decaffeinated96 g,8.99,,each,9.36,,100g,True,False,8.99
+zehrs,drinks,Balzac's,Ground Coffee Can,Balzac'sGround Coffee Can300 g,12.99,,each,4.33,,100g,True,False,12.99
+zehrs,drinks,Carl Jung,White Wine De-Alcoholized,Carl JungWhite Wine De-Alcoholized750 ml,8.49,,each,1.13,,100ml,True,False,8.49
+zehrs,drinks,Grolsch,Non-Alcoholic Beer     ,GrolschNon-Alcoholic Beer     4x500.0 ml,8.49,,each,0.42,,100ml,True,False,8.49
+zehrs,drinks,Bolthouse,Ginger Carrot Turmeric,BolthouseGinger Carrot Turmeric1540 ml,9.99,,each,0.65,,100ml,True,False,9.99
+zehrs,drinks,Bean Head,Organic Whole Bean Coffee,Bean HeadOrganic Whole Bean Coffee340 g,13.49,,each,3.97,,100g,True,False,13.49
+zehrs,drinks,Grolsch,Non Alcoholic Radler ,GrolschNon Alcoholic Radler 4x500.0 ml,7.99,,each,0.4000000000000001,,100ml,True,False,7.99
+zehrs,drinks,Tea India,"Tea, Masala Chai Black  with Real Spices ","Tea IndiaTea, Masala Chai Black  with Real Spices 182 g",5.99,,each,3.29,,100g,True,False,5.99
+zehrs,drinks,DAVIDsTEA,Fruit Infusion Caribbean Crush,DAVIDsTEAFruit Infusion Caribbean Crush30 g,9.99,,each,33.3,,100g,True,False,9.99
+zehrs,drinks,Allen's,35% Less Sugar Apple Juice Beverage,Allen's35% Less Sugar Apple Juice Beverage1.89 l,3.99,,each,0.21000000000000002,,100ml,True,False,3.99
+zehrs,drinks,Grace,Coconut Milk Powder,GraceCoconut Milk Powder300 g,4.29,,each,1.43,,100g,True,False,4.29
+zehrs,drinks,Muskoka,Howling Wolf Ground,MuskokaHowling Wolf Ground454 g,13.99,,each,3.08,,100g,True,False,13.99
+zehrs,drinks,President's Choice,Cabernet Sauvignon Dealcoholized Wine,President's ChoiceCabernet Sauvignon Dealcoholized Wine750 ml,7.99,,each,1.07,,100ml,True,False,7.99
+zehrs,drinks,Cool Runnings,Flavoured Beverage Syrup Pineapple,Cool RunningsFlavoured Beverage Syrup Pineapple750 ml,4.99,,each,0.67,,100ml,True,False,4.99
+zehrs,drinks,The Great Gentleman,Spicy Pineapple Soda ,The Great GentlemanSpicy Pineapple Soda 250 ml,1.29,,each,0.52,,100ml,True,False,1.29
+zehrs,drinks,Barbican,"Malt Drink, Apple","BarbicanMalt Drink, Apple330 ml",1.99,,each,0.6,,100ml,True,False,1.99
+zehrs,drinks,Amira,Guava Nectar,AmiraGuava Nectar1 l,2.99,,each,0.3,,100ml,True,False,2.99
+zehrs,drinks,Barbican,"Malt Drink, Pomegranate","BarbicanMalt Drink, Pomegranate330 ml",1.99,,each,0.6,,100ml,True,False,1.99
+zehrs,drinks,Budweiser,Bud Zero Can,BudweiserBud Zero Can12x355.0 ml,18.99,,each,0.45,,100ml,True,False,18.99
+zehrs,drinks,Zavida,Single Serve Coffee Cups Canadian Maple Medium Roast,ZavidaSingle Serve Coffee Cups Canadian Maple Medium Roast30 ea,20.99,,each,0.7,,1ea,True,False,20.99
+zehrs,drinks,DAVIDsTEA,Cinnamon Rooibos Chai Organic,DAVIDsTEACinnamon Rooibos Chai Organic24 g,9.99,,each,41.62,,100g,True,False,9.99
+zehrs,drinks,Dr Pepper,Diet Soda,Dr PepperDiet Soda12x355.0 ml,7.49,,each,0.18,,100ml,True,False,7.49
+zehrs,drinks,Mott's,Clamato Extra Spicy Rimmer,Mott'sClamato Extra Spicy Rimmer190 g,4.49,,each,2.36,,100g,True,False,4.49
+zehrs,drinks,Bai,Blueberry Brasilia,BaiBlueberry Brasilia530 ml,2.99,,each,0.56,,100ml,True,False,2.99
+zehrs,drinks,President's Choice,Vanilla Black Tea,President's ChoiceVanilla Black Tea20 ea,3.99,,each,0.2,,1ea,True,False,3.99
+zehrs,drinks,Mott's,"Clamato, Original    ","Mott'sClamato, Original    945 ml",3.19,,each,0.34,,100ml,True,False,3.19
+zehrs,drinks,Brisk,Pepsi Soda,BriskPepsi Soda473 ml,1.79,,each,0.38,,100ml,True,False,1.79
+zehrs,drinks,Red Bull,"Energy Drink, Tropical","Red BullEnergy Drink, Tropical4x250.0 ea",11.49,,each,,,,True,False,11.49
+zehrs,drinks,Coca-Cola,Diet Coke  ,Coca-ColaDiet Coke  6x710.0 ml,6.99,,each,0.16,,100ml,True,False,6.99
+zehrs,drinks,President's Choice,Cream Soda,President's ChoiceCream Soda12x355.0 ml,6.49,,each,0.15,,100ml,True,False,6.49
+zehrs,drinks,Mountain Dew,Soda,Mountain DewSoda12x355.0 ml,7.49,,each,0.18,,100ml,True,False,7.49
+zehrs,drinks,Red Bull,Energy Drink,Red BullEnergy Drink250 ml,3.49,,each,1.4,,100ml,True,False,3.49
+zehrs,drinks,Eska,Carbonated Water,EskaCarbonated Water1 l,1.99,,each,0.2,,100ml,True,False,1.99
+zehrs,drinks,Peace Tea,Sno-Berry,Peace TeaSno-Berry12x341.0 ml,8.99,,each,0.22,,100ml,True,False,8.99
+zehrs,drinks,Coca-Cola,"Water, Mega-C  Nutrient Enhanced , Bottle ","Coca-ColaWater, Mega-C  Nutrient Enhanced , Bottle 591 ml",2.99,,each,0.51,,100ml,True,False,2.99
+zehrs,drinks,Lavazza,Classico Medium Roast Whole Bean Coffee,LavazzaClassico Medium Roast Whole Bean Coffee340 g,12.99,,each,3.82,,100g,True,False,12.99
+zehrs,drinks,MiO,Sport Arctic Grape Liquid Water Enhancer,MiOSport Arctic Grape Liquid Water Enhancer48 ml,4.29,,each,8.94,,100ml,True,False,4.29
+zehrs,drinks,No Name,Peach Drink Mix Club Size,No NamePeach Drink Mix Club Size2.3 kg,7.49,,each,0.33,,100g,True,False,7.49
+zehrs,drinks,,Green Tea (Sencha),Green Tea (Sencha)150 g,7.49,,each,4.99,,100g,True,False,7.49
+zehrs,drinks,Francesco's Coffee Co.,Fresh Coffee,Francesco's Coffee Co.Fresh Coffee340 g,15.99,,each,4.7,,100g,True,False,15.99
+zehrs,drinks,Suraj,Ginger Spiced Black Tea,SurajGinger Spiced Black Tea166 g,5.49,,each,3.31,,100g,True,False,5.49
+zehrs,drinks,Ujinotsuyu,Japanese Green Tea (Sencha),UjinotsuyuJapanese Green Tea (Sencha)200 g,5.49,,each,2.75,,100g,True,False,5.49
+zehrs,drinks,Galil,Camomile Tea,GalilCamomile Tea20 ea,2.99,,each,0.15,,1ea,True,False,2.99
+zehrs,drinks,Kintore Coffee Co,Medium Roasted Ground Coffee,Kintore Coffee CoMedium Roasted Ground Coffee454 g,19.99,,each,4.4,,100g,True,False,19.99
+zehrs,drinks,Francesco's Coffee Co.,Fresh Coffee,Francesco's Coffee Co.Fresh Coffee340 g,15.99,,each,4.7,,100g,True,False,15.99
+zehrs,drinks,Tata,Loose Black Tea Desh Ka Anokha Swad,TataLoose Black Tea Desh Ka Anokha Swad900 g,14.99,,each,1.67,,100g,True,False,14.99
+zehrs,drinks,President's Choice,London Fog Tea Latte Flavoured Beverage Pods,President's ChoiceLondon Fog Tea Latte Flavoured Beverage Pods116 g,7.49,6.99,each,6.461330472103005,6.03,100g,True,True,6.99
+zehrs,drinks,Simply,"Apple Juice, Bottle","SimplyApple Juice, Bottle1.54 l",6.99,,each,0.45,,100ml,True,False,6.99
+zehrs,drinks,Tetley,Earl Grey The Speciaux   ,TetleyEarl Grey The Speciaux   80 ea,9.99,,each,0.12000000000000001,,1ea,True,False,9.99
+zehrs,drinks,Ujinotsuyu,"Tea, Green  with Roasted Rice Genmaicha","UjinotsuyuTea, Green  with Roasted Rice Genmaicha40 g",4.49,,each,11.23,,100g,True,False,4.49
+zehrs,drinks,Nestle,0 Calories,Nestle0 Calories1 l,2.99,,each,0.3,,100ml,True,False,2.99
+zehrs,drinks,T&T,Organic Green Tea,T&TOrganic Green Tea200 g,6.99,,each,3.5,,100g,True,False,6.99
+zehrs,drinks,Tchibo,Gold Selection Instant Coffee,TchiboGold Selection Instant Coffee250 g,4.29,,each,1.72,,100g,True,False,4.29
+zehrs,drinks,Brisk,Lemon Iced Tea    ,BriskLemon Iced Tea    710 ml,1.99,,each,0.28,,100ml,True,False,1.99
+zehrs,drinks,Cool Runnings,Instant Honey Ginger Drink,Cool RunningsInstant Honey Ginger Drink360 g,4.49,,each,1.25,,100g,True,False,4.49
+zehrs,drinks,Madawaska Coffee Co.,Ground Coffee Espresso Roast,Madawaska Coffee Co.Ground Coffee Espresso Roast245 g,13.99,,each,5.71,,100g,True,False,13.99
+zehrs,drinks,Tetley,The Orange Pekoe,TetleyThe Orange Pekoe144 ea,10.99,,each,0.08,,1ea,True,False,10.99
+zehrs,drinks,Vin(zero),"Vin (Zero) Brut Blanc, Alcohol Free","Vin(zero)Vin (Zero) Brut Blanc, Alcohol Free750 ml",12.99,,each,1.73,,100ml,True,False,12.99
+zehrs,drinks,Erdinger,Wheat Beer Non-Alcoholic,ErdingerWheat Beer Non-Alcoholic6x330.0 ml,10.99,,each,0.56,,100ml,True,False,10.99
+zehrs,drinks,Genuine Tea,Hand-Crafted Sparkling Iced Tea Lemon Ginger Sencha Organic,Genuine TeaHand-Crafted Sparkling Iced Tea Lemon Ginger Sencha Organic355 ml,3.99,,each,1.12,,100ml,True,False,3.99
+zehrs,drinks,Tetley,Earl Grey Tea 48 Tea Bags,TetleyEarl Grey Tea 48 Tea Bags48 ea,8.99,,each,0.19,,1ea,True,False,8.99
+zehrs,drinks,Balzac's,Ground Coffee Stout Roast Smokey Spicy,Balzac'sGround Coffee Stout Roast Smokey Spicy300 g,12.99,,each,4.33,,100g,True,False,12.99
+zehrs,drinks,Maxwell House,Dark Roast Coffee 100% Compostable K Cup Coffee Pods,Maxwell HouseDark Roast Coffee 100% Compostable K Cup Coffee Pods117 g,9.49,,each,8.11,,100g,True,False,9.49
+zehrs,drinks,Partake,Nonalcoholic Craft Beer    ,PartakeNonalcoholic Craft Beer    4x355.0 ml,8.49,,each,0.6,,100ml,True,False,8.49
+zehrs,drinks,Coca-Cola,Dreamworld,Coca-ColaDreamworld8x300.0 ml,6.99,,each,2.33,,100ml,True,False,6.99
+zehrs,drinks,Papagalos,Greek Coffee     ,PapagalosGreek Coffee     194 g,7.29,,each,3.76,,100g,True,False,7.29
+zehrs,drinks,Wagh Bakri,"Tea, Masala Chai  Bags Special International Blend 100  Bags","Wagh BakriTea, Masala Chai  Bags Special International Blend 100  Bags200 g",7.49,,each,3.75,,100g,True,False,7.49
+zehrs,drinks,Sparkling Ice,Pink Grapefruit Sparkling Water,Sparkling IcePink Grapefruit Sparkling Water503 ml,2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+zehrs,drinks,Glaceau,"Water, Bottle","GlaceauWater, Bottle1.5 l",3.79,,each,0.25,,100ml,True,False,3.79
+zehrs,drinks,Freezone,Strawberry Soft Drink,FreezoneStrawberry Soft Drink275 ml,2.29,,each,0.83,,100ml,True,False,2.29
+zehrs,drinks,Chaokoh,Coconut Water with Jelly,ChaokohCoconut Water with Jelly520 ml,1.99,,each,0.38,,100ml,True,False,1.99
+zehrs,drinks,President's Choice,100% Cranberry & Concord Grape Juice Blend ,President's Choice100% Cranberry & Concord Grape Juice Blend 1.89 l,3.49,,each,0.18000000000000002,,100ml,True,False,3.49
+zehrs,drinks,Califia Farms,Califia Cold Brew Coffee Mocha,Califia FarmsCalifia Cold Brew Coffee Mocha1.4 l,8.49,,each,0.61,,100ml,True,False,8.49
+zehrs,drinks,Glaceau,"Water with Sports Cap, Bottle","GlaceauWater with Sports Cap, Bottle700 ml",2.89,,each,0.41,,100ml,True,False,2.89
+zehrs,frozen,No Name,Chopped Spinach,No NameChopped Spinach300 g,2.69,,each,0.9,,100g,True,False,2.69
+zehrs,frozen,President's Choice,Peaches & Cream Corn ,President's ChoicePeaches & Cream Corn 750 g,5.49,,each,0.73,,100g,True,False,5.49
+zehrs,frozen,President's Choice,Cauliflower Florets,President's ChoiceCauliflower Florets500 g,5.49,,each,1.1,,100g,True,False,5.49
+zehrs,frozen,President's Choice,Butternut Squash Chunks ,President's ChoiceButternut Squash Chunks 750 g,5.49,,each,0.73,,100g,True,False,5.49
+zehrs,frozen,President's Choice,Thin & Crispy Pepperoni Pizza,President's ChoiceThin & Crispy Pepperoni Pizza343 g,4.5,3.49,each,1.315186246418338,1.02,100g,True,True,3.49
+zehrs,frozen,No Name,Crinkle Cut Fried Potatoes,No NameCrinkle Cut Fried Potatoes1 kg,3.49,,each,0.35,,100g,True,False,3.49
+zehrs,frozen,Mccain,Diced Hashbrowns,MccainDiced Hashbrowns900 g,3.29,,each,0.37000000000000005,,100g,True,False,3.29
+zehrs,frozen,Green Giant,Summer Sweet Peas,Green GiantSummer Sweet Peas750 g,3.79,,each,0.51,,100g,True,False,3.79
+zehrs,frozen,President's Choice, Canadian Wild Blueberries,President's Choice Canadian Wild Blueberries400 g,5.99,,each,1.5,,100g,True,False,5.99
+zehrs,frozen,Green Giant,Peaches N Cream Corn,Green GiantPeaches N Cream Corn750 g,3.79,,each,0.51,,100g,True,False,3.79
+zehrs,frozen,President's Choice,"Peaches, Strawberries, Pineapple & Mango 4-Fruit Blend","President's ChoicePeaches, Strawberries, Pineapple & Mango 4-Fruit Blend600 g",5.99,,each,1.0,,100g,True,False,5.99
+zehrs,frozen,Janes,"Pub Style Chicken Nugget, Fully Cooked","JanesPub Style Chicken Nugget, Fully Cooked700 g",13.49,,each,1.93,,100g,True,False,13.49
+zehrs,frozen,Chef Bombay,Mini Cholé Naanpanadas,Chef BombayMini Cholé Naanpanadas240 g,6.99,,each,2.91,,100g,True,False,6.99
+zehrs,frozen,Sweets From The Earth,Nut Free Cupcake,Sweets From The EarthNut Free Cupcake320 g,13.99,,each,4.37,,100g,True,False,13.99
+zehrs,frozen,Schneider,"Deep Dish Quiche Florentine, Spinach & Cheese","SchneiderDeep Dish Quiche Florentine, Spinach & Cheese624 g",16.99,,each,2.72,,100g,True,False,16.99
+zehrs,frozen,Roman,Meatballs,RomanMeatballs908 g,8.99,,each,0.99,,100g,True,False,8.99
+zehrs,frozen,Roman,"Cannelloni, Cheese","RomanCannelloni, Cheese908 g",8.99,,each,0.99,,100g,True,False,8.99
+zehrs,frozen,Bassilis Best,Best Shepherd's Pie,Bassilis BestBest Shepherd's Pie907 g,12.99,,each,1.43,,100g,True,False,12.99
+zehrs,frozen,Sol Cuisine,Mushroom Rice Burger,Sol CuisineMushroom Rice Burger284 g,7.49,,each,2.64,,100g,True,False,7.49
+zehrs,frozen,Pulp and Press,"& Press Juice, Spicy Lemon  ","Pulp and Press& Press Juice, Spicy Lemon  355 ml",7.99,,each,2.25,,100ml,True,False,7.99
+zehrs,frozen,Michelina,"Pizza Snack, Pepperoni","MichelinaPizza Snack, Pepperoni496 g",4.99,,each,1.01,,100g,True,False,4.99
+zehrs,frozen,President's Choice,Club Pack Fully Cooked Buttermilk Chicken Breast Fillets,President's ChoiceClub Pack Fully Cooked Buttermilk Chicken Breast Fillets1.81 kg,33.99,,each,1.88,,100g,True,False,33.99
+zehrs,frozen,President's Choice,Indian Hors D'oeuvre Collection,President's ChoiceIndian Hors D'oeuvre Collection800 g,7.99,,each,1.0,,100g,True,False,7.99
+zehrs,frozen,Silver Hills,100% Sprouted Power The Big 16 Sprouted Wheat Bread,Silver Hills100% Sprouted Power The Big 16 Sprouted Wheat Bread615 g,7.99,,each,1.3,,100g,True,False,7.99
+zehrs,frozen,Gardein,Pork Less Sweet & Sour Bites,GardeinPork Less Sweet & Sour Bites255 g,7.49,,each,2.94,,100g,True,False,7.49
+zehrs,frozen,President's Choice,"Plant Based Coconut Milk Frozen Dessert, Coconut","President's ChoicePlant Based Coconut Milk Frozen Dessert, Coconut500 ml",5.99,,each,1.2,,100ml,True,False,5.99
+zehrs,frozen,Swanson,Oven Roasters Seasoned Brussels Sprouts & Carrots,SwansonOven Roasters Seasoned Brussels Sprouts & Carrots425 g,6.49,,each,1.53,,100g,True,False,6.49
+zehrs,frozen,Kawartha,Chocolate Ice Cream,KawarthaChocolate Ice Cream1.5 l,8.99,,each,0.6,,100ml,True,False,8.99
+zehrs,frozen,Pillsbury,Pizza Pops 3 Cheese Flavour 30ct,PillsburyPizza Pops 3 Cheese Flavour 30ct2.85 kg,25.99,,each,0.91,,100g,True,False,25.99
+zehrs,frozen,TMRW, The Sausage,TMRW The Sausage240 g,7.99,,each,3.3299999999999996,,100g,True,False,7.99
+zehrs,frozen,Swanson,"Skillet Meals, Family Size Alfredo Chicken","SwansonSkillet Meals, Family Size Alfredo Chicken1.19 kg",13.69,,each,1.15,,100g,True,False,13.69
+zehrs,frozen,Tre Stelle,Cheez Made chicken-less nuggets,Tre StelleCheez Made chicken-less nuggets360 g,13.99,,each,3.89,,100g,True,False,13.99
+zehrs,frozen,So Delicious,"Dairy Free Cashew-Based Frozen Dessert, Creamy Chocolate","So DeliciousDairy Free Cashew-Based Frozen Dessert, Creamy Chocolate479 ml",8.49,,each,1.7,,100ml,True,False,8.49
+zehrs,frozen,Chapmans,Lolly Chocolate,ChapmansLolly Chocolate28x50.0 ml,5.99,,each,0.43,,100ml,True,False,5.99
+zehrs,frozen,Dream Pops,Vanilla Matcha Ice Cream,Dream PopsVanilla Matcha Ice Cream168 ml,7.49,,each,4.46,,100ml,True,False,7.49
+zehrs,frozen,Green Giant,Valley Selections Baby Blend,Green GiantValley Selections Baby Blend400 g,3.79,,each,0.95,,100g,True,False,3.79
+zehrs,frozen,Nestle,"CHIPS AHOY! Chocolate Chip Sandwich, 4-Pack","NestleCHIPS AHOY! Chocolate Chip Sandwich, 4-Pack500 ml",5.49,,each,1.1,,100ml,True,False,5.49
+zehrs,frozen,Sol Cuisine,Cauliflower Wings Buffalo Style Plant-Based,Sol CuisineCauliflower Wings Buffalo Style Plant-Based255 g,7.99,,each,3.1300000000000003,,100g,True,False,7.99
+zehrs,frozen,President's Choice,Extra Thick Onion Rings,President's ChoiceExtra Thick Onion Rings400 g,4.29,,each,1.07,,100g,True,False,4.29
+zehrs,frozen,Haagen Dazs,Divine Raspberry Cheesecake Light Ice Cream,Haagen DazsDivine Raspberry Cheesecake Light Ice Cream475 ml,6.99,,each,1.4699999999999998,,100ml,True,False,6.99
+zehrs,frozen,Little Northern Bakehouse,Millet & Chia Hamburger Buns,Little Northern BakehouseMillet & Chia Hamburger Buns320 g,6.99,,each,2.18,,100g,True,False,6.99
+zehrs,frozen,Green Giant,Riced Veggies Asian Stir Fry Style,Green GiantRiced Veggies Asian Stir Fry Style283 g,5.49,,each,1.94,,100g,True,False,5.49
+zehrs,frozen,Wholly Wholesome,Wholly Gluten Free Two 9” (23 Cm) Pie Shells,Wholly WholesomeWholly Gluten Free Two 9” (23 Cm) Pie Shells425 g,9.49,,each,2.23,,100g,True,False,9.49
+zehrs,frozen,Silver Hills,Sprouted Wheat Bread,Silver HillsSprouted Wheat Bread615 g,7.99,,each,1.3,,100g,True,False,7.99
+zehrs,frozen,,Organic Breaded Chicken Fillets,Organic Breaded Chicken Fillets480 g,14.99,,each,3.1199999999999997,,100g,True,False,14.99
+zehrs,frozen,Enlightened,Frozen Dessert Chocolate,EnlightenedFrozen Dessert Chocolate473 ml,9.49,,each,2.01,,100ml,True,False,9.49
+zehrs,frozen,The Keg,Prime Rib Beef Burger,The KegPrime Rib Beef Burger1.02 kg,22.99,,each,2.25,,100g,True,False,22.99
+zehrs,frozen,Enlightened,"Ice Cream, Bars Dark Chocolate Vanilla Almond","EnlightenedIce Cream, Bars Dark Chocolate Vanilla Almond324 ml",9.49,,each,2.93,,100ml,True,False,9.49
+zehrs,frozen,President's Choice,Carrot Pecan Cake,President's ChoiceCarrot Pecan Cake480 g,9.99,,each,2.08,,100g,True,False,9.99
+zehrs,frozen,President's Choice,"Gluten-free Waffles, Blueberry","President's ChoiceGluten-free Waffles, Blueberry320 g",3.99,,each,1.25,,100g,True,False,3.99
+zehrs,frozen,PC Organics,Organic Green Peas,PC OrganicsOrganic Green Peas500 g,5.49,,each,1.1,,100g,True,False,5.49
+zehrs,frozen,Kelloggs,"Frozen Eggos, Buttermilk","KelloggsFrozen Eggos, Buttermilk620 g",6.99,,each,1.13,,100g,True,False,6.99
+zehrs,frozen,Cool Whip,Low Fat Frozen Whipped Topping,Cool WhipLow Fat Frozen Whipped Topping1 l,4.99,,each,0.5,,100ml,True,False,4.99
+zehrs,frozen,No Name,Fruit Blend ,No NameFruit Blend 2 kg,14.99,,each,0.75,,100g,True,False,14.99
+zehrs,frozen,Mccain,Deep'n Delicious Cookies and Cream Cake,MccainDeep'n Delicious Cookies and Cream Cake510 g,6.99,,each,1.37,,100g,True,False,6.99
+zehrs,frozen,Foppen,Smoked Salmon Slices Flame Roasted ,FoppenSmoked Salmon Slices Flame Roasted 170 g,12.99,,each,7.64,,100g,True,False,12.99
+zehrs,frozen,Nestle,Drumstick Simply Dipped Vanilla,NestleDrumstick Simply Dipped Vanilla4x135.0 ml,7.99,,each,1.48,,100ml,True,False,7.99
+zehrs,frozen,Stouffers,"Bistro Flatbreads, Meatball Marinara","StouffersBistro Flatbreads, Meatball Marinara187 g",6.49,,each,3.47,,100g,True,False,6.49
+zehrs,frozen,Felix & Norton,Frozen Trois Cookie Dough,Felix & NortonFrozen Trois Cookie Dough500 g,8.99,,each,1.8,,100g,True,False,8.99
+zehrs,frozen,,Sausage Rolls,Sausage Rolls1 kg,10.0,,each,1.0,,100g,True,False,10.0
+zehrs,frozen,Cheemo,"Perogies, Potato, Bacon & Cheese","CheemoPerogies, Potato, Bacon & Cheese907 g",4.29,,each,0.47000000000000003,,100g,True,False,4.29
+zehrs,frozen,PC Blue Menu,Roasted Vegetable Lasagna,PC Blue MenuRoasted Vegetable Lasagna300 g,3.49,,each,1.16,,100g,True,False,3.49
+zehrs,frozen,Pogo,Smoky Bacon Sausage,PogoSmoky Bacon Sausage544 g,10.99,,each,2.02,,100g,True,False,10.99
+zehrs,frozen,President's Choice,Chicken Suisse 4 Pieces,President's ChoiceChicken Suisse 4 Pieces560 g,17.49,,each,3.12,,100g,True,False,17.49
+zehrs,frozen,Stouffers,"Bistro Flatbreads, 4 Cheese Grilled Chicken","StouffersBistro Flatbreads, 4 Cheese Grilled Chicken184 g",6.49,,each,3.53,,100g,True,False,6.49
+zehrs,frozen,President's Choice,Cream First Vanilla Ice Cream with Chocolate Fudge Crackle,President's ChoiceCream First Vanilla Ice Cream with Chocolate Fudge Crackle1.5 l,7.49,,each,0.5,,100ml,True,False,7.49
+zehrs,frozen,TMRW, Protein Shreds,TMRW Protein Shreds200 g,7.99,,each,4.0,,100g,True,False,7.99
+zehrs,frozen,Green Giant,"Valley Selections Essentials, California Blend","Green GiantValley Selections Essentials, California Blend500 g",3.79,,each,0.76,,100g,True,False,3.79
+zehrs,frozen,Halo Top,Ice Cream,Halo TopIce Cream473 ml,5.99,,each,1.27,,100ml,True,False,5.99
+zehrs,frozen,The Keg,Prime Rib Beef Burger,The KegPrime Rib Beef Burger1.02 kg,22.99,,each,2.25,,100g,True,False,22.99
+zehrs,frozen,Daiya,Cheese Cake NY Style,DaiyaCheese Cake NY Style400 g,9.99,8.49,each,2.494558303886926,2.12,100g,True,True,8.49
+zehrs,frozen,Pillsbury,Pizza Bites Pepperoni,PillsburyPizza Bites Pepperoni693 g,8.99,,each,1.3,,100g,True,False,8.99
+zehrs,frozen,Delissio,Singles Meat Lovers Pizza,DelissioSingles Meat Lovers Pizza374 g,6.0,3.49,each,1.5988538681948423,0.93,100g,True,True,3.49
+zehrs,frozen,Marie Callender's,Creamy White Mac,Marie Callender'sCreamy White Mac680 g,10.99,,each,1.62,,100g,True,False,10.99
+zehrs,frozen,Enlightened,"Ice Cream, Bars Dark Chocolate Vanilla Almond","EnlightenedIce Cream, Bars Dark Chocolate Vanilla Almond324 ml",9.49,,each,2.93,,100ml,True,False,9.49
+zehrs,frozen,Rise Kombucha,Kombucha Watermelon & Mint   ,Rise KombuchaKombucha Watermelon & Mint   414 ml,4.49,,each,1.08,,100ml,True,False,4.49
+zehrs,frozen,Tim Hortons,Fruit Explosion Ice Cream,Tim HortonsFruit Explosion Ice Cream500 ml,6.99,,each,1.4000000000000001,,100ml,True,False,6.99
+zehrs,frozen,Ben & Jerry's,"Ice Cream, Non-Dairy Frozen Dessert Chocolate Chip Cookie Dough ","Ben & Jerry'sIce Cream, Non-Dairy Frozen Dessert Chocolate Chip Cookie Dough 473 ml",5.0,4.44,each,1.0585585585585584,0.94,100ml,True,True,4.44
+zehrs,frozen,So Delicious,"Dairy Free Coconut-Based Frozen Dessert, Vanilla Bean","So DeliciousDairy Free Coconut-Based Frozen Dessert, Vanilla Bean500 ml",8.49,,each,1.7,,100ml,True,False,8.49
+zehrs,frozen,Stouffers,Bowl Fulls Cheesy Meatball Marinara,StouffersBowl Fulls Cheesy Meatball Marinara305 g,6.99,,each,2.29,,100g,True,False,6.99
+zehrs,frozen,Haagen Dazs,Pralines & Cream,Haagen DazsPralines & Cream500 ml,6.99,,each,1.4000000000000001,,100ml,True,False,6.99
+zehrs,frozen,President's Choice,"Squash, Kale & Beet Flatbread","President's ChoiceSquash, Kale & Beet Flatbread343 g",4.5,3.49,each,1.315186246418338,1.02,100g,True,True,3.49
+zehrs,frozen,President's Choice,Chocolate Frozen Yogurt,President's ChoiceChocolate Frozen Yogurt2 l,5.49,,each,0.27,,100ml,True,False,5.49
+zehrs,frozen,Chapmans,Sammich Vanilla,ChapmansSammich Vanilla20x60.0 ml,8.99,,each,0.75,,100ml,True,False,8.99
+zehrs,frozen,Mccain,"5 Minute Potato, Egg and Veggie Breakfast Bowl","Mccain5 Minute Potato, Egg and Veggie Breakfast Bowl200 g",5.99,,each,3.0,,100g,True,False,5.99
+zehrs,frozen,President's Choice,Maple Crunch Ice Cream,President's ChoiceMaple Crunch Ice Cream946 ml,4.49,3.99,each,0.47263157894736846,0.42,100ml,True,True,3.99
+zehrs,frozen,Minute Maid,Pina Colada Mixers,Minute MaidPina Colada Mixers250 ml,2.79,,each,1.12,,100ml,True,False,2.79
+zehrs,frozen,President's Choice,The Decadent Molten Chocolate Cakes,President's ChoiceThe Decadent Molten Chocolate Cakes216 g,4.99,,each,2.31,,100g,True,False,4.99
+zehrs,frozen,Delissio,Stuffed Crust Delux Pizza,DelissioStuffed Crust Delux Pizza744 g,8.49,,each,1.14,,100g,True,False,8.49
+zehrs,frozen,Delissio,Thin Crispy Crust Pepperoni Pizza,DelissioThin Crispy Crust Pepperoni Pizza475 g,7.29,,each,1.53,,100g,True,False,7.29
+zehrs,frozen,President's Choice,Loads Of Chocolatey Caramel Treats Light Ice Cream,President's ChoiceLoads Of Chocolatey Caramel Treats Light Ice Cream1.5 l,7.49,,each,0.5,,100ml,True,False,7.49
+zehrs,frozen,Haagen Dazs,Strawberry Cheesecake Ice Cream Bars,Haagen DazsStrawberry Cheesecake Ice Cream Bars3x72.0 ml,6.99,,each,3.24,,100ml,True,False,6.99
+zehrs,frozen,Dr Oetker, The Good Baker Margherita Pizza,Dr Oetker The Good Baker Margherita Pizza300 g,6.99,,each,2.33,,100g,True,False,6.99
+zehrs,frozen,President's Choice,"Loads Of Bacon, Pepperoni & Ham Thin Crust Pizza","President's ChoiceLoads Of Bacon, Pepperoni & Ham Thin Crust Pizza400 g",4.5,3.49,each,1.1217765042979941,0.87,100g,True,True,3.49
+zehrs,frozen,Mikes,Pizza Deluxe,MikesPizza Deluxe845 g,10.49,,each,1.2400000000000002,,100g,True,False,10.49
+zehrs,frozen,President's Choice,Chicken Korma,President's ChoiceChicken Korma350 g,4.0,3.49,each,1.146131805157593,1.0,100g,True,True,3.49
+zehrs,frozen,President's Choice,Maple Crunch Mini Ice Cream Bars,President's ChoiceMaple Crunch Mini Ice Cream Bars330 ml,6.49,,each,1.97,,100ml,True,False,6.49
+zehrs,frozen,Healthy Choice,"Gourmet Steamers, Pineapple Chicken","Healthy ChoiceGourmet Steamers, Pineapple Chicken298 g",5.79,,each,1.94,,100g,True,False,5.79
+zehrs,frozen,President's Choice,Honey Barbecue Pork Back Ribs,President's ChoiceHoney Barbecue Pork Back Ribs680 g,15.99,,each,2.35,,100g,True,False,15.99
+zehrs,frozen,Haagen Dazs,Vanilla Ice Cream,Haagen DazsVanilla Ice Cream500 ml,6.99,,each,1.4000000000000001,,100ml,True,False,6.99
+zehrs,frozen,So Delicious,Dairy Free Salted Caramel Swirl Mousse,So DeliciousDairy Free Salted Caramel Swirl Mousse500 ml,7.49,,each,1.5,,100ml,True,False,7.49
+zehrs,frozen,President's Choice,Creamy Mushroom Flatbread ,President's ChoiceCreamy Mushroom Flatbread 330 g,4.5,3.49,each,1.36676217765043,1.06,100g,True,True,3.49
+zehrs,frozen,Carbonaut,Bread Seeded,CarbonautBread Seeded544 g,8.99,7.99,each,1.6539799749687107,1.47,100g,True,True,7.99
+zehrs,frozen,President's Choice,Plant Based Fishless Cakes,President's ChoicePlant Based Fishless Cakes170 g,3.99,,each,2.35,,100g,True,False,3.99
+zehrs,frozen,Furlani,Frozen Garlic Bread,FurlaniFrozen Garlic Bread284 g,2.49,,each,0.8800000000000001,,100g,True,False,2.49
+zehrs,frozen,,Southern-Style Popcorn Chicken,Southern-Style Popcorn Chicken1.13 kg,10.0,,each,0.88,,100g,True,False,10.0
+zehrs,frozen,Haagen Dazs,Chocolate Hazelnut Ice Cream Tub,Haagen DazsChocolate Hazelnut Ice Cream Tub500 ml,6.99,,each,1.4000000000000001,,100ml,True,False,6.99
+zehrs,frozen,President's Choice,Thin & Crispy Roasted Mushroom And Garlic Pizza,President's ChoiceThin & Crispy Roasted Mushroom And Garlic Pizza375 g,4.5,3.49,each,1.1991404011461317,0.93,100g,True,True,3.49
+zehrs,frozen,Chef Bombay,Vegetables Pakoras,Chef BombayVegetables Pakoras240 g,6.99,,each,2.91,,100g,True,False,6.99
+zehrs,frozen,New Zealand,Lamb Sausage,New ZealandLamb Sausage500 g,9.99,,each,19.98,,1kg,True,False,9.99
+zehrs,frozen,Enlightened,Cheesecake Classic,EnlightenedCheesecake Classic159 g,9.49,,each,5.97,,100g,True,False,9.49
+zehrs,frozen,Chef Bombay,Chicken Tikka Masala,Chef BombayChicken Tikka Masala350 g,6.99,,each,2.0,,100g,True,False,6.99
+zehrs,frozen,Chef Bombay,Palak Paneer,Chef BombayPalak Paneer350 g,6.99,,each,2.0,,100g,True,False,6.99
+zehrs,frozen,,"All-Seasoned Salmon Sausage, Italian","All-Seasoned Salmon Sausage, Italian",5.73,,each,22.02,,1kg,True,False,5.73
+zehrs,frozen,Mina,Halal Mozzarella Stuffed Chicken,MinaHalal Mozzarella Stuffed Chicken568 g,14.99,,each,2.64,,100g,True,False,14.99
+zehrs,frozen,Little Northern Bakehouse,Artisan Style Pizza Crust Original Gluten Free,Little Northern BakehouseArtisan Style Pizza Crust Original Gluten Free300 g,10.99,,each,3.66,,100g,True,False,10.99
+zehrs,frozen,Green Giant,Valley Selections Cut Broccoli,Green GiantValley Selections Cut Broccoli500 g,3.79,,each,0.76,,100g,True,False,3.79
+zehrs,frozen,Furlani,"Texas Toast, Garlic","FurlaniTexas Toast, Garlic638 g",4.49,,each,0.7,,100g,True,False,4.49
+zehrs,frozen,Delissio,Crispy Pan Meat Lovers Pizza,DelissioCrispy Pan Meat Lovers Pizza598 g,8.49,,each,1.42,,100g,True,False,8.49
+zehrs,frozen,Daiya,Cheese Cake Key Lime,DaiyaCheese Cake Key Lime400 g,9.99,8.49,each,2.494558303886926,2.12,100g,True,True,8.49
+zehrs,frozen,No Name,Potato & Bacon Flavour Perogies ,No NamePotato & Bacon Flavour Perogies 907 g,2.79,,each,0.31,,100g,True,False,2.79
+zehrs,frozen,Enlightened,Peanut Butter Chocolate Bar,EnlightenedPeanut Butter Chocolate Bar324 ml,9.49,,each,2.93,,100ml,True,False,9.49
+zehrs,frozen,Impossible Foods Inc.,Chicken Nuggets Made From Plants,Impossible Foods Inc.Chicken Nuggets Made From Plants383 g,9.99,,each,2.61,,100g,True,False,9.99
+zehrs,frozen,CAVENDISH FARMS,Onion Hash Brown Patties,CAVENDISH FARMSOnion Hash Brown Patties1.2 kg,6.99,,each,0.58,,100g,True,False,6.99
+zehrs,frozen,Healthy Choice,Basil Pesto Chicken,Healthy ChoiceBasil Pesto Chicken262 g,7.49,,each,2.86,,100g,True,False,7.49
+zehrs,frozen,Wholly Veggie,Vegan Cauliflower Wings,Wholly VeggieVegan Cauliflower Wings375 g,8.99,7.49,each,2.4005340453938584,2.0,100g,True,True,7.49
+zehrs,frozen,Halo Top,Mint Chip,Halo TopMint Chip473 ml,5.99,,each,1.27,,100ml,True,False,5.99
+zehrs,frozen,Charoen Pokphand,Chicken Pho Noodles Soup,Charoen PokphandChicken Pho Noodles Soup0.25 kg,5.49,,each,2.2,,100g,True,False,5.49
+zehrs,frozen,Mama Yolanda's,Mini Gourmet Bolognese Lasagna,Mama Yolanda'sMini Gourmet Bolognese Lasagna1.22 kg,14.99,12.99,each,1.2232024634334104,1.06,100g,True,True,12.99
+zehrs,frozen,Carbonaut,Pizza Crust Not So Thin,CarbonautPizza Crust Not So Thin216 g,10.99,,each,5.09,,100g,True,False,10.99
+zehrs,frozen,Amys,"Gluten-Free Burrito, Cheddar Cheese","AmysGluten-Free Burrito, Cheddar Cheese156 g",4.49,,each,2.88,,100g,True,False,4.49
+zehrs,frozen,Kinnikinnick,Donuts Chocolate Dipped,KinnikinnickDonuts Chocolate Dipped320 g,6.99,,each,2.18,,100g,True,False,6.99
+zehrs,frozen,Little Northern Bakehouse,Cinnamon & Raisin Bread,Little Northern BakehouseCinnamon & Raisin Bread482 g,6.0,5.0,each,1.248,1.04,100g,True,True,5.0
+zehrs,frozen,Millennia Tea,Raw Chopped Green Tea Organic Superfood Tea,Millennia TeaRaw Chopped Green Tea Organic Superfood Tea120 g,16.99,15.99,each,14.163646028767978,13.33,100g,True,True,15.99
+zehrs,frozen,Dr. Praeger's,Purely Sensible Foods Hash Browns Four Potato 8 Patties,Dr. Praeger'sPurely Sensible Foods Hash Browns Four Potato 8 Patties255 g,7.69,,each,3.02,,100g,True,False,7.69
+zehrs,frozen,Unbun,Radically Honest Bagels Cinnamon Raisin,UnbunRadically Honest Bagels Cinnamon Raisin360 g,12.99,10.99,each,3.605050045495905,3.05,100g,True,True,10.99
+zehrs,frozen,Roman,Lasagna,RomanLasagna908 g,8.99,,each,0.99,,100g,True,False,8.99
+zehrs,frozen,No Name,Chocolatey Chip Ice Cream Sandwiches,No NameChocolatey Chip Ice Cream Sandwiches24x120.0 ml,9.99,,each,0.35,,100ml,True,False,9.99
+zehrs,frozen,Gardein,Chick'n Tenders Nashville-Style Hot,GardeinChick'n Tenders Nashville-Style Hot230 g,6.49,,each,2.82,,100g,True,False,6.49
+zehrs,frozen,Ready Bake,Frozen Bread Dough White,Ready BakeFrozen Bread Dough White445 g,7.99,,each,1.8,,100g,True,False,7.99
+zehrs,frozen,Gardein,Breakfast Saus'age Patties Maple,GardeinBreakfast Saus'age Patties Maple190 g,8.49,,each,4.47,,100g,True,False,8.49
+zehrs,frozen,The Original,Original Shakesicle  Vanilla Frozen Dessert Bars,The OriginalOriginal Shakesicle  Vanilla Frozen Dessert Bars60 ml,6.99,,each,11.65,,100ml,True,False,6.99
+zehrs,frozen,Green Giant,Bean & Carrot Medley,Green GiantBean & Carrot Medley500 g,3.79,,each,0.76,,100g,True,False,3.79
+zehrs,frozen,President's Choice,Crisp & Crunchy Mild Southern-Style Chicken Wings,President's ChoiceCrisp & Crunchy Mild Southern-Style Chicken Wings1.81 kg,29.99,,each,1.6600000000000001,,100g,True,False,29.99
+zehrs,frozen,President's Choice,General Tao Chicken,President's ChoiceGeneral Tao Chicken350 g,4.99,3.49,each,1.4297994269340975,1.0,100g,True,True,3.49
+zehrs,frozen,The Original,Original Shakesicle Bars Strawberry Frozen Dairy Dessert,The OriginalOriginal Shakesicle Bars Strawberry Frozen Dairy Dessert60 ml,6.99,,each,11.65,,100ml,True,False,6.99
+zehrs,frozen,Michelina,Fettuccine Alfredo,MichelinaFettuccine Alfredo284 g,2.49,,each,0.8800000000000001,,100g,True,False,2.49
+zehrs,frozen,TMRW, Protein Shreds,TMRW Protein Shreds200 g,7.99,,each,4.0,,100g,True,False,7.99
+zehrs,frozen,No Name,"Green Peas, Club Size","No NameGreen Peas, Club Size2 kg",7.49,,each,0.36999999999999994,,100g,True,False,7.49
+zehrs,frozen,President's Choice,Mint Chocolate Ice Cream,President's ChoiceMint Chocolate Ice Cream946 ml,4.49,3.99,each,0.47263157894736846,0.42,100ml,True,True,3.99
+zehrs,frozen,President's Choice,Plant Based Chickenless Breaded Cutlets,President's ChoicePlant Based Chickenless Breaded Cutlets340 g,8.99,,each,2.64,,100g,True,False,8.99
+zehrs,frozen,Haagen Dazs,Vanilla Almond Ice Cream Bars,Haagen DazsVanilla Almond Ice Cream Bars3x88.0 ml,6.99,,each,2.65,,100ml,True,False,6.99
+zehrs,frozen,President's Choice,Pork and Smoky Bacon Skewers,President's ChoicePork and Smoky Bacon Skewers450 g,15.99,,each,3.5499999999999994,,100g,True,False,15.99
+zehrs,frozen,President's Choice,"Chicken Wings Club Pack, Honey Garlic","President's ChoiceChicken Wings Club Pack, Honey Garlic1.81 kg",29.99,,each,1.6600000000000001,,100g,True,False,29.99
+zehrs,frozen,CAVENDISH FARMS,Onion Hash Brown Patties,CAVENDISH FARMSOnion Hash Brown Patties600 g,3.99,3.49,each,0.6630945558739255,0.58,100g,True,True,3.49
+zehrs,frozen,President's Choice,Vanilla Bean Mochi,President's ChoiceVanilla Bean Mochi6x35.0 ml,6.49,,each,3.09,,100ml,True,False,6.49
+zehrs,frozen,No Name,Mixed Garden Vegetables,No NameMixed Garden Vegetables750 g,3.29,,each,0.44,,100g,True,False,3.29
+zehrs,frozen,Mccain,Deep'n Delicious Coconut Vanilla Cake,MccainDeep'n Delicious Coconut Vanilla Cake510 g,6.99,,each,1.37,,100g,True,False,6.99
+zehrs,frozen,Nature's Path,Gluten Free Chocolate Chip Waffle,Nature's PathGluten Free Chocolate Chip Waffle210 g,5.49,4.49,each,2.6166146993318486,2.14,100g,True,True,4.49
+zehrs,frozen,,Buttermilk Chicken Tenders,Buttermilk Chicken Tenders1.2 kg,10.0,,each,0.83,,100g,True,False,10.0
+zehrs,frozen,Honeydew,Frozen Concentrated Fruit Beverage Tropical Fruit Punch,HoneydewFrozen Concentrated Fruit Beverage Tropical Fruit Punch355 ml,1.79,,each,0.5,,100ml,True,False,1.79
+zehrs,frozen,Yves,Veggie Nuggets With Whole Wheat Breading Simulated Chicken Nuggets,YvesVeggie Nuggets With Whole Wheat Breading Simulated Chicken Nuggets320 g,6.99,,each,2.18,,100g,True,False,6.99
+zehrs,frozen,President's Choice,Rosemary & Garlic Rack,President's ChoiceRosemary & Garlic Rack,34.5,,each,68.32,,1kg,True,False,34.5
+zehrs,frozen,Dynasty Meats,Lamb Skewers ,Dynasty MeatsLamb Skewers 300 g,19.99,,each,6.659999999999999,,100g,True,False,19.99
+zehrs,frozen,Cosmic Bliss,Dairy-Free Frozen Dessert Chocolate Peanut Butter,Cosmic BlissDairy-Free Frozen Dessert Chocolate Peanut Butter473 ml,9.99,,each,2.11,,100ml,True,False,9.99
+zehrs,frozen,Dose,Yogi Cold Pressed Juice,DoseYogi Cold Pressed Juice300 ml,7.49,,each,2.5,,100ml,True,False,7.49
+zehrs,frozen,Green Giant,Valley Selections Stir Fry Medley,Green GiantValley Selections Stir Fry Medley400 g,3.79,,each,0.95,,100g,True,False,3.79
+zehrs,frozen,Kawartha,Black Raspberry Ice Cream,KawarthaBlack Raspberry Ice Cream1.5 l,8.99,,each,0.6,,100ml,True,False,8.99
+zehrs,frozen,Nature's Path,"Flax Plus Waffles, Buckwheat Wildberry","Nature's PathFlax Plus Waffles, Buckwheat Wildberry210 g",5.49,4.49,each,2.6166146993318486,2.14,100g,True,True,4.49
+zehrs,frozen,No Name,Meat Lasagna,No NameMeat Lasagna2.27 kg,14.99,,each,0.66,,100g,True,False,14.99
+zehrs,frozen,President's Choice,Ready Veggie Zucchini Noodles ,President's ChoiceReady Veggie Zucchini Noodles 350 g,5.49,,each,1.57,,100g,True,False,5.49
+zehrs,frozen,BlueWater Seafoods,BlueWater Seafoods Shrimp Garlic Herb,BlueWater SeafoodsBlueWater Seafoods Shrimp Garlic Herb210 g,8.49,,each,4.04,,100g,True,False,8.49
+zehrs,frozen,Righteous,Dairy Free Mango Pineapple Sorbetto,RighteousDairy Free Mango Pineapple Sorbetto562 ml,9.99,9.49,each,1.7790410958904108,1.69,100ml,True,True,9.49
+zehrs,frozen,President's Choice,"Plant Based Black Bean, Corn and Sweet Potato Veggie Burgers","President's ChoicePlant Based Black Bean, Corn and Sweet Potato Veggie Burgers452 g",7.99,,each,1.77,,100g,True,False,7.99
+zehrs,frozen,Stouffers,"Fit Wraps, Greek Chicken","StouffersFit Wraps, Greek Chicken145 g",6.99,,each,4.82,,100g,True,False,6.99
+zehrs,frozen,Nestle,"Drumstick, Vanilla Fudge/Vanilla Caramel","NestleDrumstick, Vanilla Fudge/Vanilla Caramel18x140.0 ml",21.99,,each,0.87,,100ml,True,False,21.99
+zehrs,frozen,President's Choice, Atlantic Salmon Burger,President's Choice Atlantic Salmon Burger568 g,13.99,,each,2.46,,100g,True,False,13.99
+zehrs,frozen,President's Choice,Free From Turkey Meatballs,President's ChoiceFree From Turkey Meatballs800 g,15.99,,each,2.0,,100g,True,False,15.99
+zehrs,frozen,President's Choice,Shepherd's Pies,President's ChoiceShepherd's Pies900 g,11.49,,each,1.28,,100g,True,False,11.49
+zehrs,frozen,Magnum,Rapberry Ice Cream ,MagnumRapberry Ice Cream 3x90.0 ml,5.0,4.44,each,1.8468468468468466,1.64,100ml,True,True,4.44
+zehrs,frozen,Gardein,Fishless Fillet,GardeinFishless Fillet288 g,7.49,,each,2.6,,100g,True,False,7.49
+zehrs,frozen,President's Choice,"Strawberries, Raspberries, Blackberries & Blueberries 4-Berry Blend, Club Size","President's ChoiceStrawberries, Raspberries, Blackberries & Blueberries 4-Berry Blend, Club Size2 kg",19.99,,each,1.0,,100g,True,False,19.99
+zehrs,frozen,No Name,Original Waffles,No NameOriginal Waffles1680 g,13.99,,each,0.83,,100g,True,False,13.99
+zehrs,frozen,BlueWater Seafoods,Fish Sticks Tempura Portions,BlueWater SeafoodsFish Sticks Tempura Portions600 g,8.49,,each,1.42,,100g,True,False,8.49
+zehrs,frozen,JUST Egg,Just Egg Plant,JUST EggJust Egg Plant56.75 g,7.49,6.49,each,13.202711864406778,11.44,100g,True,True,6.49
+zehrs,frozen,Wholly Veggie,Mozzarella Sticks,Wholly VeggieMozzarella Sticks283 g,7.49,6.99,each,2.646680972818312,2.47,100g,True,True,6.99
+zehrs,frozen,President's Choice,Rotisserie-Style Chicken Wings,President's ChoiceRotisserie-Style Chicken Wings907 g,15.99,,each,1.76,,100g,True,False,15.99
+zehrs,frozen,Wall’s,"Ice Cream, Bubble Tea Milk Tea & Boba Pearls Flavours, with Chewy Tapioca Balls","Wall’sIce Cream, Bubble Tea Milk Tea & Boba Pearls Flavours, with Chewy Tapioca Balls6 ea",5.99,5.49,each,1.0037887067395264,0.92,1ea,True,True,5.49
+zehrs,frozen,So Delicious,"Dairy Free Cashew-Based Frozen Dessert, Dark Chocolate Truffle","So DeliciousDairy Free Cashew-Based Frozen Dessert, Dark Chocolate Truffle500 ml",8.49,,each,1.7,,100ml,True,False,8.49
+zehrs,frozen,Mccain,"Deep'n Delicious® MINIS Chocolate Brownie Cake Cups, 4-pk","MccainDeep'n Delicious® MINIS Chocolate Brownie Cake Cups, 4-pk340 g",7.79,,each,2.29,,100g,True,False,7.79
+zehrs,frozen,Healthy Choice,Simply Chicken Pesto Veg,Healthy ChoiceSimply Chicken Pesto Veg259 g,5.79,,each,2.24,,100g,True,False,5.79
+zehrs,frozen,Evive,Smoothie Cubes Saphir,EviveSmoothie Cubes Saphir405 g,11.99,,each,2.9600000000000004,,100g,True,False,11.99
+zehrs,frozen,Magnum,Rapberry Ice Cream ,MagnumRapberry Ice Cream 3x90.0 ml,5.0,4.44,each,1.8468468468468466,1.64,100ml,True,True,4.44
+zehrs,frozen,Gardein,Fishless Fillet,GardeinFishless Fillet288 g,7.49,,each,2.6,,100g,True,False,7.49
+zehrs,frozen,President's Choice,"Strawberries, Raspberries, Blackberries & Blueberries 4-Berry Blend, Club Size","President's ChoiceStrawberries, Raspberries, Blackberries & Blueberries 4-Berry Blend, Club Size2 kg",19.99,,each,1.0,,100g,True,False,19.99
+zehrs,frozen,No Name,Original Waffles,No NameOriginal Waffles1680 g,13.99,,each,0.83,,100g,True,False,13.99
+zehrs,frozen,BlueWater Seafoods,Fish Sticks Tempura Portions,BlueWater SeafoodsFish Sticks Tempura Portions600 g,8.49,,each,1.42,,100g,True,False,8.49
+zehrs,frozen,JUST Egg,Just Egg Plant,JUST EggJust Egg Plant56.75 g,7.49,6.49,each,13.202711864406778,11.44,100g,True,True,6.49
+zehrs,frozen,Wholly Veggie,Mozzarella Sticks,Wholly VeggieMozzarella Sticks283 g,7.49,6.99,each,2.646680972818312,2.47,100g,True,True,6.99
+zehrs,frozen,President's Choice,Rotisserie-Style Chicken Wings,President's ChoiceRotisserie-Style Chicken Wings907 g,15.99,,each,1.76,,100g,True,False,15.99
+zehrs,frozen,Wall’s,"Ice Cream, Bubble Tea Milk Tea & Boba Pearls Flavours, with Chewy Tapioca Balls","Wall’sIce Cream, Bubble Tea Milk Tea & Boba Pearls Flavours, with Chewy Tapioca Balls6 ea",5.99,5.49,each,1.0037887067395264,0.92,1ea,True,True,5.49
+zehrs,frozen,So Delicious,"Dairy Free Cashew-Based Frozen Dessert, Dark Chocolate Truffle","So DeliciousDairy Free Cashew-Based Frozen Dessert, Dark Chocolate Truffle500 ml",8.49,,each,1.7,,100ml,True,False,8.49
+zehrs,frozen,Mccain,"Deep'n Delicious® MINIS Chocolate Brownie Cake Cups, 4-pk","MccainDeep'n Delicious® MINIS Chocolate Brownie Cake Cups, 4-pk340 g",7.79,,each,2.29,,100g,True,False,7.79
+zehrs,frozen,Healthy Choice,Simply Chicken Pesto Veg,Healthy ChoiceSimply Chicken Pesto Veg259 g,5.79,,each,2.24,,100g,True,False,5.79
+zehrs,frozen,Evive,Smoothie Cubes Saphir,EviveSmoothie Cubes Saphir405 g,11.99,,each,2.9600000000000004,,100g,True,False,11.99
+zehrs,frozen,No Name,Mixed Garden Vegetables,No NameMixed Garden Vegetables750 g,3.29,,each,0.44,,100g,True,False,3.29
+zehrs,frozen,President's Choice,Crisp & Crunchy Mild Southern-Style Chicken Wings,President's ChoiceCrisp & Crunchy Mild Southern-Style Chicken Wings1.81 kg,29.99,,each,1.6600000000000001,,100g,True,False,29.99
+zehrs,frozen,Janes,Little Wins Chicken & Vegetable Chicken Strips,JanesLittle Wins Chicken & Vegetable Chicken Strips600 g,15.99,,each,2.67,,100g,True,False,15.99
+zehrs,frozen,Dream Pops,Vanilla Sky Bites,Dream PopsVanilla Sky Bites118 ml,8.99,,each,7.62,,100ml,True,False,8.99
+zehrs,frozen,Sweets From The Earth,Chocolate Chip Cookie Dough,Sweets From The EarthChocolate Chip Cookie Dough454 g,9.99,,each,2.2,,100g,True,False,9.99
+zehrs,frozen,Roman,Lasagna Ricotta,RomanLasagna Ricotta908 g,8.99,,each,0.99,,100g,True,False,8.99
+zehrs,frozen,Chapmans,Cherry Centre Super Cone,ChapmansCherry Centre Super Cone8x120.0 ml,8.99,,each,0.94,,100ml,True,False,8.99
+zehrs,frozen,Ben & Jerry's,Ice Cream Chocolate Chip Cookie Dough Core Non-GMO ,Ben & Jerry'sIce Cream Chocolate Chip Cookie Dough Core Non-GMO 473 ml,5.0,4.44,each,1.0585585585585584,0.94,100ml,True,True,4.44
+zehrs,frozen,Boston Market,Sweet & Sour Chicken ,Boston MarketSweet & Sour Chicken 397 g,5.49,,each,1.38,,100g,True,False,5.49
+zehrs,frozen,Shaw's,Grammy'S Cupboard ,Shaw'sGrammy'S Cupboard 1.5 l,8.99,,each,0.6,,100ml,True,False,8.99
+zehrs,frozen,Chapmans,Neapolitan,ChapmansNeapolitan2 l,5.99,,each,0.3,,100ml,True,False,5.99
+zehrs,frozen,Haagen Dazs,Ice Cream Extraaz Layers Mocha Cheesecake ,Haagen DazsIce Cream Extraaz Layers Mocha Cheesecake 414 ml,6.99,,each,1.69,,100ml,True,False,6.99
+zehrs,frozen,Dr Oetker,Momenti Pepperoni Pizza,Dr OetkerMomenti Pepperoni Pizza170 g,4.99,,each,2.94,,100g,True,False,4.99
+zehrs,frozen,Nature's Path,Envirokidz Polar Beary Waffles Pink Blueberry Organic,Nature's PathEnvirokidz Polar Beary Waffles Pink Blueberry Organic240 g,6.49,5.49,each,2.7071220400728597,2.29,100g,True,True,5.49
+zehrs,frozen,Cosmic Bliss,Dairy-Free Frozen Dessert Dark Chocolate,Cosmic BlissDairy-Free Frozen Dessert Dark Chocolate473 ml,9.99,,each,2.11,,100ml,True,False,9.99
+zehrs,frozen,Sol Cuisine,Crispy Chik'N Tenders Plant Based,Sol CuisineCrispy Chik'N Tenders Plant Based300 g,7.49,,each,2.5,,100g,True,False,7.49
+zehrs,frozen,Magnum,Frozen Dessert Bar Non-Dairy Almond Certified Vegan,MagnumFrozen Dessert Bar Non-Dairy Almond Certified Vegan270 ml,5.0,4.44,each,1.8468468468468466,1.64,100ml,True,True,4.44
+zehrs,frozen,Schneider,"Deep Dish Quiche Lorraine, Ham & Cheese","SchneiderDeep Dish Quiche Lorraine, Ham & Cheese624 g",16.99,,each,2.72,,100g,True,False,16.99
+zehrs,frozen,Roman,Lasagna,RomanLasagna2.25 kg,14.99,,each,0.67,,100g,True,False,14.99
+zehrs,frozen,Binggrae,Melona Frozen Dessert Bars Honeydew Melon,BinggraeMelona Frozen Dessert Bars Honeydew Melon560 ml,6.99,,each,1.25,,100ml,True,False,6.99
+zehrs,frozen,No Name,Diced Hash Browns,No NameDiced Hash Browns1 kg,3.49,,each,0.35,,100g,True,False,3.49
+zehrs,frozen,President's Choice,Loads Of Raspberry Fruit Bars,President's ChoiceLoads Of Raspberry Fruit Bars480 ml,6.99,,each,1.4599999999999997,,100ml,True,False,6.99
+zehrs,frozen,Yves,Veggie Meatballs Simulated Meatballs,YvesVeggie Meatballs Simulated Meatballs4x352.0 g,6.99,,each,0.5,,100g,True,False,6.99
+zehrs,frozen,Green Giant,French Style Green Beans,Green GiantFrench Style Green Beans750 g,3.79,,each,0.51,,100g,True,False,3.79
+zehrs,frozen,Queen St. Bakery,Gluten Free Chia Classic Bread,Queen St. BakeryGluten Free Chia Classic Bread480 g,7.99,6.99,each,1.6688698140200284,1.46,100g,True,True,6.99
+zehrs,frozen,Janes,Chicken Burgers,JanesChicken Burgers852 g,13.49,,each,1.58,,100g,True,False,13.49
+zehrs,frozen,Wall’s,Malai Kulfi Ice Cream,Wall’sMalai Kulfi Ice Cream1.41 l,5.99,5.49,each,0.4255191256830601,0.39,100ml,True,True,5.49
+zehrs,frozen,Dose,Zest Cold Pressed Juice   ,DoseZest Cold Pressed Juice   300 ml,7.49,,each,2.5,,100ml,True,False,7.49
+zehrs,frozen,Dose,Tango Cold Pressed Juice   ,DoseTango Cold Pressed Juice   300 ml,7.49,,each,2.5,,100ml,True,False,7.49
+zehrs,frozen,Kawartha,Moose Tracks Ice Cream,KawarthaMoose Tracks Ice Cream1.5 l,8.99,,each,0.6,,100ml,True,False,8.99
+zehrs,frozen,Amys,Mattar Paneer,AmysMattar Paneer284 g,4.49,,each,1.58,,100g,True,False,4.49
+zehrs,frozen,Shaw's,Chocolate Peanut Butter ,Shaw'sChocolate Peanut Butter 1.5 l,8.99,,each,0.6,,100ml,True,False,8.99
+zehrs,frozen,Boston Market,Meatloaf,Boston MarketMeatloaf397 g,5.49,,each,1.38,,100g,True,False,5.49
+zehrs,frozen,Chapmans,Mint Chip,ChapmansMint Chip2 l,5.99,,each,0.3,,100ml,True,False,5.99
+zehrs,frozen,Carbonaut,Bagels Plain,CarbonautBagels Plain335 g,9.99,,each,2.98,,100g,True,False,9.99
+zehrs,frozen,Schneider,"Deep Dish Quiche Lorraine, Ham & Cheese","SchneiderDeep Dish Quiche Lorraine, Ham & Cheese624 g",16.99,,each,2.72,,100g,True,False,16.99
+zehrs,frozen,Daiya,Vegetable Crust Pizza Meatless Pepperoni Flavoured with Jalapeño,DaiyaVegetable Crust Pizza Meatless Pepperoni Flavoured with Jalapeño405 g,10.99,8.49,each,2.718374558303887,2.1,100g,True,True,8.49
+zehrs,frozen,Chapmans,Yukon Cookies & Cream Moose Sandwich,ChapmansYukon Cookies & Cream Moose Sandwich8x150.0 ml,8.99,,each,0.75,,100ml,True,False,8.99
+zehrs,frozen,Swanson,Oven Roasters Seasoned Red Potato Wedges & Onions,SwansonOven Roasters Seasoned Red Potato Wedges & Onions425 g,6.49,,each,1.53,,100g,True,False,6.49
+zehrs,frozen,BlueWater Seafoods,English Style Classic Cut Fillets,BlueWater SeafoodsEnglish Style Classic Cut Fillets725 g,16.99,,each,2.34,,100g,True,False,16.99
+zehrs,frozen,No Name,"Chicken Burger, Club Pack","No NameChicken Burger, Club Pack1810 g",12.49,,each,0.69,,100g,True,False,12.49
+zehrs,frozen,Delissio,Singles 3 Cheese Pizza,DelissioSingles 3 Cheese Pizza360 g,6.0,3.49,each,1.6676217765042978,0.97,100g,True,True,3.49
+zehrs,frozen,,In Homestyle Brown Gravy Salisbury Meat Pot Pie,In Homestyle Brown Gravy Salisbury Meat Pot Pie470 g,10.99,,each,2.34,,100g,True,False,10.99
+zehrs,frozen,Amys,"Gluten-Free Burrito, Beans & Rice","AmysGluten-Free Burrito, Beans & Rice156 g",4.49,,each,2.88,,100g,True,False,4.49
+zehrs,frozen,Righteous,Dairy Free Dark Chocolate Plant Based Gelato,RighteousDairy Free Dark Chocolate Plant Based Gelato562 ml,10.99,,each,1.96,,100ml,True,False,10.99
+zehrs,frozen,Healthy Choice,Power Bowl Chicken,Healthy ChoicePower Bowl Chicken262 g,7.49,,each,2.86,,100g,True,False,7.49
+zehrs,frozen,Ben & Jerry's,"Ice Cream, Non-Dairy Frozen Dessert The Tonight Dough Certified Vegan","Ben & Jerry'sIce Cream, Non-Dairy Frozen Dessert The Tonight Dough Certified Vegan473 ml",5.0,4.44,each,1.0585585585585584,0.94,100ml,True,True,4.44
+zehrs,frozen,Cheemo,"Heritage Pierogies, Harvest Potatoes with Aged White Cheddar Cheese","CheemoHeritage Pierogies, Harvest Potatoes with Aged White Cheddar Cheese815 g",4.29,,each,0.53,,100g,True,False,4.29
+zehrs,frozen,Unbun,Keto Paleo Buns,UnbunKeto Paleo Buns350 g,10.99,9.99,each,3.1352852852852857,2.85,100g,True,True,9.99
+zehrs,frozen,Millennia Tea, Superfood Tea Cubes,Millennia Tea Superfood Tea Cubes81 g,12.99,11.99,each,16.03436196830692,14.8,100g,True,True,11.99
+zehrs,frozen,Chapmans,Vanilla Yogurt Sandwich,ChapmansVanilla Yogurt Sandwich12x120.0 ml,8.99,,each,0.62,,100ml,True,False,8.99
+zehrs,frozen,Blender Bites,Green D-Tox One Step Smoothie Puck Organic,Blender BitesGreen D-Tox One Step Smoothie Puck Organic540 g,14.99,12.99,each,2.7810546574287915,2.41,100g,True,True,12.99
+zehrs,frozen,Shaw's,Ice Cream Unicorn Toots,Shaw'sIce Cream Unicorn Toots1.5 l,8.99,,each,0.6,,100ml,True,False,8.99
+zehrs,frozen,President's Choice,Breaded Haddock Fillets,President's ChoiceBreaded Haddock Fillets550 g,17.99,,each,3.2700000000000005,,100g,True,False,17.99
+zehrs,frozen,Pulp and Press,Fruit & Vegetable Juice Rinse & Rebeet,Pulp and PressFruit & Vegetable Juice Rinse & Rebeet355 ml,7.99,,each,2.25,,100ml,True,False,7.99
+zehrs,frozen,President's Choice,Thick & Juicy Beef Burgers,President's ChoiceThick & Juicy Beef Burgers2.72 kg,31.99,,each,1.18,,100g,True,False,31.99
+zehrs,frozen,Unbun,Everything Unbagels,UnbunEverything Unbagels360 g,12.99,10.99,each,3.605050045495905,3.05,100g,True,True,10.99
+zehrs,frozen,Righteous,Lavender London Fog Gelato   ,RighteousLavender London Fog Gelato   562 ml,10.99,,each,1.96,,100ml,True,False,10.99
+zehrs,frozen,Lous,Maple Bourbon Pork Back Ribs In Maple Bourbon Bbq Sauce,LousMaple Bourbon Pork Back Ribs In Maple Bourbon Bbq Sauce585 g,15.99,,each,2.73,,100g,True,False,15.99
+zehrs,frozen,CAVENDISH FARMS,Cavendish Farms Restaurant Style Diner Style Hash Browns (1.5 Kg),CAVENDISH FARMSCavendish Farms Restaurant Style Diner Style Hash Browns (1.5 Kg)1.5 kg,10.49,,each,0.7,,100g,True,False,10.49
+zehrs,frozen,Green Giant,Valley Selections Japanese Mix,Green GiantValley Selections Japanese Mix500 g,3.79,,each,0.76,,100g,True,False,3.79
+zehrs,frozen,Roman,Lasagna,RomanLasagna2.25 kg,14.99,,each,0.67,,100g,True,False,14.99
+zehrs,frozen,Butcher's Choice,"Beef Burger, Cheddar Cheese","Butcher's ChoiceBeef Burger, Cheddar Cheese1.13 kg",14.99,7.99,each,1.3320275344180226,0.71,100g,True,True,7.99
+zehrs,frozen,Binggrae,Melona Frozen Dessert Bars Honeydew Melon,BinggraeMelona Frozen Dessert Bars Honeydew Melon560 ml,6.99,,each,1.25,,100ml,True,False,6.99
+zehrs,frozen,No Name,Diced Hash Browns,No NameDiced Hash Browns1 kg,3.49,,each,0.35,,100g,True,False,3.49
+zehrs,frozen,Michelina,Grande Meat Loaf,MichelinaGrande Meat Loaf400 g,4.49,,each,1.12,,100g,True,False,4.49
+zehrs,frozen,President's Choice,"Gluten-Free Original Waffles, Club Size","President's ChoiceGluten-Free Original Waffles, Club Size960 g",9.49,,each,0.99,,100g,True,False,9.49
+zehrs,frozen,Bassilis Best,Best Lasagna,Bassilis BestBest Lasagna907 g,12.99,,each,1.43,,100g,True,False,12.99
+zehrs,frozen,Natrel,Lactose Free Completely Chocolate Ice Cream ,NatrelLactose Free Completely Chocolate Ice Cream 473 ml,5.79,,each,1.22,,100ml,True,False,5.79
+zehrs,frozen,Healthy Choice,Power Bowls Cauliflower Curry 280 g,Healthy ChoicePower Bowls Cauliflower Curry 280 g280 g,7.49,,each,2.68,,100g,True,False,7.49
+zehrs,frozen,Dream Pops,Berry Dreams,Dream PopsBerry Dreams168 ml,7.49,,each,4.46,,100ml,True,False,7.49
+zehrs,frozen,Queen St. Bakery,Chia And Flax Seed  Superfood Bagels,Queen St. BakeryChia And Flax Seed  Superfood Bagels116 g,8.49,,each,7.32,,100g,True,False,8.49
+zehrs,frozen,PC Organics,Organic Peas & Carrots,PC OrganicsOrganic Peas & Carrots500 g,5.49,,each,1.1,,100g,True,False,5.49
+zehrs,frozen,Shaw's,Ice Cream Cotton Candy,Shaw'sIce Cream Cotton Candy1.5 l,8.99,,each,0.6,,100ml,True,False,8.99
+zehrs,frozen,Sol Cuisine,Chickpea Sweet Potato Burger,Sol CuisineChickpea Sweet Potato Burger284 g,7.49,,each,2.64,,100g,True,False,7.49
+zehrs,frozen,President's Choice,Cream First Peanut Butter & Chocolate Ice Cream With Chocolate Fudge Crackle,President's ChoiceCream First Peanut Butter & Chocolate Ice Cream With Chocolate Fudge Crackle1.5 l,7.49,,each,0.5,,100ml,True,False,7.49
+zehrs,frozen,Healthy Choice,Chicken Marinara,Healthy ChoiceChicken Marinara262 g,7.49,,each,2.86,,100g,True,False,7.49
+zehrs,frozen,Chapmans,No Sugar Added NSA Vanilla Cone,ChapmansNo Sugar Added NSA Vanilla Cone4x120.0 ml,5.5,4.99,each,1.1462925851703407,1.04,100ml,True,True,4.99
+zehrs,frozen,Dose,Cactus Cold Pressed Juice   ,DoseCactus Cold Pressed Juice   300 ml,7.49,,each,2.5,,100ml,True,False,7.49
+zehrs,frozen,Chapmans,"Yukon Ice Cream Caramel, Toffee & Milk Chocolate","ChapmansYukon Ice Cream Caramel, Toffee & Milk Chocolate5x140.0 ml",8.99,,each,1.28,,100ml,True,False,8.99
+zehrs,frozen,President's Choice,Bangkok-Style Vegetable Blend ,President's ChoiceBangkok-Style Vegetable Blend 500 g,5.49,,each,1.1,,100g,True,False,5.49
+zehrs,frozen,Crave,Sweet & Tangy Pulled Pork with Spicy Sweet Potatoes Frozen Meal,CraveSweet & Tangy Pulled Pork with Spicy Sweet Potatoes Frozen Meal283 g,6.49,,each,2.29,,100g,True,False,6.49
+zehrs,frozen,Chapmans,3 Of a Kind Vanilla,Chapmans3 Of a Kind Vanilla2 l,5.49,,each,0.27,,100ml,True,False,5.49
+zehrs,frozen,Chapmans,Premium Chocolate Fudge Brownie,ChapmansPremium Chocolate Fudge Brownie2 l,7.49,,each,0.36999999999999994,,100ml,True,False,7.49
+zehrs,frozen,Mccain,Pizza Pockets Three Cheese,MccainPizza Pockets Three Cheese1.2 kg,14.99,,each,1.25,,100g,True,False,14.99
+zehrs,frozen,No Name,"Peas & Carrots, Club Size","No NamePeas & Carrots, Club Size2 kg",7.49,,each,0.36999999999999994,,100g,True,False,7.49
+zehrs,frozen,CAVENDISH FARMS,Restaurant Style Crispy Sweet Onion Rings,CAVENDISH FARMSRestaurant Style Crispy Sweet Onion Rings1 kg,10.49,,each,1.05,,100g,True,False,10.49
+zehrs,frozen,President's Choice,Pad Thai Spring Rolls ,President's ChoicePad Thai Spring Rolls 574 g,9.99,,each,1.74,,100g,True,False,9.99
+zehrs,frozen,Breyers,Ice Cream Creamery Style Light Gluten-Free Butterscotch Ripple ,BreyersIce Cream Creamery Style Light Gluten-Free Butterscotch Ripple 1.66 l,5.49,4.44,each,0.3338513513513513,0.27,100ml,True,True,4.44
+zehrs,frozen,No Name,Vanilla Ice Milk Bars,No NameVanilla Ice Milk Bars30x60.0 ml,9.99,,each,0.56,,100ml,True,False,9.99
+zehrs,frozen,Crave,Chorizo Egg Scramble with Goat Cheese,CraveChorizo Egg Scramble with Goat Cheese200 g,6.49,,each,3.25,,100g,True,False,6.49
+zehrs,frozen,Villas,3 Cheese Ravioli,Villas3 Cheese Ravioli400 g,4.49,,each,1.12,,100g,True,False,4.49
+zehrs,frozen,President's Choice,"Pineapple, Dragon Fruit & Passion Fruit Tropical Fruit Blend","President's ChoicePineapple, Dragon Fruit & Passion Fruit Tropical Fruit Blend500 g",5.99,,each,1.2,,100g,True,False,5.99
+zehrs,frozen,Haagen Dazs,Vanilla Dark Ice Cream Bars,Haagen DazsVanilla Dark Ice Cream Bars3x88.0 ml,6.99,,each,2.65,,100ml,True,False,6.99
+zehrs,frozen,President's Choice,Fc Pork Breakfast Patties,President's ChoiceFc Pork Breakfast Patties375 g,8.49,,each,2.26,,100g,True,False,8.49
+zehrs,frozen,President's Choice,Loads Of Pepperoni Thin Crust Pizza,President's ChoiceLoads Of Pepperoni Thin Crust Pizza400 g,4.5,3.49,each,1.1217765042979941,0.87,100g,True,True,3.49
+zehrs,frozen,President's Choice,Mini Vegetable Samosas,President's ChoiceMini Vegetable Samosas345 g,6.99,,each,2.03,,100g,True,False,6.99
+zehrs,frozen,Honeydew,100% Apple Juice With Vitamine C Added,Honeydew100% Apple Juice With Vitamine C Added355 ml,2.49,,each,0.7,,100ml,True,False,2.49
+zehrs,frozen,President's Choice,Bangkok-Style Vegetable Blend ,President's ChoiceBangkok-Style Vegetable Blend 500 g,5.49,,each,1.1,,100g,True,False,5.49
+zehrs,frozen,Crave,Sweet & Tangy Pulled Pork with Spicy Sweet Potatoes Frozen Meal,CraveSweet & Tangy Pulled Pork with Spicy Sweet Potatoes Frozen Meal283 g,6.49,,each,2.29,,100g,True,False,6.49
+zehrs,frozen,Chapmans,3 Of a Kind Vanilla,Chapmans3 Of a Kind Vanilla2 l,5.49,,each,0.27,,100ml,True,False,5.49
+zehrs,frozen,Chapmans,Sorbet Triple Berry,ChapmansSorbet Triple Berry2 l,5.49,,each,0.27,,100ml,True,False,5.49
+zehrs,frozen,Cool Whip,Original Frozen Whipped Topping,Cool WhipOriginal Frozen Whipped Topping1 l,4.99,,each,0.5,,100ml,True,False,4.99
+zehrs,frozen,The Very Good Butchers,Plant-Based Ribs Southern Gold Bbq,The Very Good ButchersPlant-Based Ribs Southern Gold Bbq400 g,15.99,,each,4.0,,100g,True,False,15.99
+zehrs,frozen,,Crab Cakes,Crab Cakes,8.41,,each,28.64,,1kg,True,False,8.41
+zehrs,frozen,Healthy Choice,Power Bowls Korean-Inspired Beef,Healthy ChoicePower Bowls Korean-Inspired Beef269 g,7.49,,each,2.78,,100g,True,False,7.49
+zehrs,frozen,No Name,"Chicken Strips, Club Pack","No NameChicken Strips, Club Pack1810 g",12.49,,each,0.69,,100g,True,False,12.49
+zehrs,frozen,Green Giant,Mixed Vegetables,Green GiantMixed Vegetables750 g,3.79,,each,0.51,,100g,True,False,3.79
+zehrs,frozen,Ben & Jerry's,Ice Cream with Fairtrade Ingredients Chocolate Therapy Non-Gmo,Ben & Jerry'sIce Cream with Fairtrade Ingredients Chocolate Therapy Non-Gmo473 ml,5.0,4.44,each,1.0585585585585584,0.94,100ml,True,True,4.44
+zehrs,frozen,Green Giant,"Valley Selection, Asian Blend Vegetables","Green GiantValley Selection, Asian Blend Vegetables400 g",3.79,,each,0.95,,100g,True,False,3.79
+zehrs,frozen,Caulipower,Pizza Crust Cauliflower,CaulipowerPizza Crust Cauliflower340 g,10.99,,each,3.23,,100g,True,False,10.99
+zehrs,frozen,Pinty's,Buffalo Chicken Wings,Pinty'sBuffalo Chicken Wings780 g,23.49,,each,3.01,,100g,True,False,23.49
+zehrs,frozen,Halo Top,Sea Salt Caramel,Halo TopSea Salt Caramel473 ml,5.99,,each,1.27,,100ml,True,False,5.99
+zehrs,frozen,PC Blue Menu,"Skinless, Boneless Seasoned Chicken Breasts Fillets Removed","PC Blue MenuSkinless, Boneless Seasoned Chicken Breasts Fillets Removed680 g",20.99,,each,3.09,,100g,True,False,20.99
+zehrs,frozen,Binggrae,Melona Frozen Dessert Bars Banana,BinggraeMelona Frozen Dessert Bars Banana560 ml,6.99,,each,1.25,,100ml,True,False,6.99
+zehrs,frozen,Ben & Jerry's,"Ice Cream, Non-Dairy Frozen Dessert Peanut Butter Half Baked Vegan","Ben & Jerry'sIce Cream, Non-Dairy Frozen Dessert Peanut Butter Half Baked Vegan473 ml",5.0,4.44,each,1.0585585585585584,0.94,100ml,True,True,4.44
+zehrs,frozen,Chapmans,Vanilla,ChapmansVanilla2 l,5.99,,each,0.3,,100ml,True,False,5.99
+zehrs,frozen,President's Choice,Loads Of Chocolatey Peanut Butter Treats Light Ice Cream,President's ChoiceLoads Of Chocolatey Peanut Butter Treats Light Ice Cream1.5 l,7.49,,each,0.5,,100ml,True,False,7.49
+zehrs,frozen,Maple Leaf,Natural Shredded Chicken,Maple LeafNatural Shredded Chicken250 g,11.49,,each,4.6,,100g,True,False,11.49
+zehrs,frozen,Healthy Choice,Zero Sesame Chicken With Zoodles,Healthy ChoiceZero Sesame Chicken With Zoodles269 g,7.49,,each,2.78,,100g,True,False,7.49
+zehrs,frozen,Green Giant,Brussel Sprouts with Butter Sauce,Green GiantBrussel Sprouts with Butter Sauce250 g,2.79,,each,1.12,,100g,True,False,2.79
+zehrs,frozen,Magnum,Frozen Dessert Bar Non-Dairy Sea Salt Caramel Certified Vegan,MagnumFrozen Dessert Bar Non-Dairy Sea Salt Caramel Certified Vegan3 ea,5.0,4.44,each,1.6666666666666665,1.48,1ea,True,True,4.44
+zehrs,frozen,Mina,Chicken Shawarma Meal Kit,MinaChicken Shawarma Meal Kit763 g,16.99,,each,2.23,,100g,True,False,16.99
+zehrs,frozen,Mccain,Superfries Crinkle Cut Fries,MccainSuperfries Crinkle Cut Fries1.5 kg,7.99,,each,0.53,,100g,True,False,7.99
+zehrs,frozen,Chapmans,Assorted Creamy Super Bar,ChapmansAssorted Creamy Super Bar18x75.0 ml,8.99,,each,0.67,,100ml,True,False,8.99
+zehrs,frozen,Mccain,Tasti Taters Potato Bites,MccainTasti Taters Potato Bites1.8 kg,7.99,,each,0.44,,100g,True,False,7.99
+zehrs,frozen,General Assembly Pizza,Pizza Sweet Heat,General Assembly PizzaPizza Sweet Heat359 g,10.99,,each,3.06,,100g,True,False,10.99
+zehrs,frozen,Unbun,Plain Unbagels,UnbunPlain Unbagels350 g,12.99,10.99,each,3.7114285714285713,3.14,100g,True,True,10.99
+zehrs,frozen,Green Giant,Cauliflower Medley Riced Veggies,Green GiantCauliflower Medley Riced Veggies340 g,5.49,,each,1.61,,100g,True,False,5.49
+zehrs,frozen,PC Black Label,Madagascar Bourbon Vanilla Ice Cream,PC Black LabelMadagascar Bourbon Vanilla Ice Cream500 ml,5.99,,each,1.2,,100ml,True,False,5.99
+zehrs,frozen,Green Giant,Riced Cauliflower & Broccoli Florets With Cheese Sauce,Green GiantRiced Cauliflower & Broccoli Florets With Cheese Sauce198 g,2.79,,each,1.41,,100g,True,False,2.79
+zehrs,household_items,Sylvania,"15000 Hour LED 2W, G8","Sylvania15000 Hour LED 2W, G81 ea",12.99,,each,12.99,,1ea,True,False,12.99
+zehrs,household_items,Sylvania,GU10 Flood 50W Light Bulbs,SylvaniaGU10 Flood 50W Light Bulbs6x6.0 ea,18.99,,each,3.17,,1ea,True,False,18.99
+zehrs,household_items,Sylvania,Bulb Halogen 35W R20 120 V,SylvaniaBulb Halogen 35W R20 120 V1 ea,7.99,,each,7.99,,1ea,True,False,7.99
+zehrs,household_items,Sylvania,LED Full Cycle Grow Light,SylvaniaLED Full Cycle Grow Light1 ea,26.99,,each,26.99,,1ea,True,False,26.99
+zehrs,household_items,Sylvania,Halogen 100W Light Bulb,SylvaniaHalogen 100W Light Bulb1 ea,8.49,,each,8.49,,1ea,True,False,8.49
+zehrs,household_items,SC Johnson,"Family Guard Brand Disinfectant Spray, Fresh Scent, 496g​","SC JohnsonFamily Guard Brand Disinfectant Spray, Fresh Scent, 496g​496 g",6.99,,each,1.41,,100g,True,False,6.99
+zehrs,household_items,Lysol,"Multi-Purpose Cleaning Wipes, Herbal Tea Scent","LysolMulti-Purpose Cleaning Wipes, Herbal Tea Scent50 ea",6.99,,each,0.14,,1ea,True,False,6.99
+zehrs,household_items,Sunlight, Lemon Fresh Detergent,Sunlight Lemon Fresh Detergent4.2 l,14.99,,each,0.36,,100ml,True,False,14.99
+zehrs,household_items,Tide,2x Ultra With Febreze Freshness Detergent,Tide2x Ultra With Febreze Freshness Detergent2.04 l,14.99,,each,0.7300000000000001,,100ml,True,False,14.99
+zehrs,household_items,Sylvania,"Euro Chandelier 40W Light Bulbs, Clear","SylvaniaEuro Chandelier 40W Light Bulbs, Clear2 ea",4.49,,each,2.25,,1ea,True,False,4.49
+zehrs,household_items,Gain,"Liquid Laundry Detergent, Coldwater","GainLiquid Laundry Detergent, Coldwater4.55 l",22.99,14.99,each,0.5061174116077385,0.33,100ml,True,True,14.99
+zehrs,household_items,Vim,Wood Floor Cleaner ,VimWood Floor Cleaner 1 l,4.99,,each,0.5,,100ml,True,False,4.99
+zehrs,household_items,Method,"Dish Soap, Clementine","MethodDish Soap, Clementine532 ml",5.99,,each,1.13,,100ml,True,False,5.99
+zehrs,household_items,Downy,"Fresh Protect In-Wash Scent Beads with Febreze Odor Defense, April Fresh","DownyFresh Protect In-Wash Scent Beads with Febreze Odor Defense, April Fresh752 g",22.99,,each,3.06,,100g,True,False,22.99
+zehrs,household_items,Lysol,"Disinfecting Wipes, 3 packs","LysolDisinfecting Wipes, 3 packs2 ea",17.99,,each,9.0,,1ea,True,False,17.99
+zehrs,household_items,Sylvania,Soft White Led 60 W B10 Frosted Bulbs,SylvaniaSoft White Led 60 W B10 Frosted Bulbs2x1.0 ea,14.98,,each,7.49,,1ea,True,False,14.98
+zehrs,household_items,Sylvania,B10 Clear Bulbs Soft White Led 60 W,SylvaniaB10 Clear Bulbs Soft White Led 60 W2x1.0 ea,12.98,,each,6.49,,1ea,True,False,12.98
+zehrs,household_items,Sylvania,"LED Bulb, 10 Year, 6W A19 DL VP4","SylvaniaLED Bulb, 10 Year, 6W A19 DL VP44x1.0 ea",15.99,11.19,each,4.001072386058981,2.8,1ea,True,True,11.19
+zehrs,household_items,Tide,"Sport Odor Defense Liquid Laundry Detergent Pods, Active Fresh Scent, 61 Count","TideSport Odor Defense Liquid Laundry Detergent Pods, Active Fresh Scent, 61 Count1.79 kg",22.99,21.99,each,0.37637107776261935,0.36,1ea,True,True,21.99
+zehrs,household_items,Febreze,"Air Fresheners, Small Spaces Air Freshener Berry & Bramble, Pack Of 2","FebrezeAir Fresheners, Small Spaces Air Freshener Berry & Bramble, Pack Of 215 ml",6.49,,each,43.27,,100ml,True,False,6.49
+zehrs,household_items,Sylvania,Par30Ln Bulb 75 W Halogen Flood 50°,SylvaniaPar30Ln Bulb 75 W Halogen Flood 50°1 ea,14.99,,each,14.99,,1ea,True,False,14.99
+zehrs,household_items,Sylvania,40 W Crystal Led Soft White Indoor Outdoor B10 Bulbs,Sylvania40 W Crystal Led Soft White Indoor Outdoor B10 Bulbs2x1.0 ea,19.98,,each,9.99,,1ea,True,False,19.98
+zehrs,household_items,Sylvania,"Double Life 3-Way 50W/100W/150W Light Bulb, Daylight","SylvaniaDouble Life 3-Way 50W/100W/150W Light Bulb, Daylight1 ea",5.99,,each,5.99,,1ea,True,False,5.99
+zehrs,household_items,effeclean,Granite & Countertop Cleaner,effecleanGranite & Countertop Cleaner946 ml,5.99,,each,0.63,,100ml,True,False,5.99

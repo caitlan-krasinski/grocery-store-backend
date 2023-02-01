@@ -1,0 +1,337 @@
+category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale
+pantry,No Name,Chickpeas,No NameChickpeas540 ml,$1.39ea,,$0.26/ 100ml,False
+pantry,McCormicks,Hollandaise Sauce,McCormicksHollandaise Sauce56 g,$2.49ea,,$4.45/ 100g,False
+pantry,A Spice Affair,Taco Seasoning,A Spice AffairTaco Seasoning100 g,$11.99ea,,$11.99/ 100g,False
+pantry,A Spice Affair,Meat Rub,A Spice AffairMeat Rub100 g,$11.99ea,,$11.99/ 100g,False
+pantry,Unico,"Eggplants in Oil, Hot","UnicoEggplants in Oil, Hot375 ml",$5.49ea,,$1.46/ 100ml,False
+pantry,A Spice Affair,Smoked BBQ Seasoning,A Spice AffairSmoked BBQ Seasoning100 g,$11.99ea,,$11.99/ 100g,False
+pantry,Thai Kitchen,Yellow Curry Paste,Thai KitchenYellow Curry Paste112 g,$5.99ea,,$5.35/ 100g,False
+pantry,Nupak,Long Grain White Rice,NupakLong Grain White Rice2 kg,$5.49ea,,$0.27/ 100g,False
+pantry,A Spice Affair,Everything Bagel Seasoning,A Spice AffairEverything Bagel Seasoning100 g,$11.99ea,,$11.99/ 100g,False
+pantry,A Spice Affair,Salsa Fiesta Dip,A Spice AffairSalsa Fiesta Dip100 g,$11.99ea,,$11.99/ 100g,False
+pantry,La Dee Da,Sweet Potato Minestrone,La Dee DaSweet Potato Minestrone475 ml,$6.99ea,,$1.47/ 100ml,False
+pantry,Unico,"Pasta Sauce, Original","UnicoPasta Sauce, Original680 ml",$3.29ea,,$0.48/ 100ml,False
+pantry,Bush's Best,Mild Kidney Beans ,Bush's BestMild Kidney Beans 398 ml,$2.99ea,$2.69ea,$0.68/ 100ml,True
+pantry,Club House,"Marinade Mix, Meat","Club HouseMarinade Mix, Meat32 g",$2.49ea,,$7.78/ 100g,False
+pantry,Manny's,Corn Tortillas Soft Taco Size,Manny'sCorn Tortillas Soft Taco Size255 g,$3.79ea,,$1.49/ 100g,False
+pantry,President's Choice,Horseradish Dijon Mustard,President's ChoiceHorseradish Dijon Mustard325 ml,$3.29ea,,$1.01/ 100ml,False
+pantry,David Rocco,Pasta Sauce Pomodoro & Basilico,David RoccoPasta Sauce Pomodoro & Basilico650 ml,$9.99ea,$8.99ea,$1.38/ 100ml,True
+pantry,Unico,Sunflower Oil,UnicoSunflower Oil1 l,$8.99ea,,$0.90/ 100ml,False
+pantry,A Taste of Thai,Lite Coconut Milk,A Taste of ThaiLite Coconut Milk398 ml,$4.59ea,,$1.15/ 100ml,False
+pantry,Jack Daniels,Sweet & Spicy Bbq Sauce,Jack DanielsSweet & Spicy Bbq Sauce473 ml,$7.49ea,,$1.58/ 100ml,False
+pantry,Billy Bee,"Pure Natural Honey, Liquid White, Squeeze","Billy BeePure Natural Honey, Liquid White, Squeeze500 g",$9.99ea,,$2.00/ 100g,False
+pantry,Post,Chips Ahoy,PostChips Ahoy340 g,$5.49ea,$2.99ea,$0.88/ 100g,True
+pantry,Blue Dragon,Thai Red Curry Paste,Blue DragonThai Red Curry Paste270 ml,$4.99ea,$4.49ea,$1.66/ 100ml,True
+pantry,PC Blue Menu,Three Cheese Pasta Sauce,PC Blue MenuThree Cheese Pasta Sauce700 ml,$5.49ea,,$0.78/ 100ml,False
+pantry,Lepoque,Pure Maple Syrup,LepoquePure Maple Syrup540 ml,$12.49ea,,$2.31/ 100ml,False
+pantry,President's Choice,Goan Coconut Curry Cooking Sauce,President's ChoiceGoan Coconut Curry Cooking Sauce400 ml,$4.99ea,$3.79ea,$0.95/ 100ml,True
+pantry,Blue Dragon,Rice Noodles,Blue DragonRice Noodles300 g,$4.19ea,,$1.40/ 100g,False
+pantry,Peace River Honey,Pineapple Jalapeno Honey,Peace River HoneyPineapple Jalapeno Honey375 g,$8.99ea,,$2.40/ 100g,False
+pantry,Pepper North,Hot Sauce Momento De Muerte Extra Hot,Pepper NorthHot Sauce Momento De Muerte Extra Hot148 ml,$8.99ea,,$6.07/ 100ml,False
+pantry,Tostitos,Dip - Spinach 432g,TostitosDip - Spinach 432g432 g,$6.49ea,,$1.50/ 100g,False
+pantry,Molisana,Capellini,MolisanaCapellini450 g,$3.29ea,,$0.73/ 100g,False
+pantry,Tostitos,Salsa - Roasted Garlic 423ml,TostitosSalsa - Roasted Garlic 423ml423 ml,$4.99ea,,$1.18/ 100ml,False
+pantry,Lidia's,Marinara,Lidia'sMarinara708 g,$10.49ea,,$1.48/ 100g,False
+pantry,Kuehne,Barrel Dill Pickles Sweet & Sour,KuehneBarrel Dill Pickles Sweet & Sour1 l,$8.99ea,,$0.90/ 100ml,False
+pantry,President's Choice,Pure Raspberry Jam,President's ChoicePure Raspberry Jam500 ml,$5.49ea,,$1.10/ 100ml,False
+pantry,Peace River Honey,Liquid Honey,Peace River HoneyLiquid Honey500 g,$11.49ea,$9.49ea,$1.90/ 100g,True
+pantry,Campbell's,Franco American Chicken Gravy,Campbell'sFranco American Chicken Gravy284 ml,$2.29ea,,$0.81/ 100ml,False
+pantry,Club House,Chili Powder Organic,Club HouseChili Powder Organic31 g,$3.79ea,,$12.23/ 100g,False
+pantry,Baxters,"Canned Soup, Butternut Squash & Red Pepper Soup","BaxtersCanned Soup, Butternut Squash & Red Pepper Soup540 ml",$3.99ea,,$0.74/ 100ml,False
+pantry,The Keg,Steak Seasoning,The KegSteak Seasoning180 g,$5.49ea,,$3.05/ 100g,False
+pantry,,Sherry Cooking Wine,Sherry Cooking Wine500 ml,$6.49ea,,$1.30/ 100ml,False
+pantry,H and H,Coconut,H and HCoconut500 g,$11.49ea,,$2.30/ 100g,False
+pantry,BeeMaid,1 Canadian Pure Creamed Honey  ,BeeMaid1 Canadian Pure Creamed Honey  1 kg,$18.49ea,,$1.85/ 100g,False
+pantry,Basse,Bassé Island Mix,BasseBassé Island Mix415 g,$6.99ea,$6.49ea,$1.56/ 100g,True
+pantry,Woodman's,Regular Creamed Horseradish,Woodman'sRegular Creamed Horseradish250 ml,$4.49ea,,$1.80/ 100ml,False
+pantry,Riso Bello,Four Cheese Risotto,Riso BelloFour Cheese Risotto175 g,$6.49ea,,$3.71/ 100g,False
+pantry,Dececco,Pasta Orecchiette No. 91,DececcoPasta Orecchiette No. 91454 g,$3.49ea,,$0.77/ 100g,False
+pantry,Aurora,Tomato Puree,AuroraTomato Puree660 ml,$2.59ea,,$0.39/ 100ml,False
+pantry,Chef Woo,Roasted Chicken Ramen Cups,Chef WooRoasted Chicken Ramen Cups71 g,$2.49ea,,$3.51/ 100g,False
+pantry,Billy Bee,"Pure Natural Honey, Liquid White, Squeeze","Billy BeePure Natural Honey, Liquid White, Squeeze500 g",$9.99ea,,$2.00/ 100g,False
+pantry,Post,Chips Ahoy,PostChips Ahoy340 g,$5.49ea,$2.99ea,$0.88/ 100g,True
+pantry,Campbell's,Franco American Chicken Gravy,Campbell'sFranco American Chicken Gravy284 ml,$2.29ea,,$0.81/ 100ml,False
+pantry,,Seasoning Steak,Seasoning Steak170 g,$7.99ea,,$4.70/ 100g,False
+pantry,Jack Daniels,Sweet & Spicy Bbq Sauce,Jack DanielsSweet & Spicy Bbq Sauce473 ml,$7.49ea,,$1.58/ 100ml,False
+pantry,Blue Dragon,Thai Red Curry Paste,Blue DragonThai Red Curry Paste270 ml,$4.99ea,$4.49ea,$1.66/ 100ml,True
+pantry,Molisana,Capellini,MolisanaCapellini450 g,$3.29ea,,$0.73/ 100g,False
+pantry,Club House,Chili Powder Organic,Club HouseChili Powder Organic31 g,$3.79ea,,$12.23/ 100g,False
+pantry,Baxters,"Canned Soup, Butternut Squash & Red Pepper Soup","BaxtersCanned Soup, Butternut Squash & Red Pepper Soup540 ml",$3.99ea,,$0.74/ 100ml,False
+pantry,The Keg,Steak Seasoning,The KegSteak Seasoning180 g,$5.49ea,,$3.05/ 100g,False
+pantry,Kuehne,Barrel Dill Pickles Sweet & Sour,KuehneBarrel Dill Pickles Sweet & Sour1 l,$8.99ea,,$0.90/ 100ml,False
+pantry,President's Choice,Pure Raspberry Jam,President's ChoicePure Raspberry Jam500 ml,$5.49ea,,$1.10/ 100ml,False
+pantry,Peace River Honey,Liquid Honey,Peace River HoneyLiquid Honey500 g,$11.49ea,$9.49ea,$1.90/ 100g,True
+pantry,Tostitos,Dip - Spinach 432g,TostitosDip - Spinach 432g432 g,$6.49ea,,$1.50/ 100g,False
+pantry,No Name,Beef Flavour Instant Noodle Soup,No NameBeef Flavour Instant Noodle Soup85 g,$0.59ea,,$0.69/ 100g,False
+pantry,,Raw  Pumpkin Kernels,Raw  Pumpkin Kernels,$2.49/100 g,,$2.49/ 100g,False
+pantry,Hershey's,"Chipits  Peanut Butter Baking Chips, 270G","Hershey'sChipits  Peanut Butter Baking Chips, 270G270 g",$4.99ea,,$1.85/ 100g,False
+pantry,Valsoia,Cocoa And Hazelnut Spread,ValsoiaCocoa And Hazelnut Spread397 g,$8.99ea,,$2.26/ 100g,False
+pantry,Wilton,Blue Sparkle Gel ,WiltonBlue Sparkle Gel 99 g,$3.49ea,,$3.53/ 100g,False
+pantry,Jell-O,"Instant Pudding and Pie Filling, Chocolate","Jell-OInstant Pudding and Pie Filling, Chocolate170 g",$4.99ea,,$2.94/ 100g,False
+pantry,Natursource,Worcestershire Almonds,NatursourceWorcestershire Almonds500 g,$16.99ea,,$3.40/ 100g,False
+pantry,VH,Plum Dipping Sauce,VHPlum Dipping Sauce341 ml,$4.99ea,,$1.46/ 100ml,False
+pantry,Betty Crocker,Bisquick Original Pancake And Baking Mix,Betty CrockerBisquick Original Pancake And Baking Mix1 kg,$4.99ea,,$0.50/ 100g,False
+pantry,President's Choice,Maple-Flavoured Mixed Nuts,President's ChoiceMaple-Flavoured Mixed Nuts275 g,$4.99ea,,$1.81/ 100g,False
+pantry,Kikkoman,Stir Fry Sauce,KikkomanStir Fry Sauce285 ml,$7.49ea,,$2.63/ 100ml,False
+pantry,No Name,Dehydrated Chopped Onion,No NameDehydrated Chopped Onion300 g,$5.79ea,,$1.93/ 100g,False
+pantry,Windsor,Black Peppercorns Grinder,WindsorBlack Peppercorns Grinder34 g,$4.99ea,,$14.68/ 100g,False
+pantry,,Praline  Peanut,Praline  Peanut,$1.29/100 g,,$1.29/ 100g,False
+pantry,President's Choice,Extra Virgin Avocado Oil ,President's ChoiceExtra Virgin Avocado Oil 500 ml,$12.99ea,,$2.60/ 100ml,False
+pantry,No Name,Whipped Dressing,No NameWhipped Dressing890 ml,$5.99ea,,$0.67/ 100ml,False
+pantry,Cucina Antica,"Pasta Sauce, Tomato Basil","Cucina AnticaPasta Sauce, Tomato Basil670 ml",$10.99ea,,$1.64/ 100ml,False
+pantry,No Name,Unbleached All-Purpose Flour,No NameUnbleached All-Purpose Flour2.5 kg,$4.99ea,,$0.20/ 100g,False
+pantry,Swiss Chalet,Homestyle Gravy Mix Hot Chicken Sandwich,Swiss ChaletHomestyle Gravy Mix Hot Chicken Sandwich51 g,$2.99ea,,$5.86/ 100g,False
+pantry,President's Choice,Raw Pumpkin Seeds,President's ChoiceRaw Pumpkin Seeds250 g,$3.99ea,,$1.60/ 100g,False
+pantry,,Raw  Pecan Halves,Raw  Pecan Halves,$4.59/100 g,,$4.59/ 100g,False
+pantry,President's Choice,"Oils, Extra Virgin Olive Oil From Tuscany","President's ChoiceOils, Extra Virgin Olive Oil From Tuscany500 ml",$14.99ea,,$3.00/ 100ml,False
+pantry,No Name,Fruit Cocktail in Mixed Fruit Juice from Concentrate,No NameFruit Cocktail in Mixed Fruit Juice from Concentrate398 ml,$2.29ea,,$0.58/ 100ml,False
+pantry,Bens,Butter & Garlic Flavour,BensButter & Garlic Flavour250 g,$3.99ea,,$1.60/ 100g,False
+pantry,Rogers,Demerara Brown Sugar,RogersDemerara Brown Sugar1 kg,$3.99ea,,$0.40/ 100g,False
+pantry,Club House,"Signature Blend, Cajun","Club HouseSignature Blend, Cajun120 g",$7.49ea,,$6.24/ 100g,False
+pantry,President's Choice,Chocolate Hazelnut Spread,President's ChoiceChocolate Hazelnut Spread375 g,$3.79ea,,$1.01/ 100g,False
+pantry,PC Blue Menu,Lemon Poppy Seed Dressing,PC Blue MenuLemon Poppy Seed Dressing475 ml,$3.99ea,,$0.84/ 100ml,False
+pantry,Lea & Perrins,Worcestershire Sauce,Lea & PerrinsWorcestershire Sauce142 ml,$3.49ea,,$2.46/ 100ml,False
+pantry,Mutti,Tomato and Basil Pasta Sauce,MuttiTomato and Basil Pasta Sauce398 ml,$4.99ea,,$1.25/ 100ml,False
+pantry,The Keg,"Horseradish, Extra Hot","The KegHorseradish, Extra Hot250 ml",$3.49ea,,$1.40/ 100ml,False
+pantry,Stefano Faita,Tomato Sauce Meat Sauce,Stefano FaitaTomato Sauce Meat Sauce635 ml,$7.99ea,,$1.26/ 100ml,False
+pantry,Club House,All Purpose Seasoning Everything Bagel,Club HouseAll Purpose Seasoning Everything Bagel141 g,$7.49ea,,$5.31/ 100g,False
+pantry,Club House,All Purpose Seasoning Everything Bagel,Club HouseAll Purpose Seasoning Everything Bagel141 g,$7.49ea,,$5.31/ 100g,False
+pantry,President's Choice,Original Table Syrup,President's ChoiceOriginal Table Syrup750 ml,$5.49ea,,$0.73/ 100ml,False
+pantry,Classico,Sweet Basil Marinara Spaghetti Pasta Sauce,ClassicoSweet Basil Marinara Spaghetti Pasta Sauce650 ml,$4.99ea,,$0.77/ 100ml,False
+pantry,Old El Paso,Fajita Dinner Kit    ,Old El PasoFajita Dinner Kit    400 g,$4.99ea,,$1.25/ 100g,False
+pantry,Old El Paso,Fajita Seasoning,Old El PasoFajita Seasoning24 g,$1.99ea,,$8.29/ 100g,False
+pantry,Natursource,So Smart,NatursourceSo Smart550 g,$16.99ea,,$3.09/ 100g,False
+pantry,A Spice Affair,Royal Steak Seasoning,A Spice AffairRoyal Steak Seasoning100 g,$11.99ea,,$11.99/ 100g,False
+pantry,Gees Bees Honey Company,Blueberry Blossom Honey,Gees Bees Honey CompanyBlueberry Blossom Honey500 g,$14.99ea,,$3.00/ 100g,False
+pantry,No Name,Deluxe Glace Fruit Mix,No NameDeluxe Glace Fruit Mix450 g,$7.49ea,,$1.66/ 100g,False
+pantry,Bicks,Sweet Corn Relish,BicksSweet Corn Relish375 ml,$4.29ea,,$1.14/ 100ml,False
+pantry,A Spice Affair,Thai Seven Spices,A Spice AffairThai Seven Spices100 g,$11.99ea,,$11.99/ 100g,False
+pantry,A Spice Affair,Greek Herbs,A Spice AffairGreek Herbs40 g,$11.99ea,,$29.98/ 100g,False
+pantry,A Spice Affair,"Bruschetta Style Dip, Sauce & Oil Mix","A Spice AffairBruschetta Style Dip, Sauce & Oil Mix60 g",$11.99ea,,$19.98/ 100g,False
+pantry,Bicks,Sweet Gherkins Pickles,BicksSweet Gherkins Pickles375 ml,$5.99ea,,$1.60/ 100ml,False
+pantry,Muskoka,Original Garlic Sauce,MuskokaOriginal Garlic Sauce250 ml,$7.49ea,,$3.00/ 100ml,False
+pantry,Brasswell's,"Pepper Jelly, Red","Brasswell'sPepper Jelly, Red297 g",$4.99ea,,$1.68/ 100g,False
+pantry,Club House,Hearty Seas Blend,Club HouseHearty Seas Blend33 g,$3.49ea,,$10.58/ 100g,False
+pantry,Unico,Spaghettini,UnicoSpaghettini750 g,$3.29ea,,$0.44/ 100g,False
+pantry,Strubs,Pickled Eggs,StrubsPickled Eggs500 ml,$6.49ea,,$1.30/ 100ml,False
+pantry,A Taste of Thai,Sweet Red Chili Sauce,A Taste of ThaiSweet Red Chili Sauce200 ml,$5.49ea,,$2.65/ 100ml,False
+pantry,Riso Bello,Risotto Pronto Porcini Truffle,Riso BelloRisotto Pronto Porcini Truffle175 g,$6.49ea,,$3.71/ 100g,False
+pantry,No Name,Pineapple Tidbits in Pineapple Juice,No NamePineapple Tidbits in Pineapple Juice540 ml,$2.59ea,,$0.48/ 100ml,False
+pantry,Strubs,Dill Pickles,StrubsDill Pickles1.5 l,$7.99ea,,$0.53/ 100ml,False
+pantry,President's Choice,Rice Vermicelli Noodles,President's ChoiceRice Vermicelli Noodles225 g,$2.89ea,,$1.28/ 100g,False
+pantry,Stagg,Southwest Style Chicken With Beans,StaggSouthwest Style Chicken With Beans425 g,$4.29ea,,$1.01/ 100g,False
+pantry,Renees,Sweet Onion Vinaigrette Salad Dressing,ReneesSweet Onion Vinaigrette Salad Dressing350 ml,$6.49ea,,$1.85/ 100ml,False
+pantry,VH,Pineapple Jerk Medium,VHPineapple Jerk Medium341 ml,$4.99ea,,$1.46/ 100ml,False
+pantry,Basse,Bassé Omega Mix,BasseBassé Omega Mix415 g,$6.99ea,$6.49ea,$1.56/ 100g,True
+pantry,No Name,Tomato Sauce,No NameTomato Sauce213 ml,$1.49ea,,$0.70/ 100ml,False
+pantry,No Name,Dark Roast Peanut Butter ,No NameDark Roast Peanut Butter 1 kg,$4.79ea,,$0.48/ 100g,False
+pantry,President's Choice,Pure Concord Grape Jelly,President's ChoicePure Concord Grape Jelly500 ml,$5.49ea,,$1.10/ 100ml,False
+pantry,President's Choice,Table Syrup With 10% Maple Syrup,President's ChoiceTable Syrup With 10% Maple Syrup750 ml,$8.49ea,,$1.13/ 100ml,False
+pantry,Basse,Bassé Exotic Fruit Mix,BasseBassé Exotic Fruit Mix425 g,$6.99ea,$6.49ea,$1.53/ 100g,True
+pantry,McCormicks,"International Sauce Mix, Green Peppercorn","McCormicksInternational Sauce Mix, Green Peppercorn38 g",$2.49ea,,$6.55/ 100g,False
+pantry,Jack Daniels,Honey BBQ Sauce,Jack DanielsHoney BBQ Sauce473 ml,$7.49ea,,$1.58/ 100ml,False
+pantry,Muskoka,Hickory Liquid Smoke,MuskokaHickory Liquid Smoke147 ml,$10.99ea,,$7.48/ 100ml,False
+pantry,Ocean Spray,Craisins Sweetened Dried Cranberries ,Ocean SprayCraisins Sweetened Dried Cranberries 1.36 kg,$11.99ea,,$0.88/ 100g,False
+pantry,The Spice Tailor,Classic Butter Chicken Mild,The Spice TailorClassic Butter Chicken Mild285 ml,$6.99ea,,$2.45/ 100ml,False
+pantry,Catelli,"Classic, Lasagne Pasta","CatelliClassic, Lasagne Pasta750 g",$6.89ea,,$0.92/ 100g,False
+pantry,President's Choice,Orange Blossom Honey,President's ChoiceOrange Blossom Honey375 g,$3.99ea,,$1.06/ 100g,False
+pantry,Lee Kum Kee,Less Sodium Soy Sauce 500 ml,Lee Kum KeeLess Sodium Soy Sauce 500 ml500 ml,$5.99ea,,$1.20/ 100ml,False
+pantry,Colavita,Extra Virgin Olive Oil,ColavitaExtra Virgin Olive Oil1 l,$19.99ea,,$2.00/ 100ml,False
+pantry,Swiss Chalet,SwissChalet Sauce Dipping,Swiss ChaletSwissChalet Sauce Dipping284 ml,$2.39ea,,$0.84/ 100ml,False
+pantry,G Hughes Smokehouse,Bbq Sauce Sweet & Spicy,G Hughes SmokehouseBbq Sauce Sweet & Spicy490 ml,$6.99ea,,$1.43/ 100ml,False
+pantry,Dececco,Pasta Penne Rigate No. 41,DececcoPasta Penne Rigate No. 41450 g,$3.49ea,,$0.77/ 100g,False
+pantry,Renees,Caesar Parmesan Dressing,ReneesCaesar Parmesan Dressing350 ml,$6.49ea,,$1.85/ 100ml,False
+pantry,President's Choice,Soy Sauce,President's ChoiceSoy Sauce591 ml,$5.49ea,,$0.93/ 100ml,False
+pantry,Pataks,Light Butter Chicken Cooking Sauce,PataksLight Butter Chicken Cooking Sauce400 ml,$6.49ea,,$1.62/ 100ml,False
+pantry,,Organic Trail Mix,Organic Trail Mix,$3.49/100 g,,$3.49/ 100g,False
+pantry,Bens,Basmati,BensBasmati250 g,$3.99ea,,$1.60/ 100g,False
+pantry,President's Choice,Plum Sauce,President's ChoicePlum Sauce350 ml,$4.49ea,,$1.28/ 100ml,False
+pantry,No Name,Caesar Croutons,No NameCaesar Croutons145 g,$3.19ea,,$2.20/ 100g,False
+pantry,President's Choice,Cream of Mushroom Soup,President's ChoiceCream of Mushroom Soup540 ml,$3.49ea,,$0.65/ 100ml,False
+pantry,No Name,Slivered Almonds ,No NameSlivered Almonds 100 g,$4.49ea,,$4.49/ 100g,False
+pantry,Mutti,Strained Tomatoes,MuttiStrained Tomatoes398 ml,$3.49ea,,$0.88/ 100ml,False
+pantry,No Name,Fettuccine Pasta,No NameFettuccine Pasta900 g,$2.49ea,,$0.28/ 100g,False
+pantry,Bens,Creamy Mushroom Flavour Rice,BensCreamy Mushroom Flavour Rice132 g,$2.99ea,,$2.27/ 100g,False
+pantry,President's Choice,Tomatoes First Tomato Sauce With Basil,President's ChoiceTomatoes First Tomato Sauce With Basil680 ml,$2.99ea,,$0.44/ 100ml,False
+pantry,Fish Crisp,"Coating Mix, Roasted Garlic & Butter","Fish CrispCoating Mix, Roasted Garlic & Butter340 g",$6.49ea,,$1.91/ 100g,False
+pantry,President's Choice,Bacon and Maple Barbecue Sauce,President's ChoiceBacon and Maple Barbecue Sauce500 ml,$3.99ea,,$0.80/ 100ml,False
+pantry,President's Choice,Plant Based Chocolate Chips Semi-Sweet,President's ChoicePlant Based Chocolate Chips Semi-Sweet300 g,$4.99ea,,$1.66/ 100g,False
+pantry,Betty Crocker,White Cake Mix,Betty CrockerWhite Cake Mix430 g,$4.99ea,,$1.16/ 100g,False
+pantry,No Name,Chopped Pecan,No NameChopped Pecan400 g,$13.99ea,,$3.50/ 100g,False
+pantry,Shah,New Treasure Long Grain Parboiled Rice,ShahNew Treasure Long Grain Parboiled Rice8 kg,$14.99ea,,$0.19/ 100g,False
+pantry,President's Choice,"Wild Pacific Pink Salmon, Sustainably Sourced ","President's ChoiceWild Pacific Pink Salmon, Sustainably Sourced 170 g",$4.69ea,,$2.76/ 100g,False
+pantry,Campbell's,Chicken Gumbo,Campbell'sChicken Gumbo284 ml,$2.99ea,,$1.05/ 100ml,False
+pantry,Rio Mare,Tuna in Water,Rio MareTuna in Water3x80.0 g,$6.99ea,,$2.91/ 100g,False
+pantry,President's Choice,Everything Bagel Seasoning,President's ChoiceEverything Bagel Seasoning65 g,$6.49ea,,$9.98/ 100g,False
+pantry,PC Splendido,Tomato Pesto,PC SplendidoTomato Pesto270 ml,$4.49ea,,$1.66/ 100ml,False
+pantry,Knorr,Sidekicks Butter & Herb Rice & Vermicelli Side Dis,KnorrSidekicks Butter & Herb Rice & Vermicelli Side Dis153 g,$2.79ea,,$1.82/ 100g,False
+pantry,Heartbeat Hot Sauce Co.,Red Habanero,Heartbeat Hot Sauce Co.Red Habanero177 ml,$12.99ea,,$7.34/ 100ml,False
+pantry,Hunt's,Tomato Sauce Tetra Pack    ,Hunt'sTomato Sauce Tetra Pack    910 ml,$4.19ea,,$0.46/ 100ml,False
+pantry,St Hubert,"Poutine Gravy, Smoked Bacon","St HubertPoutine Gravy, Smoked Bacon398 ml",$2.99ea,$1.99ea,$0.50/ 100ml,True
+pantry,Prego,"Pasta Sauce, Mushroom & Green Pepper","PregoPasta Sauce, Mushroom & Green Pepper645 ml",$4.49ea,,$0.70/ 100ml,False
+pantry,PC Black Label,Harissa Spice Blend,PC Black LabelHarissa Spice Blend100 g,$6.49ea,,$6.49/ 100g,False
+pantry,Club House,Bay Leaves,Club HouseBay Leaves13 g,$7.49ea,,$57.62/ 100g,False
+pantry,Del Monte,"No Sugar Added, Pear, Halves, in Water","Del MonteNo Sugar Added, Pear, Halves, in Water398 ml",$3.49ea,,$0.88/ 100ml,False
+pantry,No Name,Crushed Red Pepper ,No NameCrushed Red Pepper 60 g,$3.49ea,,$5.82/ 100g,False
+pantry,PC Splendido,Gnocchi,PC SplendidoGnocchi500 g,$2.49ea,,$0.50/ 100g,False
+pantry,No Name,Peach Slices in Water,No NamePeach Slices in Water398 ml,$2.29ea,,$0.58/ 100ml,False
+pantry,PC Black Label,Spaghetti,PC Black LabelSpaghetti500 g,$4.99ea,,$1.00/ 100g,False
+pantry,President's Choice,Hot Taco Seasoning Mix,President's ChoiceHot Taco Seasoning Mix24 g,$1.39ea,,$5.79/ 100g,False
+pantry,Bonne Maman,Mango & Peach Spread,Bonne MamanMango & Peach Spread280 ml,$7.49ea,,$2.68/ 100ml,False
+pantry,Keens,Dry Mustard,KeensDry Mustard88 g,$6.79ea,,$7.72/ 100g,False
+pantry,No Name,Medium Salsa,No NameMedium Salsa430 ml,$3.99ea,,$0.93/ 100ml,False
+pantry,Bertolli,Rich Taste-Organic Extra Virgin Olive Oil,BertolliRich Taste-Organic Extra Virgin Olive Oil750 ml,$9.99ea,,$1.33/ 100ml,False
+pantry,Rooster,Brown Jasmine Rice,RoosterBrown Jasmine Rice2 kg,$7.99ea,,$0.40/ 100g,False
+pantry,Bush's Best,Baked Beans - Molasses with Pork,Bush's BestBaked Beans - Molasses with Pork398 ml,$2.99ea,$2.69ea,$0.68/ 100ml,True
+pantry,Maille,Dijon Originale Mustard,MailleDijon Originale Mustard200 ml,$4.49ea,,$2.25/ 100ml,False
+pantry,Quaker,Oatmeal Chocolate Chip Muffin Mix,QuakerOatmeal Chocolate Chip Muffin Mix900 g,$5.49ea,,$0.61/ 100g,False
+pantry,Unico,"Artichoke Hearts, Whole","UnicoArtichoke Hearts, Whole398 ml",$4.49ea,,$1.13/ 100ml,False
+pantry,Maggi,Seasoning (Red Cap),MaggiSeasoning (Red Cap)200 ml,$4.49ea,,$2.25/ 100ml,False
+pantry,Bertolli,Olive Oil Extra Light Taste,BertolliOlive Oil Extra Light Taste2 l,$32.99ea,,$1.65/ 100ml,False
+pantry,Betty Crocker,Spicy Cake Mix,Betty CrockerSpicy Cake Mix432 g,$4.99ea,,$1.16/ 100g,False
+pantry,Kraft,Balsamic Vinaigrette,KraftBalsamic Vinaigrette475 ml,$4.49ea,,$0.95/ 100ml,False
+pantry,Aubrey D,Rebel Hot Reaper Pepper Hot Sauce,Aubrey DRebel Hot Reaper Pepper Hot Sauce150 ml,$14.99ea,,$9.99/ 100ml,False
+pantry,Club House,Bay Leaves,Club HouseBay Leaves13 g,$7.49ea,,$57.62/ 100g,False
+pantry,Del Monte,"No Sugar Added, Pear, Halves, in Water","Del MonteNo Sugar Added, Pear, Halves, in Water398 ml",$3.49ea,,$0.88/ 100ml,False
+pantry,No Name,Crushed Red Pepper ,No NameCrushed Red Pepper 60 g,$3.49ea,,$5.82/ 100g,False
+pantry,PC Splendido,Gnocchi,PC SplendidoGnocchi500 g,$2.49ea,,$0.50/ 100g,False
+pantry,No Name,Peach Slices in Water,No NamePeach Slices in Water398 ml,$2.29ea,,$0.58/ 100ml,False
+pantry,PC Black Label,Spaghetti,PC Black LabelSpaghetti500 g,$4.99ea,,$1.00/ 100g,False
+pantry,President's Choice,Hot Taco Seasoning Mix,President's ChoiceHot Taco Seasoning Mix24 g,$1.39ea,,$5.79/ 100g,False
+pantry,Bonne Maman,Mango & Peach Spread,Bonne MamanMango & Peach Spread280 ml,$7.49ea,,$2.68/ 100ml,False
+pantry,No Name,Medium Salsa,No NameMedium Salsa430 ml,$3.99ea,,$0.93/ 100ml,False
+pantry,G Hughes Smokehouse,Honey Mustard Flavoured Dipping Sauce,G Hughes SmokehouseHoney Mustard Flavoured Dipping Sauce490 ml,$6.99ea,,$1.43/ 100ml,False
+pantry,A Spice Affair,Piri Piri Spice,A Spice AffairPiri Piri Spice100 g,$11.99ea,,$11.99/ 100g,False
+pantry,Heavenly Flavors,Chili Oil,Heavenly FlavorsChili Oil255 ml,$9.99ea,,$3.92/ 100ml,False
+pantry,Yawdi's,Jerk Marinade Sauce,Yawdi'sJerk Marinade Sauce250 ml,$7.99ea,,$3.20/ 100ml,False
+pantry,A Spice Affair,Roasted Garlic & Sundried Tomato,A Spice AffairRoasted Garlic & Sundried Tomato120 g,$11.99ea,,$9.99/ 100g,False
+pantry,Cache Cuisine,Pancake & Waffle Mix Premium Buttermilk Complete Value Pack,Cache CuisinePancake & Waffle Mix Premium Buttermilk Complete Value Pack908 g,$5.99ea,,$0.66/ 100g,False
+pantry,Melinda's,Original Habanero Mango Pepper Sauce,Melinda'sOriginal Habanero Mango Pepper Sauce148 ml,$5.99ea,,$4.05/ 100ml,False
+pantry,President's Choice,Vidalia Onion Dressing,President's ChoiceVidalia Onion Dressing475 ml,$3.99ea,,$0.84/ 100ml,False
+pantry,Good Food for Good,Org Classic Bolognese,Good Food for GoodOrg Classic Bolognese450 ml,$10.49ea,,$2.33/ 100ml,False
+pantry,Pataks,Korma Cooking Sauce Kit 3 Step,PataksKorma Cooking Sauce Kit 3 Step315 g,$5.69ea,,$1.81/ 100g,False
+pantry,Guy Fieri,Bourbon Brown Sugar BBQ Sauce,Guy FieriBourbon Brown Sugar BBQ Sauce494 ml,$6.99ea,,$1.41/ 100ml,False
+pantry,Kraft,Tartar Sauce,KraftTartar Sauce355 ml,$5.99ea,,$1.69/ 100ml,False
+pantry,Sir Kensington's,Mayonnaise Classic,Sir Kensington'sMayonnaise Classic354 ml,$8.99ea,,$2.54/ 100ml,False
+pantry,Smuckers,Pure Orange Marmalade,SmuckersPure Orange Marmalade500 ml,$6.99ea,,$1.40/ 100ml,False
+pantry,Tim Hortons,Chicken and Rice Soup,Tim HortonsChicken and Rice Soup540 ml,$4.59ea,,$0.85/ 100ml,False
+pantry,Al Fez, Natural Tahini,Al Fez Natural Tahini160 g,$6.49ea,,$4.06/ 100g,False
+pantry,Hidden Valley,"Original Ranch Salad Dressing & Topping, Gluten Free","Hidden ValleyOriginal Ranch Salad Dressing & Topping, Gluten Free473 ml",$6.29ea,,$1.33/ 100ml,False
+pantry,PC Blue Menu,Plum Sauce,PC Blue MenuPlum Sauce350 ml,$5.29ea,$3.79ea,$1.08/ 100ml,True
+pantry,President's Choice,Sweetened Dried Cranberries,President's ChoiceSweetened Dried Cranberries150 g,$3.79ea,,$2.53/ 100g,False
+pantry,McCormicks,"Dry Sauce Mix, Hollandaise","McCormicksDry Sauce Mix, Hollandaise56 g",$2.49ea,,$4.45/ 100g,False
+pantry,No Name,"Horseradish, Extra Hot","No NameHorseradish, Extra Hot250 ml",$1.99ea,,$0.80/ 100ml,False
+pantry,Kraft,Pizza Kit,KraftPizza Kit850 g,$8.99ea,,$1.06/ 100g,False
+pantry,Peace River Honey,Hot Honey,Peace River HoneyHot Honey375 g,$10.99ea,$8.99ea,$2.40/ 100g,True
+pantry,PC Black Label,Habanero Aioli,PC Black LabelHabanero Aioli250 ml,$5.99ea,,$2.40/ 100g,False
+pantry,Rooster,Extra Fancy Long Grain Rice,RoosterExtra Fancy Long Grain Rice8 kg,$19.99ea,,$0.25/ 100g,False
+pantry,Cullen's,Organic Canned Navy Beans,Cullen'sOrganic Canned Navy Beans540 ml,$4.49ea,,$0.83/ 100ml,False
+pantry,Unico,"Pizza Sauce, Garlic & Basil","UnicoPizza Sauce, Garlic & Basil213 ml",$1.99ea,,$0.93/ 100ml,False
+pantry,Pataks,Madras Curry Paste,PataksMadras Curry Paste284 ml,$6.49ea,,$2.29/ 100ml,False
+pantry,No Name,Elbow Macaroni Pasta,No NameElbow Macaroni Pasta2 kg,$5.49ea,,$0.27/ 100g,False
+pantry,Truvia,Calorie-Free Sweetener from the Stevia Leaf Sachets/Packets,TruviaCalorie-Free Sweetener from the Stevia Leaf Sachets/Packets280 g,$14.99ea,,$5.35/ 100g,False
+pantry,Basse,Bassé Confetti Mix,BasseBassé Confetti Mix600 g,$6.99ea,$6.49ea,$1.08/ 100g,True
+pantry,No Name,Sweet and Sour Sauce,No NameSweet and Sour Sauce350 ml,$3.49ea,,$1.00/ 100ml,False
+pantry,Lee Kum Kee,Brown Braising Sauce 410 ml,Lee Kum KeeBrown Braising Sauce 410 ml410 ml,$3.99ea,,$0.97/ 100ml,False
+pantry,PC Blue Menu,Tomato Basil Pasta Sauce,PC Blue MenuTomato Basil Pasta Sauce700 ml,$5.49ea,,$0.78/ 100ml,False
+pantry,G Hughes Smokehouse,Sugar Free Thai Chili Wing Sauce,G Hughes SmokehouseSugar Free Thai Chili Wing Sauce355 ml,$6.99ea,,$1.97/ 100ml,False
+pantry,Lawrys,Seasoned Salt,LawrysSeasoned Salt225 g,$5.79ea,,$2.57/ 100g,False
+pantry,Pataks,Butter Chicken Cooking Sauce Kit 3 Step,PataksButter Chicken Cooking Sauce Kit 3 Step313 g,$5.69ea,,$1.82/ 100g,False
+pantry,Club House,"Dry Sauce Mix, Pork Gravy","Club HouseDry Sauce Mix, Pork Gravy24 g",$2.49ea,,$10.37/ 100g,False
+pantry,A Spice Affair,Tuscan Dip Mix,A Spice AffairTuscan Dip Mix60 g,$11.99ea,,$19.98/ 100g,False
+pantry,Baxters, Chicken & Vegetable Soup,Baxters Chicken & Vegetable Soup540 ml,$3.99ea,,$0.74/ 100ml,False
+pantry,President's Choice,Creamed Rice Pudding,President's ChoiceCreamed Rice Pudding400 g,$4.49ea,,$1.12/ 100g,False
+pantry,H and H,"Dry Fruit Mix, Thai Premium","H and HDry Fruit Mix, Thai Premium500 g",$11.49ea,,$2.30/ 100g,False
+pantry,,Red Cooking Wine,Red Cooking Wine500 ml,$5.99ea,,$1.20/ 100ml,False
+pantry,Pataks,Tandoori Curry Paste,PataksTandoori Curry Paste284 ml,$6.49ea,,$2.29/ 100ml,False
+pantry,Club House,"Dry Sauce Mix, Yorkshire Pudding","Club HouseDry Sauce Mix, Yorkshire Pudding45 g",$2.49ea,,$5.53/ 100g,False
+pantry,Stock and Barrel,Natural Walnut Pieces,Stock and BarrelNatural Walnut Pieces125 g,$5.99ea,,$4.79/ 100g,False
+pantry,Italpasta,Manicotti,ItalpastaManicotti225 g,$3.79ea,,$1.68/ 100g,False
+pantry,Carapelli,Oro Verde Extra Virgin Olive Oil,CarapelliOro Verde Extra Virgin Olive Oil500 ml,$9.99ea,,$2.00/ 100ml,False
+pantry,Unico,Pizza Sauce,UnicoPizza Sauce398 ml,$2.99ea,,$0.75/ 100ml,False
+pantry,PC Blue Menu,Just Almonds Crunchy Almond Butter,PC Blue MenuJust Almonds Crunchy Almond Butter340 g,$8.99ea,,$2.64/ 100g,False
+pantry,No Name,100% Canadian Pure Creamed Honey,No Name100% Canadian Pure Creamed Honey500 g,$7.99ea,,$1.60/ 100g,False
+pantry,Lee Kum Kee,Soy Sauce,Lee Kum KeeSoy Sauce500 ml,$2.99ea,,$0.60/ 100ml,False
+pantry,The Spice Tailor,Punjabi Chickpea Masala Medium,The Spice TailorPunjabi Chickpea Masala Medium375 ml,$6.99ea,,$1.86/ 100ml,False
+pantry,President's Choice,Pure Strawberry Jam,President's ChoicePure Strawberry Jam500 ml,$5.49ea,,$1.10/ 100ml,False
+pantry,A1,Original Steak Sauce,A1Original Steak Sauce400 ml,$6.49ea,,$1.62/ 100ml,False
+pantry,Blue Dragon,Green Curry Cooking Sauce Kit 3 Step,Blue DragonGreen Curry Cooking Sauce Kit 3 Step253 g,$5.00ea,$4.49ea,$1.77/ 100g,True
+pantry,Lepoque,Pure Maple Syrup,LepoquePure Maple Syrup375 ml,$9.99ea,,$2.66/ 100ml,False
+pantry,Lidia's,Tuscan Arrabbiata,Lidia'sTuscan Arrabbiata708 g,$10.49ea,,$1.48/ 100g,False
+pantry,Prego,"Pasta Sauce Tomato, Onion & Garlic","PregoPasta Sauce Tomato, Onion & Garlic645 ml",$4.49ea,,$0.70/ 100ml,False
+pantry,Be Sweet,Honey Spread,Be SweetHoney Spread1 kg,$6.99ea,,$0.70/ 100g,False
+pantry,Jakeman's,Pure Maple Syrup,Jakeman'sPure Maple Syrup1 l,$19.99ea,,$2.00/ 100ml,False
+pantry,Adams,100% Natural Creamy Peanut Butter,Adams100% Natural Creamy Peanut Butter1 kg,$9.49ea,,$0.95/ 100g,False
+pantry,Peace River Honey,Creamed Honey,Peace River HoneyCreamed Honey500 g,$11.49ea,$9.49ea,$1.90/ 100g,True
+pantry,Swiss Chalet,Dipping Sauce Mix 25% Less Salt,Swiss ChaletDipping Sauce Mix 25% Less Salt36 g,$2.99ea,,$8.31/ 100g,False
+pantry,Cullen's,Dark Red Kidney Beans,Cullen'sDark Red Kidney Beans540 ml,$4.49ea,,$0.83/ 100ml,False
+pantry,No Name,Baked Beans in Tomato Sauce,No NameBaked Beans in Tomato Sauce12x398.0 ml,$16.49ea,,$0.35/ 100ml,False
+pantry,Blue Dragon,Sauce Pad Thai,Blue DragonSauce Pad Thai270 ml,$4.99ea,$4.49ea,$1.66/ 100ml,True
+pantry,O Olive Oil,Vinegar California Yuzu Rice,O Olive OilVinegar California Yuzu Rice300 ml,$16.99ea,,$5.66/ 100ml,False
+pantry,PC Blue Menu,Mushroom & Garlic Pasta Sauce,PC Blue MenuMushroom & Garlic Pasta Sauce700 ml,$5.49ea,,$0.78/ 100ml,False
+pantry,Knorr,Bouillon for adding rich deep flavour to soups and stews Beef Sachets ,KnorrBouillon for adding rich deep flavour to soups and stews Beef Sachets 72 g,$3.99ea,,$5.54/ 100g,False
+pantry,No Name,Smooth Peanut Butter,No NameSmooth Peanut Butter500 g,$3.49ea,,$0.70/ 100g,False
+pantry,No Name,Basil Leaves,No NameBasil Leaves40 g,$3.49ea,,$8.73/ 100g,False
+pantry,No Name,Chili Powder,No NameChili Powder150 g,$3.49ea,,$2.33/ 100g,False
+pantry,Club House,"Seasoning Mix, Taco, Less Salt","Club HouseSeasoning Mix, Taco, Less Salt35 g",$2.49ea,,$7.11/ 100g,False
+pantry,Nando's,"Peri Peri Sauce, Lemon","Nando'sPeri Peri Sauce, Lemon250 ml",$7.49ea,,$3.00/ 100ml,False
+pantry,Hunt's,Tomato Paste,Hunt'sTomato Paste156 ml,$1.29ea,,$0.83/ 100ml,False
+pantry,President's Choice,Ground All Spice ,President's ChoiceGround All Spice 42 g,$6.49ea,,$15.45/ 100g,False
+pantry,Wilton,Red Sparkle Gel,WiltonRed Sparkle Gel99 g,$3.49ea,,$3.53/ 100g,False
+pantry,No Name,Dill Pickles,No NameDill Pickles1 l,$4.49ea,,$0.45/ 100ml,False
+pantry,Diana,Sauce Maple,DianaSauce Maple500 ml,$4.49ea,,$0.90/ 100ml,False
+pantry,Bicks,Squeeze Sweet Green Relish,BicksSqueeze Sweet Green Relish500 ml,$4.99ea,,$1.00/ 100ml,False
+pantry,Bull's-Eye,Hickory BBQ Sauce,Bull's-EyeHickory BBQ Sauce425 ml,$4.49ea,,$1.06/ 100ml,False
+pantry,Stock and Barrel,"Toasted Corn Nuts, Salted","Stock and BarrelToasted Corn Nuts, Salted250 g",$4.99ea,,$2.00/ 100g,False
+pantry,Bicks,No Garlic Dill Pickles,BicksNo Garlic Dill Pickles1 l,$6.49ea,,$0.65/ 100ml,False
+pantry,President's Choice,Kashmiri Chili Hot Sauce,President's ChoiceKashmiri Chili Hot Sauce255 ml,$3.49ea,,$1.37/ 100ml,False
+pantry,Clover Leaf,"Tuna Salad Kit, Spicy Thai Chili ","Clover LeafTuna Salad Kit, Spicy Thai Chili 90 g",$2.79ea,,$3.10/ 100g,False
+pantry,Tutto Bene,Tomato Fusilli Cup,Tutto BeneTomato Fusilli Cup70 g,$2.49ea,,$3.56/ 100g,False
+pantry,Better Than Bouillon,Better Than Bouillon Chicken Base,Better Than BouillonBetter Than Bouillon Chicken Base227 g,$7.99ea,,$3.52/ 100g,False
+pantry,President's Choice,Original Refried Pinto Beans,President's ChoiceOriginal Refried Pinto Beans398 ml,$4.79ea,,$1.20/ 100ml,False
+pantry,Sweet Baby Ray's,"BBQ Sauce, Honey","Sweet Baby Ray'sBBQ Sauce, Honey425 ml",$3.99ea,,$0.94/ 100ml,False
+pantry,President's Choice,Peaches and Cream Flavour Instant Oatmeal,President's ChoicePeaches and Cream Flavour Instant Oatmeal325 g,$4.19ea,,$1.29/ 100g,False
+pantry,President's Choice,Chocolate Hazelnut Spread,President's ChoiceChocolate Hazelnut Spread725 g,$7.49ea,,$1.03/ 100g,False
+pantry,Club House,"Signature Blends, Roasted Garlic & Pepper","Club HouseSignature Blends, Roasted Garlic & Pepper144 g",$7.49ea,,$5.20/ 100g,False
+pantry,Club House,Organic Rosemary Leaves,Club HouseOrganic Rosemary Leaves14 g,$3.79ea,,$27.07/ 100g,False
+pantry,No Name,Dill Chips Pickles ,No NameDill Chips Pickles 1 l,$4.49ea,,$0.45/ 100ml,False
+pantry,Crofter's,Organic Raspberry Spread,Crofter'sOrganic Raspberry Spread383 ml,$6.49ea,,$1.69/ 100ml,False
+pantry,Clover Leaf,Smoked Oysters with Spicy Chili,Clover LeafSmoked Oysters with Spicy Chili85 g,$3.29ea,,$3.87/ 100g,False
+pantry,Clover Leaf,Pink Salmon Wild Pacific,Clover LeafPink Salmon Wild Pacific142 g,$3.99ea,,$2.81/ 100g,False
+pantry,Ocean Spray,"Cranberry Sauce, Whole Berry","Ocean SprayCranberry Sauce, Whole Berry348 ml",$3.49ea,,$1.00/ 100ml,False
+pantry,Smuckers,No Sugar Added Orange Spread,SmuckersNo Sugar Added Orange Spread310 ml,$5.99ea,,$1.93/ 100ml,False
+pantry,A Spice Affair,"Garlic, Parsley & Shallot","A Spice AffairGarlic, Parsley & Shallot30 g",$11.99ea,,$39.97/ 100g,False
+pantry,A Spice Affair,Guacamole Dip Mix,A Spice AffairGuacamole Dip Mix75 g,$11.99ea,,$15.99/ 100g,False
+pantry,,Pasta Sauce Mushroom,Pasta Sauce Mushroom660 ml,$11.99ea,,$1.82/ 100ml,False
+pantry,Nature's Mix,Maple Walnut Granola,Nature's MixMaple Walnut Granola312 g,$7.99ea,,$2.56/ 100g,False
+pantry,Nupak,Brown Lentils,NupakBrown Lentils900 g,$4.79ea,,$0.53/ 100g,False
+pantry,Swiss Chalet,SwissChalet Sauce Beef Gravy,Swiss ChaletSwissChalet Sauce Beef Gravy284 ml,$2.39ea,,$0.84/ 100ml,False
+pantry,Blue Dragon,Thai Green Curry Paste,Blue DragonThai Green Curry Paste270 ml,$4.99ea,$4.49ea,$1.66/ 100ml,True
+pantry,Jakeman's,Premium Buttermilk Pancake Mix Pouch Bag,Jakeman'sPremium Buttermilk Pancake Mix Pouch Bag500 g,$5.29ea,,$1.06/ 100g,False
+pantry,Al Fez,Shish Taouk Marinade ,Al FezShish Taouk Marinade 157 ml,$4.69ea,,$2.99/ 100ml,False
+pantry,,Marinated Ribs Dry Rub,Marinated Ribs Dry Rub180 g,$7.99ea,,$4.44/ 100g,False
+pantry,Knorr,OXO Sachets Rich Deep Flavour Low Salt Chicken Flavour ,KnorrOXO Sachets Rich Deep Flavour Low Salt Chicken Flavour 72 g,$3.99ea,,$5.54/ 100g,False
+pantry,Italpasta,"Pasta, Spaghetti","ItalpastaPasta, Spaghetti450 g",$2.19ea,,$0.49/ 100g,False
+pantry,PC Organics,Organic Arrabbiata Sauce,PC OrganicsOrganic Arrabbiata Sauce700 ml,$5.99ea,,$0.86/ 100ml,False
+pantry,Colavita,Extra Virgin Olive Oil,ColavitaExtra Virgin Olive Oil500 ml,$12.99ea,,$2.60/ 100ml,False
+pantry,Campbell's,Everyday Gourmet Roasted Potato and Spring Leek,Campbell'sEveryday Gourmet Roasted Potato and Spring Leek500 ml,$3.99ea,$3.69ea,$0.74/ 100ml,True
+pantry,No Name,Sliced Pineapple in Pineapple Juice,No NameSliced Pineapple in Pineapple Juice540 ml,$2.59ea,,$0.48/ 100ml,False
+pantry,Club House,Celery Seed,Club HouseCelery Seed105 g,$9.29ea,,$8.85/ 100g,False
+pantry,Campbell's,Everyday Gourmet Fire Roasted Sweet Pepper and Tomato    ,Campbell'sEveryday Gourmet Fire Roasted Sweet Pepper and Tomato    500 ml,$3.99ea,$3.69ea,$0.74/ 100ml,True
+pantry,Campbell's,Cream of Mushroom and Garlic,Campbell'sCream of Mushroom and Garlic284 ml,$2.99ea,,$1.05/ 100ml,False
+pantry,President's Choice,Caribbean Curry Cooking Sauce,President's ChoiceCaribbean Curry Cooking Sauce400 ml,$4.99ea,$3.79ea,$0.95/ 100ml,True
+pantry,Basse,Bassé Yogurt Mix,BasseBassé Yogurt Mix425 g,$6.99ea,$6.49ea,$1.53/ 100g,True
+pantry,Smuckers,No Sugar Added Raspberry Spread,SmuckersNo Sugar Added Raspberry Spread310 ml,$7.99ea,,$2.58/ 100ml,False
+pantry,No Name,Sweetened Shredded Coconut,No NameSweetened Shredded Coconut400 g,$3.79ea,,$0.95/ 100g,False
+pantry,Club House,"Dry Sauce Mix, Poutine Gravy","Club HouseDry Sauce Mix, Poutine Gravy42 g",$2.49ea,,$5.93/ 100g,False
+pantry,Unico,Penne Rigate,UnicoPenne Rigate750 g,$3.29ea,,$0.44/ 100g,False
+pantry,Dececco,Pasta Seme Di Melone No. 80,DececcoPasta Seme Di Melone No. 80454 g,$3.49ea,,$0.77/ 100g,False
+pantry,President's Choice,Mushroom Pasta Sauce,President's ChoiceMushroom Pasta Sauce1.8 l,$8.99ea,,$0.50/ 100ml,False
+pantry,Manny's,Flour Tortillas Foldables,Manny'sFlour Tortillas Foldables376 g,$4.99ea,,$1.33/ 100g,False
+pantry,PC Blue Menu,Whipped Dressing,PC Blue MenuWhipped Dressing890 ml,$6.99ea,,$0.79/ 100ml,False
+pantry,The Spice Tailor,Delhi Black Lentil Daal Mild,The Spice TailorDelhi Black Lentil Daal Mild375 ml,$6.99ea,,$1.86/ 100ml,False
+pantry,Club House,"Dry Sauce Mix, Mushroom Gravy","Club HouseDry Sauce Mix, Mushroom Gravy21 g",$2.49ea,,$11.86/ 100g,False
+pantry,Club House,"Shepherd's Pie, 25% Less Sodium Seasoning Mix","Club HouseShepherd's Pie, 25% Less Sodium Seasoning Mix47 g",$2.49ea,,$5.30/ 100g,False
+pantry,Blue Dragon,Penang Curry Cooking Sauce Kit 3 Step,Blue DragonPenang Curry Cooking Sauce Kit 3 Step271 g,$5.00ea,$4.49ea,$1.66/ 100g,True
+pantry,Club House,"Dry Sauce Mix, Alfredo","Club HouseDry Sauce Mix, Alfredo30 g",$2.49ea,,$8.30/ 100g,False
+pantry,Club House,Paprika,Club HousePaprika540 g,$10.99ea,,$2.04/ 100g,False

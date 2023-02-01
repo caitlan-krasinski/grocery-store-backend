@@ -1,3 +1,5 @@
+'''Script to run 3 step data retrieval and cleaning process'''
+
 import time 
 
 print('##################### PROCESS STARTED #####################')

@@ -1,0 +1,337 @@
+category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale
+frozen,President's Choice,Broccoli Florets,President's ChoiceBroccoli Florets500 g,$5.49ea,,$1.10/ 100g,False
+frozen,No Name,"Fried Potatoes, Crispy Skin On","No NameFried Potatoes, Crispy Skin On1 kg",$3.49ea,,$0.35/ 100g,False
+frozen,No Name,Chopped Spinach,No NameChopped Spinach300 g,$2.69ea,,$0.90/ 100g,False
+frozen,President's Choice,Extra Fine Whole Green Beans ,President's ChoiceExtra Fine Whole Green Beans 500 g,$5.49ea,,$1.10/ 100g,False
+frozen,President's Choice,Blueberries Cultivated,President's ChoiceBlueberries Cultivated600 g,$5.99ea,,$1.00/ 100g,False
+frozen,President's Choice,Petite Pois,President's ChoicePetite Pois750 g,$5.49ea,,$0.73/ 100g,False
+frozen,Mccain,Crinkle Cut Fries,MccainCrinkle Cut Fries900 g,$4.29ea,,$0.48/ 100g,False
+frozen,President's Choice,Meat Lasagna,President's ChoiceMeat Lasagna1.13 kg,$12.99ea,,$1.15/ 100g,False
+frozen,President's Choice,Mango Chunks ,President's ChoiceMango Chunks 600 g,$5.99ea,,$1.00/ 100g,False
+frozen,Mccain,Straight Cut French Fries,MccainStraight Cut French Fries900 g,$4.29ea,,$0.48/ 100g,False
+frozen,President's Choice,Butternut Squash Chunks ,President's ChoiceButternut Squash Chunks 750 g,$5.49ea,,$0.73/ 100g,False
+frozen,President's Choice,Pacific White Shrimp Raw Peeled,President's ChoicePacific White Shrimp Raw Peeled400 g,$10.99ea,,$2.75/ 100g,False
+frozen,No Name,Peas and Carrots,No NamePeas and Carrots750 g,$3.29ea,,$0.44/ 100g,False
+frozen,President's Choice,Extra Cheesy Mac & Cheese,President's ChoiceExtra Cheesy Mac & Cheese1.13 kg,$12.99ea,,$1.15/ 100g,False
+frozen,Mccain,Diced Hashbrowns,MccainDiced Hashbrowns900 g,$3.29ea,,$0.37/ 100g,False
+frozen,Green Giant,Summer Sweet Peas,Green GiantSummer Sweet Peas750 g,$4.49ea,$3.49ea,$0.47/ 100g,True
+frozen,Green Giant,Peaches N Cream Corn,Green GiantPeaches N Cream Corn750 g,$4.49ea,$3.49ea,$0.47/ 100g,True
+frozen,President's Choice,Vegetable Medley ,President's ChoiceVegetable Medley 750 g,$5.49ea,,$0.73/ 100g,False
+frozen,President's Choice,"Mangoes, Strawberries & Peaches Fruit Blend","President's ChoiceMangoes, Strawberries & Peaches Fruit Blend600 g",$5.99ea,,$1.00/ 100g,False
+frozen,Janes,"Pub Style Chicken Nugget, Fully Cooked","JanesPub Style Chicken Nugget, Fully Cooked700 g",$13.49ea,,$1.93/ 100g,False
+frozen,President's Choice,Pitted Dark Sweet Cherries ,President's ChoicePitted Dark Sweet Cherries 600 g,$5.99ea,,$1.00/ 100g,False
+frozen,Sweets From The Earth,Nut Free Cupcake,Sweets From The EarthNut Free Cupcake320 g,$13.99ea,,$4.37/ 100g,False
+frozen,Schneider,"Deep Dish Quiche Florentine, Spinach & Cheese","SchneiderDeep Dish Quiche Florentine, Spinach & Cheese624 g",$16.99ea,,$2.72/ 100g,False
+frozen,Bassilis Best,Best Shepherd's Pie,Bassilis BestBest Shepherd's Pie907 g,$12.99ea,,$1.43/ 100g,False
+frozen,Chef Bombay,Mini Cholé Naanpanadas,Chef BombayMini Cholé Naanpanadas240 g,$6.99ea,,$2.91/ 100g,False
+frozen,Evive,Smoothie Cubes Samouraï,EviveSmoothie Cubes Samouraï405 g,$11.99ea,,$2.96/ 100g,False
+frozen,President's Choice,Chicken General Tao,President's ChoiceChicken General Tao907 g,$11.99ea,,$1.32/ 100g,False
+frozen,Chapmans,"No Sugar Added Ice Cream, Dutch Chocolate","ChapmansNo Sugar Added Ice Cream, Dutch Chocolate1 l",$7.99ea,,$0.80/ 100ml,False
+frozen,Impossible Foods Inc.,Simulated Meat Burger,Impossible Foods Inc.Simulated Meat Burger340 g,$11.99ea,,$3.53/ 100g,False
+frozen,Chapmans,Yukon French Vanilla Moose Sandwich,ChapmansYukon French Vanilla Moose Sandwich8x150.0 ml,$8.99ea,,$0.75/ 100ml,False
+frozen,High Liner,"Fish Sticks, Family Pack","High LinerFish Sticks, Family Pack700 g",$10.99ea,$8.99ea,$1.28/ 100g,True
+frozen,ACE,Frozen White Demi Baguette,ACEFrozen White Demi Baguette400 g,$5.69ea,,$1.42/ 100g,False
+frozen,Christie,Oreo Ice Cream,ChristieOreo Ice Cream1.5 l,$7.99ea,,$0.53/ 100ml,False
+frozen,Healthy Choice,"Gourmet Steamers, Sweet Sesame Chicken","Healthy ChoiceGourmet Steamers, Sweet Sesame Chicken292 g",$5.79ea,,$1.98/ 100g,False
+frozen,Haagen Dazs,Vanilla Milk Ice Cream Bars,Haagen DazsVanilla Milk Ice Cream Bars3x88.0 ml,$6.99ea,,$2.65/ 100ml,False
+frozen,Evive,Smoothie Cubes Asana,EviveSmoothie Cubes Asana405 g,$11.99ea,,$2.96/ 100g,False
+frozen,Silver Hills,Organic Multigrain Sprouted Bread,Silver HillsOrganic Multigrain Sprouted Bread680 g,$4.99ea,,$0.73/ 100g,False
+frozen,Stouffers,Diner Classics Beef Pot Roast,StouffersDiner Classics Beef Pot Roast249 g,$6.49ea,,$2.61/ 100g,False
+frozen,Fruitopia,Strawberry Passion Awareness Fruit Beverage,FruitopiaStrawberry Passion Awareness Fruit Beverage295 ml,$2.79ea,,$0.95/ 100ml,False
+frozen,Silver Hills,Sprouted Power Organic Spinach Tortillas 6 Hand-Stretched Tortillas,Silver HillsSprouted Power Organic Spinach Tortillas 6 Hand-Stretched Tortillas255 g,$6.99ea,,$2.74/ 100g,False
+frozen,Delissio,Stuffed Crust 4 Cheese Pizza,DelissioStuffed Crust 4 Cheese Pizza664 g,$8.99ea,,$1.35/ 100g,False
+frozen,Wholly Veggie,Vegan Buffalo Cauliflower Wings,Wholly VeggieVegan Buffalo Cauliflower Wings375 g,$8.99ea,$7.49ea,$2.00/ 100g,True
+frozen,President's Choice,Grilled Ready Veggie Eggplant,President's ChoiceGrilled Ready Veggie Eggplant500 g,$5.49ea,,$1.10/ 100g,False
+frozen,Haagen Dazs,Pineapple Coconut Ice Cream,Haagen DazsPineapple Coconut Ice Cream500 ml,$6.99ea,,$1.40/ 100ml,False
+frozen,Haagen Dazs,Caramel Almond Crunch Ice Cream Bars,Haagen DazsCaramel Almond Crunch Ice Cream Bars3x88.0 ml,$6.99ea,,$2.65/ 100ml,False
+frozen,President's Choice,Frozen Profiteroles Chocolate Enrobed,President's ChoiceFrozen Profiteroles Chocolate Enrobed490 g,$14.99ea,,$3.06/ 100g,False
+frozen,So Delicious,"Dairy Free Coconut-Based Frozen Dessert, Cookie Dough","So DeliciousDairy Free Coconut-Based Frozen Dessert, Cookie Dough500 ml",$8.49ea,,$1.70/ 100ml,False
+frozen,President's Choice,Chicken Pad Thai,President's ChoiceChicken Pad Thai365 g,$4.99ea,,$1.37/ 100g,False
+frozen,Chapmans,No Sugar Added NSA Vanilla Sandwiches,ChapmansNo Sugar Added NSA Vanilla Sandwiches6x120.0 ml,$7.99ea,,$1.11/ 100ml,False
+frozen,Green Giant,"Valley Selections Essentials, California Blend","Green GiantValley Selections Essentials, California Blend500 g",$3.99ea,$3.49ea,$0.70/ 100g,True
+frozen,Daiya,Cheese Cake NY Style,DaiyaCheese Cake NY Style400 g,$9.99ea,$8.49ea,$2.12/ 100g,True
+frozen,Pillsbury,Pizza Bites Pepperoni,PillsburyPizza Bites Pepperoni693 g,$8.99ea,,$1.30/ 100g,False
+frozen,Marie Callender's,Creamy White Mac,Marie Callender'sCreamy White Mac680 g,$10.99ea,,$1.62/ 100g,False
+frozen,No Name,Chocolate Ice Milk,No NameChocolate Ice Milk4 l,$7.49ea,$6.49ea,$0.16/ 100ml,True
+frozen,Evive,Smoothie Cubes Yogi    ,EviveSmoothie Cubes Yogi    405 g,$11.99ea,,$2.96/ 100g,False
+frozen,Haagen Dazs,exträaz Cookies & Cream Ice Cream,Haagen Dazsexträaz Cookies & Cream Ice Cream500 ml,$6.99ea,,$1.40/ 100ml,False
+frozen,Gardein,Meatless Meatballs,GardeinMeatless Meatballs360 g,$7.49ea,,$2.08/ 100g,False
+frozen,Green Giant,Whole Kernel Corn Niblets,Green GiantWhole Kernel Corn Niblets750 g,$4.49ea,$3.49ea,$0.47/ 100g,True
+frozen,Morning Star Farms,"MorningStar Farms Spicy Black Bean Veggie Burger, 268g","Morning Star FarmsMorningStar Farms Spicy Black Bean Veggie Burger, 268g268 g",$6.99ea,,$2.61/ 100g,False
+frozen,Halo Top,Peanut Butter Swirl,Halo TopPeanut Butter Swirl473 ml,$5.99ea,,$1.27/ 100ml,False
+frozen,TMRW, Protein Shreds,TMRW Protein Shreds200 g,$7.99ea,,$4.00/ 100g,False
+frozen,Halo Top,Birthday Cake,Halo TopBirthday Cake473 ml,$5.99ea,,$1.27/ 100ml,False
+frozen,Cuisine Adventures,Mini Sausages in Oven Baked Bread,Cuisine AdventuresMini Sausages in Oven Baked Bread281 g,$7.99ea,,$2.84/ 100g,False
+frozen,PC Blue Menu,"Chicken Breast Boneless Skinless, Club Pack","PC Blue MenuChicken Breast Boneless Skinless, Club Pack1.36 kg",$26.99ea,,$1.98/ 100g,False
+frozen,President's Choice,Loads Of Mango Fruit Bars,President's ChoiceLoads Of Mango Fruit Bars480 ml,$6.99ea,,$1.46/ 100ml,False
+frozen,Evive,Smoothie Cubes Samouraï,EviveSmoothie Cubes Samouraï405 g,$11.99ea,,$2.96/ 100g,False
+frozen,President's Choice,Chicken General Tao,President's ChoiceChicken General Tao907 g,$11.99ea,,$1.32/ 100g,False
+frozen,Chapmans,"No Sugar Added Ice Cream, Dutch Chocolate","ChapmansNo Sugar Added Ice Cream, Dutch Chocolate1 l",$7.99ea,,$0.80/ 100ml,False
+frozen,Impossible Foods Inc.,Simulated Meat Burger,Impossible Foods Inc.Simulated Meat Burger340 g,$11.99ea,,$3.53/ 100g,False
+frozen,Chapmans,Yukon French Vanilla Moose Sandwich,ChapmansYukon French Vanilla Moose Sandwich8x150.0 ml,$8.99ea,,$0.75/ 100ml,False
+frozen,High Liner,"Fish Sticks, Family Pack","High LinerFish Sticks, Family Pack700 g",$10.99ea,$8.99ea,$1.28/ 100g,True
+frozen,ACE,Frozen White Demi Baguette,ACEFrozen White Demi Baguette400 g,$5.69ea,,$1.42/ 100g,False
+frozen,Christie,Oreo Ice Cream,ChristieOreo Ice Cream1.5 l,$7.99ea,,$0.53/ 100ml,False
+frozen,Healthy Choice,"Gourmet Steamers, Sweet Sesame Chicken","Healthy ChoiceGourmet Steamers, Sweet Sesame Chicken292 g",$5.79ea,,$1.98/ 100g,False
+frozen,Haagen Dazs,Vanilla Milk Ice Cream Bars,Haagen DazsVanilla Milk Ice Cream Bars3x88.0 ml,$6.99ea,,$2.65/ 100ml,False
+frozen,Evive,Smoothie Cubes Asana,EviveSmoothie Cubes Asana405 g,$11.99ea,,$2.96/ 100g,False
+frozen,Silver Hills,Organic Multigrain Sprouted Bread,Silver HillsOrganic Multigrain Sprouted Bread680 g,$4.99ea,,$0.73/ 100g,False
+frozen,Stouffers,Diner Classics Beef Pot Roast,StouffersDiner Classics Beef Pot Roast249 g,$6.49ea,,$2.61/ 100g,False
+frozen,Fruitopia,Strawberry Passion Awareness Fruit Beverage,FruitopiaStrawberry Passion Awareness Fruit Beverage295 ml,$2.79ea,,$0.95/ 100ml,False
+frozen,Silver Hills,Sprouted Power Organic Spinach Tortillas 6 Hand-Stretched Tortillas,Silver HillsSprouted Power Organic Spinach Tortillas 6 Hand-Stretched Tortillas255 g,$6.99ea,,$2.74/ 100g,False
+frozen,Delissio,Stuffed Crust 4 Cheese Pizza,DelissioStuffed Crust 4 Cheese Pizza664 g,$8.99ea,,$1.35/ 100g,False
+frozen,President's Choice,Maple Soy Cedar Plank Atlantic Salmon,President's ChoiceMaple Soy Cedar Plank Atlantic Salmon500 g,$23.99ea,,$4.80/ 100g,False
+frozen,PC Blue Menu,Meat Lasagna,PC Blue MenuMeat Lasagna2.27 kg,$19.99ea,,$0.88/ 100g,False
+frozen,President's Choice,Beef Stroganoff,President's ChoiceBeef Stroganoff907 g,$11.99ea,,$1.32/ 100g,False
+frozen,President's Choice,Eggplant Parmesan,President's ChoiceEggplant Parmesan1130 g,$11.99ea,,$1.06/ 100g,False
+frozen,Pogo,Original 10'S     ,PogoOriginal 10'S     750 g,$10.99ea,,$1.47/ 100g,False
+frozen,PC Blue Menu,Butter Chicken,PC Blue MenuButter Chicken350 g,$4.99ea,,$1.43/ 100g,False
+frozen,President's Choice,Chopped Kale,President's ChoiceChopped Kale500 g,$5.49ea,,$1.10/ 100g,False
+frozen,PC Organics,Organic Broccoli Florets,PC OrganicsOrganic Broccoli Florets500 g,$5.49ea,,$1.10/ 100g,False
+frozen,President's Choice,Seafood Lasagna,President's ChoiceSeafood Lasagna1.13 kg,$11.99ea,,$1.06/ 100g,False
+frozen,Pogo,All Beef,PogoAll Beef600 g,$10.99ea,,$1.83/ 100g,False
+frozen,Marie Callender's,Sweet Pineapple Chicken Teriyaki Bowl,Marie Callender'sSweet Pineapple Chicken Teriyaki Bowl349 g,$6.79ea,,$1.95/ 100g,False
+frozen,President's Choice,"Thin & Crispy Pepperoni, Mushroom And Ham Pizza","President's ChoiceThin & Crispy Pepperoni, Mushroom And Ham Pizza1 ea",$4.50ea,$3.49ea,$3.49/ 1ea,True
+frozen,Righteous,Dairy Free Raspberry Lime Sorbetto,RighteousDairy Free Raspberry Lime Sorbetto562 ml,$9.99ea,$9.49ea,$1.69/ 100ml,True
+frozen,President's Choice,Grilled Ready Veggie Eggplant,President's ChoiceGrilled Ready Veggie Eggplant500 g,$5.49ea,,$1.10/ 100g,False
+frozen,Haagen Dazs,Pineapple Coconut Ice Cream,Haagen DazsPineapple Coconut Ice Cream500 ml,$6.99ea,,$1.40/ 100ml,False
+frozen,President's Choice,Cream First Vanilla Ice Cream,President's ChoiceCream First Vanilla Ice Cream1.5 l,$7.49ea,,$0.50/ 100ml,False
+frozen,President's Choice,The Decadent Double Chocolate Cream Pie,President's ChoiceThe Decadent Double Chocolate Cream Pie830 g,$11.99ea,,$1.44/ 100g,False
+frozen,President's Choice,Elk Crossing Ice Cream ,President's ChoiceElk Crossing Ice Cream 946 ml,$4.49ea,$3.99ea,$0.42/ 100ml,True
+frozen,President's Choice,"Pub Recipe Chicken Strips, Fully Cooked, Club Size","President's ChoicePub Recipe Chicken Strips, Fully Cooked, Club Size1.4 kg",$12.99ea,,$0.93/ 100g,False
+frozen,Swanson,"Family Sized Skillet Meals, Garlic Chicken","SwansonFamily Sized Skillet Meals, Garlic Chicken1.19 kg",$13.69ea,,$1.15/ 100g,False
+frozen,Evive,Smoothie Cubes Yogi    ,EviveSmoothie Cubes Yogi    405 g,$11.99ea,,$2.96/ 100g,False
+frozen,Haagen Dazs,exträaz Cookies & Cream Ice Cream,Haagen Dazsexträaz Cookies & Cream Ice Cream500 ml,$6.99ea,,$1.40/ 100ml,False
+frozen,Cheemo,"Perogies, Roast Garlic","CheemoPerogies, Roast Garlic907 g",$4.29ea,,$0.47/ 100g,False
+frozen,General Assembly Pizza,Pizza Loving Cup,General Assembly PizzaPizza Loving Cup359 g,$10.99ea,,$3.06/ 100g,False
+frozen,Chapmans,No Sugar Added NSA Vanilla Sandwiches,ChapmansNo Sugar Added NSA Vanilla Sandwiches6x120.0 ml,$7.99ea,,$1.11/ 100ml,False
+frozen,Holy Napoli,Margherita Pizza,Holy NapoliMargherita Pizza365 g,$11.99ea,,$3.28/ 100g,False
+frozen,Green Giant,"Valley Selections Essentials, Antioxidant Italian Blend","Green GiantValley Selections Essentials, Antioxidant Italian Blend400 g",$3.99ea,$3.49ea,$0.87/ 100g,True
+frozen,President's Choice,Lemon Garlic Shrimp & Scallop Pasta Meal Kit,President's ChoiceLemon Garlic Shrimp & Scallop Pasta Meal Kit907 g,$15.99ea,,$1.76/ 100g,False
+frozen,High Liner,"Pan Sear Selects, Haddock Roasted Garlic","High LinerPan Sear Selects, Haddock Roasted Garlic500 g",$17.99ea,,$3.60/ 100g,False
+frozen,Five Alive,Passionate Peach Juice,Five AlivePassionate Peach Juice295 ml,$2.79ea,,$0.95/ 100ml,False
+frozen,Magnum,Double Caramel Belgian Chocolate Ice Cream,MagnumDouble Caramel Belgian Chocolate Ice Cream3x90.0 ml,$5.50ea,$4.44ea,$1.64/ 100ml,True
+frozen,Chapmans,Yogurt Dutch Chocolate,ChapmansYogurt Dutch Chocolate2 l,$7.99ea,,$0.40/ 100ml,False
+frozen,Michelina,Penne Primavera,MichelinaPenne Primavera255 g,$2.79ea,$0.99ea,$0.39/ 100g,True
+frozen,President's Choice,Maple Soy Cedar Plank Atlantic Salmon,President's ChoiceMaple Soy Cedar Plank Atlantic Salmon500 g,$23.99ea,,$4.80/ 100g,False
+frozen,PC Blue Menu,Meat Lasagna,PC Blue MenuMeat Lasagna2.27 kg,$19.99ea,,$0.88/ 100g,False
+frozen,PC Blue Menu,Lean Beef Burgers,PC Blue MenuLean Beef Burgers2.27 kg,$27.99ea,,$1.23/ 100g,False
+frozen,Kawartha,"Dairy Ice Cream, French Vanilla  ","KawarthaDairy Ice Cream, French Vanilla  1.5 l",$8.99ea,,$0.60/ 100ml,False
+frozen,Halo Top,Cookie Dough,Halo TopCookie Dough473 ml,$5.99ea,,$1.27/ 100ml,False
+frozen,Impossible Foods Inc.,Chicken Nuggets Made From Plants,Impossible Foods Inc.Chicken Nuggets Made From Plants383 g,$9.99ea,,$2.61/ 100g,False
+frozen,No Name,"Potatoes, Sour Cream & Chives Perogies","No NamePotatoes, Sour Cream & Chives Perogies907 g",$2.99ea,,$0.33/ 100g,False
+frozen,Cosmic Bliss,Dairy-Free Frozen Dessert Madagascan Vanilla Bean,Cosmic BlissDairy-Free Frozen Dessert Madagascan Vanilla Bean473 ml,$9.99ea,,$2.11/ 100ml,False
+frozen,Boston Market,Chicken Parmesan ,Boston MarketChicken Parmesan 371 g,$5.99ea,,$1.61/ 100g,False
+frozen,Chapmans,Dutch Chocolate,ChapmansDutch Chocolate2 l,$5.99ea,,$0.30/ 100ml,False
+frozen,No Name,Meat Lasagna,No NameMeat Lasagna1 kg,$9.99ea,,$1.00/ 100g,False
+frozen,Burnbrae Farms,Egg Bites Pizza Mini,Burnbrae FarmsEgg Bites Pizza Mini336 g,$7.49ea,,$2.23/ 100g,False
+frozen,Little Northern Bakehouse,Cinnamon & Raisin Bread,Little Northern BakehouseCinnamon & Raisin Bread482 g,$6.00ea,$5.00ea,$1.04/ 100g,True
+frozen,No Name,Chocolatey Chip Ice Cream Sandwiches,No NameChocolatey Chip Ice Cream Sandwiches24x120.0 ml,$10.99ea,,$0.38/ 100ml,False
+frozen,Chapmans,Premuim Canadian Collection Chocolate Fudge Brownie Bumpy Bar,ChapmansPremuim Canadian Collection Chocolate Fudge Brownie Bumpy Bar8x55.0 ml,$6.99ea,,$1.59/ 100ml,False
+frozen,Magnum,Ice Cream Bar Double Chocolate Bar,MagnumIce Cream Bar Double Chocolate Bar3x90.0 ml,$5.50ea,$4.44ea,$1.64/ 100ml,True
+frozen,Chapmans,Neapolitan Ice Cream Sandwich,ChapmansNeapolitan Ice Cream Sandwich12x120.0 ml,$8.99ea,,$0.62/ 100ml,False
+frozen,Haagen Dazs,Matcha Green Tea,Haagen DazsMatcha Green Tea500 ml,$6.99ea,,$1.40/ 100ml,False
+frozen,President's Choice,Banana Split Ice Cream,President's ChoiceBanana Split Ice Cream946 ml,$4.49ea,$3.99ea,$0.42/ 100ml,True
+frozen,Furlani,"Texas Toast, Garlic","FurlaniTexas Toast, Garlic638 g",$4.49ea,,$0.70/ 100g,False
+frozen,Delissio,Crispy Pan Meat Lovers Pizza,DelissioCrispy Pan Meat Lovers Pizza598 g,$8.99ea,,$1.50/ 100g,False
+frozen,Charoen Pokphand,Chicken Pho Noodles Soup,Charoen PokphandChicken Pho Noodles Soup0.25 kg,$5.49ea,,$2.20/ 100g,False
+frozen,No Name,Potato & Bacon Flavour Perogies ,No NamePotato & Bacon Flavour Perogies 907 g,$2.99ea,,$0.33/ 100g,False
+frozen,Healthy Choice,Basil Pesto Chicken,Healthy ChoiceBasil Pesto Chicken262 g,$7.49ea,,$2.86/ 100g,False
+frozen,Halo Top,Mint Chip,Halo TopMint Chip473 ml,$5.99ea,,$1.27/ 100ml,False
+frozen,Chef Bombay,Palak Paneer,Chef BombayPalak Paneer350 g,$6.99ea,,$2.00/ 100g,False
+frozen,Zoglos,Meatless Wieners,ZoglosMeatless Wieners300 g,$5.99ea,,$2.00/ 100g,False
+frozen,Zoglos,Veggie Burgers,ZoglosVeggie Burgers300 g,$6.99ea,,$2.33/ 100g,False
+frozen,Chef Bombay,Vegetables Pakoras,Chef BombayVegetables Pakoras240 g,$6.99ea,,$2.91/ 100g,False
+frozen,Chef Bombay,Chicken Tikka Masala,Chef BombayChicken Tikka Masala350 g,$6.99ea,,$2.00/ 100g,False
+frozen,President's Choice,Mint Chocolate Ice Cream,President's ChoiceMint Chocolate Ice Cream946 ml,$4.49ea,$3.99ea,$0.42/ 100ml,True
+frozen,President's Choice,Plant Based Chickenless Breaded Cutlets,President's ChoicePlant Based Chickenless Breaded Cutlets340 g,$8.99ea,,$2.64/ 100g,False
+frozen,Haagen Dazs,Vanilla Almond Ice Cream Bars,Haagen DazsVanilla Almond Ice Cream Bars3x88.0 ml,$6.99ea,,$2.65/ 100ml,False
+frozen,President's Choice,Pork and Smoky Bacon Skewers,President's ChoicePork and Smoky Bacon Skewers450 g,$15.99ea,,$3.55/ 100g,False
+frozen,President's Choice,"Chicken Wings Club Pack, Honey Garlic","President's ChoiceChicken Wings Club Pack, Honey Garlic1.81 kg",$29.99ea,,$1.66/ 100g,False
+frozen,Crave,Pulled Chicken Burrito Bowl Frozen Meal,CravePulled Chicken Burrito Bowl Frozen Meal320 g,$6.49ea,,$2.03/ 100g,False
+frozen,CAVENDISH FARMS,Onion Hash Brown Patties,CAVENDISH FARMSOnion Hash Brown Patties600 g,$4.49ea,,$0.75/ 100g,False
+frozen,President's Choice,Vanilla Bean Mochi,President's ChoiceVanilla Bean Mochi6x35.0 ml,$6.99ea,,$3.33/ 100ml,False
+frozen,No Name,Mixed Garden Vegetables,No NameMixed Garden Vegetables750 g,$3.29ea,,$0.44/ 100g,False
+frozen,Mccain,Deep'n Delicious Coconut Vanilla Cake,MccainDeep'n Delicious Coconut Vanilla Cake510 g,$6.99ea,,$1.37/ 100g,False
+frozen,Nature's Path,Gluten Free Chocolate Chip Waffle,Nature's PathGluten Free Chocolate Chip Waffle210 g,$5.49ea,$4.49ea,$2.14/ 100g,True
+frozen,Honeydew,Frozen Concentrated Fruit Beverage Tropical Fruit Punch,HoneydewFrozen Concentrated Fruit Beverage Tropical Fruit Punch355 ml,$1.79ea,,$0.50/ 100ml,False
+frozen,Yves,Veggie Nuggets With Whole Wheat Breading Simulated Chicken Nuggets,YvesVeggie Nuggets With Whole Wheat Breading Simulated Chicken Nuggets320 g,$6.99ea,,$2.18/ 100g,False
+frozen,President's Choice,Rosemary & Garlic Rack,President's ChoiceRosemary & Garlic Rack,$34.50(est.)ea,,$68.32/ 1kg,False
+frozen,Cosmic Bliss,Dairy-Free Frozen Dessert Chocolate Peanut Butter,Cosmic BlissDairy-Free Frozen Dessert Chocolate Peanut Butter473 ml,$9.99ea,,$2.11/ 100ml,False
+frozen,Green Giant,Valley Selections Stir Fry Medley,Green GiantValley Selections Stir Fry Medley400 g,$3.99ea,$3.49ea,$0.87/ 100g,True
+frozen,Kawartha,Black Raspberry Ice Cream,KawarthaBlack Raspberry Ice Cream1.5 l,$8.99ea,,$0.60/ 100ml,False
+frozen,Nature's Path,"Flax Plus Waffles, Buckwheat Wildberry","Nature's PathFlax Plus Waffles, Buckwheat Wildberry210 g",$5.49ea,$4.49ea,$2.14/ 100g,True
+frozen,No Name,Meat Lasagna,No NameMeat Lasagna2.27 kg,$14.99ea,$12.99ea,$0.57/ 100g,True
+frozen,President's Choice,Ready Veggie Zucchini Noodles ,President's ChoiceReady Veggie Zucchini Noodles 350 g,$5.49ea,,$1.57/ 100g,False
+frozen,Ben & Jerry's,"Ice Cream Chocolate Fudge Brownie, Non-GMO","Ben & Jerry'sIce Cream Chocolate Fudge Brownie, Non-GMO473 ml",$5.50ea,$4.44ea,$0.94/ 100ml,True
+frozen,Righteous,Dairy Free Mango Pineapple Sorbetto,RighteousDairy Free Mango Pineapple Sorbetto562 ml,$9.99ea,$9.49ea,$1.69/ 100ml,True
+frozen,PC Blue Menu,Thick & Juicy™ Lean Beef Burgers  ,PC Blue MenuThick & Juicy™ Lean Beef Burgers  1.13 kg,$16.99ea,,$1.50/ 100g,False
+frozen,President's Choice,"Plant Based Black Bean, Corn and Sweet Potato Veggie Burgers","President's ChoicePlant Based Black Bean, Corn and Sweet Potato Veggie Burgers452 g",$7.99ea,,$1.77/ 100g,False
+frozen,Nestle,"Drumstick, Vanilla Fudge/Vanilla Caramel","NestleDrumstick, Vanilla Fudge/Vanilla Caramel18x140.0 ml",$21.99ea,,$0.87/ 100ml,False
+frozen,President's Choice, Atlantic Salmon Burger,President's Choice Atlantic Salmon Burger568 g,$13.99ea,,$2.46/ 100g,False
+frozen,President's Choice,Free From Turkey Meatballs,President's ChoiceFree From Turkey Meatballs800 g,$15.99ea,,$2.00/ 100g,False
+frozen,President's Choice,Shepherd's Pies,President's ChoiceShepherd's Pies900 g,$11.49ea,,$1.28/ 100g,False
+frozen,Gardein,Fishless Fillet,GardeinFishless Fillet288 g,$7.49ea,,$2.60/ 100g,False
+frozen,President's Choice,"Strawberries, Raspberries, Blackberries & Blueberries 4-Berry Blend, Club Size","President's ChoiceStrawberries, Raspberries, Blackberries & Blueberries 4-Berry Blend, Club Size2 kg",$19.99ea,,$1.00/ 100g,False
+frozen,No Name,Original Waffles,No NameOriginal Waffles1680 g,$13.99ea,,$0.83/ 100g,False
+frozen,BlueWater Seafoods,Fish Sticks Tempura Portions,BlueWater SeafoodsFish Sticks Tempura Portions600 g,$7.50ea,$5.99ea,$1.00/ 100g,True
+frozen,JUST Egg,Just Egg Plant,JUST EggJust Egg Plant56.75 g,$7.49ea,$6.49ea,$11.44/ 100g,True
+frozen,Wholly Veggie,Mozzarella Sticks,Wholly VeggieMozzarella Sticks283 g,$7.49ea,$6.99ea,$2.47/ 100g,True
+frozen,President's Choice,Rotisserie-Style Chicken Wings,President's ChoiceRotisserie-Style Chicken Wings907 g,$15.99ea,,$1.76/ 100g,False
+frozen,Wall’s,"Ice Cream, Bubble Tea Milk Tea & Boba Pearls Flavours, with Chewy Tapioca Balls","Wall’sIce Cream, Bubble Tea Milk Tea & Boba Pearls Flavours, with Chewy Tapioca Balls6 ea",$8.99ea,,$1.50/ 1ea,False
+frozen,So Delicious,"Dairy Free Cashew-Based Frozen Dessert, Dark Chocolate Truffle","So DeliciousDairy Free Cashew-Based Frozen Dessert, Dark Chocolate Truffle500 ml",$8.49ea,,$1.70/ 100ml,False
+frozen,Mccain,"Deep'n Delicious® MINIS Chocolate Brownie Cake Cups, 4-pk","MccainDeep'n Delicious® MINIS Chocolate Brownie Cake Cups, 4-pk340 g",$7.79ea,,$2.29/ 100g,False
+frozen,Healthy Choice,Simply Chicken Pesto Veg,Healthy ChoiceSimply Chicken Pesto Veg259 g,$5.79ea,,$2.24/ 100g,False
+frozen,Chapmans,"Frozen Yogurt, Vanilla","ChapmansFrozen Yogurt, Vanilla2 l",$7.99ea,,$0.40/ 100ml,False
+frozen,Minute Maid,"Pink Lemonade Frozen Concentrate, Can","Minute MaidPink Lemonade Frozen Concentrate, Can295 ml",$2.79ea,,$0.95/ 100ml,False
+frozen,President's Choice,Cream First Vanilla Almond Ice Cream Bars,President's ChoiceCream First Vanilla Almond Ice Cream Bars340 ml,$6.49ea,,$1.91/ 100ml,False
+frozen,Stouffers,Diner Classics Swedish Meatballs,StouffersDiner Classics Swedish Meatballs270 g,$6.49ea,,$2.40/ 100g,False
+frozen,Chapmans,"Yukon Ice Cream Vanilla, Almonds & Milk Chocolate","ChapmansYukon Ice Cream Vanilla, Almonds & Milk Chocolate5x140.0 ml",$8.99ea,,$1.28/ 100ml,False
+frozen,Chapmans,Yukon Ice Cream Double the Dip with Milk Chocolate,ChapmansYukon Ice Cream Double the Dip with Milk Chocolate5x140.0 ml,$8.99ea,,$1.28/ 100ml,False
+frozen,President's Choice,"Pub Recipe Chicken Nuggets, Fully Cooked","President's ChoicePub Recipe Chicken Nuggets, Fully Cooked700 g",$5.99ea,,$0.86/ 100g,False
+frozen,Michelina,Alfredo Chicken ,MichelinaAlfredo Chicken 227 g,$2.79ea,$0.99ea,$0.44/ 100g,True
+frozen,Healthy Choice,"Gourmet Steamers, Grilled Balsamic Chicken","Healthy ChoiceGourmet Steamers, Grilled Balsamic Chicken284 g",$5.79ea,,$2.04/ 100g,False
+frozen,High Liner,Lightly Breaded Fish,High LinerLightly Breaded Fish300 g,$11.49ea,$8.99ea,$3.00/ 100g,True
+frozen,Pizza Oggi,Vegan Pizza Beyond Meat  Sausage,Pizza OggiVegan Pizza Beyond Meat  Sausage390 g,$8.99ea,,$2.31/ 100g,False
+frozen,President's Choice,Rocky Road Ice Cream,President's ChoiceRocky Road Ice Cream946 ml,$4.49ea,$3.99ea,$0.42/ 100ml,True
+frozen,Chapmans,No Sugar Added Vanilla,ChapmansNo Sugar Added Vanilla1 l,$7.99ea,,$0.80/ 100ml,False
+frozen,PC Organics,"Organic Dark Sweet Cherries, Blueberries And Blackberries Power Fruit Blend - Frozen","PC OrganicsOrganic Dark Sweet Cherries, Blueberries And Blackberries Power Fruit Blend - Frozen1.5 kg",$20.99ea,$16.99ea,$1.13/ 100g,True
+frozen,So Delicious,"Dairy Free Cashew-Based Frozen Dessert, Chocolate Banana Flambe","So DeliciousDairy Free Cashew-Based Frozen Dessert, Chocolate Banana Flambe500 ml",$8.49ea,,$1.70/ 100ml,False
+frozen,Magnum,Ice Cream Bar Velvety Smooth Vanilla Ice Cream ,MagnumIce Cream Bar Velvety Smooth Vanilla Ice Cream 3x100.0 ml,$5.50ea,$4.44ea,$1.48/ 100ml,True
+frozen,Kelloggs,Eggo Waffles Buttermilk,KelloggsEggo Waffles Buttermilk560 g,$6.99ea,,$1.25/ 100g,False
+frozen,Stouffers,"Fit Bowls, Chicken with Roasted Cashew Bowl","StouffersFit Bowls, Chicken with Roasted Cashew Bowl340 g",$6.99ea,,$2.06/ 100g,False
+frozen,President's Choice,Gluten Free Four Cheese Pizza,President's ChoiceGluten Free Four Cheese Pizza340 g,$9.99ea,,$2.94/ 100g,False
+frozen,Magnum,"Mini Ice Cream Bars, Dark 60% Cocoa","MagnumMini Ice Cream Bars, Dark 60% Cocoa4x55.0 ml",$5.50ea,$4.44ea,$2.02/ 100ml,True
+frozen,Beyond Meat,Plant Based Burgers,Beyond MeatPlant Based Burgers678 g,$19.99ea,,$2.95/ 100g,False
+frozen,No Name,Concentrated Berry Punch,No NameConcentrated Berry Punch283 ml,$0.99ea,,$0.35/ 100ml,False
+frozen,President's Choice,"Thick & Crispy Breaded Chicken Burgers, Fully Cooked","President's ChoiceThick & Crispy Breaded Chicken Burgers, Fully Cooked700 g",$5.99ea,,$0.86/ 100g,False
+frozen,PC Organics,Organics Peaches and Cream Corn,PC OrganicsOrganics Peaches and Cream Corn500 g,$5.49ea,,$1.10/ 100g,False
+frozen,Breyers,"Vanilla Ice Cream with Fresh Cream, Gluten-Free & Kosher Dessert","BreyersVanilla Ice Cream with Fresh Cream, Gluten-Free & Kosher Dessert1.66 l",$7.99ea,$4.44ea,$0.27/ 100ml,True
+frozen,BlueWater Seafoods,Beer Battered Haddock    ,BlueWater SeafoodsBeer Battered Haddock    480 g,$13.99ea,,$2.91/ 100g,False
+frozen,Chapmans,Neapolitan Ice Cream Sandwich,ChapmansNeapolitan Ice Cream Sandwich12x120.0 ml,$8.99ea,,$0.62/ 100ml,False
+frozen,Boston Market,Chicken Parmesan ,Boston MarketChicken Parmesan 371 g,$5.99ea,,$1.61/ 100g,False
+frozen,Chapmans,Dutch Chocolate,ChapmansDutch Chocolate2 l,$5.99ea,,$0.30/ 100ml,False
+frozen,Halo Top,Cookie Dough,Halo TopCookie Dough473 ml,$5.99ea,,$1.27/ 100ml,False
+frozen,Foodfest,Steelhead Smoked Salmon,FoodfestSteelhead Smoked Salmon140 g,$12.99ea,,$9.28/ 100g,False
+frozen,Boston Market,Sweet & Sour Chicken ,Boston MarketSweet & Sour Chicken 397 g,$5.99ea,,$1.51/ 100g,False
+frozen,Chapmans,Neapolitan,ChapmansNeapolitan2 l,$5.99ea,,$0.30/ 100ml,False
+frozen,Cosmic Bliss,Dairy-Free Frozen Dessert Dark Chocolate,Cosmic BlissDairy-Free Frozen Dessert Dark Chocolate473 ml,$9.99ea,,$2.11/ 100ml,False
+frozen,Magnum,Frozen Dessert Bar Non-Dairy Almond Certified Vegan,MagnumFrozen Dessert Bar Non-Dairy Almond Certified Vegan270 ml,$5.50ea,$4.44ea,$1.64/ 100ml,True
+frozen,Schneider,"Deep Dish Quiche Lorraine, Ham & Cheese","SchneiderDeep Dish Quiche Lorraine, Ham & Cheese624 g",$16.99ea,,$2.72/ 100g,False
+frozen,President's Choice,Loads Of Raspberry Fruit Bars,President's ChoiceLoads Of Raspberry Fruit Bars480 ml,$6.99ea,,$1.46/ 100ml,False
+frozen,Janes,Chicken Burgers,JanesChicken Burgers852 g,$13.49ea,,$1.58/ 100g,False
+frozen,Wall’s,Malai Kulfi Ice Cream,Wall’sMalai Kulfi Ice Cream1.41 l,$8.99ea,,$0.64/ 100ml,False
+frozen,Kawartha,Moose Tracks Ice Cream,KawarthaMoose Tracks Ice Cream1.5 l,$8.99ea,,$0.60/ 100ml,False
+frozen,Silver Hills,Big Bread,Silver HillsBig Bread430 g,$7.99ea,,$1.86/ 100g,False
+frozen,Boston Market,Meatloaf,Boston MarketMeatloaf397 g,$5.99ea,,$1.51/ 100g,False
+frozen,Green Giant,Cauliflower Riced Veggies,Green GiantCauliflower Riced Veggies340 g,$5.49ea,,$1.61/ 100g,False
+frozen,President's Choice,Thick & Juicy Beef Burgers,President's ChoiceThick & Juicy Beef Burgers2.72 kg,$31.99ea,,$1.18/ 100g,False
+frozen,PC Organics,Organic Peas & Carrots,PC OrganicsOrganic Peas & Carrots500 g,$5.49ea,,$1.10/ 100g,False
+frozen,Green Giant,Valley Selections Japanese Mix,Green GiantValley Selections Japanese Mix500 g,$3.99ea,$3.49ea,$0.70/ 100g,True
+frozen,Krinos,"Fillo Twisters, Delicious Apples","KrinosFillo Twisters, Delicious Apples6x140.0 g",$9.99ea,,$1.19/ 100g,False
+frozen,Righteous,Dairy Free Dark Chocolate Plant Based Gelato,RighteousDairy Free Dark Chocolate Plant Based Gelato562 ml,$10.99ea,,$1.96/ 100ml,False
+frozen,Cheemo,"Heritage Pierogies, Harvest Potatoes with Aged White Cheddar Cheese","CheemoHeritage Pierogies, Harvest Potatoes with Aged White Cheddar Cheese815 g",$4.29ea,,$0.53/ 100g,False
+frozen,Swanson,Oven Roasters Seasoned Red Potato Wedges & Onions,SwansonOven Roasters Seasoned Red Potato Wedges & Onions425 g,$6.49ea,,$1.53/ 100g,False
+frozen,BlueWater Seafoods,English Style Classic Cut Fillets,BlueWater SeafoodsEnglish Style Classic Cut Fillets725 g,$13.99ea,,$1.93/ 100g,False
+frozen,President's Choice,Breaded Haddock Fillets,President's ChoiceBreaded Haddock Fillets550 g,$17.99ea,,$3.27/ 100g,False
+frozen,Healthy Choice,Power Bowl Chicken,Healthy ChoicePower Bowl Chicken262 g,$7.49ea,,$2.86/ 100g,False
+frozen,President's Choice,Ready Veggie Butternut Squash Noodles ,President's ChoiceReady Veggie Butternut Squash Noodles 350 g,$5.49ea,,$1.57/ 100g,False
+frozen,Nanuk,Smoked Sockeye Salmon,NanukSmoked Sockeye Salmon85 g,$11.99ea,,$14.11/ 100g,False
+frozen,Healthy Choice,Power Bowls Cauliflower Curry 280 g,Healthy ChoicePower Bowls Cauliflower Curry 280 g280 g,$7.49ea,,$2.68/ 100g,False
+frozen,Janes, Turkey Burgers,Janes Turkey Burgers600 g,$15.99ea,,$2.67/ 100g,False
+frozen,Bassilis Best,Best Lasagna,Bassilis BestBest Lasagna907 g,$12.99ea,,$1.43/ 100g,False
+frozen,Dream Pops,Berry Dreams,Dream PopsBerry Dreams168 ml,$7.49ea,,$4.46/ 100ml,False
+frozen,Chapmans,"Yukon Ice Cream Caramel, Toffee & Milk Chocolate","ChapmansYukon Ice Cream Caramel, Toffee & Milk Chocolate5x140.0 ml",$8.99ea,,$1.28/ 100ml,False
+frozen,Chapmans,Yogurt Black Jack Cherry,ChapmansYogurt Black Jack Cherry2 l,$7.99ea,,$0.40/ 100ml,False
+frozen,Mccain,Deep 'n Delicious Vanilla Cake,MccainDeep 'n Delicious Vanilla Cake510 g,$6.99ea,,$1.37/ 100g,False
+frozen,Healthy Choice,Chicken Teriyaki,Healthy ChoiceChicken Teriyaki283 g,$5.79ea,,$2.05/ 100g,False
+frozen,Haagen Dazs,Ice Cream Chocolate Hazelnut Novelty ,Haagen DazsIce Cream Chocolate Hazelnut Novelty 3x88.0 ml,$6.99ea,,$2.65/ 100ml,False
+frozen,No Name,Cut Green Beans,No NameCut Green Beans750 g,$3.29ea,,$0.44/ 100g,False
+frozen,Burnbrae Farms,Egg Bakes! Crustless Quiche 4 Cheese & Ham,Burnbrae FarmsEgg Bakes! Crustless Quiche 4 Cheese & Ham2 ea,$4.49ea,,$2.25/ 1ea,False
+frozen,Michelina,Spaghetti Bolognese,MichelinaSpaghetti Bolognese255 g,$2.79ea,$0.99ea,$0.39/ 100g,True
+frozen,Del Monte, Real Banana 1/2 Dipped Chocolate,Del Monte Real Banana 1/2 Dipped Chocolate10x50.0 ml,$7.99ea,,$1.60/ 100ml,False
+frozen,PC Blue Menu,Honey Greek Yogurt Smoothie Bars,PC Blue MenuHoney Greek Yogurt Smoothie Bars6x80.0 ml,$6.99ea,,$1.46/ 100ml,False
+frozen,Magnum,Ice Cream Bars For Chocolate Duet Made with Belgian Chocolate,MagnumIce Cream Bars For Chocolate Duet Made with Belgian Chocolate3 ea,$5.50ea,$4.44ea,$1.48/ 1ea,True
+frozen,Chapmans,Lolly Banana,ChapmansLolly Banana28x50.0 ml,$5.99ea,$4.49ea,$0.32/ 100ml,True
+frozen,No Name,California Blend Veggies,No NameCalifornia Blend Veggies2 kg,$5.79ea,,$0.29/ 100g,False
+frozen,President's Choice,Cream First Vanilla Ice Cream Bars,President's ChoiceCream First Vanilla Ice Cream Bars340 ml,$6.49ea,,$1.91/ 100ml,False
+frozen,Krinos,"Mini Twisters, Spinach & Feta Cheese","KrinosMini Twisters, Spinach & Feta Cheese454 g",$4.99ea,,$1.10/ 100g,False
+frozen,President's Choice,"Strawberries, Bananas & Kiwi Fruit Blend","President's ChoiceStrawberries, Bananas & Kiwi Fruit Blend600 g",$5.99ea,,$1.00/ 100g,False
+frozen,PC Organics,Perfectly Purple Blueberry Açai Smoothie Blend,PC OrganicsPerfectly Purple Blueberry Açai Smoothie Blend450 g,$7.49ea,,$1.66/ 100g,False
+frozen,Honeydew,100% Apple Juice With Vitamine C Added,Honeydew100% Apple Juice With Vitamine C Added355 ml,$2.49ea,,$0.70/ 100ml,False
+frozen,President's Choice,Berry Blush Banana Smoothie Blend,President's ChoiceBerry Blush Banana Smoothie Blend450 g,$5.99ea,,$1.33/ 100g,False
+frozen,Cheemo,"Perogies, Pizza","CheemoPerogies, Pizza815 g",$4.29ea,,$0.53/ 100g,False
+frozen,Tenderflake,Puff Pastry,TenderflakePuff Pastry397 g,$5.29ea,,$1.33/ 100g,False
+frozen,No Name,Naturally Imperfect Mango,No NameNaturally Imperfect Mango2 kg,$14.99ea,,$0.75/ 100g,False
+frozen,Haagen Dazs,Exträaz Strawberry Cheesecake Ice Cream,Haagen DazsExträaz Strawberry Cheesecake Ice Cream500 ml,$6.99ea,,$1.40/ 100ml,False
+frozen,President's Choice,"Chicken Wings, Crisp & Crunchy Mild Southern-Style ","President's ChoiceChicken Wings, Crisp & Crunchy Mild Southern-Style 907 g",$15.99ea,,$1.76/ 100g,False
+frozen,President's Choice,Salted Caramel Mochi,President's ChoiceSalted Caramel Mochi6x35.0 ml,$6.99ea,,$3.33/ 100ml,False
+frozen,Silver Hills,"Organic Sprouted Bread, Soft Wheat","Silver HillsOrganic Sprouted Bread, Soft Wheat680 g",$4.99ea,,$0.73/ 100g,False
+frozen,Magnum,Mini Ice Cream Bar Double Caramel,MagnumMini Ice Cream Bar Double Caramel4x55.0 ml,$5.50ea,$4.44ea,$2.02/ 100ml,True
+frozen,Honeydew,Frozen Concentrated Fruit Beverage The Grape Blueberry,HoneydewFrozen Concentrated Fruit Beverage The Grape Blueberry355 ml,$1.79ea,,$0.50/ 100ml,False
+frozen,Michelina,"Grande, Macaroni and Beef","MichelinaGrande, Macaroni and Beef454 g",$4.49ea,,$0.99/ 100g,False
+frozen,BlueWater Seafoods,Crunchy Breaded Haddock    ,BlueWater SeafoodsCrunchy Breaded Haddock    525 g,$13.99ea,,$2.66/ 100g,False
+frozen,PC Organics,Organic Pitted Dark Sweet Cherries,PC OrganicsOrganic Pitted Dark Sweet Cherries600 g,$8.99ea,,$1.50/ 100g,False
+frozen,Silver Hills,Sprouted Power Bagels Cinnamon Raisin Organic 5 Bagels,Silver HillsSprouted Power Bagels Cinnamon Raisin Organic 5 Bagels400 g,$8.99ea,,$2.25/ 100g,False
+frozen,Healthy Choice,"Gourmet Steamers, Grilled Chicken Marinara","Healthy ChoiceGourmet Steamers, Grilled Chicken Marinara283 g",$5.79ea,,$2.05/ 100g,False
+frozen,President's Choice,Beef Carnitas Meal Kit,President's ChoiceBeef Carnitas Meal Kit907 g,$15.99ea,,$1.76/ 100g,False
+frozen,Kelloggs,"Eggo Original Waffles, 16 waffles","KelloggsEggo Original Waffles, 16 waffles560 g",$6.99ea,,$1.25/ 100g,False
+frozen,President's Choice,Loads Of Cherries & Chocolatey Chunks Light Ice Cream,President's ChoiceLoads Of Cherries & Chocolatey Chunks Light Ice Cream1.5 l,$7.49ea,,$0.50/ 100ml,False
+frozen,President's Choice,Meat Lasagna,President's ChoiceMeat Lasagna320 g,$4.49ea,,$1.40/ 100g,False
+frozen,Nestle,Drumstick Non-Dairy Caramel,NestleDrumstick Non-Dairy Caramel4x120.0 ml,$7.99ea,,$1.66/ 100ml,False
+frozen,President's Choice,Raw Zipperback Shrimp Grilling,President's ChoiceRaw Zipperback Shrimp Grilling454 g,$18.99ea,,$4.18/ 100g,False
+frozen,CAVENDISH FARMS,Original Hash Brown Patties,CAVENDISH FARMSOriginal Hash Brown Patties1.2 kg,$6.99ea,,$0.58/ 100g,False
+frozen,PC Organics,Organic Blueberries,PC OrganicsOrganic Blueberries600 g,$8.99ea,,$1.50/ 100g,False
+frozen,ACE,Bake Your Own Brioche Cluster,ACEBake Your Own Brioche Cluster420 g,$6.49ea,,$1.55/ 100g,False
+frozen,Silver Hills,"Sprouted Organic Ancient Grains, Big Red's Bread","Silver HillsSprouted Organic Ancient Grains, Big Red's Bread510 g",$4.99ea,,$0.98/ 100g,False
+frozen,President's Choice,Beef & Broccoli,President's ChoiceBeef & Broccoli350 g,$4.99ea,,$1.43/ 100g,False
+frozen,Chapmans,Caramel and Vanilla Cone with Chocolate Centre,ChapmansCaramel and Vanilla Cone with Chocolate Centre8x120.0 ml,$8.99ea,,$0.94/ 100ml,False
+frozen,PC Blue Menu,Meat Lasagna,PC Blue MenuMeat Lasagna320 g,$4.49ea,,$1.40/ 100g,False
+frozen,So Delicious,"Dairy Free Coconut-Based Frozen Dessert, 8 Coconut Sandwiches","So DeliciousDairy Free Coconut-Based Frozen Dessert, 8 Coconut Sandwiches68 ml",$7.99ea,,$11.75/ 100ml,False
+frozen,President's Choice,Sweet Chili Barbecue Chicken Thin and Crispy Pizza,President's ChoiceSweet Chili Barbecue Chicken Thin and Crispy Pizza369 g,$4.50ea,$3.49ea,$0.95/ 100g,True
+frozen,PC Blue Menu,Italian-Style Bean & Chicken Protein Bowl,PC Blue MenuItalian-Style Bean & Chicken Protein Bowl300 g,$4.99ea,,$1.66/ 100g,False
+frozen,Chapmans,Yogurt Black Jack Cherry,ChapmansYogurt Black Jack Cherry2 l,$7.99ea,,$0.40/ 100ml,False
+frozen,Mccain,Deep 'n Delicious Vanilla Cake,MccainDeep 'n Delicious Vanilla Cake510 g,$6.99ea,,$1.37/ 100g,False
+frozen,Healthy Choice,Chicken Teriyaki,Healthy ChoiceChicken Teriyaki283 g,$5.79ea,,$2.05/ 100g,False
+frozen,Haagen Dazs,Ice Cream Chocolate Hazelnut Novelty ,Haagen DazsIce Cream Chocolate Hazelnut Novelty 3x88.0 ml,$6.99ea,,$2.65/ 100ml,False
+frozen,No Name,Cut Green Beans,No NameCut Green Beans750 g,$3.29ea,,$0.44/ 100g,False
+frozen,Burnbrae Farms,Egg Bakes! Crustless Quiche 4 Cheese & Ham,Burnbrae FarmsEgg Bakes! Crustless Quiche 4 Cheese & Ham2 ea,$4.49ea,,$2.25/ 1ea,False
+frozen,Krinos,"Fillo Twisters, Delicious Apples","KrinosFillo Twisters, Delicious Apples6x140.0 g",$9.99ea,,$1.19/ 100g,False
+frozen,Green Giant,Valley Selections Japanese Mix,Green GiantValley Selections Japanese Mix500 g,$3.99ea,$3.49ea,$0.70/ 100g,True
+frozen,Michelina,Spaghetti Bolognese,MichelinaSpaghetti Bolognese255 g,$2.79ea,$0.99ea,$0.39/ 100g,True
+frozen,Del Monte, Real Banana 1/2 Dipped Chocolate,Del Monte Real Banana 1/2 Dipped Chocolate10x50.0 ml,$7.99ea,,$1.60/ 100ml,False
+frozen,PC Blue Menu,Honey Greek Yogurt Smoothie Bars,PC Blue MenuHoney Greek Yogurt Smoothie Bars6x80.0 ml,$6.99ea,,$1.46/ 100ml,False
+frozen,Magnum,Ice Cream Bars For Chocolate Duet Made with Belgian Chocolate,MagnumIce Cream Bars For Chocolate Duet Made with Belgian Chocolate3 ea,$5.50ea,$4.44ea,$1.48/ 1ea,True
+frozen,Chapmans,Lolly Banana,ChapmansLolly Banana28x50.0 ml,$5.99ea,$4.49ea,$0.32/ 100ml,True
+frozen,No Name,California Blend Veggies,No NameCalifornia Blend Veggies2 kg,$5.79ea,,$0.29/ 100g,False
+frozen,President's Choice,Cream First Vanilla Ice Cream Bars,President's ChoiceCream First Vanilla Ice Cream Bars340 ml,$6.49ea,,$1.91/ 100ml,False
+frozen,Krinos,"Mini Twisters, Spinach & Feta Cheese","KrinosMini Twisters, Spinach & Feta Cheese454 g",$4.99ea,,$1.10/ 100g,False
+frozen,President's Choice,"Strawberries, Bananas & Kiwi Fruit Blend","President's ChoiceStrawberries, Bananas & Kiwi Fruit Blend600 g",$5.99ea,,$1.00/ 100g,False
+frozen,PC Organics,Perfectly Purple Blueberry Açai Smoothie Blend,PC OrganicsPerfectly Purple Blueberry Açai Smoothie Blend450 g,$7.49ea,,$1.66/ 100g,False
+frozen,President's Choice,Berry Blush Banana Smoothie Blend,President's ChoiceBerry Blush Banana Smoothie Blend450 g,$5.99ea,,$1.33/ 100g,False
+frozen,Cheemo,"Perogies, Pizza","CheemoPerogies, Pizza815 g",$4.29ea,,$0.53/ 100g,False
+frozen,Tenderflake,Puff Pastry,TenderflakePuff Pastry397 g,$5.29ea,,$1.33/ 100g,False
+frozen,Foodfest,Sockeye Salmon,FoodfestSockeye Salmon140 g,$12.99ea,,$9.28/ 100g,False
+frozen,Zoglos,Golden Meatless Nuggets,ZoglosGolden Meatless Nuggets300 g,$5.99ea,,$2.00/ 100g,False
+frozen,Healthy Choice,Power Bowls Korean-Inspired Beef,Healthy ChoicePower Bowls Korean-Inspired Beef269 g,$7.49ea,,$2.78/ 100g,False
+frozen,No Name,"Chicken Strips, Club Pack","No NameChicken Strips, Club Pack1810 g",$12.49ea,,$0.69/ 100g,False
+frozen,Green Giant,Mixed Vegetables,Green GiantMixed Vegetables750 g,$4.49ea,$3.49ea,$0.47/ 100g,True
+frozen,Green Giant,"Valley Selection, Asian Blend Vegetables","Green GiantValley Selection, Asian Blend Vegetables400 g",$3.99ea,$3.49ea,$0.87/ 100g,True
+frozen,Caulipower,Pizza Crust Cauliflower,CaulipowerPizza Crust Cauliflower340 g,$10.99ea,,$3.23/ 100g,False
+frozen,Pinty's,Buffalo Chicken Wings,Pinty'sBuffalo Chicken Wings780 g,$23.49ea,,$3.01/ 100g,False
+frozen,Halo Top,Sea Salt Caramel,Halo TopSea Salt Caramel473 ml,$5.99ea,,$1.27/ 100ml,False
+frozen,PC Blue Menu,"Skinless, Boneless Seasoned Chicken Breasts Fillets Removed","PC Blue MenuSkinless, Boneless Seasoned Chicken Breasts Fillets Removed680 g",$20.99ea,,$3.09/ 100g,False
+frozen,Ben & Jerry's,"Ice Cream, Non-Dairy Frozen Dessert Peanut Butter Half Baked Vegan","Ben & Jerry'sIce Cream, Non-Dairy Frozen Dessert Peanut Butter Half Baked Vegan473 ml",$5.50ea,$4.44ea,$0.94/ 100ml,True
+frozen,Chapmans,Vanilla,ChapmansVanilla2 l,$5.99ea,,$0.30/ 100ml,False
+frozen,President's Choice,Loads Of Chocolatey Peanut Butter Treats Light Ice Cream,President's ChoiceLoads Of Chocolatey Peanut Butter Treats Light Ice Cream1.5 l,$7.49ea,,$0.50/ 100ml,False
+frozen,Maple Leaf,Natural Shredded Chicken,Maple LeafNatural Shredded Chicken250 g,$11.49ea,,$4.60/ 100g,False
+frozen,Healthy Choice,Zero Sesame Chicken With Zoodles,Healthy ChoiceZero Sesame Chicken With Zoodles269 g,$7.49ea,,$2.78/ 100g,False
+frozen,Magnum,Frozen Dessert Bar Non-Dairy Sea Salt Caramel Certified Vegan,MagnumFrozen Dessert Bar Non-Dairy Sea Salt Caramel Certified Vegan3 ea,$5.50ea,$4.44ea,$1.48/ 1ea,True
+frozen,General Assembly Pizza,Pizza Sweet Heat,General Assembly PizzaPizza Sweet Heat359 g,$10.99ea,,$3.06/ 100g,False
+frozen,Swanson,Oven Roasters Seasoned Broccoli & Cauliflower,SwansonOven Roasters Seasoned Broccoli & Cauliflower397 g,$6.49ea,,$1.63/ 100g,False
+frozen,Delissio,Thin Crispy Crust Hawaiian Pizza,DelissioThin Crispy Crust Hawaiian Pizza510 g,$7.29ea,,$1.43/ 100g,False
+frozen,Kawartha,"Ice Cream, Strawberry","KawarthaIce Cream, Strawberry1.5 l",$8.99ea,,$0.60/ 100ml,False
+frozen,Green Giant,Simply Steam Garlic Parmesan Corn,Green GiantSimply Steam Garlic Parmesan Corn269 g,$5.49ea,,$2.04/ 100g,False
+frozen,President's Choice,Breaded Cod Bites With Sauce,President's ChoiceBreaded Cod Bites With Sauce454 g,$13.99ea,,$3.08/ 100g,False
+frozen,Holy Napoli,Funghi Pizza,Holy NapoliFunghi Pizza385 g,$11.99ea,,$3.11/ 100g,False
+frozen,Chapmans,Vanilla Yogurt and Milk Chocolate,ChapmansVanilla Yogurt and Milk Chocolate8x55.0 ml,$6.99ea,,$1.59/ 100ml,False

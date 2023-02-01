@@ -1,0 +1,25 @@
+category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale
+household_items,Sylvania,"15000 Hour LED 2W, G8","Sylvania15000 Hour LED 2W, G81 ea",$12.99ea,,$12.99/ 1ea,False
+household_items,Sylvania,GU10 Flood 50W Light Bulbs,SylvaniaGU10 Flood 50W Light Bulbs6x6.0 ea,$18.99ea,,$3.17/ 1ea,False
+household_items,Sylvania,Bulb Halogen 35W R20 120 V,SylvaniaBulb Halogen 35W R20 120 V1 ea,$7.99ea,,$7.99/ 1ea,False
+household_items,Sylvania,LED Full Cycle Grow Light,SylvaniaLED Full Cycle Grow Light1 ea,$26.99ea,,$26.99/ 1ea,False
+household_items,Sylvania,Halogen 100W Light Bulb,SylvaniaHalogen 100W Light Bulb1 ea,$8.49ea,,$8.49/ 1ea,False
+household_items,SC Johnson,"Family Guard Brand Disinfectant Spray, Fresh Scent, 496g​","SC JohnsonFamily Guard Brand Disinfectant Spray, Fresh Scent, 496g​496 g",$6.99ea,,$1.41/ 100g,False
+household_items,Lysol,"Multi-Purpose Cleaning Wipes, Herbal Tea Scent","LysolMulti-Purpose Cleaning Wipes, Herbal Tea Scent50 ea",$6.99ea,,$0.14/ 1ea,False
+household_items,Sunlight, Lemon Fresh Detergent,Sunlight Lemon Fresh Detergent4.2 l,$14.99ea,,$0.36/ 100ml,False
+household_items,Tide,2x Ultra With Febreze Freshness Detergent,Tide2x Ultra With Febreze Freshness Detergent2.04 l,$14.99ea,,$0.73/ 100ml,False
+household_items,Sylvania,"Euro Chandelier 40W Light Bulbs, Clear","SylvaniaEuro Chandelier 40W Light Bulbs, Clear2 ea",$4.49ea,,$2.25/ 1ea,False
+household_items,Gain,"Liquid Laundry Detergent, Coldwater","GainLiquid Laundry Detergent, Coldwater4.55 l",$22.99ea,$14.99ea,$0.33/ 100ml,True
+household_items,Vim,Wood Floor Cleaner ,VimWood Floor Cleaner 1 l,$4.99ea,,$0.50/ 100ml,False
+household_items,Method,"Dish Soap, Clementine","MethodDish Soap, Clementine532 ml",$5.99ea,,$1.13/ 100ml,False
+household_items,Downy,"Fresh Protect In-Wash Scent Beads with Febreze Odor Defense, April Fresh","DownyFresh Protect In-Wash Scent Beads with Febreze Odor Defense, April Fresh752 g",$22.99ea,,$3.06/ 100g,False
+household_items,Lysol,"Disinfecting Wipes, 3 packs","LysolDisinfecting Wipes, 3 packs2 ea",$17.99ea,,$9.00/ 1ea,False
+household_items,Sylvania,Soft White Led 60 W B10 Frosted Bulbs,SylvaniaSoft White Led 60 W B10 Frosted Bulbs2x1.0 ea,$14.98ea,,$7.49/ 1ea,False
+household_items,Sylvania,B10 Clear Bulbs Soft White Led 60 W,SylvaniaB10 Clear Bulbs Soft White Led 60 W2x1.0 ea,$12.98ea,,$6.49/ 1ea,False
+household_items,Sylvania,"LED Bulb, 10 Year, 6W A19 DL VP4","SylvaniaLED Bulb, 10 Year, 6W A19 DL VP44x1.0 ea",$15.99ea,$11.19ea,$2.80/ 1ea,True
+household_items,Tide,"Sport Odor Defense Liquid Laundry Detergent Pods, Active Fresh Scent, 61 Count","TideSport Odor Defense Liquid Laundry Detergent Pods, Active Fresh Scent, 61 Count1.79 kg",$22.99ea,$21.99ea,$0.36/ 1ea,True
+household_items,Febreze,"Air Fresheners, Small Spaces Air Freshener Berry & Bramble, Pack Of 2","FebrezeAir Fresheners, Small Spaces Air Freshener Berry & Bramble, Pack Of 215 ml",$6.49ea,,$43.27/ 100ml,False
+household_items,Sylvania,Par30Ln Bulb 75 W Halogen Flood 50°,SylvaniaPar30Ln Bulb 75 W Halogen Flood 50°1 ea,$14.99ea,,$14.99/ 1ea,False
+household_items,Sylvania,40 W Crystal Led Soft White Indoor Outdoor B10 Bulbs,Sylvania40 W Crystal Led Soft White Indoor Outdoor B10 Bulbs2x1.0 ea,$19.98ea,,$9.99/ 1ea,False
+household_items,Sylvania,"Double Life 3-Way 50W/100W/150W Light Bulb, Daylight","SylvaniaDouble Life 3-Way 50W/100W/150W Light Bulb, Daylight1 ea",$5.99ea,,$5.99/ 1ea,False
+household_items,effeclean,Granite & Countertop Cleaner,effecleanGranite & Countertop Cleaner946 ml,$5.99ea,,$0.63/ 100ml,False

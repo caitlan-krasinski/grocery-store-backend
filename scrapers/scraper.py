@@ -39,7 +39,7 @@ def click_load_more(driver, load_more_xpath):
     load_more = driver.find_element_by_xpath(load_more_xpath)
 
     count = 0
-    while True:
+    while True and count < 50: # truncate at 50 for compute reasons 
         try:
             # click the button
             load_more.click()
@@ -63,7 +63,7 @@ def check_that_bottom_is_reached(driver, load_more_xpath):
 
     try: 
         load_more = driver.find_element_by_xpath(load_more_xpath)
-        print('\t failed run')
+        print('\t more to load')
     except:
         print('\t reached bottom of page')
 

@@ -1600,3 +1600,728 @@ no_frills,seafood,Seaquest,Basa Fillets,SeaquestBasa Fillets,8.37,,each,22.02,,1
 no_frills,seafood,Anchor Bay,Whole Pompano,Anchor BayWhole Pompano800 g,8.88,,each,1.11,,100g,True,False,8.88
 no_frills,seafood,,Breaded Popcorn Shrimp,Breaded Popcorn Shrimp908 g,10.0,,each,1.1,,100g,True,False,10.0
 no_frills,seafood,,Tuna Steak ,Tuna Steak 113 g,3.79,,each,3.35,,100g,True,False,3.79
+no_frills,pantry,No Name,Black Beans,No NameBlack Beans540 ml,1.19,,each,0.21999999999999997,,100ml,True,False,1.19
+no_frills,pantry,No Name,Medium Whole Prunes,No NameMedium Whole Prunes750 g,10.99,,each,1.47,,100g,True,False,10.99
+no_frills,pantry,Rooster,Dried Shiitake Mushrooms,RoosterDried Shiitake Mushrooms200 g,6.99,,each,3.5,,100g,True,False,6.99
+no_frills,pantry,Nupak,Navy Beans,NupakNavy Beans900 g,4.19,,each,0.47,,100g,True,False,4.19
+no_frills,pantry,Nupak,Long Grain White Rice,NupakLong Grain White Rice2 kg,5.49,,each,0.27,,100g,True,False,5.49
+no_frills,pantry,Aurora,"Basso Extra Virgin Olive Oil, Amphora","AuroraBasso Extra Virgin Olive Oil, Amphora1 l",14.99,,each,1.5,,100ml,True,False,14.99
+no_frills,pantry,Old Bay,Seasoning,Old BaySeasoning680 g,15.99,,each,2.35,,100g,True,False,15.99
+no_frills,pantry,Goya,Sazn Safron,GoyaSazn Safron40 g,2.49,,each,6.23,,100g,True,False,2.49
+no_frills,pantry,Golden Temple,Whole Wheat Flour,Golden TempleWhole Wheat Flour9 kg,19.99,,each,0.22,,100g,True,False,19.99
+no_frills,pantry,Unico,"Pasta Sauce, Original","UnicoPasta Sauce, Original680 ml",2.79,,each,0.41,,100ml,True,False,2.79
+no_frills,pantry,Bens,Basmati Coconut Lemongrass & Chili Flavour,BensBasmati Coconut Lemongrass & Chili Flavour240 g,3.49,,each,1.45,,100g,True,False,3.49
+no_frills,pantry,Nupak,Yellow Cornmeal,NupakYellow Cornmeal2 kg,2.99,,each,0.15,,100g,True,False,2.99
+no_frills,pantry,Cool Runnings,Fish Seasoning,Cool RunningsFish Seasoning350 g,3.99,,each,1.14,,100g,True,False,3.99
+no_frills,pantry,Unico,Durum Semolina,UnicoDurum Semolina750 g,2.99,,each,0.4,,100g,True,False,2.99
+no_frills,pantry,Cool Runnings,Chicken Seasoning,Cool RunningsChicken Seasoning850 g,5.49,,each,0.65,,100g,True,False,5.49
+no_frills,pantry,Allessia,100 % Pure Avocado Oil,Allessia100 % Pure Avocado Oil100 ml,6.49,,each,6.49,,100ml,True,False,6.49
+no_frills,pantry,Club House,"Marinade Mix, Meat","Club HouseMarinade Mix, Meat32 g",1.49,,each,4.66,,100g,True,False,1.49
+no_frills,pantry,President's Choice,Horseradish Dijon Mustard,President's ChoiceHorseradish Dijon Mustard325 ml,2.0,,each,0.62,,100ml,True,False,2.0
+no_frills,pantry,Unico,Sunflower Oil,UnicoSunflower Oil1 l,10.99,,each,1.1,,100ml,True,False,10.99
+no_frills,pantry,Colavita,"Oils, Extra Virgin Olive Oil, Mediterranean","ColavitaOils, Extra Virgin Olive Oil, Mediterranean750 ml",16.99,,each,2.27,,100ml,True,False,16.99
+no_frills,pantry,Golden Temple,Wheat Atta Flour,Golden TempleWheat Atta Flour9 kg,19.99,,each,0.22,,100g,True,False,19.99
+no_frills,pantry,Organico Bello,OB Spicy Marinara,Organico BelloOB Spicy Marinara685 ml,9.99,,each,1.46,,100ml,True,False,9.99
+no_frills,pantry,Billy Bee,"Pure Natural Honey, Liquid White, Squeeze","Billy BeePure Natural Honey, Liquid White, Squeeze500 g",8.99,,each,1.8,,100g,True,False,8.99
+no_frills,pantry,Post,Chips Ahoy,PostChips Ahoy340 g,3.99,,each,1.17,,100g,True,False,3.99
+no_frills,pantry,Reddi Bulk,Flax Seeds,Reddi BulkFlax Seeds450 g,2.49,,each,0.55,,100g,True,False,2.49
+no_frills,pantry,Club House,Smoked Paprika,Club HouseSmoked Paprika116 g,10.49,,each,9.04,,100g,True,False,10.49
+no_frills,pantry,Suraj,"Kidney Beans, Dark","SurajKidney Beans, Dark1.81 kg",5.99,,each,0.33,,100g,True,False,5.99
+no_frills,pantry,Blue Dragon,Thai Red Curry Paste,Blue DragonThai Red Curry Paste270 ml,5.49,,each,2.03,,100ml,True,False,5.49
+no_frills,pantry,Primal Kitchen,No Dairy Alfredo Sauce,Primal KitchenNo Dairy Alfredo Sauce455 ml,13.49,,each,2.96,,100ml,True,False,13.49
+no_frills,pantry,Suraj,Channa Dal,SurajChanna Dal1.8 kg,5.99,,each,0.33,,100g,True,False,5.99
+no_frills,pantry,Tostitos,Dip - Spinach 432g,TostitosDip - Spinach 432g432 g,5.99,,each,1.39,,100g,True,False,5.99
+no_frills,pantry,Molisana,Capellini,MolisanaCapellini450 g,2.79,,each,0.62,,100g,True,False,2.79
+no_frills,pantry,Aurora,Bouillon Mushroom,AuroraBouillon Mushroom66 g,1.49,,each,2.26,,100g,True,False,1.49
+no_frills,pantry,Tostitos,Salsa - Roasted Garlic 423ml,TostitosSalsa - Roasted Garlic 423ml423 ml,4.49,,each,1.06,,100ml,True,False,4.49
+no_frills,pantry,Chef Boyardee,Mini Beef Ravioli,Chef BoyardeeMini Beef Ravioli1.13 kg,3.99,,each,0.35,,100g,True,False,3.99
+no_frills,pantry,Grace,Caribbean Combos Rice & Red Kidney Beans Mix,GraceCaribbean Combos Rice & Red Kidney Beans Mix175 g,1.99,,each,1.14,,100g,True,False,1.99
+no_frills,pantry,Sunfeast,Yippee! Noodles Magic Masala   ,SunfeastYippee! Noodles Magic Masala   280 g,2.29,,each,0.82,,100g,True,False,2.29
+no_frills,pantry,President's Choice,Pure Raspberry Jam,President's ChoicePure Raspberry Jam500 ml,5.99,,each,1.2,,100ml,True,False,5.99
+no_frills,pantry,Nupak,Cornmeal,NupakCornmeal450 g,0.99,,each,0.22,,100g,True,False,0.99
+no_frills,pantry,Coleman,Double Mustard Superfine Powder,ColemanDouble Mustard Superfine Powder113 g,6.29,,each,5.57,,100g,True,False,6.29
+no_frills,pantry,Cool Runnings,Meat Seasoning,Cool RunningsMeat Seasoning900 g,4.29,,each,0.5,,100g,True,False,4.29
+no_frills,pantry,Cool Runnings,Monosodium Glutamate,Cool RunningsMonosodium Glutamate300 g,4.29,,each,1.43,,100g,True,False,4.29
+no_frills,pantry,Nupak,Romano Beans,NupakRomano Beans900 g,4.19,,each,0.47,,100g,True,False,4.19
+no_frills,pantry,,Sherry Cooking Wine,Sherry Cooking Wine500 ml,5.99,,each,1.2,,100ml,True,False,5.99
+no_frills,pantry,Woodman's,Regular Creamed Horseradish,Woodman'sRegular Creamed Horseradish250 ml,4.49,,each,1.8,,100ml,True,False,4.49
+no_frills,pantry,Nupak,Green Split Peas,NupakGreen Split Peas900 g,2.79,,each,0.31,,100g,True,False,2.79
+no_frills,pantry,Cock,Chili Sauce for Spring Rolls,CockChili Sauce for Spring Rolls720 ml,5.99,,each,0.83,,100ml,True,False,5.99
+no_frills,pantry,Club House,"Food Colour, Red","Club HouseFood Colour, Red28 ml",2.99,,each,10.68,,100ml,True,False,2.99
+no_frills,pantry,Unico,Broad Beans,UnicoBroad Beans540 ml,3.19,,each,0.59,,100ml,True,False,3.19
+no_frills,pantry,Unico,"Sauce, Passata Cucina Fresca","UnicoSauce, Passata Cucina Fresca680 ml",2.99,,each,0.44,,100ml,True,False,2.99
+no_frills,pantry,No Name,Ground Black Pepper,No NameGround Black Pepper150 g,2.49,,each,1.66,,100g,True,False,2.49
+no_frills,pantry,General Mills,Churros,General MillsChurros547 g,4.88,,each,0.89,,100g,True,False,4.88
+no_frills,pantry,Arm & Hammer,Fridge-N-Freezer Baking Soda,Arm & HammerFridge-N-Freezer Baking Soda500 g,1.79,,each,0.36,,100g,True,False,1.79
+no_frills,pantry,President's Choice,Ramen Broth,President's ChoiceRamen Broth900 ml,2.19,,each,0.24,,100ml,True,False,2.19
+no_frills,pantry,Catelli,"Whole Grains, Macaroni Pasta","CatelliWhole Grains, Macaroni Pasta375 g",3.29,,each,0.88,,100g,True,False,3.29
+no_frills,pantry,Classico,Bolognese Spaghetti Pasta Sauce,ClassicoBolognese Spaghetti Pasta Sauce650 ml,4.49,,each,0.69,,100ml,True,False,4.49
+no_frills,pantry,Unico,"Black Beans, No Salt Added","UnicoBlack Beans, No Salt Added540 ml",1.49,1.25,each,0.27416,0.23,100ml,True,True,1.25
+no_frills,pantry,Windsor,"Sea Salt, Fine","WindsorSea Salt, Fine500 g",4.49,,each,0.9,,100g,True,False,4.49
+no_frills,pantry,Quaker,Regular Family Size Instant Oatmeal,QuakerRegular Family Size Instant Oatmeal504 g,6.99,,each,1.39,,100g,True,False,6.99
+no_frills,pantry,President's Choice,Soft Taco Kit,President's ChoiceSoft Taco Kit427 g,4.19,,each,0.98,,100g,True,False,4.19
+no_frills,pantry,Club House,"Signature Blends, Parmesan & Herbs","Club HouseSignature Blends, Parmesan & Herbs135 g",6.99,,each,5.18,,100g,True,False,6.99
+no_frills,pantry,Bens,Mexican Style Rice,BensMexican Style Rice397 g,4.79,,each,1.21,,100g,True,False,4.79
+no_frills,pantry,President's Choice,Liquid Coconut Oil Spray,President's ChoiceLiquid Coconut Oil Spray120 ml,4.49,,each,3.7400000000000007,,100ml,True,False,4.49
+no_frills,pantry,Club House,Cayenne Pepper,Club HouseCayenne Pepper81 g,7.49,,each,9.25,,100g,True,False,7.49
+no_frills,pantry,No Name,Dehydrated Minced Onion,No NameDehydrated Minced Onion105 g,2.0,,each,1.9000000000000001,,100g,True,False,2.0
+no_frills,pantry,No Name,Black Peppercorns,No NameBlack Peppercorns575 g,13.99,,each,2.43,,100g,True,False,13.99
+no_frills,pantry,Catelli,"Gluten Free, Spaghetti Pasta","CatelliGluten Free, Spaghetti Pasta340 g",3.29,,each,0.97,,100g,True,False,3.29
+no_frills,pantry,Robin Hood,100% Whole Grains Minute Oats,Robin Hood100% Whole Grains Minute Oats1 kg,4.49,,each,0.45,,100g,True,False,4.49
+no_frills,pantry,Royal Nuts,"Dry Roasted Mixed Nuts, Unsalted    ","Royal NutsDry Roasted Mixed Nuts, Unsalted    325 g",11.0,,each,3.38,,100g,True,False,11.0
+no_frills,pantry,McCormicks,"Pure Natural Honey, Liquid White, Squeeze","McCormicksPure Natural Honey, Liquid White, Squeeze750 g",9.99,,each,1.33,,100g,True,False,9.99
+no_frills,pantry,Mutti,Cherry Tomatoes,MuttiCherry Tomatoes400 g,2.49,,each,0.62,,100g,True,False,2.49
+no_frills,pantry,No Name,"Ground Cinnamon, Club Size","No NameGround Cinnamon, Club Size560 g",6.99,,each,1.25,,100g,True,False,6.99
+no_frills,pantry,Cucina Antica,"Pasta Sauce, Garlic Marinara","Cucina AnticaPasta Sauce, Garlic Marinara670 ml",9.99,,each,1.49,,100ml,True,False,9.99
+no_frills,pantry,Kraft,BBQ Sauce with Garlic,KraftBBQ Sauce with Garlic455 ml,2.69,,each,0.59,,100ml,True,False,2.69
+no_frills,pantry,No Name,Sliced Blanched Almonds ,No NameSliced Blanched Almonds 100 g,3.49,,each,3.49,,100g,True,False,3.49
+no_frills,pantry,President's Choice,Low Sodium Sustainably Sourced Wild Albacore Solid White Tuna,President's ChoiceLow Sodium Sustainably Sourced Wild Albacore Solid White Tuna170 g,2.99,,each,1.76,,100g,True,False,2.99
+no_frills,pantry,PC Blue Menu,100% Whole Grain Whole Wheat Penne Rigate,PC Blue Menu100% Whole Grain Whole Wheat Penne Rigate375 g,1.99,,each,0.53,,100g,True,False,1.99
+no_frills,pantry,Kraft,Crispy Pork Coating Mix,KraftCrispy Pork Coating Mix160 g,3.69,,each,2.31,,100g,True,False,3.69
+no_frills,pantry,PC Blue Menu,Twice The Fruit 3-Berry Spread,PC Blue MenuTwice The Fruit 3-Berry Spread500 ml,5.99,,each,1.2,,100ml,True,False,5.99
+no_frills,pantry,Club House,"Signature Blends, Salt Free Garlic","Club HouseSignature Blends, Salt Free Garlic142 g",6.99,,each,4.92,,100g,True,False,6.99
+no_frills,pantry,No Name,Mushrooms Pieces & Stems,No NameMushrooms Pieces & Stems284 ml,1.0,,each,0.35,,100ml,True,False,1.0
+no_frills,pantry,Club House,La Grille Montreal Chicken Wet Rub,Club HouseLa Grille Montreal Chicken Wet Rub200 ml,7.29,,each,3.65,,100ml,True,False,7.29
+no_frills,pantry,Primo,"Pasta Sauce, Thick & Zesty Original","PrimoPasta Sauce, Thick & Zesty Original680 ml",3.29,,each,0.48,,100ml,True,False,3.29
+no_frills,pantry,Rooster,Scented Jasmine Rice ,RoosterScented Jasmine Rice 2 kg,6.49,,each,0.32,,100g,True,False,6.49
+no_frills,pantry,No Name,Minced Ginger,No NameMinced Ginger120 g,3.29,,each,2.7400000000000007,,100g,True,False,3.29
+no_frills,pantry,Bens,Wholegrain Brown Rice 10 Minute,BensWholegrain Brown Rice 10 Minute1.4 kg,7.99,,each,0.57,,100g,True,False,7.99
+no_frills,pantry,Catelli,"Smart, Spaghetti Pasta","CatelliSmart, Spaghetti Pasta375 g",3.29,,each,0.88,,100g,True,False,3.29
+no_frills,pantry,President's Choice,Long Grain Instant Rice,President's ChoiceLong Grain Instant Rice2.6 kg,12.99,,each,0.5,,100g,True,False,12.99
+no_frills,pantry,President's Choice,Mediterranean Sea Salts,President's ChoiceMediterranean Sea Salts360 g,4.99,,each,1.39,,100g,True,False,4.99
+no_frills,pantry,No Name,Strawberry Jam With Pectin,No NameStrawberry Jam With Pectin500 ml,3.99,,each,0.8,,100ml,True,False,3.99
+no_frills,pantry,Knorr,Sidekicks Side Dishes Mexican Rice,KnorrSidekicks Side Dishes Mexican Rice133 g,2.49,,each,1.87,,100g,True,False,2.49
+no_frills,pantry,Bens,Basmati Rice,BensBasmati Rice1.6 kg,12.99,,each,0.8100000000000002,,100g,True,False,12.99
+no_frills,pantry,Reddi Bulk,Gummi Bears,Reddi BulkGummi Bears600 g,5.0,,each,0.83,,100g,True,False,5.0
+no_frills,pantry,Vlasic,Stackers Kosher Dill Pickles   ,VlasicStackers Kosher Dill Pickles   500 ml,4.49,,each,0.9,,100ml,True,False,4.49
+no_frills,pantry,President's Choice,Pasta Spaghettini Nests 450 g,President's ChoicePasta Spaghettini Nests 450 g450 g,3.79,,each,0.84,,100g,True,False,3.79
+no_frills,pantry,Unico,Crushed Tomatoes. No Salt Added,UnicoCrushed Tomatoes. No Salt Added796 ml,1.39,1.25,each,0.17792,0.16,100ml,True,True,1.25
+no_frills,pantry,President's Choice,Balsamic Dressing,President's ChoiceBalsamic Dressing475 ml,3.49,,each,0.7300000000000001,,100ml,True,False,3.49
+no_frills,pantry,Campbell's,Concentrated Vegetable Broth,Campbell'sConcentrated Vegetable Broth250 ml,2.49,,each,1.0,,100ml,True,False,2.49
+no_frills,pantry,No Name,Onion Salt,No NameOnion Salt200 g,1.49,,each,0.75,,100g,True,False,1.49
+no_frills,pantry,Jell-O,"Raspberry Jelly Powder Light, Gelatin Mix","Jell-ORaspberry Jelly Powder Light, Gelatin Mix10 g",0.99,,each,9.9,,100g,True,False,0.99
+no_frills,pantry,President's Choice,Moroccan Shakshuka Cooking Sauce,President's ChoiceMoroccan Shakshuka Cooking Sauce400 ml,4.99,,each,1.25,,100ml,True,False,4.99
+no_frills,pantry,Dainty,Rice Basmati Format Maxi,DaintyRice Basmati Format Maxi1.6 kg,15.49,,each,0.97,,100g,True,False,15.49
+no_frills,pantry,Pataks,Hot Curry Paste,PataksHot Curry Paste284 ml,5.49,,each,1.93,,100ml,True,False,5.49
+no_frills,pantry,Unico,Pizza Olives,UnicoPizza Olives2 l,8.79,,each,0.43999999999999995,,100ml,True,False,8.79
+no_frills,pantry,Happy Dairy,Ghee Clarified Butter,Happy DairyGhee Clarified Butter800 g,15.99,,each,2.0,,100g,True,False,15.99
+no_frills,pantry,Birds,Custard Powder,BirdsCustard Powder340 g,5.49,,each,1.61,,100g,True,False,5.49
+no_frills,pantry,Amira,"Peanuts, Blanched Roasted Salted","AmiraPeanuts, Blanched Roasted Salted400 g",3.0,,each,0.75,,100g,True,False,3.0
+no_frills,pantry,Blue Dragon,Pad Thai Cooking Kit 3 Step,Blue DragonPad Thai Cooking Kit 3 Step220 g,5.29,,each,2.4,,100g,True,False,5.29
+no_frills,pantry,No Name,Crushed Pineapple in Pineapple Juice,No NameCrushed Pineapple in Pineapple Juice540 ml,1.69,,each,0.31,,100ml,True,False,1.69
+no_frills,pantry,Clover Leaf,Solid Tuna in Light Olive Oil,Clover LeafSolid Tuna in Light Olive Oil240 g,5.99,,each,2.5,,100g,True,False,5.99
+no_frills,pantry,Club House,Dill Weed,Club HouseDill Weed50 g,7.99,,each,15.98,,100g,True,False,7.99
+no_frills,pantry,Aurora,Chicken Bouillon Cubes,AuroraChicken Bouillon Cubes66 g,1.49,,each,2.26,,100g,True,False,1.49
+no_frills,pantry,Swiss Chalet,SwissChalet Sauce Hot Chicken Sandwich Homestyle Gravy,Swiss ChaletSwissChalet Sauce Hot Chicken Sandwich Homestyle Gravy284 ml,1.99,,each,0.7,,100ml,True,False,1.99
+no_frills,pantry,Club House,Himalayan Pink Rock Salts Grinder,Club HouseHimalayan Pink Rock Salts Grinder70 g,3.99,,each,5.7,,100g,True,False,3.99
+no_frills,pantry,Reddi Bulk,Raw Pecan Halves,Reddi BulkRaw Pecan Halves250 g,10.0,,each,4.0,,100g,True,False,10.0
+no_frills,pantry,Pataks,Light Butter Chicken Cooking Sauce,PataksLight Butter Chicken Cooking Sauce400 ml,4.99,,each,1.25,,100ml,True,False,4.99
+no_frills,pantry,Molisana,Hot Regina Mushroom,MolisanaHot Regina Mushroom250 ml,3.99,,each,1.6,,100ml,True,False,3.99
+no_frills,pantry,Betty Crocker,Chocolate Chip Cookie Mix Snack Size,Betty CrockerChocolate Chip Cookie Mix Snack Size212 g,2.29,,each,1.08,,100g,True,False,2.29
+no_frills,pantry,Grace,Organic Coconut Sugar,GraceOrganic Coconut Sugar500 g,6.99,,each,1.4000000000000001,,100g,True,False,6.99
+no_frills,pantry,Pearl Milling Company,Original Syrup,Pearl Milling CompanyOriginal Syrup710 ml,3.29,,each,0.46,,100ml,True,False,3.29
+no_frills,pantry,McCormicks,"International Sauce Mix, Green Peppercorn","McCormicksInternational Sauce Mix, Green Peppercorn38 g",2.29,,each,6.03,,100g,True,False,2.29
+no_frills,pantry,No Name,Light Whipped Dressing,No NameLight Whipped Dressing890 ml,4.99,,each,0.56,,100ml,True,False,4.99
+no_frills,pantry,Rooster,100% Pure Corn Oil,Rooster100% Pure Corn Oil2.84 l,16.99,,each,0.6,,100ml,True,False,16.99
+no_frills,pantry,La Costena,Chipotle Pepper Sauce,La CostenaChipotle Pepper Sauce200 ml,1.29,,each,0.5899999999999999,,100ml,True,False,1.29
+no_frills,pantry,VH,Pineapple Jerk Medium,VHPineapple Jerk Medium341 ml,3.79,,each,1.11,,100ml,True,False,3.79
+no_frills,pantry,Shan,"Tikka Seekh Kebab, BBQ","ShanTikka Seekh Kebab, BBQ50 g",2.29,,each,4.58,,100g,True,False,2.29
+no_frills,pantry,No Name,Pineapple Sauce,No NamePineapple Sauce350 ml,3.0,,each,0.86,,100ml,True,False,3.0
+no_frills,pantry,Unico,Tuna in Olive Oil,UnicoTuna in Olive Oil3x80.0 g,5.79,,each,2.41,,100g,True,False,5.79
+no_frills,pantry,Suraj,Whole Cloves,SurajWhole Cloves75 g,2.79,,each,3.72,,100g,True,False,2.79
+no_frills,pantry,No Name,Pineapple Tidbits in Pineapple Juice,No NamePineapple Tidbits in Pineapple Juice540 ml,1.69,,each,0.31,,100ml,True,False,1.69
+no_frills,pantry,Suraj,Crushed Chillies,SurajCrushed Chillies200 g,2.29,,each,1.15,,100g,True,False,2.29
+no_frills,pantry,Dr Oetker,"Shirriff Filling & Dessert Mix, Light Lemon Pie","Dr OetkerShirriff Filling & Dessert Mix, Light Lemon Pie106 g",2.79,,each,2.63,,100g,True,False,2.79
+no_frills,pantry,Suraj,Ground Turmeric ,SurajGround Turmeric 400 g,3.49,,each,0.8699999999999999,,100g,True,False,3.49
+no_frills,pantry,President's Choice,Pure Concord Grape Jelly,President's ChoicePure Concord Grape Jelly500 ml,4.69,,each,0.9399999999999998,,100ml,True,False,4.69
+no_frills,pantry,Suraj,"Fenugreek Seeds, Methi Dana","SurajFenugreek Seeds, Methi Dana400 g",2.49,,each,0.62,,100g,True,False,2.49
+no_frills,pantry,President's Choice,Table Syrup With 10% Maple Syrup,President's ChoiceTable Syrup With 10% Maple Syrup750 ml,4.99,,each,0.67,,100ml,True,False,4.99
+no_frills,pantry,Wing's,Egg Roll Wraps ,Wing'sEgg Roll Wraps 454 g,2.29,,each,0.5,,100g,True,False,2.29
+no_frills,pantry,Nupak,Yellow Split Peas,NupakYellow Split Peas900 g,2.79,,each,0.31,,100g,True,False,2.79
+no_frills,pantry,Reddi Bulk,Dried Cranberries,Reddi BulkDried Cranberries350 g,5.0,,each,1.43,,100g,True,False,5.0
+no_frills,pantry,McCormicks,"International Sauce Mix, Roast Gravy For Poultry","McCormicksInternational Sauce Mix, Roast Gravy For Poultry30 g",2.29,,each,7.63,,100g,True,False,2.29
+no_frills,pantry,Ocean Spray,Craisins Sweetened Dried Cranberries ,Ocean SprayCraisins Sweetened Dried Cranberries 1.36 kg,11.99,,each,0.88,,100g,True,False,11.99
+no_frills,pantry,Cool Runnings,Rice & Peas Seasoning,Cool RunningsRice & Peas Seasoning350 g,4.29,,each,1.23,,100g,True,False,4.29
+no_frills,pantry,Kraft,"Smooth Peanut Butter, Light","KraftSmooth Peanut Butter, Light2 kg",9.49,,each,0.47,,100g,True,False,9.49
+no_frills,pantry,Strubs,Pickled Eggs,StrubsPickled Eggs500 ml,5.19,,each,1.04,,100ml,True,False,5.19
+no_frills,pantry,President's Choice,Bacon and Maple Barbecue Sauce,President's ChoiceBacon and Maple Barbecue Sauce500 ml,3.49,,each,0.7,,100ml,True,False,3.49
+no_frills,pantry,President's Choice,Plant Based Chocolate Chips Semi-Sweet,President's ChoicePlant Based Chocolate Chips Semi-Sweet300 g,3.49,,each,1.16,,100g,True,False,3.49
+no_frills,pantry,Betty Crocker,White Cake Mix,Betty CrockerWhite Cake Mix430 g,3.79,,each,0.88,,100g,True,False,3.79
+no_frills,pantry,Green Giant,Peas & Carrots,Green GiantPeas & Carrots398 ml,1.99,,each,0.5,,100ml,True,False,1.99
+no_frills,pantry,President's Choice,Everything Bagel Seasoning,President's ChoiceEverything Bagel Seasoning65 g,3.79,,each,5.83,,100g,True,False,3.79
+no_frills,pantry,Knorr,Sidekicks Butter & Herb Rice & Vermicelli Side Dis,KnorrSidekicks Butter & Herb Rice & Vermicelli Side Dis153 g,2.49,,each,1.63,,100g,True,False,2.49
+no_frills,pantry,Kelloggs,"Froot Loops Cereal, Jumbo Size","KelloggsFroot Loops Cereal, Jumbo Size825 g",10.49,,each,1.27,,100g,True,False,10.49
+no_frills,pantry,No Name,Crushed Red Pepper ,No NameCrushed Red Pepper 60 g,2.0,,each,3.33,,100g,True,False,2.0
+no_frills,pantry,PC Splendido,Gnocchi,PC SplendidoGnocchi500 g,2.29,,each,0.4600000000000001,,100g,True,False,2.29
+no_frills,pantry,Dr Oetker,"Pudding Supreme, Chocolate","Dr OetkerPudding Supreme, Chocolate90 g",1.79,,each,1.99,,100g,True,False,1.79
+no_frills,pantry,Old El Paso,"Diner Kit, Hard Taco","Old El PasoDiner Kit, Hard Taco250 g",4.99,,each,2.0,,100g,True,False,4.99
+no_frills,pantry,President's Choice,Hot Taco Seasoning Mix,President's ChoiceHot Taco Seasoning Mix24 g,1.0,,each,4.17,,100g,True,False,1.0
+no_frills,pantry,Keens,Dry Mustard,KeensDry Mustard88 g,5.99,,each,6.81,,100g,True,False,5.99
+no_frills,pantry,Bertolli,Rich Taste-Organic Extra Virgin Olive Oil,BertolliRich Taste-Organic Extra Virgin Olive Oil750 ml,12.99,,each,1.73,,100ml,True,False,12.99
+no_frills,pantry,Bush's Best,Baked Beans - Molasses with Pork,Bush's BestBaked Beans - Molasses with Pork398 ml,2.49,,each,0.63,,100ml,True,False,2.49
+no_frills,pantry,Quaker,Oatmeal Chocolate Chip Muffin Mix,QuakerOatmeal Chocolate Chip Muffin Mix900 g,4.99,,each,0.55,,100g,True,False,4.99
+no_frills,pantry,Maggi,Seasoning (Red Cap),MaggiSeasoning (Red Cap)200 ml,4.29,,each,2.15,,100ml,True,False,4.29
+no_frills,pantry,Betty Crocker,Spicy Cake Mix,Betty CrockerSpicy Cake Mix432 g,3.99,,each,0.9199999999999999,,100g,True,False,3.99
+no_frills,pantry,Kraft,Balsamic Vinaigrette,KraftBalsamic Vinaigrette475 ml,3.79,,each,0.8,,100ml,True,False,3.79
+no_frills,pantry,Catelli,"Smart, Lasagne Pasta","CatelliSmart, Lasagne Pasta375 g",4.79,,each,1.28,,100g,True,False,4.79
+no_frills,pantry,No Name,Pure Tomato Paste,No NamePure Tomato Paste369 ml,1.25,,each,0.34,,100ml,True,False,1.25
+no_frills,pantry,Club House,"Seasoning Mix, Pasta Salad","Club HouseSeasoning Mix, Pasta Salad28 g",2.29,,each,8.18,,100g,True,False,2.29
+no_frills,pantry,President's Choice,Original Pasta Sauce,President's ChoiceOriginal Pasta Sauce1.8 l,6.99,,each,0.39,,100ml,True,False,6.99
+no_frills,pantry,Club House,"Dry Sauce Mix, Chicken Gravy, Gluten-Free","Club HouseDry Sauce Mix, Chicken Gravy, Gluten-Free25 g",1.49,,each,5.96,,100g,True,False,1.49
+no_frills,pantry,No Name,"Soup Cups, Chicken","No NameSoup Cups, Chicken65 g",0.99,,each,1.52,,100g,True,False,0.99
+no_frills,pantry,President's Choice,Black Peppercorns,President's ChoiceBlack Peppercorns48 g,3.79,,each,7.9,,100g,True,False,3.79
+no_frills,pantry,Renees,Light Caesar Dressing,ReneesLight Caesar Dressing750 ml,7.99,,each,1.07,,100ml,True,False,7.99
+no_frills,pantry,President's Choice,Hearty Chicken Noodle Soup,President's ChoiceHearty Chicken Noodle Soup540 ml,3.29,,each,0.61,,100ml,True,False,3.29
+no_frills,pantry,Royal Nuts,"Dry Roasted Cashews, Unsalted","Royal NutsDry Roasted Cashews, Unsalted350 g",12.0,,each,3.43,,100g,True,False,12.0
+no_frills,pantry,President's Choice,Steak Spice Marinade,President's ChoiceSteak Spice Marinade375 ml,4.49,,each,1.2,,100ml,True,False,4.49
+no_frills,pantry,Knorr,Pasta Side Dish Butter & Herb ,KnorrPasta Side Dish Butter & Herb 133 g,2.49,,each,1.87,,100g,True,False,2.49
+no_frills,pantry,Clover Leaf,"Oysters, Smoked","Clover LeafOysters, Smoked85 g",2.49,,each,2.93,,100g,True,False,2.49
+no_frills,pantry,President's Choice,Dry Roasted California Almonds with Sea Salt,President's ChoiceDry Roasted California Almonds with Sea Salt375 g,7.99,,each,2.13,,100g,True,False,7.99
+no_frills,pantry,Bull's-Eye,Chicken & Rib Renegade BBQ Sauce,Bull's-EyeChicken & Rib Renegade BBQ Sauce425 ml,2.99,,each,0.7,,100ml,True,False,2.99
+no_frills,pantry,Clover Leaf,"Mussels, Smoked","Clover LeafMussels, Smoked85 g",2.49,,each,2.93,,100g,True,False,2.49
+no_frills,pantry,Kraft,Original Coating Mix,KraftOriginal Coating Mix142 g,3.69,,each,2.6,,100g,True,False,3.69
+no_frills,pantry,President's Choice,Himalayan Rock Salts ,President's ChoiceHimalayan Rock Salts 100 g,3.79,,each,3.79,,100g,True,False,3.79
+no_frills,pantry,No Name,Ground Cinnamon,No NameGround Cinnamon150 g,3.99,,each,2.66,,100g,True,False,3.99
+no_frills,pantry,No Name,Original syrup,No NameOriginal syrup750 ml,2.29,,each,0.31,,100ml,True,False,2.29
+no_frills,pantry,President's Choice,The Decadent Semi-Sweet Chocolate Chips,President's ChoiceThe Decadent Semi-Sweet Chocolate Chips1.8 kg,14.49,,each,0.8099999999999999,,100g,True,False,14.49
+no_frills,pantry,Zinda,Couscous Medium,ZindaCouscous Medium907 g,3.79,,each,0.42,,100g,True,False,3.79
+no_frills,pantry,Campbell's,No Salt Added Beef Broth,Campbell'sNo Salt Added Beef Broth900 ml,2.49,,each,0.28,,100ml,True,False,2.49
+no_frills,pantry,Classico,Roasted Red Pepper Alfredo Spaghetti Pasta Sauce,ClassicoRoasted Red Pepper Alfredo Spaghetti Pasta Sauce410 ml,4.49,,each,1.1,,100ml,True,False,4.49
+no_frills,pantry,Catelli,"Gluten Free, Linguine Pasta","CatelliGluten Free, Linguine Pasta340 g",3.29,,each,0.97,,100g,True,False,3.29
+no_frills,pantry,No Name,Sweet Green Relish,No NameSweet Green Relish375 ml,1.59,,each,0.42,,100ml,True,False,1.59
+no_frills,pantry,President's Choice,Plant Based Vegetable and Bean Chili,President's ChoicePlant Based Vegetable and Bean Chili400 g,3.79,,each,0.95,,100g,True,False,3.79
+no_frills,pantry,No Name,Miniature Cobs of Corn,No NameMiniature Cobs of Corn398 ml,1.79,,each,0.45,,100ml,True,False,1.79
+no_frills,pantry,VH,Stir-Fry Sauce - Szechwan,VHStir-Fry Sauce - Szechwan355 ml,3.79,,each,1.07,,100ml,True,False,3.79
+no_frills,pantry,President's Choice,Italian-Style Wedding Soup,President's ChoiceItalian-Style Wedding Soup540 ml,3.29,,each,0.61,,100ml,True,False,3.29
+no_frills,pantry,General Mills,Trix Fruity Shapes Cereal,General MillsTrix Fruity Shapes Cereal303 g,4.79,,each,1.58,,100g,True,False,4.79
+no_frills,pantry,No Name,Chicken Flavour Instant Noodle Soup,No NameChicken Flavour Instant Noodle Soup85 g,0.33,,each,0.39,,100g,True,False,0.33
+no_frills,pantry,President's Choice,Fajita Seasoning Mix ,President's ChoiceFajita Seasoning Mix 24 g,1.0,,each,4.17,,100g,True,False,1.0
+no_frills,pantry,Kelloggs,Corn Flakes Family Size,KelloggsCorn Flakes Family Size600 g,7.49,,each,1.25,,100g,True,False,7.49
+no_frills,pantry,PC Blue Menu,Twice The Fruit Raspberry Spread,PC Blue MenuTwice The Fruit Raspberry Spread500 ml,5.99,,each,1.2,,100ml,True,False,5.99
+no_frills,pantry,Sapporo,"Ichiban Japanese Style Noodles, Chicken","SapporoIchiban Japanese Style Noodles, Chicken100 g",1.0,,each,1.0,,100g,True,False,1.0
+no_frills,pantry,No Name,100% Pure Sunflower Oil,No Name100% Pure Sunflower Oil946 ml,6.49,,each,0.6899999999999998,,100ml,True,False,6.49
+no_frills,pantry,Kelloggs,Special K Red Berries Cereal,KelloggsSpecial K Red Berries Cereal320 g,5.99,,each,1.87,,100g,True,False,5.99
+no_frills,pantry,President's Choice,Moroccan Tajine Cooking Sauce,President's ChoiceMoroccan Tajine Cooking Sauce400 ml,4.99,,each,1.25,,100ml,True,False,4.99
+no_frills,pantry,Shan,Arabic Seasoning Mix Kabsa Rice,ShanArabic Seasoning Mix Kabsa Rice60 g,2.29,,each,3.82,,100g,True,False,2.29
+no_frills,pantry,Catelli,"Gluten Free, Lasagne Pasta","CatelliGluten Free, Lasagne Pasta250 g",4.79,,each,1.9199999999999997,,100g,True,False,4.79
+no_frills,pantry,Goya,"Seasoning Powder, Coriander & Annatto","GoyaSeasoning Powder, Coriander & Annatto40 g",2.29,,each,5.73,,100g,True,False,2.29
+no_frills,pantry,Suraj,Mixed Beans,SurajMixed Beans540 ml,1.49,,each,0.28,,100ml,True,False,1.49
+no_frills,pantry,Suraj,Light Red Kidney Beans,SurajLight Red Kidney Beans1.8 kg,5.99,,each,0.33,,100g,True,False,5.99
+no_frills,pantry,McCormicks,"Dry Sauce Mix, Hollandaise","McCormicksDry Sauce Mix, Hollandaise56 g",2.29,,each,4.09,,100g,True,False,2.29
+no_frills,pantry,Derlea,"Garlic, Minced","DerleaGarlic, Minced125 g",2.79,,each,2.23,,100g,True,False,2.79
+no_frills,pantry,Reddi Bulk,"Roasted Cashews, Unsalted","Reddi BulkRoasted Cashews, Unsalted375 g",12.0,,each,3.2,,100g,True,False,12.0
+no_frills,pantry,Suraj,Fennel Seed ,SurajFennel Seed 250 g,2.99,,each,1.2,,100g,True,False,2.99
+no_frills,pantry,Unico,"Pizza Sauce, Garlic & Basil","UnicoPizza Sauce, Garlic & Basil213 ml",1.29,,each,0.6100000000000001,,100ml,True,False,1.29
+no_frills,pantry,Cool Runnings,Caribbean Spice & Roasted Garlic,Cool RunningsCaribbean Spice & Roasted Garlic800 g,4.29,,each,0.54,,100g,True,False,4.29
+no_frills,pantry,No Name,"Cocoa, Club Size","No NameCocoa, Club Size454 g",6.29,,each,1.39,,100g,True,False,6.29
+no_frills,pantry,Shan,Butter Chicken Spice Mix,ShanButter Chicken Spice Mix50 g,2.29,,each,4.58,,100g,True,False,2.29
+no_frills,pantry,Amira,"Sesame Stick, Regular","AmiraSesame Stick, Regular300 g",3.29,,each,1.1,,100g,True,False,3.29
+no_frills,pantry,No Name, Raspberry Jam with Pectin,No Name Raspberry Jam with Pectin1 l,6.29,,each,0.63,,100ml,True,False,6.29
+no_frills,pantry,No Name,"Horseradish, Extra Hot","No NameHorseradish, Extra Hot250 ml",1.89,,each,0.7600000000000001,,100ml,True,False,1.89
+no_frills,pantry,Kraft,Pizza Kit,KraftPizza Kit850 g,8.49,,each,1.0,,100g,True,False,8.49
+no_frills,pantry,Cool Runnings,Jerk Seasoning,Cool RunningsJerk Seasoning300 g,4.29,,each,1.43,,100g,True,False,4.29
+no_frills,pantry,No Name,Horseradish Pure,No NameHorseradish Pure250 ml,1.89,,each,0.7600000000000001,,100ml,True,False,1.89
+no_frills,pantry,Minute Rice,Jasmine,Minute RiceJasmine500 g,4.79,,each,0.9599999999999999,,100g,True,False,4.79
+no_frills,pantry,Club House,Basil Leaves,Club HouseBasil Leaves37 g,5.99,,each,16.19,,100g,True,False,5.99
+no_frills,pantry,Hidden Valley,"Original Ranch Salad Dressing & Topping, Gluten Free","Hidden ValleyOriginal Ranch Salad Dressing & Topping, Gluten Free473 ml",4.79,,each,1.01,,100ml,True,False,4.79
+no_frills,pantry,Reddi Bulk,"Peanuts, Inshell, Roasted, Not Salted","Reddi BulkPeanuts, Inshell, Roasted, Not Salted100 g",1.19,,each,1.19,,100g,True,False,1.19
+no_frills,pantry,Reddi Bulk,Wow Peanuts,Reddi BulkWow Peanuts550 g,6.0,,each,1.09,,100g,True,False,6.0
+no_frills,pantry,Rice-A-Roni,Chicken Flavour Rice & Vermicelli Mix with Chicken Broth & Herbs,Rice-A-RoniChicken Flavour Rice & Vermicelli Mix with Chicken Broth & Herbs227 g,1.89,,each,0.83,,100g,True,False,1.89
+no_frills,pantry,Club House,"Dry Sauce Mix, Yorkshire Pudding","Club HouseDry Sauce Mix, Yorkshire Pudding45 g",1.49,,each,3.31,,100g,True,False,1.49
+no_frills,pantry,La Costena,Green Pickled Sliced Jalapeño Peppers,La CostenaGreen Pickled Sliced Jalapeño Peppers193 ml,1.99,,each,1.03,,100ml,True,False,1.99
+no_frills,pantry,Pearl Milling Company,Original Pancake & Waffle Mix,Pearl Milling CompanyOriginal Pancake & Waffle Mix905 g,3.29,,each,0.36,,100g,True,False,3.29
+no_frills,pantry,The Keg,Chicken & Ribs Seasoning,The KegChicken & Ribs Seasoning750 g,9.99,,each,1.33,,100g,True,False,9.99
+no_frills,pantry,Tamam,Rose Water,TamamRose Water300 ml,1.99,,each,0.66,,100ml,True,False,1.99
+no_frills,pantry,Reddi Bulk,"Unsalted Sunflower Seeds, Hulled","Reddi BulkUnsalted Sunflower Seeds, Hulled165 g",1.19,,each,0.72,,100g,True,False,1.19
+no_frills,pantry,No Name,Blueberry Pie Filling,No NameBlueberry Pie Filling540 ml,5.49,,each,1.02,,100ml,True,False,5.49
+no_frills,pantry,Ponti, Balsamic Vinegar Of Modena,Ponti Balsamic Vinegar Of Modena500 ml,6.99,,each,1.4000000000000001,,100ml,True,False,6.99
+no_frills,pantry,President's Choice,Unsweetened Dried Mango,President's ChoiceUnsweetened Dried Mango110 g,6.29,,each,5.719999999999999,,100g,True,False,6.29
+no_frills,pantry,Suraj,Whole Mung Beans,SurajWhole Mung Beans1.8 kg,5.99,,each,0.33,,100g,True,False,5.99
+no_frills,pantry,Club House,Italian Seasoning Organic,Club HouseItalian Seasoning Organic11 g,2.79,,each,25.36,,100g,True,False,2.79
+no_frills,pantry,Reddi Bulk,Roasted Peanuts No Salt,Reddi BulkRoasted Peanuts No Salt907 g,6.0,,each,0.66,,100g,True,False,6.0
+no_frills,pantry,Joy's Kitchen,Garlic Powder Jamaican Scotch Bonnet Hot,Joy's KitchenGarlic Powder Jamaican Scotch Bonnet Hot55 g,3.99,,each,7.25,,100g,True,False,3.99
+no_frills,snacks,No Name,Barbecue Potato Chips,No NameBarbecue Potato Chips200 g,1.29,,each,0.65,,100g,True,False,1.29
+no_frills,snacks,No Name, Lightly Salted Rippled Potato Chips ,No Name Lightly Salted Rippled Potato Chips 200 g,1.29,,each,0.65,,100g,True,False,1.29
+no_frills,snacks,No Name,All Dressed Potato Chips,No NameAll Dressed Potato Chips200 g,1.29,,each,0.65,,100g,True,False,1.29
+no_frills,snacks,No Name,Ketchup Potato Chips,No NameKetchup Potato Chips200 g,1.29,,each,0.65,,100g,True,False,1.29
+no_frills,snacks,Ruffles,All Dressed Flavoured Potato Chips,RufflesAll Dressed Flavoured Potato Chips200 g,3.69,,each,1.85,,100g,True,False,3.69
+no_frills,snacks,No Name,Regular Potato Chips ,No NameRegular Potato Chips 200 g,1.29,,each,0.65,,100g,True,False,1.29
+no_frills,snacks,No Name,Dill Pickle Potato Chips,No NameDill Pickle Potato Chips200 g,1.29,,each,0.65,,100g,True,False,1.29
+no_frills,snacks,Ruffles,Sour Cream 'n Onion Flavoured Potato Chips,RufflesSour Cream 'n Onion Flavoured Potato Chips200 g,3.69,,each,1.85,,100g,True,False,3.69
+no_frills,snacks,No Name,Sesame Rice Crackers,No NameSesame Rice Crackers100 g,1.59,,each,1.59,,100g,True,False,1.59
+no_frills,snacks,Que Pasa,Tortilla Chips Salted,Que PasaTortilla Chips Salted350 g,4.99,,each,1.43,,100g,True,False,4.99
+no_frills,snacks,Christie,Wheat Thins Multigrain Crackers,ChristieWheat Thins Multigrain Crackers200 g,3.29,,each,1.65,,100g,True,False,3.29
+no_frills,snacks,Dare,Bear Paws Brownie Cookies,DareBear Paws Brownie Cookies240 g,2.0,,each,0.83,,100g,True,False,2.0
+no_frills,snacks,Smart Food,White Cheddar flavour seasoned popcorn 200g,Smart FoodWhite Cheddar flavour seasoned popcorn 200g200 g,3.89,,each,1.95,,100g,True,False,3.89
+no_frills,snacks,Doritos,Cool Ranch flavoured tortilla chips,DoritosCool Ranch flavoured tortilla chips235 g,3.99,,each,1.7,,100g,True,False,3.99
+no_frills,snacks,Cineplex, Butter Microwave Popcorn - 3 Pack,Cineplex Butter Microwave Popcorn - 3 Pack255 g,3.19,,each,1.25,,100g,True,False,3.19
+no_frills,snacks,Snackpack,Mermaid Pudding,SnackpackMermaid Pudding594 g,3.49,,each,0.59,,100g,True,False,3.49
+no_frills,snacks,Christie,Triscuit Thin Crisps Parmesan Garlic Crackers,ChristieTriscuit Thin Crisps Parmesan Garlic Crackers200 g,3.29,,each,1.65,,100g,True,False,3.29
+no_frills,snacks,Wrigley,"Fresh Mint Flavoured Mints, 4 Packs","WrigleyFresh Mint Flavoured Mints, 4 Packs4 ea",4.39,,each,1.1,,1ea,True,False,4.39
+no_frills,snacks,Starburst,Gummies Original     ,StarburstGummies Original     164 g,3.29,,each,2.01,,100g,True,False,3.29
+no_frills,snacks,Lotus,Biscoff Biscuit,LotusBiscoff Biscuit250 g,3.99,,each,1.6,,100g,True,False,3.99
+no_frills,snacks,Haldiram,Indian Snacks Pani Puri Water Balls,HaldiramIndian Snacks Pani Puri Water Balls275 g,6.49,,each,2.36,,100g,True,False,6.49
+no_frills,snacks,Maynards,Swedish Berries Tropical Soft Candy,MaynardsSwedish Berries Tropical Soft Candy185 g,2.49,,each,1.35,,100g,True,False,2.49
+no_frills,snacks,No Name,Fudge-Striped Shortbread Cookies,No NameFudge-Striped Shortbread Cookies368 g,3.69,,each,1.0,,100g,True,False,3.69
+no_frills,snacks,Skittles,"Original Chewy Candy, Bowl Size Bag","SkittlesOriginal Chewy Candy, Bowl Size Bag320 g",5.29,,each,1.65,,100g,True,False,5.29
+no_frills,snacks,Cadbury,Caramilk Original Chocolate Bar-Minis,CadburyCaramilk Original Chocolate Bar-Minis105 g,2.29,,each,2.18,,100g,True,False,2.29
+no_frills,snacks,Carnaby Sweet,Mixed Berries,Carnaby SweetMixed Berries500 g,3.99,,each,0.8,,100g,True,False,3.99
+no_frills,snacks,Carnaby Sweet,Mixed Gummies,Carnaby SweetMixed Gummies300 g,2.29,,each,0.76,,100g,True,False,2.29
+no_frills,snacks,SunRype,Fruit Source FruitSource Strawberry 100% Fruit Bar Snack,SunRypeFruit Source FruitSource Strawberry 100% Fruit Bar Snack37 g,0.99,,each,2.68,,100g,True,False,0.99
+no_frills,snacks,Mars,"Peanut Free Chocolate Candy Bites, Bag","MarsPeanut Free Chocolate Candy Bites, Bag109 g",3.0,,each,2.75,,100g,True,False,3.0
+no_frills,snacks,Haldiram,Indian Snacks Navratan Mix,HaldiramIndian Snacks Navratan Mix150 g,1.99,,each,1.33,,100g,True,False,1.99
+no_frills,snacks,Pepperidge Farm,Flavour Blasted Baked Snack Crackers Xtreme Cheddar 6 Snack Packs,Pepperidge FarmFlavour Blasted Baked Snack Crackers Xtreme Cheddar 6 Snack Packs26 g,3.69,,each,14.19,,100g,True,False,3.69
+no_frills,snacks,President's Choice,Raisins Almonds Cashews Cranberries Trail Mix,President's ChoiceRaisins Almonds Cashews Cranberries Trail Mix700 g,13.99,,each,2.0,,100g,True,False,13.99
+no_frills,snacks,No Name,Regular Potato Crisps,No NameRegular Potato Crisps150 g,1.29,,each,0.86,,100g,True,False,1.29
+no_frills,snacks,Lay's,Cucumber Flavoured Potato Chips,Lay'sCucumber Flavoured Potato Chips165 g,2.99,,each,1.81,,100g,True,False,2.99
+no_frills,snacks,Snyders,"Pretzel Pieces, Honey Mustard & Onion","SnydersPretzel Pieces, Honey Mustard & Onion240 g",3.99,,each,1.66,,100g,True,False,3.99
+no_frills,snacks,Snackpack,"Pudding Cups, Unicorn Magic","SnackpackPudding Cups, Unicorn Magic594 g",3.49,,each,0.59,,100g,True,False,3.49
+no_frills,snacks,President's Choice,Loads Of Ketchup Rippled Potato Chips,President's ChoiceLoads Of Ketchup Rippled Potato Chips200 g,2.49,,each,1.25,,100g,True,False,2.49
+no_frills,snacks,Ryvita,Thins Three Cheese Flatbreads,RyvitaThins Three Cheese Flatbreads125 g,5.49,,each,4.39,,100g,True,False,5.49
+no_frills,snacks,Caramilk,Minis Chocolate Bar-Minis,CaramilkMinis Chocolate Bar-Minis147 g,4.79,,each,3.26,,100g,True,False,4.79
+no_frills,snacks,No Name,Cheese Flavoured Crunchy Snacks,No NameCheese Flavoured Crunchy Snacks200 g,2.0,,each,1.0,,100g,True,False,2.0
+no_frills,snacks,Christie,Triscuit Cracked Pepper And Olive Oil Crackers,ChristieTriscuit Cracked Pepper And Olive Oil Crackers200 g,3.29,,each,1.65,,100g,True,False,3.29
+no_frills,snacks,Dare,Bold ‘n Baked Sweet Chili,DareBold ‘n Baked Sweet Chili150 g,3.49,,each,2.33,,100g,True,False,3.49
+no_frills,snacks,GoGo squeez, Fruit Sauce 16 Pouches,GoGo squeez Fruit Sauce 16 Pouches16x90.0 g,11.99,,each,0.83,,100g,True,False,11.99
+no_frills,snacks,Kozy Shack,Rice Pudding Tubs,Kozy ShackRice Pudding Tubs624 g,4.0,,each,0.64,,100g,True,False,4.0
+no_frills,snacks,Christie,Ritz Peanut Butter Crackers,ChristieRitz Peanut Butter Crackers180 g,3.29,,each,1.83,,100g,True,False,3.29
+no_frills,snacks,Quaker,Chewy Granola Cereal Or Fruit Bars Strawberry Fruit Crumble,QuakerChewy Granola Cereal Or Fruit Bars Strawberry Fruit Crumble120 g,1.89,,each,1.58,,100g,True,False,1.89
+no_frills,snacks,Que Pasa,Unsalted Tortilla Chips,Que PasaUnsalted Tortilla Chips350 g,4.99,,each,1.43,,100g,True,False,4.99
+no_frills,snacks,Blue Diamond,"Almonds, Smokehouse","Blue DiamondAlmonds, Smokehouse170 g",6.49,,each,3.82,,100g,True,False,6.49
+no_frills,snacks,Dare,Ultimate Maple Crème Cookies,DareUltimate Maple Crème Cookies300 g,2.0,,each,0.67,,100g,True,False,2.0
+no_frills,snacks,TRIDENT,Splash Strawberry Kiwi,TRIDENTSplash Strawberry Kiwi3 pack,3.99,,each,1.33,,1pk,True,False,3.99
+no_frills,snacks,Wrigley,"Peppermint-Cobalt Flavoured Sugar Free Chewing Gum, 15 Sticks, 3 Packs","WrigleyPeppermint-Cobalt Flavoured Sugar Free Chewing Gum, 15 Sticks, 3 Packs3 ea",4.69,,each,1.56,,1ea,True,False,4.69
+no_frills,snacks,President's Choice,Extra Butter Flavour Purple Kernel Microwave Popcorn,President's ChoiceExtra Butter Flavour Purple Kernel Microwave Popcorn493 g,4.69,,each,0.95,,100g,True,False,4.69
+no_frills,snacks,Kelloggs,Special K Cereal Bars 2 Flavours,KelloggsSpecial K Cereal Bars 2 Flavours500 g,9.99,,each,2.0,,100g,True,False,9.99
+no_frills,snacks,Pringles,Cheddar & Sour Cream Flavour Potato Chips,PringlesCheddar & Sour Cream Flavour Potato Chips156 g,3.19,,each,2.04,,100g,True,False,3.19
+no_frills,snacks,Cadbury,Cadbury Chocolate Premium Dark Chocolate Bar,CadburyCadbury Chocolate Premium Dark Chocolate Bar100 g,2.49,,each,2.49,,100g,True,False,2.49
+no_frills,snacks,Pepperidge Farm,Cheddar Jack'D Baked Snack Crackers,Pepperidge FarmCheddar Jack'D Baked Snack Crackers180 g,3.69,,each,2.05,,100g,True,False,3.69
+no_frills,snacks,Doritos,Sweet Chili Heat! flavoured tortilla chips,DoritosSweet Chili Heat! flavoured tortilla chips235 g,3.99,,each,1.7,,100g,True,False,3.99
+no_frills,snacks,President's Choice,Rich & Chewy Chocolate Chip Granola Bars,President's ChoiceRich & Chewy Chocolate Chip Granola Bars1460 g,11.49,,each,0.79,,100g,True,False,11.49
+no_frills,snacks,President's Choice,Mini Crisp & Thin Multigrain Crackers,President's ChoiceMini Crisp & Thin Multigrain Crackers200 g,3.49,,each,1.75,,100g,True,False,3.49
+no_frills,snacks,Betty Crocker,Paw Patrol Special Edition Fruit Flavoured Snacks,Betty CrockerPaw Patrol Special Edition Fruit Flavoured Snacks226 g,2.99,,each,1.32,,100g,True,False,2.99
+no_frills,snacks,Mr. Cookies,Mr. Mini Vanilla Flavoured Cookies with Chocolate Drizzle,Mr. CookiesMr. Mini Vanilla Flavoured Cookies with Chocolate Drizzle150 g,2.19,,each,1.46,,100g,True,False,2.19
+no_frills,snacks,Lindt,LINDOR Amour Milk Chocolate Hearts Box,LindtLINDOR Amour Milk Chocolate Hearts Box108 g,11.99,,each,11.1,,100g,True,False,11.99
+no_frills,snacks,Nature Valley,Lunchbox Caramel Chocolate Granola Bar,Nature ValleyLunchbox Caramel Chocolate Granola Bar130 g,2.99,,each,2.3,,100g,True,False,2.99
+no_frills,snacks,M&M's,"Peanut Milk Chocolate Candies, Sharing Bag","M&M'sPeanut Milk Chocolate Candies, Sharing Bag200 g",4.79,,each,2.4,,100g,True,False,4.79
+no_frills,snacks,Freeyumm,Cheezy Cracker Bites,FreeyummCheezy Cracker Bites120 g,5.49,,each,4.58,,100g,True,False,5.49
+no_frills,snacks,Lindt,SWISS CLASSIC Almond Milk Chocolate Bar,LindtSWISS CLASSIC Almond Milk Chocolate Bar100 g,2.59,,each,2.59,,100g,True,False,2.59
+no_frills,snacks,President's Choice,The World's Best Shortbread Cookies,President's ChoiceThe World's Best Shortbread Cookies200 g,4.79,,each,2.4,,100g,True,False,4.79
+no_frills,snacks,No Name,Mandarin Oranges in Light Syrup,No NameMandarin Oranges in Light Syrup4x107.0 ml,2.29,,each,0.54,,100ml,True,False,2.29
+no_frills,snacks,Nestle,Kitkat Gooey Salted Caramel Bar,NestleKitkat Gooey Salted Caramel Bar112 g,2.59,,each,2.31,,100g,True,False,2.59
+no_frills,snacks,Dare,Ultimate Lemon Crème Cookies,DareUltimate Lemon Crème Cookies290 g,2.0,,each,0.69,,100g,True,False,2.0
+no_frills,snacks,President's Choice,Onion & Chives Swiss Sticks,President's ChoiceOnion & Chives Swiss Sticks100 g,2.49,,each,2.49,,100g,True,False,2.49
+no_frills,snacks,President's Choice,Creme Filled Salted Caramel Sandwich Cookies,President's ChoiceCreme Filled Salted Caramel Sandwich Cookies300 g,3.49,,each,1.16,,100g,True,False,3.49
+no_frills,snacks,PopCorners,White Cheddar Flavoured Popped-Corn Chips 142g,PopCornersWhite Cheddar Flavoured Popped-Corn Chips 142g142 g,5.0,,each,3.52,,100g,True,False,5.0
+no_frills,snacks,No Name,Fruit Salad with Cherries in Light Syrup,No NameFruit Salad with Cherries in Light Syrup4x107.0 ml,2.29,,each,0.54,,100ml,True,False,2.29
+no_frills,snacks,Keebler,Town House Flatbread Crisps Oven Baked Crackers Italian Herb,KeeblerTown House Flatbread Crisps Oven Baked Crackers Italian Herb269 g,3.99,,each,1.48,,100g,True,False,3.99
+no_frills,snacks,Excel,"Bubblemint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs","ExcelBubblemint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs77 g",3.79,,each,4.92,,100g,True,False,3.79
+no_frills,snacks,Nestle,Smarties Milk Tablet,NestleSmarties Milk Tablet100 g,2.59,,each,2.59,,100g,True,False,2.59
+no_frills,snacks,Loacker,"Wafer, Vanilla","LoackerWafer, Vanilla175 g",3.79,,each,2.17,,100g,True,False,3.79
+no_frills,snacks,President's Choice,Unsalted Peanuts,President's ChoiceUnsalted Peanuts700 g,5.49,,each,0.78,,100g,True,False,5.49
+no_frills,snacks,Werther's,Original Creamy Caramel Filled Hard Candy,Werther'sOriginal Creamy Caramel Filled Hard Candy135 g,2.79,,each,2.07,,100g,True,False,2.79
+no_frills,snacks,PC Blue Menu," Butter Flavour Microwave Popcorn, Mini Bags","PC Blue Menu Butter Flavour Microwave Popcorn, Mini Bags8x32.0 g",4.69,,each,1.83,,100g,True,False,4.69
+no_frills,snacks,Orville,"Microwavable Popcorn, Sweet & Salty","OrvilleMicrowavable Popcorn, Sweet & Salty492 g",4.49,,each,0.91,,100g,True,False,4.49
+no_frills,snacks,Dentyne,Fire Cinnamon Gum,DentyneFire Cinnamon Gum4 ea,3.99,,each,1.0,,1ea,True,False,3.99
+no_frills,snacks,Dare,Cookies Chocolate Chip,DareCookies Chocolate Chip285 g,1.49,,each,0.52,,100g,True,False,1.49
+no_frills,snacks,Christie,Oreo Mega Stuff Cookies,ChristieOreo Mega Stuff Cookies374 g,4.49,,each,1.2,,100g,True,False,4.49
+no_frills,snacks,Mott's,Fruitsations + Veggie Assorted Fruit,Mott'sFruitsations + Veggie Assorted Fruit226 g,2.99,,each,1.32,,100g,True,False,2.99
+no_frills,snacks,No Name,Original Trail Mix,No NameOriginal Trail Mix1 kg,10.49,,each,1.05,,100g,True,False,10.49
+no_frills,snacks,Peek Freans,Fruit Creme Biscuits,Peek FreansFruit Creme Biscuits300 g,3.99,,each,1.33,,100g,True,False,3.99
+no_frills,snacks,President's Choice,Garden Vegetable Veggie Snaps,President's ChoiceGarden Vegetable Veggie Snaps180 g,5.49,,each,3.05,,100g,True,False,5.49
+no_frills,snacks,Nature Valley,Biscuits with Peanut Butter,Nature ValleyBiscuits with Peanut Butter190 g,3.79,,each,1.9900000000000002,,100g,True,False,3.79
+no_frills,snacks,Kelloggs,"Special K Fruit Crisps, Strawberry Flavour, 10 Bars","KelloggsSpecial K Fruit Crisps, Strawberry Flavour, 10 Bars125 g",3.49,,each,2.79,,100g,True,False,3.49
+no_frills,snacks,Lindt,AMOUR Teddy Milk Chocolate Bear Hearts Box,LindtAMOUR Teddy Milk Chocolate Bear Hearts Box30 g,3.99,,each,13.3,,100g,True,False,3.99
+no_frills,snacks,No Name,Seasoned Dry Roasted Peanuts,No NameSeasoned Dry Roasted Peanuts650 g,4.0,,each,0.62,,100g,True,False,4.0
+no_frills,snacks,Nature Valley,Lunchbox - Double Chocolate Flavour,Nature ValleyLunchbox - Double Chocolate Flavour130 g,2.99,,each,2.3,,100g,True,False,2.99
+no_frills,snacks,Christie,Premium Plus Salted Crackers,ChristiePremium Plus Salted Crackers900 g,7.49,,each,0.83,,100g,True,False,7.49
+no_frills,snacks,President's Choice,Loads Of Cheddar Cheese Crackers,President's ChoiceLoads Of Cheddar Cheese Crackers200 g,3.49,,each,1.75,,100g,True,False,3.49
+no_frills,snacks,President's Choice,Sugar Cones ,President's ChoiceSugar Cones 142 g,2.99,,each,2.11,,100g,True,False,2.99
+no_frills,snacks,Excel,"Strong Mint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs","ExcelStrong Mint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs77 g",3.79,,each,4.92,,100g,True,False,3.79
+no_frills,snacks,PopCorners,Spicy Cheddar Flavoured Popped-Corn Chips 142g,PopCornersSpicy Cheddar Flavoured Popped-Corn Chips 142g142 g,5.0,,each,3.52,,100g,True,False,5.0
+no_frills,snacks,No Name,Original Snack Crackers,No NameOriginal Snack Crackers900 g,6.99,,each,0.78,,100g,True,False,6.99
+no_frills,snacks,Christie,Ritz Original Crackers,ChristieRitz Original Crackers900 g,8.99,,each,1.0,,100g,True,False,8.99
+no_frills,snacks,Cheez-It,Four Cheese Crackers,Cheez-ItFour Cheese Crackers200 g,2.49,,each,1.25,,100g,True,False,2.49
+no_frills,snacks,Twix,"Caramel Cookie Chocolate Candy Bar, 4 Full Size Bars","TwixCaramel Cookie Chocolate Candy Bar, 4 Full Size Bars200 g",4.79,,each,2.4,,100g,True,False,4.79
+no_frills,snacks,Christie,Oreo Original Cookies,ChristieOreo Original Cookies500 g,4.49,,each,0.9,,100g,True,False,4.49
+no_frills,snacks,Cadbury,Dairy Milk Milk Chocolate Chocolate Bar,CadburyDairy Milk Milk Chocolate Chocolate Bar100 g,2.49,,each,2.49,,100g,True,False,2.49
+no_frills,snacks,Cheez-It,Crackers jalapeño Jack Flavour Snack ,Cheez-ItCrackers jalapeño Jack Flavour Snack 213 g,3.99,,each,1.87,,100g,True,False,3.99
+no_frills,snacks,Leclerc,Fruit & Oat Bars Strawberry,LeclercFruit & Oat Bars Strawberry140 g,3.29,,each,2.35,,100g,True,False,3.29
+no_frills,snacks,Nestle,KitKat Snack Size,NestleKitKat Snack Size112 g,2.49,,each,2.22,,100g,True,False,2.49
+no_frills,snacks,Excel,"Spearmint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs","ExcelSpearmint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs77 g",3.79,,each,4.92,,100g,True,False,3.79
+no_frills,snacks,Nestle,KitKat Chunky Milk Chocolate Wafer Bar,NestleKitKat Chunky Milk Chocolate Wafer Bar49 g,1.29,,each,2.63,,100g,True,False,1.29
+no_frills,snacks,Pepperidge Farm,Mega Bites Sharp Cheddar,Pepperidge FarmMega Bites Sharp Cheddar167 g,3.69,,each,2.21,,100g,True,False,3.69
+no_frills,snacks,Oreo,Chocolate Sandwich Cookies Double Stuf,OreoChocolate Sandwich Cookies Double Stuf261 g,2.79,,each,1.07,,100g,True,False,2.79
+no_frills,snacks,Ruffles,Flamin’ Hot Bar-B-Q Flavoured Potato Chips,RufflesFlamin’ Hot Bar-B-Q Flavoured Potato Chips190 g,3.99,3.69,each,2.0977235772357723,1.94,100g,True,True,3.69
+no_frills,snacks,President's Choice,Original Thick Cut Rippled Potato Chips ,President's ChoiceOriginal Thick Cut Rippled Potato Chips 200 g,2.49,,each,1.25,,100g,True,False,2.49
+no_frills,snacks,JOLLY RANCHER,Assorted,JOLLY RANCHERAssorted198 g,3.29,,each,1.66,,100g,True,False,3.29
+no_frills,snacks,Carnaby Sweet,Sour Gummy Rings,Carnaby SweetSour Gummy Rings125 g,1.0,,each,0.8,,100g,True,False,1.0
+no_frills,snacks,Carnaby Sweet,Mixed Gummies,Carnaby SweetMixed Gummies500 g,3.99,,each,0.8,,100g,True,False,3.99
+no_frills,snacks,Peek Freans,Lifestyle Cranberry Citrus Oat Crunch,Peek FreansLifestyle Cranberry Citrus Oat Crunch290 g,3.99,,each,1.38,,100g,True,False,3.99
+no_frills,snacks,Trophy,Almonds Roasted with Sea Salt,TrophyAlmonds Roasted with Sea Salt200 g,4.99,,each,2.5,,100g,True,False,4.99
+no_frills,snacks,SunRype,Strawberry Fruit to Go 100% Fruit Snack,SunRypeStrawberry Fruit to Go 100% Fruit Snack14 g,0.39,,each,2.7899999999999996,,100g,True,False,0.39
+no_frills,snacks,Fritos,Bar-B-Q Flavour Corn Chips 340g,FritosBar-B-Q Flavour Corn Chips 340g340 g,4.19,,each,1.23,,100g,True,False,4.19
+no_frills,snacks,Snickers,"Peanut Milk Chocolate Candy Bars, 10 Fun Size Bars","SnickersPeanut Milk Chocolate Candy Bars, 10 Fun Size Bars130 g",2.49,,each,1.92,,100g,True,False,2.49
+no_frills,snacks,Old Dutch,Popcorn Twists,Old DutchPopcorn Twists175 g,3.49,,each,1.99,,100g,True,False,3.49
+no_frills,snacks,Surati,Spicy Chilli Crunch Tubes   ,SuratiSpicy Chilli Crunch Tubes   80 g,1.49,,each,1.86,,100g,True,False,1.49
+no_frills,snacks,Tic Tac,Orange,Tic TacOrange87 g,3.69,,each,4.24,,100g,True,False,3.69
+no_frills,snacks,Surati,"Indian Snacks, Bombay Mix","SuratiIndian Snacks, Bombay Mix341 g",2.49,,each,0.73,,100g,True,False,2.49
+no_frills,snacks,Mars,"Peanut Free Chocolate Candy Bar, 10 Fun Size Bars","MarsPeanut Free Chocolate Candy Bar, 10 Fun Size Bars130 g",2.49,,each,1.92,,100g,True,False,2.49
+no_frills,snacks,Chester's,Popcorn Cheese Flavour Popcorn,Chester'sPopcorn Cheese Flavour Popcorn150 g,2.25,,each,1.5,,100g,True,False,2.25
+no_frills,snacks,Reese's,Pieces Peanut Candy    ,Reese'sPieces Peanut Candy    104 g,3.99,,each,3.8400000000000003,,100g,True,False,3.99
+no_frills,snacks,M&M's,"Caramel Milk Chocolate Candies, Sharing Bag","M&M'sCaramel Milk Chocolate Candies, Sharing Bag185 g",4.79,,each,2.59,,100g,True,False,4.79
+no_frills,snacks,Pringles,Potato Chips Honey Mustard Flavour ,PringlesPotato Chips Honey Mustard Flavour 156 g,3.19,,each,2.04,,100g,True,False,3.19
+no_frills,snacks,Frito-lay,Lay’s Mix 504g,Frito-layLay’s Mix 504g504 g,9.99,,each,1.98,,100g,True,False,9.99
+no_frills,snacks,Barcel,Fuego Spicy Chili Pepper and Lime Rolled Tortilla Chips,BarcelFuego Spicy Chili Pepper and Lime Rolled Tortilla Chips280 g,3.29,,each,1.18,,100g,True,False,3.29
+no_frills,snacks,Voortman,Fudge Striped Shortbread,VoortmanFudge Striped Shortbread320 g,3.79,,each,1.18,,100g,True,False,3.79
+no_frills,snacks,Excel,"Peppermint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs","ExcelPeppermint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs77 g",3.79,,each,4.92,,100g,True,False,3.79
+no_frills,snacks,President's Choice,Beet Veggie Snaps,President's ChoiceBeet Veggie Snaps180 g,5.49,,each,3.05,,100g,True,False,5.49
+no_frills,snacks,Jell-O,"Refrigerated Pudding Snacks, Strawberry Cheesecake","Jell-ORefrigerated Pudding Snacks, Strawberry Cheesecake4x99.0 g",2.67,,each,0.67,,100g,True,False,2.67
+no_frills,snacks,President's Choice,Mint Slamscuits,President's ChoiceMint Slamscuits240 g,3.49,,each,1.45,,100g,True,False,3.49
+no_frills,snacks,Quaker,Crispy Minis BBQ flavour brown rice chips,QuakerCrispy Minis BBQ flavour brown rice chips100 g,2.29,,each,2.29,,100g,True,False,2.29
+no_frills,snacks,President's Choice,The Decadent Chocolate Chunk Cookie,President's ChoiceThe Decadent Chocolate Chunk Cookie300 g,4.49,,each,1.5,,100g,True,False,4.49
+no_frills,snacks,Voortman,"Turnover Cookie, Strawberry","VoortmanTurnover Cookie, Strawberry300 g",2.99,,each,1.0,,100g,True,False,2.99
+no_frills,snacks,Wrigley,"Spearmint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack","WrigleySpearmint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack12 ea",1.29,,each,0.10999999999999999,,1ea,True,False,1.29
+no_frills,snacks,Quaker,"Chewy Harvest Granola Bars, Yogourt - 3 Flavour 30 bar - Variety pack","QuakerChewy Harvest Granola Bars, Yogourt - 3 Flavour 30 bar - Variety pack1.05 kg",14.99,,each,1.43,,100g,True,False,14.99
+no_frills,snacks,Nature Valley,Sweet & Salty - Peanut,Nature ValleySweet & Salty - Peanut980 g,11.99,,each,1.22,,100g,True,False,11.99
+no_frills,snacks,Nature Valley,Sweet & Salty - Peanut,Nature ValleySweet & Salty - Peanut980 g,11.99,,each,1.22,,100g,True,False,11.99
+no_frills,snacks,Grace,Plantain Chips Sweet Chili Flavoured,GracePlantain Chips Sweet Chili Flavoured85 g,1.29,,each,1.52,,100g,True,False,1.29
+no_frills,snacks,Neilson,Jersey Milk,NeilsonJersey Milk180 g,4.79,,each,2.66,,100g,True,False,4.79
+no_frills,snacks,President's Choice,Extra Cheesy Little Penguins Snack Crackers,President's ChoiceExtra Cheesy Little Penguins Snack Crackers840 g,13.99,,each,1.6699999999999997,,100g,True,False,13.99
+no_frills,snacks,Dare,Oats & Honey Crackers,DareOats & Honey Crackers250 g,3.49,,each,1.4,,100g,True,False,3.49
+no_frills,snacks,Spitz,"Sunflower Seeds, Salted","SpitzSunflower Seeds, Salted227 g",3.19,,each,1.5199999999999998,,100g,True,False,3.19
+no_frills,snacks,Fritos,Original Corn Chips 340g,FritosOriginal Corn Chips 340g340 g,4.19,,each,1.23,,100g,True,False,4.19
+no_frills,snacks,Excel,"Winterfresh Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs","ExcelWinterfresh Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs77 g",3.79,,each,4.92,,100g,True,False,3.79
+no_frills,snacks,Mr. Cookies,Mr Mini Cookies,Mr. CookiesMr Mini Cookies150 g,2.19,,each,1.46,,100g,True,False,2.19
+no_frills,snacks,Voortman,"Wafers, Strawberry","VoortmanWafers, Strawberry300 g",2.99,,each,1.0,,100g,True,False,2.99
+no_frills,snacks,Cheetos,Crunchy Cheese Flavoured Snacks,CheetosCrunchy Cheese Flavoured Snacks285 g,3.99,,each,1.4,,100g,True,False,3.99
+no_frills,snacks,No Name,Ice Cream Cups,No NameIce Cream Cups1 ea,2.0,,each,2.5,,100g,True,False,2.0
+no_frills,snacks,Kozy Shack,Rice Pudding Cups No Sugar Added,Kozy ShackRice Pudding Cups No Sugar Added4x113.0 g,4.0,,each,0.8799999999999999,,100g,True,False,4.0
+no_frills,snacks,President's Choice,Milk Chocolate Concreto Biscuits ,President's ChoiceMilk Chocolate Concreto Biscuits 240 g,3.49,,each,1.45,,100g,True,False,3.49
+no_frills,snacks,Betty Crocker,Scooby-Doo - Fruit Flavoured Snacks,Betty CrockerScooby-Doo - Fruit Flavoured Snacks226 g,2.99,,each,1.32,,100g,True,False,2.99
+no_frills,snacks,President's Choice,Loads Of Creamy Dill Pickle Rippled Potato Chips,President's ChoiceLoads Of Creamy Dill Pickle Rippled Potato Chips200 g,2.49,,each,1.25,,100g,True,False,2.49
+no_frills,snacks,President's Choice,Loads of Sour Cream & Onion Rippled Potato Chips,President's ChoiceLoads of Sour Cream & Onion Rippled Potato Chips200 g,2.49,,each,1.25,,100g,True,False,2.49
+no_frills,snacks,Wrigley,"Polar Ice Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack","WrigleyPolar Ice Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack12 ea",1.29,,each,0.10999999999999999,,1ea,True,False,1.29
+no_frills,snacks,Christie,"Oreo Thins, Original","ChristieOreo Thins, Original287 g",2.79,,each,0.97,,100g,True,False,2.79
+no_frills,snacks,Christie,Family Size Crackers,ChristieFamily Size Crackers354 g,4.59,,each,1.3,,100g,True,False,4.59
+no_frills,snacks,Cadbury,Caramilk Original Chocolate Bar,CadburyCaramilk Original Chocolate Bar4x50.0 g,4.79,,each,2.4,,100g,True,False,4.79
+no_frills,snacks,Nestle,Kit Kat Classic Wafer Bar,NestleKit Kat Classic Wafer Bar120 g,2.59,,each,2.16,,100g,True,False,2.59
+no_frills,snacks,No Name,Honey Graham Wafers,No NameHoney Graham Wafers400 g,4.19,,each,1.05,,100g,True,False,4.19
+no_frills,snacks,President's Choice,Honey Roasted Peanuts,President's ChoiceHoney Roasted Peanuts700 g,5.49,,each,0.78,,100g,True,False,5.49
+no_frills,snacks,Aero,Truffle Milk Chocolate Tablet,AeroTruffle Milk Chocolate Tablet105 g,2.59,,each,2.47,,100g,True,False,2.59
+no_frills,snacks,Tim Hortons,Boston Cream Granola Bar,Tim HortonsBoston Cream Granola Bar150 g,2.99,,each,1.99,,100g,True,False,2.99
+no_frills,snacks,No Name,Barbecue Rice Crackers,No NameBarbecue Rice Crackers100 g,1.59,,each,1.59,,100g,True,False,1.59
+no_frills,snacks,SunRype,Fruit to Go 100% Fruit Snack Variety Pack,SunRypeFruit to Go 100% Fruit Snack Variety Pack24x14.0 g,10.99,,each,3.27,,100g,True,False,10.99
+no_frills,snacks,President's Choice,Dipped & Chewy Caramel Granola Bars ,President's ChoiceDipped & Chewy Caramel Granola Bars 172 g,2.29,,each,1.33,,100g,True,False,2.29
+no_frills,snacks,Dare,Gummies Medley,DareGummies Medley180 g,3.19,,each,1.77,,100g,True,False,3.19
+no_frills,snacks,Dentyne,Ice Spearmint Gum,DentyneIce Spearmint Gum4 ea,3.99,,each,1.0,,1ea,True,False,3.99
+no_frills,snacks,Christie,Triscuit Roasted Garlic Crackers,ChristieTriscuit Roasted Garlic Crackers200 g,3.29,,each,1.65,,100g,True,False,3.29
+no_frills,snacks,No Name,Peanut Butter Sandwich Crackers,No NamePeanut Butter Sandwich Crackers180 g,2.0,,each,1.11,,100g,True,False,2.0
+no_frills,snacks,Christie,Oreo Chocolate Peanut Butter Pie Cookies,ChristieOreo Chocolate Peanut Butter Pie Cookies482 g,4.49,,each,0.93,,100g,True,False,4.49
+no_frills,snacks,Reese's,Pieces Candy     ,Reese'sPieces Candy     230 g,5.49,,each,2.39,,100g,True,False,5.49
+no_frills,snacks,Nestle,Caramel Crisp Wafer Bar,NestleCaramel Crisp Wafer Bar120 g,2.59,,each,2.16,,100g,True,False,2.59
+no_frills,snacks,Grace,Sweet Plantain Chips,GraceSweet Plantain Chips85 g,1.19,,each,1.4,,100g,True,False,1.19
+no_frills,snacks,Ferrero,Rocher Heart Shaped Box Chocolate,FerreroRocher Heart Shaped Box Chocolate100 g,5.99,,each,5.99,,100g,True,False,5.99
+no_frills,snacks,President's Choice,Milk Chocolate Covered Raisins,President's ChoiceMilk Chocolate Covered Raisins400 g,3.99,,each,1.0,,100g,True,False,3.99
+no_frills,snacks,President's Choice,Original Melba Toast,President's ChoiceOriginal Melba Toast200 g,2.49,,each,1.25,,100g,True,False,2.49
+no_frills,snacks,No Name,Salted Blanched Peanuts,No NameSalted Blanched Peanuts2 kg,12.49,,each,0.62,,100g,True,False,12.49
+no_frills,snacks,President's Choice,Extra Butter Flavour Purple Kernel Microwave Popcorn,President's ChoiceExtra Butter Flavour Purple Kernel Microwave Popcorn247 g,3.79,,each,1.53,,100g,True,False,3.79
+no_frills,snacks,Tostitos,Multigrain Rounds Chips    ,TostitosMultigrain Rounds Chips    430 g,5.49,,each,1.28,,100g,True,False,5.49
+no_frills,snacks,Dare,Bear Paws Sandwich Cookies Vanilla,DareBear Paws Sandwich Cookies Vanilla168 g,2.0,,each,1.19,,100g,True,False,2.0
+no_frills,snacks,Hawkins,Cheezies,HawkinsCheezies210 g,3.79,,each,1.8,,100g,True,False,3.79
+no_frills,snacks,Dare,Realfruit Superfruits,DareRealfruit Superfruits180 g,3.19,,each,1.77,,100g,True,False,3.19
+no_frills,snacks,Betty Crocker,Fruit By The Foot Strawberry and Berry Tie Dye Family Pack ,Betty CrockerFruit By The Foot Strawberry and Berry Tie Dye Family Pack 340 g,6.49,,each,1.91,,100g,True,False,6.49
+no_frills,snacks,President's Choice,Black Pepper & Sea Salt Crackers,President's ChoiceBlack Pepper & Sea Salt Crackers185 g,3.49,,each,1.89,,100g,True,False,3.49
+no_frills,snacks,LIFESAVERS,Mints Wint-O-Green      ,LIFESAVERSMints Wint-O-Green      150 g,2.99,,each,1.99,,100g,True,False,2.99
+no_frills,snacks,Wrigley,"Peppermint Flavoured , 15 Sticks, 3 Packs","WrigleyPeppermint Flavoured , 15 Sticks, 3 Packs45 ea",4.49,,each,0.1,,1ea,True,False,4.49
+no_frills,snacks,Mentos,Fruit,MentosFruit4 ea,3.59,,each,0.9,,1ea,True,False,3.59
+no_frills,snacks,Ruffles,Sour Cream 'n Bacon Flavoured Potato Chips,RufflesSour Cream 'n Bacon Flavoured Potato Chips200 g,3.69,,each,1.85,,100g,True,False,3.69
+no_frills,snacks,Paqui,"Tortilla Chips, Nacho Cheese   ","PaquiTortilla Chips, Nacho Cheese   155 g",5.49,,each,3.54,,100g,True,False,5.49
+no_frills,snacks,Reese's,Miniatures PEANUT BUTTER CUPS Candy,Reese'sMiniatures PEANUT BUTTER CUPS Candy230 g,5.49,,each,2.39,,100g,True,False,5.49
+no_frills,snacks,President's Choice,Rich & Chewy Chocolate Chip Granola Bars,President's ChoiceRich & Chewy Chocolate Chip Granola Bars156 g,2.29,,each,1.47,,100g,True,False,2.29
+no_frills,snacks,Wrigley,"Peppermint-Cobalt Flavoured Sugar Free Chewing Gum, 15 Sticks, 1 Pack","WrigleyPeppermint-Cobalt Flavoured Sugar Free Chewing Gum, 15 Sticks, 1 Pack1 ea",1.99,,each,1.99,,1ea,True,False,1.99
+no_frills,snacks,President's Choice,Caramel Popcorn,President's ChoiceCaramel Popcorn250 g,3.99,,each,1.6,,100g,True,False,3.99
+no_frills,snacks,No Name,White Chocolate,No NameWhite Chocolate100 g,1.0,,each,1.0,,100g,True,False,1.0
+no_frills,snacks,Pringles,Buffalo Ranch Potato Chips,PringlesBuffalo Ranch Potato Chips156 g,3.19,,each,2.04,,100g,True,False,3.19
+no_frills,snacks,The Snack Factory,"Pretzel Crisps, Garlic Parmesan    ","The Snack FactoryPretzel Crisps, Garlic Parmesan    200 g",5.99,,each,3.0,,100g,True,False,5.99
+no_frills,snacks,President's Choice,Loads Of All Dressed Rippled Potato Chips,President's ChoiceLoads Of All Dressed Rippled Potato Chips200 g,2.49,,each,1.25,,100g,True,False,2.49
+no_frills,snacks,Sunchips,Harvest Cheddar Flavour Multigrain Snacks 205g,SunchipsHarvest Cheddar Flavour Multigrain Snacks 205g205 g,4.19,,each,2.04,,100g,True,False,4.19
+no_frills,snacks,Humpty Dumpty,ChedACorn,Humpty DumptyChedACorn265 g,3.99,,each,1.51,,100g,True,False,3.99
+no_frills,snacks,Nutella,B-Ready T6,NutellaB-Ready T6132 g,3.99,,each,3.02,,100g,True,False,3.99
+no_frills,snacks,SunRype,Wildberry Fruit to Go 100% Fruit Snack,SunRypeWildberry Fruit to Go 100% Fruit Snack14 g,0.39,,each,2.7899999999999996,,100g,True,False,0.39
+no_frills,snacks,Surati,Spicy Bhungra Ready To Eat Snack,SuratiSpicy Bhungra Ready To Eat Snack80 g,1.49,,each,1.86,,100g,True,False,1.49
+no_frills,snacks,SunRype,Fruit Source FruitSource Superfruits Blueberry Pomegranate 100% Fruit Bar Snack,SunRypeFruit Source FruitSource Superfruits Blueberry Pomegranate 100% Fruit Bar Snack37 g,0.99,,each,2.68,,100g,True,False,0.99
+no_frills,snacks,Jell-O,Oreo Ready-to-Eat Refrigerated Pudding Cups Snack,Jell-OOreo Ready-to-Eat Refrigerated Pudding Cups Snack4x113.0 g,2.67,,each,0.59,,100g,True,False,2.67
+no_frills,snacks,Frito-lay,Flavour Mix 484g,Frito-layFlavour Mix 484g484 g,9.99,,each,2.06,,100g,True,False,9.99
+no_frills,snacks,Christie,"Good Thins Corn Crackers, Barbeque","ChristieGood Thins Corn Crackers, Barbeque100 g",3.29,,each,3.29,,100g,True,False,3.29
+no_frills,snacks,TRIDENT,"Layers, Strawberry Citrus","TRIDENTLayers, Strawberry Citrus3 ea",3.99,,each,1.33,,1ea,True,False,3.99
+no_frills,snacks,Dare,Breton Veggie Bites On the Go Packs,DareBreton Veggie Bites On the Go Packs132 g,3.49,,each,2.64,,100g,True,False,3.49
+no_frills,snacks,M&M's,"Milk Chocolate Candies, Sharing Bag","M&M'sMilk Chocolate Candies, Sharing Bag120 g",3.0,,each,2.5,,100g,True,False,3.0
+no_frills,snacks,SS Frutas,Naturally Sweet Plantain Crunchy Crisps,SS FrutasNaturally Sweet Plantain Crunchy Crisps85 g,1.79,,each,2.11,,100g,True,False,1.79
+no_frills,snacks,Cadbury,Mr Big Original Chocolate Bar-Minis,CadburyMr Big Original Chocolate Bar-Minis110 g,2.29,,each,2.08,,100g,True,False,2.29
+no_frills,snacks,Werther's,"Soft Caramel, Chocolate Filling","Werther'sSoft Caramel, Chocolate Filling116 g",2.79,,each,2.41,,100g,True,False,2.79
+no_frills,snacks,Munchos,Potato Crisps,MunchosPotato Crisps130 g,2.25,,each,1.73,,100g,True,False,2.25
+no_frills,snacks,Haldiram,Indian Snacks Chatpata Dal,HaldiramIndian Snacks Chatpata Dal150 g,1.99,,each,1.33,,100g,True,False,1.99
+no_frills,snacks,Excel,"Bubblemint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack","ExcelBubblemint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack12 ea",1.29,,each,0.10999999999999999,,1ea,True,False,1.29
+no_frills,snacks,Haldiram,Fried Indian Snacks Mixture,HaldiramFried Indian Snacks Mixture150 g,1.99,,each,1.33,,100g,True,False,1.99
+no_frills,snacks,Carnaby Sweet,Gummy Fish,Carnaby SweetGummy Fish125 g,1.0,,each,0.8,,100g,True,False,1.0
+no_frills,snacks,Excel,"Winterfresh Flavoured Sugar Free Chewing Gum, 12 Pieces, 4 Packs","ExcelWinterfresh Flavoured Sugar Free Chewing Gum, 12 Pieces, 4 Packs1 ea",1.29,,each,1.29,,1ea,True,False,1.29
+no_frills,snacks,Capn Crunch,Treats Cereal Bars Peanut Butter,Capn CrunchTreats Cereal Bars Peanut Butter110 g,3.79,,each,3.45,,100g,True,False,3.79
+no_frills,snacks,Haldiram,Indian Snacks Chatpata Masala Namkeen,HaldiramIndian Snacks Chatpata Masala Namkeen115 g,1.79,,each,1.56,,100g,True,False,1.79
+no_frills,snacks,Hershey's,Chocolate Iconic Kisses Milk,Hershey'sChocolate Iconic Kisses Milk200 g,5.49,,each,2.75,,100g,True,False,5.49
+no_frills,snacks,Cool Runnings,"Plantain Chips, Salted","Cool RunningsPlantain Chips, Salted200 g",4.19,,each,2.1,,100g,True,False,4.19
+no_frills,snacks,Exclusive Brands,Sesame Bars With Honey,Exclusive BrandsSesame Bars With Honey30 g,0.79,,each,2.63,,100g,True,False,0.79
+no_frills,snacks,Surati,Cheddar Jalapeno Tubes,SuratiCheddar Jalapeno Tubes80 g,1.49,,each,1.86,,100g,True,False,1.49
+no_frills,snacks,Munchies,Original Snack Mix 250g,MunchiesOriginal Snack Mix 250g250 g,3.49,,each,1.4,,100g,True,False,3.49
+no_frills,snacks,President's Choice,Peanuts Dry Roasted & Lightly Seasoned,President's ChoicePeanuts Dry Roasted & Lightly Seasoned700 g,5.49,,each,0.78,,100g,True,False,5.49
+no_frills,snacks,President's Choice,Sweet & Salty Kettle Corn ,President's ChoiceSweet & Salty Kettle Corn 220 g,3.99,,each,1.8099999999999998,,100g,True,False,3.99
+no_frills,snacks,President's Choice,Milk Chocolate Crêpes,President's ChoiceMilk Chocolate Crêpes100 g,3.29,,each,3.29,,100g,True,False,3.29
+no_frills,snacks,No Name,Social Tea Biscuits,No NameSocial Tea Biscuits350 g,3.69,,each,1.05,,100g,True,False,3.69
+no_frills,snacks,Mott's,"Fruitsations + Veggie Fruit Flavoured Snacks, Berry","Mott'sFruitsations + Veggie Fruit Flavoured Snacks, Berry226 g",2.99,,each,1.32,,100g,True,False,2.99
+no_frills,snacks,Ruffles,All Dressed Flavoured Potato Chips (small bag),RufflesAll Dressed Flavoured Potato Chips (small bag)66 g,2.19,,each,3.32,,100g,True,False,2.19
+no_frills,snacks,President's Choice,Loads of Cheesy Garlic Bread Flavour Rippled Potato Chips,President's ChoiceLoads of Cheesy Garlic Bread Flavour Rippled Potato Chips200 g,2.49,,each,1.25,,100g,True,False,2.49
+no_frills,drinks,Canada Dry,Ginger Ale ,Canada DryGinger Ale 12x355.0 ml,6.99,,each,0.16,,100ml,True,False,6.99
+no_frills,drinks,Coca-Cola,Bottle,Coca-ColaBottle2 l,2.59,,each,0.13,,100ml,True,False,2.59
+no_frills,drinks,Pepsi,Soda ,PepsiSoda 12x355.0 ml,6.79,,each,0.16,,100ml,True,False,6.79
+no_frills,drinks,Bubly Sparkling Water,"Lime Sparkling Water Beverage, 12 Pack ","Bubly Sparkling WaterLime Sparkling Water Beverage, 12 Pack 12x355.0 ml",6.79,,each,0.16,,100ml,True,False,6.79
+no_frills,drinks,Pepsi,Soda      ,PepsiSoda      2 l,2.49,,each,0.12,,100ml,True,False,2.49
+no_frills,drinks,Bubly Sparkling Water,Blackberry Sparkling Water ,Bubly Sparkling WaterBlackberry Sparkling Water 12x355.0 ml,6.79,,each,0.16,,100ml,True,False,6.79
+no_frills,drinks,PC Blue Menu,Lemon Sparkling Water,PC Blue MenuLemon Sparkling Water12x355.0 ml,4.79,,each,0.11,,100ml,True,False,4.79
+no_frills,drinks,Canada Dry,Ginger Ale,Canada DryGinger Ale2 l,2.59,,each,0.13,,100ml,True,False,2.59
+no_frills,drinks,No Name,Apple Juice from Concentrate,No NameApple Juice from Concentrate1 l,1.29,,each,0.13,,100ml,True,False,1.29
+no_frills,drinks,Dasani,Remineralized Water,DasaniRemineralized Water12x355.0 ml,7.49,,each,0.18,,100ml,True,False,7.49
+no_frills,drinks,Mountain Dew,Zero Sugar,Mountain DewZero Sugar12x355.0 ml,6.79,,each,0.16,,100ml,True,False,6.79
+no_frills,drinks,Carl Jung,"De-Alcoholized Wine, Red","Carl JungDe-Alcoholized Wine, Red750 ml",6.99,,each,0.93,,100ml,True,False,6.99
+no_frills,drinks,Rubicon,Guava Exotic Fruit Juice,RubiconGuava Exotic Fruit Juice4x200.0 ml,3.29,,each,0.41,,100ml,True,False,3.29
+no_frills,drinks,Tetley,Super Herbal Tea-Boost Peach Ginger Dan with Vitamin B6,TetleySuper Herbal Tea-Boost Peach Ginger Dan with Vitamin B640 g,4.49,,each,0.22,,1ea,True,False,4.49
+no_frills,drinks,Nestea,Iced Tea Natural Lemon Flavour  ,NesteaIced Tea Natural Lemon Flavour  500 ml,2.49,,each,0.5,,100ml,True,False,2.49
+no_frills,drinks,Cool Runnings,Runnings Coconut Water    ,Cool RunningsRunnings Coconut Water    500 ml,1.99,,each,0.4,,100ml,True,False,1.99
+no_frills,drinks,Tetley,Green Tea The Vert Naturellement Decafeine   ,TetleyGreen Tea The Vert Naturellement Decafeine   80 ea,9.99,,each,0.12000000000000001,,1ea,True,False,9.99
+no_frills,drinks,Dr Pepper,Soda,Dr PepperSoda6x710.0 ml,4.99,,each,0.12,,100ml,True,False,4.99
+no_frills,drinks,Twinings,50ct Pure Camomile,Twinings50ct Pure Camomile50 ea,8.99,6.99,each,0.18005722460658086,0.14,1ea,True,True,6.99
+no_frills,drinks,PC Blue Menu,Blueberry Cocktail,PC Blue MenuBlueberry Cocktail1.89 l,3.49,,each,0.18000000000000002,,100ml,True,False,3.49
+no_frills,drinks,AQUAFINA,Water    ,AQUAFINAWater    591 ml,2.29,,each,0.39,,100ml,True,False,2.29
+no_frills,drinks,Vita Sana,"Fruit Juice, Mango Nectar","Vita SanaFruit Juice, Mango Nectar700 ml",2.79,,each,0.4,,100ml,True,False,2.79
+no_frills,drinks,Sprite,Bottle   ,SpriteBottle   8x300.0 ml,7.29,,each,0.3,,100ml,True,False,7.29
+no_frills,drinks,Rose,Lime Cordial,RoseLime Cordial739 ml,4.99,,each,0.68,,100ml,True,False,4.99
+no_frills,drinks,Nestle,Nesquik Less Sugar Chocolate Syrup,NestleNesquik Less Sugar Chocolate Syrup510 ml,6.29,,each,1.23,,100ml,True,False,6.29
+no_frills,drinks,Pepsi,Diet Soda,PepsiDiet Soda2 l,2.49,,each,0.12,,100ml,True,False,2.49
+no_frills,drinks,President's Choice,Ginger Ale,President's ChoiceGinger Ale6x222.0 ml,2.49,,each,0.19,,100ml,True,False,2.49
+no_frills,drinks,President's Choice,Ruby Red Grapefruit Cocktail,President's ChoiceRuby Red Grapefruit Cocktail1.89 l,3.49,,each,0.18000000000000002,,100ml,True,False,3.49
+no_frills,drinks,Gatorade,Fierce Glacier Cherry Sports Drink,GatoradeFierce Glacier Cherry Sports Drink710 ml,1.59,,each,0.22,,100ml,True,False,1.59
+no_frills,drinks,President's Choice,Original Lemonade,President's ChoiceOriginal Lemonade1.89 l,3.29,,each,0.17,,100ml,True,False,3.29
+no_frills,drinks,Crystal Light,"Pitcher Packs, Lemonade","Crystal LightPitcher Packs, Lemonade56.6 g",2.99,,each,5.28,,100g,True,False,2.99
+no_frills,drinks,Silk,Fortified Oat Beverage Original,SilkFortified Oat Beverage Original946 ml,2.99,,each,0.32,,100ml,True,False,2.99
+no_frills,drinks,No Name,Unsweetened Pineapple Juice,No NameUnsweetened Pineapple Juice1.36 l,3.29,,each,0.24,,100ml,True,False,3.29
+no_frills,drinks,Tropicana,Blackberry Blueberry Fruit Drink   ,TropicanaBlackberry Blueberry Fruit Drink   1.54 l,3.99,2.99,each,0.25354515050167226,0.19,100ml,True,True,2.99
+no_frills,drinks,Bubly Sparkling Water,Sparkling Water Limebubly,Bubly Sparkling WaterSparkling Water Limebubly473 ml,2.29,,each,0.4799999999999999,,100ml,True,False,2.29
+no_frills,drinks,No Name,Hot Chocolate Mix ,No NameHot Chocolate Mix 1.8 kg,12.49,,each,0.69,,100g,True,False,12.49
+no_frills,drinks,Monster Energy,"Green Energy Drink, Can","Monster EnergyGreen Energy Drink, Can473 ml",3.49,,each,0.74,,100ml,True,False,3.49
+no_frills,drinks,President's Choice,Cucumber Mint Flavour Green Tea,President's ChoiceCucumber Mint Flavour Green Tea1.54 l,3.99,,each,0.26,,100ml,True,False,3.99
+no_frills,drinks,Crush,Orange Soda     ,CrushOrange Soda     6x222.0 ml,4.49,,each,0.34,,100ml,True,False,4.49
+no_frills,drinks,Coca-Cola,Soda ,Coca-ColaSoda 6x710.0 ml,5.29,,each,0.12,,100ml,True,False,5.29
+no_frills,drinks,Arizona,Premium Brewed Ginseng and Honey Green Tea,ArizonaPremium Brewed Ginseng and Honey Green Tea8x200.0 ml,3.29,,each,0.21,,100ml,True,False,3.29
+no_frills,drinks,Perrier,Carbonated Natural Spring Water With Natural Lemon Flavour,PerrierCarbonated Natural Spring Water With Natural Lemon Flavour10x250.0 ml,8.49,,each,0.34,,100ml,True,False,8.49
+no_frills,drinks,Tetley,Super Green Tea Antiox Tropical With Vitamin C,TetleySuper Green Tea Antiox Tropical With Vitamin C20 ea,4.49,,each,0.22,,1ea,True,False,4.49
+no_frills,drinks,Sparkling Ice,Orange Mango Sparkling Water,Sparkling IceOrange Mango Sparkling Water503 ml,1.19,,each,0.24,,100ml,True,False,1.19
+no_frills,drinks,Minute Maid,"Fruit Punch Juice Beverage, 10 Pack","Minute MaidFruit Punch Juice Beverage, 10 Pack10x200.0 ml",3.49,,each,0.17,,100ml,True,False,3.49
+no_frills,drinks,Grace,Coconut Water with Pulp,GraceCoconut Water with Pulp500 ml,2.19,,each,0.43999999999999995,,100ml,True,False,2.19
+no_frills,drinks,Barq's,Spicy Cherry Flavoured Soda Cherry Bite,Barq'sSpicy Cherry Flavoured Soda Cherry Bite500 ml,2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+no_frills,drinks,Pure Leaf,Raspberry Iced Tea,Pure LeafRaspberry Iced Tea1.75 l,3.99,2.99,each,0.2268561872909699,0.17,100ml,True,True,2.99
+no_frills,drinks,President's Choice,Banana Strawberry Flavour 100% Juice Blend,President's ChoiceBanana Strawberry Flavour 100% Juice Blend10x200.0 ml,3.99,,each,0.2,,100ml,True,False,3.99
+no_frills,drinks,President's Choice,Original Tomato Clam Cocktail,President's ChoiceOriginal Tomato Clam Cocktail1.89 l,3.69,,each,0.2,,100ml,True,False,3.69
+no_frills,drinks,MiO,Sport Lemon Lime Liquid Water Enhancer,MiOSport Lemon Lime Liquid Water Enhancer48 ml,2.99,,each,6.23,,100ml,True,False,2.99
+no_frills,drinks,Fruite,Fruit Punch Drink,FruiteFruit Punch Drink2 l,1.99,,each,0.1,,100ml,True,False,1.99
+no_frills,drinks,Gatorade,Fierce Orange Sports Drink,GatoradeFierce Orange Sports Drink710 ml,1.59,,each,0.22,,100ml,True,False,1.59
+no_frills,drinks,President's Choice,Dirty Chai Black Tea with Espresso Coffee,President's ChoiceDirty Chai Black Tea with Espresso Coffee20 ea,3.49,3.0,each,0.17450000000000002,0.15,1ea,True,True,3.0
+no_frills,drinks,Oasis,Watermelon Apple Fruit Juice,OasisWatermelon Apple Fruit Juice960 ml,1.99,,each,0.21,,100ml,True,False,1.99
+no_frills,drinks,FANTA,Fanta Orange,FANTAFanta Orange500 ml,2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+no_frills,drinks,President's Choice,Decaf Orange Pekoe Tea,President's ChoiceDecaf Orange Pekoe Tea48 ea,4.49,,each,0.09,,1ea,True,False,4.49
+no_frills,drinks,President's Choice,Diet Ginger Ale 6 Cans,President's ChoiceDiet Ginger Ale 6 Cans6x222.0 ml,2.49,,each,0.19,,100ml,True,False,2.49
+no_frills,drinks,Tropicana,Pure Premium PP Orange Juice No Pulp,TropicanaPure Premium PP Orange Juice No Pulp3.78 l,9.29,9.0,each,0.2477333333333333,0.24,100ml,True,True,9.0
+no_frills,drinks,Crystal Light,"Singles, Lemon Lime","Crystal LightSingles, Lemon Lime36 g",2.99,,each,8.31,,100g,True,False,2.99
+no_frills,drinks,President's Choice,Diet Lemon Iced Tea ,President's ChoiceDiet Lemon Iced Tea 12x355.0 ml,4.49,,each,0.11,,100ml,True,False,4.49
+no_frills,drinks,Oasis,Orange Carrot Mango Juice,OasisOrange Carrot Mango Juice1.75 l,3.79,,each,0.22,,100ml,True,False,3.79
+no_frills,drinks,Nestle,Nesquik Chocolate Syrup,NestleNesquik Chocolate Syrup700 ml,6.29,,each,0.9,,100ml,True,False,6.29
+no_frills,drinks,Barq's,Spicy Cherry Flavoured Soda Cherry Bite,Barq'sSpicy Cherry Flavoured Soda Cherry Bite500 ml,2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+no_frills,drinks,Rose,Lime Cordial,RoseLime Cordial739 ml,4.99,,each,0.68,,100ml,True,False,4.99
+no_frills,drinks,No Name,2-Cup Black Tea Bags,No Name2-Cup Black Tea Bags100 ea,2.79,,each,0.03,,1ea,True,False,2.79
+no_frills,drinks,President's Choice,Orange Juice with Pulp,President's ChoiceOrange Juice with Pulp1.54 l,3.49,,each,0.23,,100ml,True,False,3.49
+no_frills,drinks,Five Alive,Mango Citrus Juice,Five AliveMango Citrus Juice1.75 l,3.49,,each,0.2,,100ml,True,False,3.49
+no_frills,drinks,Crush,Orange Soda     ,CrushOrange Soda     6x222.0 ml,4.49,,each,0.34,,100ml,True,False,4.49
+no_frills,drinks,Coca-Cola,Soda ,Coca-ColaSoda 6x710.0 ml,5.29,,each,0.12,,100ml,True,False,5.29
+no_frills,drinks,Arizona,Premium Brewed Ginseng and Honey Green Tea,ArizonaPremium Brewed Ginseng and Honey Green Tea8x200.0 ml,3.29,,each,0.21,,100ml,True,False,3.29
+no_frills,drinks,Pepsi,Diet Soda Caffeine Free,PepsiDiet Soda Caffeine Free12x355.0 ml,6.79,,each,0.16,,100ml,True,False,6.79
+no_frills,drinks,Tetley,Super Herbal Tea Sunshine Lemon & Orange With Vitamin D,TetleySuper Herbal Tea Sunshine Lemon & Orange With Vitamin D20 ea,4.49,,each,0.22,,1ea,True,False,4.49
+no_frills,drinks,Simply,"Peach Juice, Bottle","SimplyPeach Juice, Bottle1.54 l",3.79,2.99,each,0.24083612040133778,0.19,100ml,True,True,2.99
+no_frills,drinks,Pepsi,Diet Soda Caffeine Free,PepsiDiet Soda Caffeine Free2 l,2.49,,each,0.12,,100ml,True,False,2.49
+no_frills,drinks,Coca-Cola,"Diet , Bottle","Coca-ColaDiet , Bottle2 l",2.59,,each,0.13,,100ml,True,False,2.59
+no_frills,drinks,Tetley,Super Herbal Tea-Boost Peach Ginger Dan with Vitamin B6,TetleySuper Herbal Tea-Boost Peach Ginger Dan with Vitamin B640 g,4.49,,each,0.22,,1ea,True,False,4.49
+no_frills,drinks,Rubicon,Guava Exotic Fruit Juice,RubiconGuava Exotic Fruit Juice4x200.0 ml,3.29,,each,0.41,,100ml,True,False,3.29
+no_frills,drinks,Nestea,Iced Tea Natural Lemon Flavour  ,NesteaIced Tea Natural Lemon Flavour  500 ml,2.49,,each,0.5,,100ml,True,False,2.49
+no_frills,drinks,Mountain Dew,Zero Sugar,Mountain DewZero Sugar12x355.0 ml,6.79,,each,0.16,,100ml,True,False,6.79
+no_frills,drinks,PC Blue Menu,Blueberry Cocktail,PC Blue MenuBlueberry Cocktail1.89 l,3.49,,each,0.18000000000000002,,100ml,True,False,3.49
+no_frills,drinks,Dasani,Remineralized Water,DasaniRemineralized Water12x355.0 ml,7.49,,each,0.18,,100ml,True,False,7.49
+no_frills,drinks,Carl Jung,"De-Alcoholized Wine, Red","Carl JungDe-Alcoholized Wine, Red750 ml",6.99,,each,0.93,,100ml,True,False,6.99
+no_frills,drinks,Twinings,50ct Pure Camomile,Twinings50ct Pure Camomile50 ea,8.99,6.99,each,0.18005722460658086,0.14,1ea,True,True,6.99
+no_frills,drinks,Cool Runnings,Runnings Coconut Water    ,Cool RunningsRunnings Coconut Water    500 ml,1.99,,each,0.4,,100ml,True,False,1.99
+no_frills,drinks,Vita Sana,"Fruit Juice, Mango Nectar","Vita SanaFruit Juice, Mango Nectar700 ml",2.79,,each,0.4,,100ml,True,False,2.79
+no_frills,drinks,Sprite,Bottle   ,SpriteBottle   8x300.0 ml,7.29,,each,0.3,,100ml,True,False,7.29
+no_frills,drinks,AQUAFINA,Water    ,AQUAFINAWater    591 ml,2.29,,each,0.39,,100ml,True,False,2.29
+no_frills,drinks,Tetley,Green Tea The Vert Naturellement Decafeine   ,TetleyGreen Tea The Vert Naturellement Decafeine   80 ea,9.99,,each,0.12000000000000001,,1ea,True,False,9.99
+no_frills,drinks,Dr Pepper,Soda,Dr PepperSoda6x710.0 ml,4.99,,each,0.12,,100ml,True,False,4.99
+no_frills,drinks,PC Organics,Organic 100% Maple Water,PC OrganicsOrganic 100% Maple Water1 l,4.49,,each,0.45,,100ml,True,False,4.49
+no_frills,drinks,Nescafe,Tasters Choice Classic Instant Coffee,NescafeTasters Choice Classic Instant Coffee100 g,7.49,,each,7.49,,100g,True,False,7.49
+no_frills,drinks,Kool-Aid,"Jammers, Strawberry Kiwi","Kool-AidJammers, Strawberry Kiwi10x180.0 ml",2.79,,each,0.16,,100ml,True,False,2.79
+no_frills,drinks,Allen's,Apple Juice,Allen'sApple Juice1.89 l,2.99,,each,0.16,,100ml,True,False,2.99
+no_frills,drinks,President's Choice,The Great Canadian Light to Medium Roast 100% Arabica Coffee,President's ChoiceThe Great Canadian Light to Medium Roast 100% Arabica Coffee72 ea,34.49,,each,0.48,,1ea,True,False,34.49
+no_frills,drinks,President's Choice,Gourmet Medium Roast Tassimo Compatible Coffee Pods,President's ChoiceGourmet Medium Roast Tassimo Compatible Coffee Pods14 ea,8.99,,each,0.64,,1ea,True,False,8.99
+no_frills,drinks,President's Choice,Gourmet Medium Roast Tassimo Compatible Coffee Pods,President's ChoiceGourmet Medium Roast Tassimo Compatible Coffee Pods14 ea,8.99,,each,0.64,,1ea,True,False,8.99
+no_frills,drinks,Canada Dry,Tonic Water ,Canada DryTonic Water 12x355.0 ml,6.99,,each,0.16,,100ml,True,False,6.99
+no_frills,drinks,Nescafe,Rich Intense Instant Coffee,NescafeRich Intense Instant Coffee160 g,6.49,,each,4.06,,100g,True,False,6.49
+no_frills,drinks,Gatorade,Fruit Punch Sports Drink ,GatoradeFruit Punch Sports Drink 6x591.0 ml,6.99,,each,0.20000000000000004,,100ml,True,False,6.99
+no_frills,drinks,Red Bull,"Energy Drink,","Red BullEnergy Drink,4x250.0 ml",9.99,,each,1.0,,100ml,True,False,9.99
+no_frills,drinks,Gatorade,"G2, Grape ","GatoradeG2, Grape 6x591.0 ml",6.99,,each,0.20000000000000004,,100ml,True,False,6.99
+no_frills,drinks,Ocean Spray,Low Calorie Cranberry Raspberry Cocktail,Ocean SprayLow Calorie Cranberry Raspberry Cocktail1.89 l,4.79,,each,0.25,,100ml,True,False,4.79
+no_frills,drinks,Lavazza,Roasted Ground Coffee Qualità Rossa,LavazzaRoasted Ground Coffee Qualità Rossa250 g,4.99,,each,2.0,,100g,True,False,4.99
+no_frills,drinks,Ocean Spray,Cranberry Raspberry Cocktail,Ocean SprayCranberry Raspberry Cocktail1.89 l,4.79,,each,0.25,,100ml,True,False,4.79
+no_frills,drinks,President's Choice,Espresso Perfetto,President's ChoiceEspresso Perfetto250 g,5.49,,each,2.2,,100g,True,False,5.49
+no_frills,drinks,Montellier,Carbonated Water Lemon    ,MontellierCarbonated Water Lemon    1 l,1.49,,each,0.15,,100ml,True,False,1.49
+no_frills,drinks,President's Choice,Chocolatey Peppermint Herbal Tea,President's ChoiceChocolatey Peppermint Herbal Tea20 ea,3.99,,each,0.2,,1ea,True,False,3.99
+no_frills,drinks,Maxwell House,Original Roast Ground Coffee,Maxwell HouseOriginal Roast Ground Coffee925 g,9.99,,each,1.08,,100g,True,False,9.99
+no_frills,drinks,Mott's,"Clamato, Extra Spicy","Mott'sClamato, Extra Spicy1.89 l",3.99,,each,0.21000000000000002,,100ml,True,False,3.99
+no_frills,drinks,President's Choice,Spritz Up Lemon-Lime Soda,President's ChoiceSpritz Up Lemon-Lime Soda2 l,1.19,,each,0.06,,100ml,True,False,1.19
+no_frills,drinks,President's Choice,Diet Spritz-Up Naturally Flavoured Calorie-Free Sugar-Free Lemon-Lime Soda,President's ChoiceDiet Spritz-Up Naturally Flavoured Calorie-Free Sugar-Free Lemon-Lime Soda12x355.0 ml,4.79,,each,0.11,,100ml,True,False,4.79
+no_frills,drinks,Heinz,Tomato Juice,HeinzTomato Juice540 ml,1.89,,each,0.35,,100ml,True,False,1.89
+no_frills,drinks,Van Houtte,"Colombian Dark K-Cup Coffee Pods, 24 Count","Van HoutteColombian Dark K-Cup Coffee Pods, 24 Count24 ea",19.99,17.99,each,0.8333796553640912,0.75,1ea,True,True,17.99
+no_frills,drinks,Foco,Coconut Juice,FocoCoconut Juice520 ml,1.99,,each,0.38,,100ml,True,False,1.99
+no_frills,drinks,Rubicon,Passion Fruit Juice,RubiconPassion Fruit Juice1 l,2.99,,each,0.3,,100ml,True,False,2.99
+no_frills,drinks,T.A.S.,Coconut Water     ,T.A.S.Coconut Water     500 ml,1.79,,each,0.36,,100ml,True,False,1.79
+no_frills,drinks,Kosa,Coconut Water ,KosaCoconut Water 520 ml,1.99,,each,0.38,,100ml,True,False,1.99
+no_frills,drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water310 ml,1.29,,each,0.42,,100ml,True,False,1.29
+no_frills,drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water1 l,3.49,,each,0.35,,100ml,True,False,3.49
+no_frills,drinks,Maxwell House,Pure Ground Coffee Rich Dark Roast,Maxwell HousePure Ground Coffee Rich Dark Roast900 g,9.99,,each,1.11,,100g,True,False,9.99
+no_frills,drinks,Crystal Light,"Singles, Raspberry Ice","Crystal LightSingles, Raspberry Ice24 g",2.99,,each,12.46,,100g,True,False,2.99
+no_frills,drinks,Monster Energy,Ultra Gold,Monster EnergyUltra Gold473 ml,3.49,,each,0.74,,100ml,True,False,3.49
+no_frills,drinks,President's Choice,Lemon Thriller Herbal Tea,President's ChoiceLemon Thriller Herbal Tea20 ea,3.49,3.0,each,8.725,7.5,100g,True,True,3.0
+no_frills,drinks,Coca-Cola,Diet Coke  ,Coca-ColaDiet Coke  8x300.0 ml,7.29,,each,0.3,,100ml,True,False,7.29
+no_frills,drinks,Tetley,The Vert Classique,TetleyThe Vert Classique80 ea,9.99,,each,0.12000000000000001,,1ea,True,False,9.99
+no_frills,drinks,Crush,Crush Orange Soda ,CrushCrush Orange Soda 12x355.0 ml,6.79,,each,0.16,,100ml,True,False,6.79
+no_frills,drinks,Arizona,100% Natural Iced Tea with Lemon,Arizona100% Natural Iced Tea with Lemon8x200.0 ml,3.29,,each,0.21,,100ml,True,False,3.29
+no_frills,drinks,President's Choice,100% Raspberry Orange Juice,President's Choice100% Raspberry Orange Juice10x200.0 ml,3.99,,each,0.2,,100ml,True,False,3.99
+no_frills,drinks,Simply,Lemonade,SimplyLemonade2.63 l,6.99,,each,0.27,,100ml,True,False,6.99
+no_frills,drinks,President's Choice,"Feeling Soothed Peppermint, Ginger & Fennel Herbal Tea","President's ChoiceFeeling Soothed Peppermint, Ginger & Fennel Herbal Tea20 ea",3.0,,each,0.15,,1ea,True,False,3.0
+no_frills,drinks,Canada Dry,Diet Ginger Ale,Canada DryDiet Ginger Ale2 l,2.59,,each,0.13,,100ml,True,False,2.59
+no_frills,drinks,Fruite,Zesty Raspberry Mixed Fruit Drink,FruiteZesty Raspberry Mixed Fruit Drink1.65 l,2.19,,each,0.13,,100ml,True,False,2.19
+no_frills,drinks,Chaokoh,Coconut Water with Pulp,ChaokohCoconut Water with Pulp520 ml,1.79,,each,0.34,,100ml,True,False,1.79
+no_frills,drinks,Monster Energy,Ultra Watermelon,Monster EnergyUltra Watermelon4x473.0 ml,11.49,,each,0.61,,100ml,True,False,11.49
+no_frills,drinks,San Pellegrino,Carbonated Natural Mineral Water,San PellegrinoCarbonated Natural Mineral Water750 ml,2.29,,each,0.31,,100ml,True,False,2.29
+no_frills,drinks,Eagle Brand,Brand Low Fat Sweetened Condensed Milk,Eagle BrandBrand Low Fat Sweetened Condensed Milk300 ml,3.99,,each,1.33,,100ml,True,False,3.99
+no_frills,drinks,Tropicana,"Pulp Free Orange Juice, Calcium & Vitamin D Added","TropicanaPulp Free Orange Juice, Calcium & Vitamin D Added2.63 l",6.49,6.29,each,0.24763116057233703,0.24,100ml,True,True,6.29
+no_frills,drinks,No Name,Tomato Juice,No NameTomato Juice1 l,2.99,,each,0.22,,100ml,True,False,2.99
+no_frills,drinks,Nestea,"Peach Tea, Cartons 10 Pack","NesteaPeach Tea, Cartons 10 Pack10x200.0 ml",3.49,,each,0.17,,100ml,True,False,3.49
+no_frills,drinks,Rougemont,100% Pure McIntosh Apple Juice,Rougemont100% Pure McIntosh Apple Juice2 l,2.99,,each,0.15,,100ml,True,False,2.99
+no_frills,drinks,Mott's,Clamato Rimmer,Mott'sClamato Rimmer200 g,4.49,,each,2.25,,100g,True,False,4.49
+no_frills,drinks,Carnation,Hot Chocolate 30 Capsules ,CarnationHot Chocolate 30 Capsules 450 g,19.99,,each,4.44,,100g,True,False,19.99
+no_frills,drinks,Coca-Cola,Zero Sugar    ,Coca-ColaZero Sugar    8x300.0 ml,7.29,,each,0.3,,100ml,True,False,7.29
+no_frills,drinks,Minute Maid,"Low Acid Nutri Bone Support 100% Orange Juice, Carton","Minute MaidLow Acid Nutri Bone Support 100% Orange Juice, Carton1.75 l",3.49,,each,0.2,,100ml,True,False,3.49
+no_frills,drinks,Kosa,Coconut Water ,KosaCoconut Water 520 ml,1.99,,each,0.38,,100ml,True,False,1.99
+no_frills,drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water310 ml,1.29,,each,0.42,,100ml,True,False,1.29
+no_frills,drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water1 l,3.49,,each,0.35,,100ml,True,False,3.49
+no_frills,drinks,Blue Diamond,"Almond Breeze Almond Milk, Unsweetened Vanilla","Blue DiamondAlmond Breeze Almond Milk, Unsweetened Vanilla1.89 l",4.19,,each,0.22,,100ml,True,False,4.19
+no_frills,drinks,Chaokoh,Coconut Water with Pulp,ChaokohCoconut Water with Pulp520 ml,1.79,,each,0.34,,100ml,True,False,1.79
+no_frills,drinks,No Name,Tomato Juice,No NameTomato Juice1 l,2.99,,each,0.22,,100ml,True,False,2.99
+no_frills,drinks,Nestea,"Peach Tea, Cartons 10 Pack","NesteaPeach Tea, Cartons 10 Pack10x200.0 ml",3.49,,each,0.17,,100ml,True,False,3.49
+no_frills,drinks,Rougemont,100% Pure McIntosh Apple Juice,Rougemont100% Pure McIntosh Apple Juice2 l,2.99,,each,0.15,,100ml,True,False,2.99
+no_frills,drinks,Mott's,Clamato Rimmer,Mott'sClamato Rimmer200 g,4.49,,each,2.25,,100g,True,False,4.49
+no_frills,drinks,PC Organics,Organic 100% Coconut Water,PC OrganicsOrganic 100% Coconut Water1 l,5.0,,each,0.5,,100ml,True,False,5.0
+no_frills,drinks,MiO,Sport Electrolytes Berry Burst Liquid Water Enhancer,MiOSport Electrolytes Berry Burst Liquid Water Enhancer48 ml,2.99,,each,6.23,,100ml,True,False,2.99
+no_frills,drinks,President's Choice,Vanilla Cherry Soda Flavour Sparkling Water,President's ChoiceVanilla Cherry Soda Flavour Sparkling Water12x355.0 ml,4.79,,each,0.11,,100ml,True,False,4.79
+no_frills,drinks,San Pellegrino,Naturali Limonata Sparkling Lemon Beverage,San PellegrinoNaturali Limonata Sparkling Lemon Beverage6x330.0 ml,6.99,,each,0.35000000000000003,,100ml,True,False,6.99
+no_frills,drinks,Ocean Spray,Cranberry Mango Cocktail,Ocean SprayCranberry Mango Cocktail1.89 l,4.79,,each,0.25,,100ml,True,False,4.79
+no_frills,drinks,Ocean Spray,Cocktail Cranberry Pink,Ocean SprayCocktail Cranberry Pink1.89 l,4.79,,each,0.25,,100ml,True,False,4.79
+no_frills,drinks,Bolthouse,Berry Boost,BolthouseBerry Boost946 ml,6.49,,each,0.6899999999999998,,100ml,True,False,6.49
+no_frills,drinks,NOS,Energy Drink Turbo,NOSEnergy Drink Turbo473 ml,3.49,,each,0.74,,100ml,True,False,3.49
+no_frills,drinks,Lynch,"Hot Apple Cider Mix, Original","LynchHot Apple Cider Mix, Original230 g",4.99,,each,2.17,,100g,True,False,4.99
+no_frills,drinks,Gatorade,Frost Arctic Blitz    ,GatoradeFrost Arctic Blitz    6x591.0 ml,6.99,,each,0.20000000000000004,,100ml,True,False,6.99
+no_frills,drinks,Tetley,Pure Green Specialty Tea   ,TetleyPure Green Specialty Tea   24 ea,4.49,,each,0.19,,1ea,True,False,4.49
+no_frills,drinks,V8,"V-Go Vegetable Cocktail, Low Sodium","V8V-Go Vegetable Cocktail, Low Sodium1.89 l",3.99,,each,0.21000000000000002,,100ml,True,False,3.99
+no_frills,drinks,Tetley,Peppermint Herbal Cannister Pack,TetleyPeppermint Herbal Cannister Pack20 ea,4.49,,each,0.22,,1ea,True,False,4.49
+no_frills,drinks,President's Choice,Tonic Water,President's ChoiceTonic Water6x222.0 ml,2.49,,each,0.19,,100ml,True,False,2.49
+no_frills,drinks,Gatorade,Frost Glacier Freeze Sports Drink ,GatoradeFrost Glacier Freeze Sports Drink 6x591.0 ml,6.99,,each,0.20000000000000004,,100ml,True,False,6.99
+no_frills,drinks,Dasani,"Water, Bottle","DasaniWater, Bottle591 ml",2.29,,each,0.39,,100ml,True,False,2.29
+no_frills,drinks,Peace Tea,"Razzleberry Tea, Can","Peace TeaRazzleberry Tea, Can695 ml",1.39,,each,0.2,,100ml,True,False,1.39
+no_frills,drinks,Tetley,English Breakfast Tea ,TetleyEnglish Breakfast Tea 60 ea,5.49,,each,0.09,,1ea,True,False,5.49
+no_frills,drinks,Gatorade,Frost 4 Flavour Sports Drink ,GatoradeFrost 4 Flavour Sports Drink 24x591.0 ml,20.99,,each,0.15,,100ml,True,False,20.99
+no_frills,drinks,Dr Pepper,Soda,Dr PepperSoda2 l,2.49,,each,0.12,,100ml,True,False,2.49
+no_frills,drinks,No Name,Orange Juice With Pulp,No NameOrange Juice With Pulp1.75 l,2.29,,each,0.13,,100ml,True,False,2.29
+no_frills,drinks,President's Choice,Low Sodium Club Soda,President's ChoiceLow Sodium Club Soda12x355.0 ml,4.79,,each,0.11,,100ml,True,False,4.79
+no_frills,drinks,President's Choice,Premium Flavoured Black Tea ,President's ChoicePremium Flavoured Black Tea 48 ea,4.0,,each,0.08,,1ea,True,False,4.0
+no_frills,drinks,San Pellegrino,Carbonated Natural Mineral Water,San PellegrinoCarbonated Natural Mineral Water750 ml,2.29,,each,0.31,,100ml,True,False,2.29
+no_frills,drinks,Eagle Brand,Brand Low Fat Sweetened Condensed Milk,Eagle BrandBrand Low Fat Sweetened Condensed Milk300 ml,3.99,,each,1.33,,100ml,True,False,3.99
+no_frills,drinks,Foco,Coconut Juice,FocoCoconut Juice520 ml,1.99,,each,0.38,,100ml,True,False,1.99
+no_frills,drinks,Monster Energy,Ultra Watermelon,Monster EnergyUltra Watermelon4x473.0 ml,11.49,,each,0.61,,100ml,True,False,11.49
+no_frills,drinks,Rubicon,Passion Fruit Juice,RubiconPassion Fruit Juice1 l,2.99,,each,0.3,,100ml,True,False,2.99
+no_frills,drinks,T.A.S.,Coconut Water     ,T.A.S.Coconut Water     500 ml,1.79,,each,0.36,,100ml,True,False,1.79
+no_frills,drinks,President's Choice,Extra Pulp Orange Juice,President's ChoiceExtra Pulp Orange Juice1.54 l,3.49,,each,0.23,,100ml,True,False,3.49
+no_frills,drinks,FANTA,Orange ,FANTAOrange 12x355.0 ml,6.99,,each,0.16,,100ml,True,False,6.99
+no_frills,drinks,Minute Maid,"Mixed Berry Juice Beverage, 8 Pack","Minute MaidMixed Berry Juice Beverage, 8 Pack8x200.0 ml",3.49,,each,0.22,,100ml,True,False,3.49
+no_frills,drinks,Tazo,"Herbal Tea Passion Hibiscus, Orange peel and Passion Fruit Flavours","TazoHerbal Tea Passion Hibiscus, Orange peel and Passion Fruit Flavours1 ea",6.29,,each,6.29,,1ea,True,False,6.29
+no_frills,drinks,Crystal Light,"Liquid Drink Mix, Blueberry Razz","Crystal LightLiquid Drink Mix, Blueberry Razz48 ml",2.99,,each,6.23,,100ml,True,False,2.99
+no_frills,drinks,Allen's,Lemonade,Allen'sLemonade8x200.0 ml,2.29,,each,0.14000000000000004,,100ml,True,False,2.29
+no_frills,drinks,Red Bull,"Energy Drink, Sugar Free","Red BullEnergy Drink, Sugar Free250 ml",2.99,,each,1.2,,100ml,True,False,2.99
+no_frills,drinks,Pepsi,Max Zero Sugar Soda    ,PepsiMax Zero Sugar Soda    2 l,2.49,,each,0.12,,100ml,True,False,2.49
+no_frills,drinks,Reign,Energy Drink Orange Dreamsicle,ReignEnergy Drink Orange Dreamsicle4x473.0 ml,11.49,,each,2.43,,100ml,True,False,11.49
+no_frills,drinks,Reign,Energy Drink Orange Dreamsicle,ReignEnergy Drink Orange Dreamsicle4x473.0 ml,11.49,,each,2.43,,100ml,True,False,11.49
+no_frills,drinks,President's Choice,Free & Clear Black Cherry Sparkling Water ,President's ChoiceFree & Clear Black Cherry Sparkling Water 1 l,1.19,,each,0.12,,100ml,True,False,1.19
+no_frills,drinks,FANTA,Fanta Pineapple Can,FANTAFanta Pineapple Can12x355.0 ml,6.99,,each,0.16,,100ml,True,False,6.99
+no_frills,drinks,Tropicana,"Pulp Free Orange Juice, Calcium & Vitamin D Added","TropicanaPulp Free Orange Juice, Calcium & Vitamin D Added2.63 l",6.49,6.29,each,0.24763116057233703,0.24,100ml,True,True,6.29
+no_frills,drinks,No Name,Peppermint Herbal Tea,No NamePeppermint Herbal Tea36 g,2.0,,each,5.56,,100g,True,False,2.0
+no_frills,drinks,PC Blue Menu,Apple Juice from Concentrate ,PC Blue MenuApple Juice from Concentrate 2 l,3.49,,each,0.17,,100ml,True,False,3.49
+no_frills,drinks,Grace,"Tropical Rhythms, Mango & Carrot","GraceTropical Rhythms, Mango & Carrot473 ml",1.49,,each,0.32,,100ml,True,False,1.49
+no_frills,drinks,Ocean Spray,Cran-Pineapple Diet Low Calorie Beverage,Ocean SprayCran-Pineapple Diet Low Calorie Beverage1.89 l,4.79,,each,0.25,,100ml,True,False,4.79
+no_frills,drinks,Nestle,Nesquik Strawberry Syrup,NestleNesquik Strawberry Syrup510 ml,6.29,,each,1.23,,100ml,True,False,6.29
+no_frills,drinks,Crystal Light,Liquid Drink Mix,Crystal LightLiquid Drink Mix48 ml,2.99,,each,6.23,,100ml,True,False,2.99
+no_frills,drinks,No Name,Grape Drink,No NameGrape Drink10x200.0 ml,2.29,,each,0.10999999999999999,,100ml,True,False,2.29
+no_frills,drinks,Crush,Orange Soda ,CrushOrange Soda 6x710.0 ml,4.99,,each,0.12,,100ml,True,False,4.99
+no_frills,drinks,Nestea,"Zero Iced Tea, Lemon   ","NesteaZero Iced Tea, Lemon   12x341.0 ml",7.49,,each,0.18,,100ml,True,False,7.49
+no_frills,drinks,Sprite,Bottle,SpriteBottle2 l,2.59,,each,0.13,,100ml,True,False,2.59
+no_frills,drinks,MiO,Fruit Punch Flavoured Liquid Water Enhancer,MiOFruit Punch Flavoured Liquid Water Enhancer48 ml,2.99,,each,6.23,,100ml,True,False,2.99
+no_frills,drinks,NOS,Energy Drink Sonic Sour,NOSEnergy Drink Sonic Sour473 ml,3.49,,each,0.74,,100ml,True,False,3.49
+no_frills,drinks,Suraj,Guava Drink,SurajGuava Drink1 l,2.0,,each,0.2,,100ml,True,False,2.0
+no_frills,drinks,Canada Dry,"Diet Ginger Ale, Bottle","Canada DryDiet Ginger Ale, Bottle500 ml",2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+no_frills,drinks,Tea India,Tea,Tea IndiaTea681 g,8.99,,each,1.32,,100g,True,False,8.99
+no_frills,drinks,Mott's,T Margarita Mix,Mott'sT Margarita Mix1 l,4.99,,each,0.5,,100ml,True,False,4.99
+no_frills,drinks,Earths Own,"Oat Milk, Chocolate","Earths OwnOat Milk, Chocolate1.75 l",3.99,,each,0.22999999999999998,,100ml,True,False,3.99
+no_frills,drinks,Dr Pepper,Soda,Dr PepperSoda24x355.0 ml,12.49,,each,0.15,,100ml,True,False,12.49
+no_frills,drinks,Canada Dry,"Ginger Ale, Bottle","Canada DryGinger Ale, Bottle1 l",1.59,,each,0.16,,100ml,True,False,1.59
+no_frills,drinks,Carl Jung,White Wine De-Alcoholized,Carl JungWhite Wine De-Alcoholized750 ml,6.99,,each,0.93,,100ml,True,False,6.99
+no_frills,drinks,Grolsch,Non-Alcoholic Beer     ,GrolschNon-Alcoholic Beer     4x500.0 ml,8.29,,each,0.41,,100ml,True,False,8.29
+no_frills,drinks,AHA,"Lime + Watermelon Sparkling Water, Bottle","AHALime + Watermelon Sparkling Water, Bottle500 ml",2.29,,each,0.4600000000000001,,100ml,True,False,2.29
+no_frills,drinks,Budweiser,Bud Zero Can,BudweiserBud Zero Can12x355.0 ml,16.49,,each,0.39,,100ml,True,False,16.49
+no_frills,drinks,Lipton,Brisk Lemon Iced Tea,LiptonBrisk Lemon Iced Tea591 ml,2.29,,each,0.39,,100ml,True,False,2.29
+no_frills,drinks,No Name,Unsweetened Orange Juice from Concentrate,No NameUnsweetened Orange Juice from Concentrate1 l,1.29,,each,0.13,,100ml,True,False,1.29
+no_frills,drinks,Duche de Longueville,Sparkling Raspberry Grape Juice,Duche de LonguevilleSparkling Raspberry Grape Juice750 ml,3.79,,each,0.51,,100ml,True,False,3.79
+no_frills,drinks,Rooster,Coconut Water with Pulp,RoosterCoconut Water with Pulp500 ml,1.99,,each,0.4,,100ml,True,False,1.99
+no_frills,drinks,Allen's,35% Less Sugar Apple Juice Beverage,Allen's35% Less Sugar Apple Juice Beverage1.89 l,2.99,,each,0.16,,100ml,True,False,2.99
+no_frills,drinks,Tetley,Super Tea Boost Berry Burst With Vitamin B6,TetleySuper Tea Boost Berry Burst With Vitamin B620 ea,4.49,,each,0.22,,1ea,True,False,4.49
+no_frills,drinks,Minute Maid,Lemonade,Minute MaidLemonade340 ml,1.99,,each,0.59,,100ml,True,False,1.99
+no_frills,drinks,Ocean Spray,Diet Cranberry Mango Cocktail,Ocean SprayDiet Cranberry Mango Cocktail1.89 l,4.79,,each,0.25,,100ml,True,False,4.79
+no_frills,drinks,Carnation,Marshmallow Hot Chocolate Sachets,CarnationMarshmallow Hot Chocolate Sachets250 g,3.99,,each,1.6,,100g,True,False,3.99
+no_frills,drinks,President's Choice,Cranberry Cocktail,President's ChoiceCranberry Cocktail3.78 l,4.79,,each,0.13,,100ml,True,False,4.79
+no_frills,drinks,Red Rose,Orange Pekoe Black Tea 100% Rainforest Alliance Certified,Red RoseOrange Pekoe Black Tea 100% Rainforest Alliance Certified216 ea,11.49,,each,0.05,,1ea,True,False,11.49
+no_frills,drinks,Grace,"Island Soda, Grapefruit","GraceIsland Soda, Grapefruit355 ml",1.19,,each,0.34,,100ml,True,False,1.19
+no_frills,drinks,Ocean Spray,"100% Juice Blend, White Cranberry","Ocean Spray100% Juice Blend, White Cranberry1.77 l",4.99,,each,0.28,,100ml,True,False,4.99
+no_frills,drinks,Carnation,"Aero S'Mores Hot Chocolate, Envelopes","CarnationAero S'Mores Hot Chocolate, Envelopes175 g",3.99,,each,2.28,,100g,True,False,3.99
+no_frills,drinks,Monster Energy,Reserve Energy Drink Watermelon,Monster EnergyReserve Energy Drink Watermelon473 ml,3.49,,each,0.74,,100ml,True,False,3.49
+no_frills,drinks,AHA,Raspberry Acai Sparkling Water,AHARaspberry Acai Sparkling Water12x355.0 ml,5.49,,each,0.13,,100ml,True,False,5.49
+no_frills,drinks,SunRype,Slim Pink Grapefruit Low Calorie Beverage,SunRypeSlim Pink Grapefruit Low Calorie Beverage1.36 l,3.29,,each,0.24,,100ml,True,False,3.29
+no_frills,drinks,Peace Tea,Strawberry Lemon Tea,Peace TeaStrawberry Lemon Tea695 ml,1.39,,each,0.2,,100ml,True,False,1.39
+no_frills,drinks,Silk,"Oat Beverage, Plain, Unsweetened, Dairy-Free, Shelf Stable","SilkOat Beverage, Plain, Unsweetened, Dairy-Free, Shelf Stable946 ml",2.99,,each,0.32,,100ml,True,False,2.99
+no_frills,drinks,Five Alive,Passionate Peach Citrus Juice,Five AlivePassionate Peach Citrus Juice1.75 l,3.49,,each,0.2,,100ml,True,False,3.49
+no_frills,drinks,No Name,Pink Lemonade,No NamePink Lemonade1.75 l,2.29,,each,0.13,,100ml,True,False,2.29
+no_frills,household_items,Vim,Wood Floor Cleaner ,VimWood Floor Cleaner 1 l,4.49,,each,0.45,,100ml,True,False,4.49
+no_frills,household_items,No Name,Lemon Scented Wet Mop Refills  ,No NameLemon Scented Wet Mop Refills  12 ea,5.0,,each,0.42,,1ea,True,False,5.0
+no_frills,household_items,Snuggle,SuperFresh Fabric Conditioner Spring Burst 30 Loads ,SnuggleSuperFresh Fabric Conditioner Spring Burst 30 Loads 937 ml,7.99,,each,0.85,,100ml,True,False,7.99
+no_frills,household_items,Tide,"Laundry Detergent Cold Water, All In One Daybreak Fresh","TideLaundry Detergent Cold Water, All In One Daybreak Fresh4.87 l",16.99,,each,0.35,,100ml,True,False,16.99
+no_frills,household_items,Snuggle," Plus Soft Fresh Sheets, Original","Snuggle Plus Soft Fresh Sheets, Original2.8 l",13.99,,each,0.5,,100ml,True,False,13.99

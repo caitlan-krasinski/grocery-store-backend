@@ -1,0 +1,337 @@
+category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale
+snacks,No Name,Salt & Vinegar Potato Chips,No NameSalt & Vinegar Potato Chips200 g,$2.49ea,,$1.25/ 100g,False
+snacks,No Name,Ketchup Potato Chips,No NameKetchup Potato Chips200 g,$2.49ea,,$1.25/ 100g,False
+snacks,Ruffles,All Dressed Flavoured Potato Chips,RufflesAll Dressed Flavoured Potato Chips200 g,$4.99ea,,$2.50/ 100g,False
+snacks,No Name,Regular Potato Chips ,No NameRegular Potato Chips 200 g,$2.49ea,,$1.25/ 100g,False
+snacks,No Name,Dill Pickle Potato Chips,No NameDill Pickle Potato Chips200 g,$2.49ea,,$1.25/ 100g,False
+snacks,President's Choice,Unsweetened Apple Sauce,President's ChoiceUnsweetened Apple Sauce6x100.0 ml,$2.99ea,,$0.50/ 100ml,False
+snacks,No Name,Sesame Rice Crackers,No NameSesame Rice Crackers100 g,$1.99ea,,$1.99/ 100g,False
+snacks,Christie,Wheat Thins Multigrain Crackers,ChristieWheat Thins Multigrain Crackers200 g,$3.99ea,,$2.00/ 100g,False
+snacks,Dare,Bear Paws Brownie Cookies,DareBear Paws Brownie Cookies240 g,$4.49ea,,$1.87/ 100g,False
+snacks,Smart Food,White Cheddar flavour seasoned popcorn 200g,Smart FoodWhite Cheddar flavour seasoned popcorn 200g200 g,$5.49ea,,$2.75/ 100g,False
+snacks,Doritos,Cool Ranch flavoured tortilla chips,DoritosCool Ranch flavoured tortilla chips235 g,$5.49ea,,$2.34/ 100g,False
+snacks,Whisps,Cheddar Cheese Crisps    ,WhispsCheddar Cheese Crisps    60 g,$5.99ea,,$9.98/ 100g,False
+snacks,34 Degrees,Toasted Onion Crispbread,34 DegreesToasted Onion Crispbread127 g,$5.99ea,,$4.72/ 100g,False
+snacks,Paris Toasts,Rusks,Paris ToastsRusks270 g,$5.00ea,,$1.85/ 100g,False
+snacks,Covered Bridge,Potato Chips Sea Salt,Covered BridgePotato Chips Sea Salt60 g,$1.99ea,,$3.32/ 100g,False
+snacks,Pepperidge Farm,Monaco Double Chocolate,Pepperidge FarmMonaco Double Chocolate213 g,$4.29ea,,$2.01/ 100g,False
+snacks,President's Choice,Milk Chocolate,President's ChoiceMilk Chocolate100 g,$2.49ea,,$2.49/ 100g,False
+snacks,President's Choice,Tropical Fruits Squeeze Fruit Snacks,President's ChoiceTropical Fruits Squeeze Fruit Snacks4x90.0 g,$2.99ea,,$0.83/ 100g,False
+snacks,President's Choice,Loads Of Ketchup Rippled Potato Chips,President's ChoiceLoads Of Ketchup Rippled Potato Chips200 g,$3.49ea,,$1.75/ 100g,False
+snacks,Ritter Sport,Mini Chocolate Mix Assorted Chocolates,Ritter SportMini Chocolate Mix Assorted Chocolates133 g,$6.49ea,,$4.88/ 100g,False
+snacks,Haribo,Gummy Candies Pocket Size,HariboGummy Candies Pocket Size60 g,$1.69ea,,$2.82/ 100g,False
+snacks,Nature Valley,Crunchy Maple Brown Sugar Granola Bars,Nature ValleyCrunchy Maple Brown Sugar Granola Bars210 g,$3.99ea,,$1.90/ 100g,False
+snacks,President's Choice,Sea Salt Garden Stix,President's ChoiceSea Salt Garden Stix142 g,$2.99ea,,$2.11/ 100g,False
+snacks,No Name,Cheese Flavoured Crunchy Snacks,No NameCheese Flavoured Crunchy Snacks200 g,$1.99ea,,$1.00/ 100g,False
+snacks,No Name,Microwave Butter Flavour Popcorn,No NameMicrowave Butter Flavour Popcorn493 g,$3.99ea,,$0.81/ 100g,False
+snacks,Loacker,Quadratini Double Chocolate,LoackerQuadratini Double Chocolate250 g,$4.99ea,,$2.00/ 100g,False
+snacks,Christie,Triscuit Cracked Pepper And Olive Oil Crackers,ChristieTriscuit Cracked Pepper And Olive Oil Crackers200 g,$3.99ea,,$2.00/ 100g,False
+snacks,Dare,Bold ‘n Baked Sweet Chili,DareBold ‘n Baked Sweet Chili150 g,$2.99ea,,$1.99/ 100g,False
+snacks,Cheetos,Crunchy Cheese Flavoured Snacks,CheetosCrunchy Cheese Flavoured Snacks390 g,$6.49ea,,$1.66/ 100g,False
+snacks,Popchips,Fully Loaded Natural Flavour Original Popped Potato Snack,PopchipsFully Loaded Natural Flavour Original Popped Potato Snack142 g,$3.99ea,,$2.81/ 100g,False
+snacks,Kozy Shack,Rice Pudding Tubs,Kozy ShackRice Pudding Tubs624 g,$4.49ea,,$0.72/ 100g,False
+snacks,No Name,Spicy Barbecue Potato Chips ,No NameSpicy Barbecue Potato Chips 200 g,$2.49ea,,$1.25/ 100g,False
+snacks,Peek Freans,Shortcake Biscuits,Peek FreansShortcake Biscuits350 g,$3.99ea,,$1.14/ 100g,False
+snacks,President's Choice,Extra Butter Flavour Purple Kernel Microwave Popcorn,President's ChoiceExtra Butter Flavour Purple Kernel Microwave Popcorn493 g,$5.99ea,,$1.22/ 100g,False
+snacks,Arnott's,"Tim Tam Biscuits, Original","Arnott'sTim Tam Biscuits, Original200 g",$4.49ea,,$2.25/ 100g,False
+snacks,Pringles,Cheddar & Sour Cream Flavour Potato Chips,PringlesCheddar & Sour Cream Flavour Potato Chips156 g,$3.29ea,,$2.11/ 100g,False
+snacks,Ritz,Sociables Crackers,RitzSociables Crackers200 g,$3.99ea,,$2.00/ 100g,False
+snacks,Loacker,Lemon Wafer,LoackerLemon Wafer150 g,$3.49ea,,$2.33/ 100g,False
+snacks,The Snack Factory,"Pretzel Crisps Gluten Free Minis, Original","The Snack FactoryPretzel Crisps Gluten Free Minis, Original142 g",$5.99ea,,$4.22/ 100g,False
+snacks,No Name,Vanilla Crème-Filled Wafers,No NameVanilla Crème-Filled Wafers175 g,$1.49ea,,$0.85/ 100g,False
+snacks,5 Gum,"Peppermint-Cobalt Flavoured Sugar Free Chewing Gum, 35 Sticks, 1 Pack","5 GumPeppermint-Cobalt Flavoured Sugar Free Chewing Gum, 35 Sticks, 1 Pack94.49 g",$4.99ea,,$5.28/ 100g,False
+snacks,Wrigley,"Spearmint Flavoured Sugar Free Soft Chew Gum, 15 Pieces, 1 Pack","WrigleySpearmint Flavoured Sugar Free Soft Chew Gum, 15 Pieces, 1 Pack1 ea",$2.99ea,,$2.99/ 1ea,False
+snacks,President's Choice,Almond & Coconut Protein Granola Bars,President's ChoiceAlmond & Coconut Protein Granola Bars148 g,$3.79ea,,$2.56/ 100g,False
+snacks,Christie,Oreo Mega Stuff Cookies,ChristieOreo Mega Stuff Cookies374 g,$5.99ea,$5.79ea,$1.55/ 100g,True
+snacks,Grissol,Melba Toast Original,GrissolMelba Toast Original200 g,$2.99ea,,$1.50/ 100g,False
+snacks,Mott's,Fruitsations + Veggie Assorted Fruit,Mott'sFruitsations + Veggie Assorted Fruit226 g,$3.99ea,,$1.77/ 100g,False
+snacks,No Name,Original Trail Mix,No NameOriginal Trail Mix1 kg,$10.99ea,,$1.10/ 100g,False
+snacks,Peek Freans,Fruit Creme Biscuits,Peek FreansFruit Creme Biscuits300 g,$3.99ea,,$1.33/ 100g,False
+snacks,Peek Freans,Shortcake Biscuits,Peek FreansShortcake Biscuits350 g,$3.99ea,,$1.14/ 100g,False
+snacks,President's Choice,Extra Butter Flavour Purple Kernel Microwave Popcorn,President's ChoiceExtra Butter Flavour Purple Kernel Microwave Popcorn493 g,$5.99ea,,$1.22/ 100g,False
+snacks,Arnott's,"Tim Tam Biscuits, Original","Arnott'sTim Tam Biscuits, Original200 g",$4.49ea,,$2.25/ 100g,False
+snacks,Pringles,Cheddar & Sour Cream Flavour Potato Chips,PringlesCheddar & Sour Cream Flavour Potato Chips156 g,$3.29ea,,$2.11/ 100g,False
+snacks,Ritz,Sociables Crackers,RitzSociables Crackers200 g,$3.99ea,,$2.00/ 100g,False
+snacks,Werther's,Original No Sugar Added Caramel Chocolate Hard Candy,Werther'sOriginal No Sugar Added Caramel Chocolate Hard Candy60 g,$3.49ea,,$5.82/ 100g,False
+snacks,Skittles,"Original Gummy Candy, Full Size Bag","SkittlesOriginal Gummy Candy, Full Size Bag57 g",$1.99ea,,$3.49/ 100g,False
+snacks,Carnaby Sweet,Mixed Gummies,Carnaby SweetMixed Gummies300 g,$2.99ea,,$1.00/ 100g,False
+snacks,SunRype,FruitSource Superfruits 100% Fruit Bar Snack Variety Pack,SunRypeFruitSource Superfruits 100% Fruit Bar Snack Variety Pack444 g,$8.99ea,,$2.02/ 100g,False
+snacks,SunRype,Fruit Source FruitSource Strawberry 100% Fruit Bar Snack,SunRypeFruit Source FruitSource Strawberry 100% Fruit Bar Snack37 g,$0.99ea,,$2.68/ 100g,False
+snacks,McSweeneys,Honey Garlic L'il Peps,McSweeneysHoney Garlic L'il Peps150 g,$6.99ea,,$4.66/ 100g,False
+snacks,Quaker,"Harvest Granola Bars, Yogurt  Strawberry","QuakerHarvest Granola Bars, Yogurt  Strawberry175 g",$4.79ea,,$2.74/ 100g,False
+snacks,Cracker Jack,Original Caramel Coated Popcorn and Peanuts 200g,Cracker JackOriginal Caramel Coated Popcorn and Peanuts 200g200 g,$5.49ea,,$2.75/ 100g,False
+snacks,Sunmaid,"Raisins, Mini Packs","SunmaidRaisins, Mini Packs196 g",$3.99ea,,$2.04/ 100g,False
+snacks,Christie,Gluten-free Oreo Cookies,ChristieGluten-free Oreo Cookies376 g,$7.99ea,,$2.13/ 100g,False
+snacks,Neal Brothers Foods,"Tortillas, Restaurant Round","Neal Brothers FoodsTortillas, Restaurant Round300 g",$5.49ea,,$1.83/ 100g,False
+snacks,Christie,Chips Ahoy Soft & Chunky Original Cookies,ChristieChips Ahoy Soft & Chunky Original Cookies290 g,$4.29ea,,$1.48/ 100g,False
+snacks,Whittaker's,"Chocolate, Milk  Peanut Butter 220 G ","Whittaker'sChocolate, Milk  Peanut Butter 220 G 220 g",$5.99ea,,$2.72/ 100g,False
+snacks,Doritos,Sweet Chili Heat! flavoured tortilla chips,DoritosSweet Chili Heat! flavoured tortilla chips235 g,$5.49ea,,$2.34/ 100g,False
+snacks,President's Choice,Rich & Chewy Chocolate Chip Granola Bars,President's ChoiceRich & Chewy Chocolate Chip Granola Bars1460 g,$12.99ea,,$0.89/ 100g,False
+snacks,Cadbury,Smooth Chocolate Bar,CadburySmooth Chocolate Bar90 g,$6.49ea,,$7.21/ 100g,False
+snacks,No Name,Fudge-Covered Graham Cookies,No NameFudge-Covered Graham Cookies350 g,$3.49ea,,$1.00/ 100g,False
+snacks,Betty Crocker,Paw Patrol Special Edition Fruit Flavoured Snacks,Betty CrockerPaw Patrol Special Edition Fruit Flavoured Snacks226 g,$3.99ea,,$1.77/ 100g,False
+snacks,Mr. Cookies,Mr. Mini Vanilla Flavoured Cookies with Chocolate Drizzle,Mr. CookiesMr. Mini Vanilla Flavoured Cookies with Chocolate Drizzle150 g,$2.99ea,,$1.99/ 100g,False
+snacks,Lindt,LINDOR Amour Milk Chocolate Hearts Box,LindtLINDOR Amour Milk Chocolate Hearts Box108 g,$13.99ea,,$12.95/ 100g,False
+snacks,President's Choice,Extra Butter Flavour Purple Kernel Microwave Popcorn,President's ChoiceExtra Butter Flavour Purple Kernel Microwave Popcorn822 g,$8.99ea,,$1.09/ 100g,False
+snacks,Pringles,Mega Can BBQ Flavour,PringlesMega Can BBQ Flavour202 g,$3.49ea,,$1.72/ 100g,False
+snacks,M&M's,"Peanut Milk Chocolate Candies, Sharing Bag","M&M'sPeanut Milk Chocolate Candies, Sharing Bag200 g",$6.49ea,,$3.25/ 100g,False
+snacks,Twigz,"Craft Pretzels, Buttery Herb and Garlic","TwigzCraft Pretzels, Buttery Herb and Garlic130 g",$4.99ea,,$3.84/ 100g,False
+snacks,President's Choice,Garlic Crackers,President's ChoiceGarlic Crackers185 g,$3.79ea,,$2.05/ 100g,False
+snacks,Nestle,Crunch Chocolate Bar,NestleCrunch Chocolate Bar100 g,$3.29ea,,$3.29/ 100g,False
+snacks,President's Choice,Loads Of Cheddar Cheese Crackers,President's ChoiceLoads Of Cheddar Cheese Crackers200 g,$3.79ea,,$1.90/ 100g,False
+snacks,President's Choice,Butter Flavour Purple Kernel Microwave Popcorn,President's ChoiceButter Flavour Purple Kernel Microwave Popcorn247 g,$3.99ea,,$1.62/ 100g,False
+snacks,President's Choice,Sugar Cones ,President's ChoiceSugar Cones 142 g,$2.79ea,,$1.96/ 100g,False
+snacks,Excel,"Strong Mint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs","ExcelStrong Mint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs77 g",$4.99ea,,$6.48/ 100g,False
+snacks,Lindt,SWISS CLASSIC Almond Milk Chocolate Bar,LindtSWISS CLASSIC Almond Milk Chocolate Bar100 g,$4.29ea,,$4.29/ 100g,False
+snacks,No Name,Dark Chocolate with Almonds,No NameDark Chocolate with Almonds100 g,$1.29ea,,$1.29/ 100g,False
+snacks,Blue Diamond,"Almonds, Smokehouse","Blue DiamondAlmonds, Smokehouse170 g",$6.99ea,,$4.11/ 100g,False
+snacks,Dare,Ultimate Maple Crème Cookies,DareUltimate Maple Crème Cookies300 g,$4.49ea,,$1.50/ 100g,False
+snacks,Jack Links,Turkey Snacksticks Sausage Snacks,Jack LinksTurkey Snacksticks Sausage Snacks1 ea,$9.99ea,,$9.99/ 1ea,False
+snacks,TRIDENT,Splash Strawberry Kiwi,TRIDENTSplash Strawberry Kiwi3 pack,$4.99ea,,$1.66/ 1pk,False
+snacks,Wrigley,"Peppermint-Cobalt Flavoured Sugar Free Chewing Gum, 15 Sticks, 3 Packs","WrigleyPeppermint-Cobalt Flavoured Sugar Free Chewing Gum, 15 Sticks, 3 Packs3 ea",$6.49ea,,$2.16/ 1ea,False
+snacks,Loacker,Lemon Wafer,LoackerLemon Wafer150 g,$3.49ea,,$2.33/ 100g,False
+snacks,Planters,"Peanuts, Dry Roasted","PlantersPeanuts, Dry Roasted600 g",$7.99ea,,$1.33/ 100g,False
+snacks,Dare,Bear Paws Minis Confetti Brownie Cookies,DareBear Paws Minis Confetti Brownie Cookies210 g,$4.49ea,,$2.14/ 100g,False
+snacks,Nature Valley,Lunchbox - Double Chocolate Flavour,Nature ValleyLunchbox - Double Chocolate Flavour130 g,$3.99ea,,$3.07/ 100g,False
+snacks,Christie,Premium Plus Salted Crackers,ChristiePremium Plus Salted Crackers900 g,$9.49ea,,$1.05/ 100g,False
+snacks,President's Choice,Dipped & Chewy Chocolate Fudge & Chocolate Chip Granola Bars,President's ChoiceDipped & Chewy Chocolate Fudge & Chocolate Chip Granola Bars618 g,$5.29ea,,$0.86/ 100g,False
+snacks,Cadbury,Cadbury Chocolate Premium Dark Chocolate Bar,CadburyCadbury Chocolate Premium Dark Chocolate Bar100 g,$2.99ea,,$2.99/ 100g,False
+snacks,Que Pasa,Organic Grain Free Sea Salt Tortilla Chips,Que PasaOrganic Grain Free Sea Salt Tortilla Chips142 g,$6.29ea,,$4.43/ 100g,False
+snacks,The Snack Factory,"Pretzel Crisps Gluten Free Minis, Original","The Snack FactoryPretzel Crisps Gluten Free Minis, Original142 g",$5.99ea,,$4.22/ 100g,False
+snacks,No Name,Vanilla Crème-Filled Wafers,No NameVanilla Crème-Filled Wafers175 g,$1.49ea,,$0.85/ 100g,False
+snacks,5 Gum,"Peppermint-Cobalt Flavoured Sugar Free Chewing Gum, 35 Sticks, 1 Pack","5 GumPeppermint-Cobalt Flavoured Sugar Free Chewing Gum, 35 Sticks, 1 Pack94.49 g",$4.99ea,,$5.28/ 100g,False
+snacks,Wrigley,"Spearmint Flavoured Sugar Free Soft Chew Gum, 15 Pieces, 1 Pack","WrigleySpearmint Flavoured Sugar Free Soft Chew Gum, 15 Pieces, 1 Pack1 ea",$2.99ea,,$2.99/ 1ea,False
+snacks,President's Choice,Almond & Coconut Protein Granola Bars,President's ChoiceAlmond & Coconut Protein Granola Bars148 g,$3.79ea,,$2.56/ 100g,False
+snacks,Christie,Oreo Mega Stuff Cookies,ChristieOreo Mega Stuff Cookies374 g,$5.99ea,$5.79ea,$1.55/ 100g,True
+snacks,Grissol,Melba Toast Original,GrissolMelba Toast Original200 g,$2.99ea,,$1.50/ 100g,False
+snacks,Mott's,Fruitsations + Veggie Assorted Fruit,Mott'sFruitsations + Veggie Assorted Fruit226 g,$3.99ea,,$1.77/ 100g,False
+snacks,No Name,Original Trail Mix,No NameOriginal Trail Mix1 kg,$10.99ea,,$1.10/ 100g,False
+snacks,Peek Freans,Fruit Creme Biscuits,Peek FreansFruit Creme Biscuits300 g,$3.99ea,,$1.33/ 100g,False
+snacks,Uncle Bob,Popcorn Seasoning Salt & Vinegar,Uncle BobPopcorn Seasoning Salt & Vinegar78 g,$5.99ea,,$7.68/ 100g,False
+snacks,John Wm. Macy's,CheeseSticks Garlic Romano,John Wm. Macy'sCheeseSticks Garlic Romano113 g,$5.99ea,,$5.30/ 100g,False
+snacks,34 Degrees,Rosemary Crispbread,34 DegreesRosemary Crispbread127 g,$5.99ea,,$4.72/ 100g,False
+snacks,Covered Bridge,Potato Chips Creamy Dill,Covered BridgePotato Chips Creamy Dill60 g,$1.99ea,,$3.32/ 100g,False
+snacks,Uncle Bob,White Kernel,Uncle BobWhite Kernel900 g,$3.49ea,,$0.39/ 100g,False
+snacks,Christie,Triscuit Roasted Garlic Crackers,ChristieTriscuit Roasted Garlic Crackers200 g,$3.99ea,,$2.00/ 100g,False
+snacks,No Name,Peanut Butter Sandwich Crackers,No NamePeanut Butter Sandwich Crackers180 g,$2.99ea,$2.79ea,$1.55/ 100g,True
+snacks,Dare,Oats & Honey Crackers,DareOats & Honey Crackers250 g,$3.99ea,,$1.60/ 100g,False
+snacks,Cookie It Up,"Shortbread Cookies, Salted Butterscotch","Cookie It UpShortbread Cookies, Salted Butterscotch140 g",$4.99ea,$4.49ea,$3.21/ 100g,True
+snacks,Dare,Vinta Crackers Rosemary & Olive Oil,DareVinta Crackers Rosemary & Olive Oil250 g,$3.99ea,,$1.60/ 100g,False
+snacks,Neilson,Jersey Milk,NeilsonJersey Milk180 g,$5.99ea,,$3.33/ 100g,False
+snacks,President's Choice,Sea Salt Kettle Cooked Tortilla Chips,President's ChoiceSea Salt Kettle Cooked Tortilla Chips368 g,$3.99ea,,$1.08/ 100g,False
+snacks,Barcel,Fuego Spicy Chili Pepper and Lime Rolled Tortilla Chips,BarcelFuego Spicy Chili Pepper and Lime Rolled Tortilla Chips280 g,$4.29ea,,$1.53/ 100g,False
+snacks,Voortman,Fudge Striped Shortbread,VoortmanFudge Striped Shortbread320 g,$3.99ea,$3.79ea,$1.18/ 100g,True
+snacks,Excel,"Peppermint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs","ExcelPeppermint Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs77 g",$4.99ea,,$6.48/ 100g,False
+snacks,President's Choice,Roasted Almonds with Sea Salt,President's ChoiceRoasted Almonds with Sea Salt200 g,$4.99ea,,$2.50/ 100g,False
+snacks,Werther's,Original No Sugar Added Caramel Hard Candy,Werther'sOriginal No Sugar Added Caramel Hard Candy70 g,$3.49ea,,$4.99/ 100g,False
+snacks,Kashi,Soft Baked Cereal Bars Cocoa 7 Grain 5 Bars,KashiSoft Baked Cereal Bars Cocoa 7 Grain 5 Bars175 g,$4.99ea,$3.99ea,$2.28/ 100g,True
+snacks,Kelloggs,Special K Nourish Cranberries & Almonds Bar,KelloggsSpecial K Nourish Cranberries & Almonds Bar165 g,$4.99ea,$3.99ea,$2.42/ 100g,True
+snacks,President's Choice,Oatmeal Belgian Chocolate Cookies,President's ChoiceOatmeal Belgian Chocolate Cookies150 g,$3.99ea,,$2.66/ 100g,False
+snacks,Jell-O,"Refrigerated Pudding Snacks, Strawberry Cheesecake","Jell-ORefrigerated Pudding Snacks, Strawberry Cheesecake4x99.0 g",$4.29ea,,$1.08/ 100g,False
+snacks,Vicenzi,Lady Fingers,VicenziLady Fingers200 g,$3.99ea,,$2.00/ 100g,False
+snacks,President's Choice,Mint Slamscuits,President's ChoiceMint Slamscuits240 g,$3.99ea,,$1.66/ 100g,False
+snacks,Quaker,Crispy Minis BBQ flavour brown rice chips,QuakerCrispy Minis BBQ flavour brown rice chips100 g,$3.99ea,,$3.99/ 100g,False
+snacks,Betty Crocker,"Fruit Roll Up Snack, Tropical Tie-Dye","Betty CrockerFruit Roll Up Snack, Tropical Tie-Dye141 g",$3.99ea,,$2.83/ 100g,False
+snacks,No Name,Ice Cream Cups,No NameIce Cream Cups1 ea,$3.49ea,,$1.99/ 100g,False
+snacks,Mentos,"Pure Fresh, Spearmint","MentosPure Fresh, Spearmint50 ea",$4.29ea,,$0.09/ 1ea,False
+snacks,Peace By Chocolate,Milk Chocolate With Hazelnuts,Peace By ChocolateMilk Chocolate With Hazelnuts46 g,$4.49ea,,$9.76/ 100g,False
+snacks,No Name,"Pretzels and Cheese, Processed Cheese Product","No NamePretzels and Cheese, Processed Cheese Product3x28.0 g",$1.49ea,,$1.77/ 100g,False
+snacks,President's Choice,Spicy Cheddar Crackers,President's ChoiceSpicy Cheddar Crackers200 g,$3.79ea,,$1.90/ 100g,False
+snacks,President's Choice,The Decadent Chocolate Chunk Cookie,President's ChoiceThe Decadent Chocolate Chunk Cookie300 g,$4.49ea,,$1.50/ 100g,False
+snacks,FERRERO ROCHER,Fine Hazelnut Chocolate Bag,FERRERO ROCHERFine Hazelnut Chocolate Bag100 g,$5.99ea,,$5.99/ 100g,False
+snacks,Tic Tac,Breath Freshener,Tic TacBreath Freshener29 g,$1.99ea,,$6.86/ 100g,False
+snacks,No Name,Onion Rice Crackers,No NameOnion Rice Crackers100 g,$1.99ea,,$1.99/ 100g,False
+snacks,Nestle,Kitkat Gooey Double Chocolate Bar,NestleKitkat Gooey Double Chocolate Bar112 g,$3.29ea,,$2.94/ 100g,False
+snacks,Cheetos,Crunchy Cheese Flavoured Snacks,CheetosCrunchy Cheese Flavoured Snacks285 g,$5.49ea,,$1.93/ 100g,False
+snacks,Nestle,Kitkat Gooey Double Chocolate Bar,NestleKitkat Gooey Double Chocolate Bar112 g,$3.29ea,,$2.94/ 100g,False
+snacks,Cheetos,Crunchy Cheese Flavoured Snacks,CheetosCrunchy Cheese Flavoured Snacks285 g,$5.49ea,,$1.93/ 100g,False
+snacks,No Name,Corn Chips,No NameCorn Chips200 g,$1.99ea,,$1.00/ 100g,False
+snacks,John Wm. Macy's,Cheese Sticks  Original Cheddar ,John Wm. Macy'sCheese Sticks  Original Cheddar 113 g,$5.99ea,,$5.30/ 100g,False
+snacks,New York Style,"Bagel Crisps, Sesame","New York StyleBagel Crisps, Sesame170 g",$4.69ea,,$2.76/ 100g,False
+snacks,President's Choice,Black Pepper & Sea Salt Crackers,President's ChoiceBlack Pepper & Sea Salt Crackers185 g,$3.79ea,,$2.05/ 100g,False
+snacks,Popchips,Sea Salt Original Popped Potato Snack,PopchipsSea Salt Original Popped Potato Snack142 g,$3.99ea,,$2.81/ 100g,False
+snacks,President's Choice,Old Fashioned Dark Chocolate Ice Cream & Dessert Topping,President's ChoiceOld Fashioned Dark Chocolate Ice Cream & Dessert Topping355 ml,$3.99ea,,$1.12/ 100ml,False
+snacks,Dentyne,Ice Spearmint Gum,DentyneIce Spearmint Gum4 ea,$4.99ea,,$1.25/ 1ea,False
+snacks,Dare,Bear Paws Birthday Cake Cookies,DareBear Paws Birthday Cake Cookies337 g,$6.99ea,,$2.07/ 100g,False
+snacks,Enjoy Life,"Plentils Lentil Chips, Sea Salt","Enjoy LifePlentils Lentil Chips, Sea Salt113 g",$5.49ea,,$4.86/ 100g,False
+snacks,Spitz,"Sunflower Seeds, Salted","SpitzSunflower Seeds, Salted227 g",$3.69ea,,$1.76/ 100g,False
+snacks,Fritos,Original Corn Chips 340g,FritosOriginal Corn Chips 340g340 g,$4.99ea,,$1.47/ 100g,False
+snacks,Kinder,Bueno Mini T27 Bag,KinderBueno Mini T27 Bag145 g,$4.49ea,,$3.10/ 100g,False
+snacks,Voortman,"Turnover Cookie, Strawberry","VoortmanTurnover Cookie, Strawberry300 g",$3.79ea,,$1.26/ 100g,False
+snacks,Christie,Wheat Thins  Crackers,ChristieWheat Thins  Crackers300 g,$4.49ea,,$1.50/ 100g,False
+snacks,Wrigley,"Spearmint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack","WrigleySpearmint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack12 ea",$1.99ea,,$0.17/ 1ea,False
+snacks,Ryvita,Snackbread,RyvitaSnackbread125 g,$4.49ea,,$3.59/ 100g,False
+snacks,Lindt,"Chocolate, 60% Cocoa  Shell with A Delectably Smooth Centre Extra Dark","LindtChocolate, 60% Cocoa  Shell with A Delectably Smooth Centre Extra Dark150 g",$9.99ea,,$6.66/ 100g,False
+snacks,Cadbury,Dairy Milk Oreo Chocolate Bar,CadburyDairy Milk Oreo Chocolate Bar38 g,$1.99ea,,$5.24/ 100g,False
+snacks,Ryvita,"Snackbread, Multigrain","RyvitaSnackbread, Multigrain125 g",$4.49ea,,$3.59/ 100g,False
+snacks,Excel,"Winterfresh Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs","ExcelWinterfresh Flavoured Sugar Free Chewing Gum, 18 Pieces, 3 Packs77 g",$4.99ea,,$6.48/ 100g,False
+snacks,Whittaker's,Fruit And Nut Creamy Milk Chocolate,Whittaker'sFruit And Nut Creamy Milk Chocolate200 g,$5.99ea,,$3.00/ 100g,False
+snacks,No Name,Chewy Chocolate Chip Granola Bars,No NameChewy Chocolate Chip Granola Bars158 g,$2.79ea,,$1.77/ 100g,False
+snacks,Mr. Cookies,Mr Mini Cookies,Mr. CookiesMr Mini Cookies150 g,$2.99ea,,$1.99/ 100g,False
+snacks,Voortman,"Wafers, Strawberry","VoortmanWafers, Strawberry300 g",$2.99ea,,$1.00/ 100g,False
+snacks,Nestle,Smarties Buncha Pouch,NestleSmarties Buncha Pouch180 g,$5.99ea,,$3.33/ 100g,False
+snacks,Ferrero,Rocher Heart Shaped Box Chocolate,FerreroRocher Heart Shaped Box Chocolate100 g,$7.99ea,,$7.99/ 100g,False
+snacks,President's Choice,Milk Chocolate Covered Raisins,President's ChoiceMilk Chocolate Covered Raisins400 g,$5.49ea,$4.99ea,$1.25/ 100g,True
+snacks,President's Choice,Original Melba Toast,President's ChoiceOriginal Melba Toast200 g,$3.49ea,,$1.75/ 100g,False
+snacks,Mentos,"Pure Fresh Cinnamon Mint Gum, Sugar Free","MentosPure Fresh Cinnamon Mint Gum, Sugar Free50 ea",$4.29ea,,$0.09/ 1ea,False
+snacks,President's Choice,Extra Butter Flavour Purple Kernel Microwave Popcorn,President's ChoiceExtra Butter Flavour Purple Kernel Microwave Popcorn247 g,$3.99ea,,$1.62/ 100g,False
+snacks,Cadbury,Caramilk Original Chocolate Bar,CadburyCaramilk Original Chocolate Bar4x50.0 g,$5.99ea,,$3.00/ 100g,False
+snacks,President's Choice,Milk Chocolate Mixed Nuts,President's ChoiceMilk Chocolate Mixed Nuts340 g,$5.49ea,$4.99ea,$1.47/ 100g,True
+snacks,GoGo squeez,Fruit Sauce 12 Pouches,GoGo squeezFruit Sauce 12 Pouches1.08 kg,$8.99ea,,$0.83/ 100g,False
+snacks,Nestle,Kit Kat Classic Wafer Bar,NestleKit Kat Classic Wafer Bar120 g,$3.29ea,,$2.74/ 100g,False
+snacks,President's Choice,Old Fashioned Butterscotch Ice Cream & Dessert Topping,President's ChoiceOld Fashioned Butterscotch Ice Cream & Dessert Topping355 ml,$3.99ea,,$1.12/ 100ml,False
+snacks,Nestle,Buncha Crunch Chocolatey Coated Rice Crisps,NestleBuncha Crunch Chocolatey Coated Rice Crisps160 g,$5.99ea,,$3.74/ 100g,False
+snacks,Wrigley,"Strawberry-Flood Flavoured Sugar Free Chewing Gum, 15 Sticks, 3 Packs","WrigleyStrawberry-Flood Flavoured Sugar Free Chewing Gum, 15 Sticks, 3 Packs45 ea",$6.49ea,,$0.14/ 1ea,False
+snacks,No Name,Honey Graham Wafers,No NameHoney Graham Wafers400 g,$3.99ea,,$1.00/ 100g,False
+snacks,President's Choice,Honey Roasted Peanuts,President's ChoiceHoney Roasted Peanuts700 g,$6.99ea,,$1.00/ 100g,False
+snacks,Lindt,LINDOR Strawberries and Cream White Chocolate Truffles,LindtLINDOR Strawberries and Cream White Chocolate Truffles150 g,$9.99ea,,$6.66/ 100g,False
+snacks,Tim Hortons,Boston Cream Granola Bar,Tim HortonsBoston Cream Granola Bar150 g,$3.29ea,,$2.19/ 100g,False
+snacks,No Name,Barbecue Rice Crackers,No NameBarbecue Rice Crackers100 g,$1.99ea,,$1.99/ 100g,False
+snacks,SunRype,Fruit to Go 100% Fruit Snack Variety Pack,SunRypeFruit to Go 100% Fruit Snack Variety Pack24x14.0 g,$8.99ea,,$2.68/ 100g,False
+snacks,Dare,Gummies Medley,DareGummies Medley180 g,$2.99ea,,$1.66/ 100g,False
+snacks,Pepperidge Farm,Goldfish  Flavour Blasted  Xplosive Pizza Flavoured,Pepperidge FarmGoldfish  Flavour Blasted  Xplosive Pizza Flavoured180 g,$3.99ea,,$2.22/ 100g,False
+snacks,Ryvita,Snackbread Cheese Flavour,RyvitaSnackbread Cheese Flavour125 g,$4.49ea,,$3.59/ 100g,False
+snacks,Christie,"Ritz Chips, Original","ChristieRitz Chips, Original225 g",$3.99ea,,$1.77/ 100g,False
+snacks,Oh Henry!,Level Up Single Bar,Oh Henry!Level Up Single Bar42 g,$1.99ea,,$4.74/ 100g,False
+snacks,Kozy Shack,"Rice Pudding, Cinnamon Raisin","Kozy ShackRice Pudding, Cinnamon Raisin624 g",$4.49ea,,$0.72/ 100g,False
+snacks,Hawkins,Cheezies,HawkinsCheezies210 g,$4.49ea,,$2.14/ 100g,False
+snacks,Dare,Realfruit Superfruits,DareRealfruit Superfruits180 g,$2.99ea,,$1.66/ 100g,False
+snacks,FERRERO ROCHER,Dark Hazelnut & Salted Caramel Bar,FERRERO ROCHERDark Hazelnut & Salted Caramel Bar90 g,$3.99ea,,$4.43/ 100g,False
+snacks,Ritz,Bacon Crackers,RitzBacon Crackers200 g,$3.99ea,,$2.00/ 100g,False
+snacks,Humble,Smokey Bbq Flavoured Potato Chips,HumbleSmokey Bbq Flavoured Potato Chips150 g,$4.99ea,,$3.33/ 100g,False
+snacks,Carnaby Sweet,Cinnamon Hearts,Carnaby SweetCinnamon Hearts500 g,$3.99ea,,$0.80/ 100g,False
+snacks,Carnaby Sweet,Assorted Valentine'S Candy Tub,Carnaby SweetAssorted Valentine'S Candy Tub500 g,$3.99ea,,$0.80/ 100g,False
+snacks,Pepperidge Farm,Veggie & Fruit Goldfish Snack,Pepperidge FarmVeggie & Fruit Goldfish Snack180 g,$3.99ea,,$2.22/ 100g,False
+snacks,JOLLY RANCHER,Assorted,JOLLY RANCHERAssorted198 g,$3.19ea,,$1.61/ 100g,False
+snacks,Sonoma Creamery, Parmesan Crisps,Sonoma Creamery Parmesan Crisps64 g,$6.49ea,,$10.14/ 100g,False
+snacks,Christie,Crispers Ranch Crackers,ChristieCrispers Ranch Crackers145 g,$3.99ea,,$2.75/ 100g,False
+snacks,Snyders,"Pretzel Pieces, Hot Buffalo Wing","SnydersPretzel Pieces, Hot Buffalo Wing240 g",$3.99ea,,$1.66/ 100g,False
+snacks,Whisps,Cheese Crisps Asiago Pepper Jack 60 g,WhispsCheese Crisps Asiago Pepper Jack 60 g60 g,$5.99ea,,$9.98/ 100g,False
+snacks,Covered Bridge,Potato Chips Smokin' Sweet Bbq,Covered BridgePotato Chips Smokin' Sweet Bbq60 g,$1.99ea,,$3.32/ 100g,False
+snacks,Whisps,Parmesan Cheese Crisps    ,WhispsParmesan Cheese Crisps    60 g,$5.99ea,,$9.98/ 100g,False
+snacks,,"Vicky's Artisan Flatbread, Rosemary","Vicky's Artisan Flatbread, Rosemary130 g",$6.29ea,,$4.84/ 100g,False
+snacks,SunRype,Wildberry Fruit to Go 100% Fruit Snack,SunRypeWildberry Fruit to Go 100% Fruit Snack14 g,$0.49ea,,$3.50/ 100g,False
+snacks,From Farm To Table,Popcorn White Cheddar Flavour,From Farm To TablePopcorn White Cheddar Flavour125 g,$3.49ea,,$2.79/ 100g,False
+snacks,SunRype,Fruit Source FruitSource Superfruits Blueberry Pomegranate 100% Fruit Bar Snack,SunRypeFruit Source FruitSource Superfruits Blueberry Pomegranate 100% Fruit Bar Snack37 g,$0.99ea,,$2.68/ 100g,False
+snacks,Jell-O,Oreo Ready-to-Eat Refrigerated Pudding Cups Snack,Jell-OOreo Ready-to-Eat Refrigerated Pudding Cups Snack4x113.0 g,$4.29ea,,$0.95/ 100g,False
+snacks,Dare,Breton Veggie Bites On the Go Packs,DareBreton Veggie Bites On the Go Packs132 g,$2.99ea,,$2.27/ 100g,False
+snacks,M&M's,"Milk Chocolate Candies, Sharing Bag","M&M'sMilk Chocolate Candies, Sharing Bag120 g",$4.29ea,,$3.58/ 100g,False
+snacks,,"Vicky's Artisan Flatbread, Multigrain","Vicky's Artisan Flatbread, Multigrain130 g",$6.29ea,,$4.84/ 100g,False
+snacks,Sarah's Fine Foods,Crostini Garlic Parmesan,Sarah's Fine FoodsCrostini Garlic Parmesan150 g,$3.99ea,,$2.66/ 100g,False
+snacks,Lindt,LINDOR Milk and White Chocolate Valentine's Truffles,LindtLINDOR Milk and White Chocolate Valentine's Truffles150 g,$9.99ea,,$6.66/ 100g,False
+snacks,Sonoma Creamery,Mild Pepper Jack Crisps,Sonoma CreameryMild Pepper Jack Crisps64 g,$6.49ea,,$10.14/ 100g,False
+snacks,Bounty,"Coconut Milk Chocolate Bar, Full Size Bag","BountyCoconut Milk Chocolate Bar, Full Size Bag57 g",$1.99ea,,$3.49/ 100g,False
+snacks,Peek Freans,Lifestyle Selections Bran Crunch Biscuits,Peek FreansLifestyle Selections Bran Crunch Biscuits275 g,$3.99ea,,$1.45/ 100g,False
+snacks,Covered Bridge,"Potato Chips, Creamy Dill Pickle","Covered BridgePotato Chips, Creamy Dill Pickle170 g",$3.99ea,,$2.35/ 100g,False
+snacks,Excel,"Bubblemint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack","ExcelBubblemint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack12 ea",$1.99ea,,$0.17/ 1ea,False
+snacks,Pringles,Snack Stacks Sour Cream and Onion,PringlesSnack Stacks Sour Cream and Onion228 g,$6.49ea,,$2.85/ 100g,False
+snacks,Carnaby Sweet,Gummy Fish,Carnaby SweetGummy Fish125 g,$1.00ea,,$0.80/ 100g,False
+snacks,Excel,"Winterfresh Flavoured Sugar Free Chewing Gum, 12 Pieces, 4 Packs","ExcelWinterfresh Flavoured Sugar Free Chewing Gum, 12 Pieces, 4 Packs1 ea",$1.99ea,,$1.99/ 1ea,False
+snacks,Peek Freans,Lifestyle Selections Blueberry Brown Sugar Biscuit,Peek FreansLifestyle Selections Blueberry Brown Sugar Biscuit290 g,$3.99ea,,$1.38/ 100g,False
+snacks,John Wm. Macy's,CheeseSticks Melting Parmesan,John Wm. Macy'sCheeseSticks Melting Parmesan113 g,$5.99ea,,$5.30/ 100g,False
+snacks,Tim Hortons,"Granola Bar, Apple Fritter","Tim HortonsGranola Bar, Apple Fritter5 ea",$3.29ea,,,False
+snacks,Grissol,Melba Canapé 12 Grain,GrissolMelba Canapé 12 Grain150 g,$2.99ea,,$1.99/ 100g,False
+snacks,Sunmaid,Fruity Raisin Snacks Sour Mixed Berry,SunmaidFruity Raisin Snacks Sour Mixed Berry7x20.0 g,$5.49ea,$3.99ea,$2.85/ 100g,True
+snacks,Dare,Bear Paws Veggies + Fruits Carrot Cake Cookies,DareBear Paws Veggies + Fruits Carrot Cake Cookies168 g,$4.49ea,,$2.67/ 100g,False
+snacks,President's Choice,Unsalted Roasted Cashews,President's ChoiceUnsalted Roasted Cashews200 g,$4.99ea,,$2.50/ 100g,False
+snacks,President's Choice,Peanuts Dry Roasted & Lightly Seasoned,President's ChoicePeanuts Dry Roasted & Lightly Seasoned700 g,$6.99ea,,$1.00/ 100g,False
+snacks,President's Choice,Sweet & Salty Kettle Corn ,President's ChoiceSweet & Salty Kettle Corn 220 g,$2.99ea,,$1.36/ 100g,False
+snacks,Nestle,Turtles Classic Recipe Valentine's Heart Gift Box,NestleTurtles Classic Recipe Valentine's Heart Gift Box183 g,$13.99ea,,$7.64/ 100g,False
+snacks,nud,Flax Crackers Everything,nudFlax Crackers Everything66 g,$7.99ea,,$12.11/ 100g,False
+snacks,Haribo,Starmix,HariboStarmix175 g,$3.49ea,,$1.99/ 100g,False
+snacks,Que Pasa,"Tortilla Chips, Thin & Crispy, Twist of Lime","Que PasaTortilla Chips, Thin & Crispy, Twist of Lime300 g",$3.99ea,,$1.33/ 100g,False
+snacks,Betty Crocker,Dunkaroos Vanilla Cookies with Rainbow Sprinkles Frosting,Betty CrockerDunkaroos Vanilla Cookies with Rainbow Sprinkles Frosting42 g,$1.99ea,,$4.74/ 100g,False
+snacks,Christie,Dads Oatmeal Cookies,ChristieDads Oatmeal Cookies320 g,$4.79ea,,$1.50/ 100g,False
+snacks,President's Choice,Sea Salt Crackers,President's ChoiceSea Salt Crackers185 g,$3.79ea,,$2.05/ 100g,False
+snacks,Que Pasa,Taco Shells Yellow Corn Organic,Que PasaTaco Shells Yellow Corn Organic130 g,$4.29ea,,$3.30/ 100g,False
+snacks,President's Choice,The Decadent Peanut Butter Chunk Cookies,President's ChoiceThe Decadent Peanut Butter Chunk Cookies300 g,$4.49ea,,$1.50/ 100g,False
+snacks,Kozy Shack,Tapioca Pudding Tubs,Kozy ShackTapioca Pudding Tubs624 g,$4.49ea,,$0.72/ 100g,False
+snacks,President's Choice,Apple Squeeze Fruit Snacks,President's ChoiceApple Squeeze Fruit Snacks4x90.0 g,$2.99ea,,$0.83/ 100g,False
+snacks,President's Choice,Unsweetened Apple Carrot Peach Apple Fruit Blend,President's ChoiceUnsweetened Apple Carrot Peach Apple Fruit Blend6x100.0 ml,$2.79ea,,$0.47/ 100ml,False
+snacks,President's Choice,Sea Salt and Cracked Pepper Kettle Cooked Chips,President's ChoiceSea Salt and Cracked Pepper Kettle Cooked Chips200 g,$3.49ea,,$1.75/ 100g,False
+snacks,Stacy's,Parmesan Garlic & Herb Flavour Pita Chips 227g,Stacy'sParmesan Garlic & Herb Flavour Pita Chips 227g227 g,$5.49ea,,$2.42/ 100g,False
+snacks,Hostess,Hostess Original Flavour Potato Sticks 275g,HostessHostess Original Flavour Potato Sticks 275g275 g,$5.49ea,,$2.00/ 100g,False
+snacks,No Name,Caramel Coconut Cookies,No NameCaramel Coconut Cookies198 g,$3.49ea,,$1.76/ 100g,False
+snacks,President's Choice,The Decadent Soft Baked Chocolate Chip Cookies,President's ChoiceThe Decadent Soft Baked Chocolate Chip Cookies300 g,$4.49ea,,$1.50/ 100g,False
+snacks,President's Choice,Apple Cinnamon Apple Sauce ,President's ChoiceApple Cinnamon Apple Sauce 6x100.0 ml,$2.99ea,,$0.50/ 100ml,False
+snacks,President's Choice, Dark Chocolate Concerto Biscuits ,President's Choice Dark Chocolate Concerto Biscuits 240 g,$3.99ea,,$1.66/ 100g,False
+snacks,Christie,Ritz Crackers Low Sodium,ChristieRitz Crackers Low Sodium200 g,$3.99ea,,$2.00/ 100g,False
+snacks,Lay's,Classic potato chips (small bag),Lay'sClassic potato chips (small bag)66 g,$1.89ea,,$2.86/ 100g,False
+snacks,Cadbury,Cadbury Chocolate Burnt Almond Chocolate Bar,CadburyCadbury Chocolate Burnt Almond Chocolate Bar100 g,$2.99ea,,$2.99/ 100g,False
+snacks,Nature Valley,Sweet & Salty Salted Caramel Chocolate Chewy Granola Bars Special Edition,Nature ValleySweet & Salty Salted Caramel Chocolate Chewy Granola Bars Special Edition210 g,$4.49ea,,$2.14/ 100g,False
+snacks,President's Choice,Peanut and Sunflower Seed Popcorn Bars,President's ChoicePeanut and Sunflower Seed Popcorn Bars150 g,$3.79ea,,$2.53/ 100g,False
+snacks,President's Choice,Roasted Cashews with Sea Salt ,President's ChoiceRoasted Cashews with Sea Salt 200 g,$4.99ea,,$2.50/ 100g,False
+snacks,President's Choice,Crisp & Thin Vegetable Crackers,President's ChoiceCrisp & Thin Vegetable Crackers225 g,$3.79ea,,$1.68/ 100g,False
+snacks,Nature Valley,Sweet & Salty Roasted Mixed Nut Chewy Granola Bars,Nature ValleySweet & Salty Roasted Mixed Nut Chewy Granola Bars210 g,$4.49ea,,$2.14/ 100g,False
+snacks,PC Blue Menu,Butter Flavour Microwave Popcorn,PC Blue MenuButter Flavour Microwave Popcorn6x80.0 g,$5.49ea,,$1.14/ 100g,False
+snacks,Kozy Shack,Rice Pudding Cups,Kozy ShackRice Pudding Cups6x113.0 g,$6.49ea,,$0.96/ 100g,False
+snacks,Kinder,Bueno White Chocolate and Hazelnut Cream Candy Bar,KinderBueno White Chocolate and Hazelnut Cream Candy Bar39 g,$1.49ea,,$3.82/ 100g,False
+snacks,Humpty Dumpty,Party Mix Snack Mix Cheesy Flavoured Snack,Humpty DumptyParty Mix Snack Mix Cheesy Flavoured Snack250 g,$4.99ea,,$2.00/ 100g,False
+snacks,GoGo squeez,Fruit Sauce Apple Pineapple Passion Fruit,GoGo squeezFruit Sauce Apple Pineapple Passion Fruit360 g,$4.29ea,,$1.19/ 100g,False
+snacks,President's Choice,Dark Chocolate with Candied Orange Peel,President's ChoiceDark Chocolate with Candied Orange Peel100 g,$2.49ea,,$2.49/ 100g,False
+snacks,SunRype,Fruit Source FruitSource Veggie 100% Fruit and Vegetable Bar Snack Variety Pack,SunRypeFruit Source FruitSource Veggie 100% Fruit and Vegetable Bar Snack Variety Pack12x37.0 g,$8.99ea,,$2.02/ 100g,False
+snacks,Wrigley,"Peppermint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack","WrigleyPeppermint Flavoured Sugar Free Chewing Gum, 12 Pieces, 1 Pack12 ea",$1.99ea,,$0.17/ 1ea,False
+snacks,Que Pasa,Tortilla Chips Blue Corn,Que PasaTortilla Chips Blue Corn350 g,$4.99ea,$3.99ea,$1.14/ 100g,True
+snacks,President's Choice,Dipped & Chewy Chocolate Chip Granola Bars,President's ChoiceDipped & Chewy Chocolate Chip Granola Bars1240 g,$12.99ea,,$1.05/ 100g,False
+snacks,Popchips,Sea Salt & Vinegar Flavoured Original Popped Potato Snack,PopchipsSea Salt & Vinegar Flavoured Original Popped Potato Snack142 g,$3.99ea,,$2.81/ 100g,False
+snacks,President's Choice,Cookie Chips Coconut,President's ChoiceCookie Chips Coconut170 g,$3.99ea,,$2.35/ 100g,False
+snacks,Dare,Ultimate Fudge Chocolate Cookies,DareUltimate Fudge Chocolate Cookies290 g,$4.49ea,,$1.55/ 100g,False
+snacks,Christie,Fudgee-O Original Cookies,ChristieFudgee-O Original Cookies303 g,$4.29ea,,$1.42/ 100g,False
+snacks,President's Choice,Yogurt and Raspberry Popcorn Bars,President's ChoiceYogurt and Raspberry Popcorn Bars150 g,$3.79ea,,$2.53/ 100g,False
+snacks,President's Choice,Parmesan Cheese & Garlic Swiss Sticks,President's ChoiceParmesan Cheese & Garlic Swiss Sticks100 g,$3.49ea,,$3.49/ 100g,False
+snacks,Betty Crocker,Fruit Gushers Super Sour Gushers,Betty CrockerFruit Gushers Super Sour Gushers138 g,$3.99ea,,$2.89/ 100g,False
+snacks,No Name,Hazelnut Crème-Filled Wafers,No NameHazelnut Crème-Filled Wafers175 g,$1.49ea,,$0.85/ 100g,False
+snacks,Lindt,Milk Chocolate Sea Salt,LindtMilk Chocolate Sea Salt150 g,$9.99ea,,$6.66/ 100g,False
+snacks,Finn Crisp,"Crispbread, Original Rye","Finn CrispCrispbread, Original Rye200 g",$4.29ea,$3.99ea,$2.00/ 100g,True
+snacks,Christie,Chips Ahoy! Caramilk Cookies,ChristieChips Ahoy! Caramilk Cookies453 g,$5.99ea,$5.79ea,$1.28/ 100g,True
+snacks,President's Choice,Multigrain Melba Toast,President's ChoiceMultigrain Melba Toast200 g,$3.49ea,,$1.75/ 100g,False
+snacks,Christie,"Good Thins Rice Crackers, Simply Salt","ChristieGood Thins Rice Crackers, Simply Salt100 g",$3.99ea,,$3.99/ 100g,False
+snacks,Grissol,Baguettes Aged Cheddar,GrissolBaguettes Aged Cheddar120 g,$2.99ea,,$2.49/ 100g,False
+snacks,Smart Food,Sour Cream & Onion Flavour Seasoned Popcorn 175g,Smart FoodSour Cream & Onion Flavour Seasoned Popcorn 175g175 g,$5.49ea,,$3.14/ 100g,False
+snacks,Milano,Biscuits Cookie     ,MilanoBiscuits Cookie     200 g,$1.79ea,,$0.90/ 100g,False
+snacks,Christie,Premium Plus Whole Wheat Crackers-Soda,ChristiePremium Plus Whole Wheat Crackers-Soda500 g,$4.99ea,$4.79ea,$0.96/ 100g,True
+snacks,President's Choice,The Reverse Decadent White Chocolate Chip Cookies,President's ChoiceThe Reverse Decadent White Chocolate Chip Cookies300 g,$4.49ea,,$1.50/ 100g,False
+snacks,Hershey's,Candy Cookies 'N' Creme,Hershey'sCandy Cookies 'N' Creme108 g,$2.99ea,,$2.77/ 100g,False
+snacks,Tim Hortons,"Granola Bar, Apple Fritter","Tim HortonsGranola Bar, Apple Fritter5 ea",$3.29ea,,,False
+snacks,Grissol,Melba Canapé 12 Grain,GrissolMelba Canapé 12 Grain150 g,$2.99ea,,$1.99/ 100g,False
+snacks,Sunmaid,Fruity Raisin Snacks Sour Mixed Berry,SunmaidFruity Raisin Snacks Sour Mixed Berry7x20.0 g,$5.49ea,$3.99ea,$2.85/ 100g,True
+snacks,Dare,Bear Paws Veggies + Fruits Carrot Cake Cookies,DareBear Paws Veggies + Fruits Carrot Cake Cookies168 g,$4.49ea,,$2.67/ 100g,False
+snacks,President's Choice,Unsalted Roasted Cashews,President's ChoiceUnsalted Roasted Cashews200 g,$4.99ea,,$2.50/ 100g,False
+snacks,President's Choice,Peanuts Dry Roasted & Lightly Seasoned,President's ChoicePeanuts Dry Roasted & Lightly Seasoned700 g,$6.99ea,,$1.00/ 100g,False
+snacks,President's Choice,Sweet & Salty Kettle Corn ,President's ChoiceSweet & Salty Kettle Corn 220 g,$2.99ea,,$1.36/ 100g,False
+snacks,Nestle,Turtles Classic Recipe Valentine's Heart Gift Box,NestleTurtles Classic Recipe Valentine's Heart Gift Box183 g,$13.99ea,,$7.64/ 100g,False
+snacks,Snyders,"Sweet & Salty Pretzel Pieces, Salted Caramel","SnydersSweet & Salty Pretzel Pieces, Salted Caramel240 g",$3.99ea,,$1.66/ 100g,False
+snacks,34 Degrees,Natural Crispbread,34 DegreesNatural Crispbread127 g,$5.99ea,,$4.72/ 100g,False
+snacks,Uncle Bob,Organic Popcorn,Uncle BobOrganic Popcorn500 g,$5.99ea,,$1.20/ 100g,False
+snacks,Covered Bridge,Potato Chips Sea Salt & Vinegar,Covered BridgePotato Chips Sea Salt & Vinegar60 g,$1.99ea,,$3.32/ 100g,False
+snacks,Sarah's Fine Foods,Crostini Olive Oil and Sea Salt ,Sarah's Fine FoodsCrostini Olive Oil and Sea Salt 150 g,$3.99ea,,$2.66/ 100g,False
+snacks,Christie,"Stoned Wheat Thins, Club Pack","ChristieStoned Wheat Thins, Club Pack600 g",$4.99ea,,$0.83/ 100g,False
+snacks,Oreo,"Chocolate Sandwich Cookies, Birthday Cake Flavour ","OreoChocolate Sandwich Cookies, Birthday Cake Flavour 261 g",$4.29ea,,$1.64/ 100g,False
+snacks,Quaker,Dipps Salted Butterscotch Crunch Flavour Granola Bars,QuakerDipps Salted Butterscotch Crunch Flavour Granola Bars155 g,$3.49ea,,$2.25/ 100g,False
+snacks,New York Style,"Bagel Crisps, Sea Salt","New York StyleBagel Crisps, Sea Salt170 g",$4.69ea,,$2.76/ 100g,False
+snacks,President's Choice,Virginia Variety Party Peanuts With Sea Salt,President's ChoiceVirginia Variety Party Peanuts With Sea Salt200 g,$2.99ea,,$1.50/ 100g,False
+snacks,President's Choice,Loads Of White Cheddar Cheese Crackers,President's ChoiceLoads Of White Cheddar Cheese Crackers200 g,$3.79ea,,$1.90/ 100g,False
+snacks,Ferrero,"Chocolate, Butterfinger Milk  Candy Bar ","FerreroChocolate, Butterfinger Milk  Candy Bar 54 g",$1.49ea,,$2.76/ 100g,False
+snacks,Lindt,LINDOR Double Chocolate Truffles Bag,LindtLINDOR Double Chocolate Truffles Bag150 g,$9.99ea,,$6.66/ 100g,False
+snacks,Twigz,Fire Roasted Jalapeño Craft Pretzels,TwigzFire Roasted Jalapeño Craft Pretzels130 g,$4.99ea,,$3.84/ 100g,False
+snacks,Paris Toasts,Paris Toasts,Paris ToastsParis Toasts80 g,$3.49ea,,$4.36/ 100g,False
+snacks,PC Blue Menu,"Oatmeal, Nut Butter & Peanut Bars","PC Blue MenuOatmeal, Nut Butter & Peanut Bars190 g",$3.79ea,,$1.99/ 100g,False
+snacks,Tic Tac,Breath Freshener,Tic TacBreath Freshener29 g,$1.99ea,,$6.86/ 100g,False
+snacks,PC Black Label,Apricot and Rosemary Artisan Crisps,PC Black LabelApricot and Rosemary Artisan Crisps150 g,$6.49ea,,$4.33/ 100g,False
+snacks,President's Choice,Soft-Baked White Chocolatey Macadamia Cookies,President's ChoiceSoft-Baked White Chocolatey Macadamia Cookies240 g,$3.99ea,,$1.66/ 100g,False
+snacks,Nestle,Kitkat Chunky Minis Cello,NestleKitkat Chunky Minis Cello160 ea,$5.99ea,,$3.74/ 100ea,False
+snacks,Carr's,Cheese Melts,Carr'sCheese Melts150 g,$2.99ea,,$1.99/ 100g,False
+snacks,Grissol,Melba Toast Original,GrissolMelba Toast Original400 g,$5.99ea,$5.79ea,$1.45/ 100g,True
+snacks,GoGo squeez,"Squeeze, Apple/Strawberry","GoGo squeezSqueeze, Apple/Strawberry12x90.0 g",$8.99ea,,$0.83/ 100g,False
+snacks,Humble,The Original Potato Chips,HumbleThe Original Potato Chips150 g,$4.99ea,,$3.33/ 100g,False
+snacks,Ryvita,"Wholegrain Rye Crispbread, Multi-Grain","RyvitaWholegrain Rye Crispbread, Multi-Grain250 g",$4.49ea,,$1.80/ 100g,False
+snacks,Christie,Thin Crisps Original Crackers,ChristieThin Crisps Original Crackers200 g,$3.99ea,,$2.00/ 100g,False
+snacks,Nature Valley,Muffin Blueberry,Nature ValleyMuffin Blueberry175 g,$5.49ea,,$3.14/ 100g,False
+snacks,Haribo,Happy Cola,HariboHappy Cola175 g,$3.49ea,,$1.99/ 100g,False
+snacks,Nature Valley,Muffin Apple Cinnamon,Nature ValleyMuffin Apple Cinnamon175 g,$5.49ea,,$3.14/ 100g,False
+snacks,Storck,Riesen Soft Chocolate Caramel Candy,StorckRiesen Soft Chocolate Caramel Candy135 g,$3.49ea,,$2.59/ 100g,False
+snacks,Pringles,Cheddar Cheese Flavour Party Stack Potato Chips,PringlesCheddar Cheese Flavour Party Stack Potato Chips203 g,$3.49ea,,$1.72/ 100g,False
+snacks,Betty Crocker,Dunkaroos Chocolate,Betty CrockerDunkaroos Chocolate168 g,$5.49ea,,$3.27/ 100g,False
+snacks,Christie,Fudgee-O Double Stuf Cookies,ChristieFudgee-O Double Stuf Cookies303 g,$4.29ea,,$1.42/ 100g,False
+snacks,Dare,Bear Paws Baked Apple Cookies,DareBear Paws Baked Apple Cookies240 g,$4.49ea,,$1.87/ 100g,False
+snacks,Stacy's,Multigrain Pita Chips 227g,Stacy'sMultigrain Pita Chips 227g227 g,$5.49ea,,$2.42/ 100g,False

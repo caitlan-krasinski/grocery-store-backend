@@ -1,0 +1,6 @@
+category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale
+household_items,Vim,Wood Floor Cleaner ,VimWood Floor Cleaner 1 l,$4.49ea,,$0.45/ 100ml,False
+household_items,No Name,Lemon Scented Wet Mop Refills  ,No NameLemon Scented Wet Mop Refills  12 ea,$5.00ea,,$0.42/ 1ea,False
+household_items,Snuggle,SuperFresh Fabric Conditioner Spring Burst 30 Loads ,SnuggleSuperFresh Fabric Conditioner Spring Burst 30 Loads 937 ml,$7.99ea,,$0.85/ 100ml,False
+household_items,Tide,"Laundry Detergent Cold Water, All In One Daybreak Fresh","TideLaundry Detergent Cold Water, All In One Daybreak Fresh4.87 l",$16.99ea,,$0.35/ 100ml,False
+household_items,Snuggle," Plus Soft Fresh Sheets, Original","Snuggle Plus Soft Fresh Sheets, Original2.8 l",$13.99ea,,$0.50/ 100ml,False

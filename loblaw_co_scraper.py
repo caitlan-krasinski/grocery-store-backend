@@ -14,7 +14,7 @@ import scrapers.scraper as scraper
 
 # variable store 
 store_vars = { 
-              'zehrs_produce':{'store':'zehrs',
+                'zehrs_produce':{'store':'zehrs',
                     'category_name':'produce',
                     'link':'https://www.zehrs.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables',
                     'load_more_xpath':'//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button'}
@@ -34,6 +34,28 @@ store_vars = {
                     'category_name':'seafood',
                     'link':'https://www.zehrs.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
                     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'zehrs_pantry':{'store':'zehrs',
+                    'category_name':'pantry',
+                    'link':'https://www.zehrs.ca/food/pantry/c/28006?navid=flyout-L2-Pantry',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'zehrs_snacks':{'store':'zehrs',
+                    'category_name':'snacks',
+                    'link':'https://www.zehrs.ca/food/snacks-chips-candy/c/57025?navid=flyout-L2-snacks-chips-and-candy',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'zehrs_drinks':{'store':'zehrs',
+                    'category_name':'drinks',
+                    'link':'https://www.zehrs.ca/food/drinks/c/28004?navid=flyout-L2-Drinks',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'zehrs_frozen':{'store':'zehrs',
+                    'category_name':'frozen',
+                    'link':'https://www.zehrs.ca/food/frozen/c/28005?navid=flyout-L2-Frozen',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'zehrs_household_items':{'store':'zehrs',
+                    'category_name':'household_items',
+                    'link':'https://www.zehrs.ca/home-and-living/household-cleaning-products/c/28011?navid=flyout-L2-Household-and-Cleaning-Products',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+
+
                 , 'valu_mart_produce':{'store':'valu_mart',
                     'category_name':'produce',
                     'link':'https://www.valumart.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables',
@@ -54,6 +76,27 @@ store_vars = {
                     'category_name':'seafood',
                     'link':'https://www.valumart.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
                     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_pantry':{'store':'valu_mart',
+                    'category_name':'pantry',
+                    'link':'https://www.valumart.ca/food/pantry/c/28006?navid=flyout-L2-Pantry',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_snacks':{'store':'valu_mart',
+                    'category_name':'snacks',
+                    'link':'https://www.valumart.ca/food/snacks-chips-candy/c/57025?navid=flyout-L2-snacks-chips-and-candy',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_drinks':{'store':'valu_mart',
+                    'category_name':'drinks',
+                    'link':'https://www.valumart.ca/food/drinks/c/28004?navid=flyout-L2-Drinks',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_frozen':{'store':'valu_mart',
+                    'category_name':'frozen',
+                    'link':'https://www.valumart.ca/food/frozen/c/28005?navid=flyout-L2-Frozen',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'valu_mart_household_items':{'store':'valu_mart',
+                    'category_name':'household_items',
+                    'link':'https://www.valumart.ca/home-and-living/household-cleaning-products/c/28011?navid=flyout-L2-Household-and-Cleaning-Products',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+
                 , 'no_frills_produce':{'store':'no_frills',
                     'category_name':'produce',
                     'link':'https://www.nofrills.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables',
@@ -74,6 +117,26 @@ store_vars = {
                     'category_name':'seafood',
                     'link':'https://www.nofrills.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
                     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button' }
+                , 'no_frills_pantry':{'store':'no_frills',
+                    'category_name':'pantry',
+                    'link':'https://www.nofrills.ca/food/pantry/c/28006?navid=flyout-L2-Pantry',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'no_frills_snacks':{'store':'no_frills',
+                    'category_name':'snacks',
+                    'link':'https://www.nofrills.ca/food/snacks-chips-candy/c/57025?navid=flyout-L2-snacks-chips-and-candy',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'no_frills_drinks':{'store':'no_frills',
+                    'category_name':'drinks',
+                    'link':'https://www.nofrills.ca/food/drinks/c/28004?navid=flyout-L2-Drinks',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'no_frills_frozen':{'store':'no_frills',
+                    'category_name':'frozen',
+                    'link':'https://www.no_frills.ca/food/frozen/c/28005?navid=flyout-L2-Frozen',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                , 'no_frills_household_items':{'store':'no_frills',
+                    'category_name':'household_items',
+                    'link':'https://www.nofrills.ca/home-and-living/household-cleaning-products/c/28011?navid=flyout-L2-Household-and-Cleaning-Products',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
 }
 
 
@@ -83,7 +146,7 @@ start_time = time.time()
 
 # SET OPTIONS 
 options = scraper.set_options()
-options.add_argument('--ignore-certificste-errors')
+options.add_argument('--ignore-certificate-errors')
 options.add_argument('--incognito')
 options.add_argument('--headless')
 
@@ -96,7 +159,10 @@ for store_prod in store_vars.keys():
 
     store_details = store_vars[store_prod]
 
-    scraper.nav_to_page(driver, store_details['link'])
+    try:
+        scraper.nav_to_page(driver, store_details['link'])
+    except:
+        continue
 
     time.sleep(8) # wait for page load 
 
@@ -131,19 +197,14 @@ for store_prod in store_vars.keys():
         except:
             brand = ''
 
-        # deal_badge = prod_details[0].find_all("div", {"class": "product-tile-deal-badge"})
-
-        # try: 
-        #     sale_badge = deal_badge[0].find_all("div", {"class": "product-badge__icon product-badge__icon--sale product-badge__icon--product-tile"})[0]
-        #     # sale_text = sale_badge[0].find_all("div", {"class": "product-badge__icon__text product-badge__icon__text--sale"})[0]
-        #     sale = True
-        # except: 
-        #     sale = False 
-
         product = prod_details[0].find_all("span", {"class": "product-name__item product-name__item--name"})[0].text
         
         prod_details = prod_details[0].find_all("div", {"class": "product-tile__details__info__section"})
+        
         prod_info = prod_details[0].find_all("div", {"class": "product-prices product-prices--product-tile"})
+
+        if prod_info == []: # household items follow diff div format 
+            prod_info = prod_details[0].find_all("div", {"class": "selling-price-list selling-price-list--product-tile"})
 
         # if sale: 
         try:
@@ -152,7 +213,10 @@ for store_prod in store_vars.keys():
             sale_price = prod_info[0].find_all("span", {"class": "price selling-price-list__item__price selling-price-list__item__price--now-price"})[0].text
             sale = True
         except:
-            price_text = prod_info[0].find_all("span", {"class": "price selling-price-list__item__price selling-price-list__item__price--now-price"})[0].text
+            try:
+                price_text = prod_info[0].find_all("span", {"class": "price selling-price-list__item__price selling-price-list__item__price--now-price"})[0].text
+            except: # household items follow diff format
+                price_text = prod_info[0].find_all("span", {"class": "price__value selling-price-list__item__price selling-price-list__item__price--now-price__value"})[0].text
             sale_price = None
             sale = False
 
@@ -173,7 +237,7 @@ for store_prod in store_vars.keys():
                         'is_sale': sale}
                     , ignore_index=True)
 
-        df.to_csv(f'raw_data/{store_details["store"]}/{store_details["category_name"]}.csv', index=False)
+    df.to_csv(f'raw_data/{store_details["store"]}/{store_details["category_name"]}.csv', index=False)
 
     print(f'completed {store_prod} \n\n')
 
