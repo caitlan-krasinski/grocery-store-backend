@@ -49,7 +49,7 @@ for store in stores:
 
         if per_unit_price_text == per_unit_price_text: 
             # pup, unit = find_per_unit_price(per_unit_price_text)
-            pup = float(per_unit_price_text.split('/ ')[0].replace('$', ''))
+            pup = float(per_unit_price_text.split('/ ')[0].replace('$', '').replace(',', ''))
             unit = per_unit_price_text.split('/ ')[1]
 
             # pup for was_price 

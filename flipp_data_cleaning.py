@@ -110,6 +110,8 @@ for store in stores:
             price_per_1 = False 
             price_unit = product_unit
         else:
+            # pup, unit = per_unit_price(price, product_unit)
+            unit = None
             price_per_1 = True
             price_unit = 'each'
 

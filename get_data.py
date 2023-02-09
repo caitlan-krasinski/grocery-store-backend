@@ -26,7 +26,7 @@ import loblaw_data_cleaning
 print(f'completed in {time.time() - start_time} \n')
 
 start_time = time.time() 
-print('starting flipp co scrpaing')
+print('starting flipp co cleaning')
 import flipp_data_cleaning 
 print(f'completed in {time.time() - start_time} \n')
 

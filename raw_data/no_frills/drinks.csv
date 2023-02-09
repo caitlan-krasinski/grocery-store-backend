@@ -1,241 +1,861 @@
 category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale
-drinks,Canada Dry,Ginger Ale ,Canada DryGinger Ale 12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
-drinks,Coca-Cola,Bottle,Coca-ColaBottle2 l,$2.59ea,,$0.13/ 100ml,False
-drinks,Pepsi,Soda ,PepsiSoda 12x355.0 ml,$6.79ea,,$0.16/ 100ml,False
-drinks,Bubly Sparkling Water,"Lime Sparkling Water Beverage, 12 Pack ","Bubly Sparkling WaterLime Sparkling Water Beverage, 12 Pack 12x355.0 ml",$6.79c12,,$0.16/ 100ml,False
-drinks,Pepsi,Soda      ,PepsiSoda      2 l,$2.49ea,,$0.12/ 100ml,False
-drinks,Bubly Sparkling Water,Blackberry Sparkling Water ,Bubly Sparkling WaterBlackberry Sparkling Water 12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
-drinks,PC Blue Menu,Lemon Sparkling Water,PC Blue MenuLemon Sparkling Water12x355.0 ml,$4.79ea,,$0.11/ 100ml,False
-drinks,Canada Dry,Ginger Ale,Canada DryGinger Ale2 l,$2.59ea,,$0.13/ 100ml,False
-drinks,No Name,Apple Juice from Concentrate,No NameApple Juice from Concentrate1 l,$1.29ea,,$0.13/ 100ml,False
-drinks,Dasani,Remineralized Water,DasaniRemineralized Water12x355.0 ml,$7.49c01,,$0.18/ 100ml,False
-drinks,Mountain Dew,Zero Sugar,Mountain DewZero Sugar12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
-drinks,Carl Jung,"De-Alcoholized Wine, Red","Carl JungDe-Alcoholized Wine, Red750 ml",$6.99ea,,$0.93/ 100ml,False
-drinks,Rubicon,Guava Exotic Fruit Juice,RubiconGuava Exotic Fruit Juice4x200.0 ml,$3.29ea,,$0.41/ 100ml,False
-drinks,Tetley,Super Herbal Tea-Boost Peach Ginger Dan with Vitamin B6,TetleySuper Herbal Tea-Boost Peach Ginger Dan with Vitamin B640 g,$4.49ea,,$0.22/ 1ea,False
-drinks,Nestea,Iced Tea Natural Lemon Flavour  ,NesteaIced Tea Natural Lemon Flavour  500 ml,$2.49ea,,$0.50/ 100ml,False
-drinks,Cool Runnings,Runnings Coconut Water    ,Cool RunningsRunnings Coconut Water    500 ml,$1.99ea,,$0.40/ 100ml,False
-drinks,Tetley,Green Tea The Vert Naturellement Decafeine   ,TetleyGreen Tea The Vert Naturellement Decafeine   80 ea,$9.99ea,,$0.12/ 1ea,False
-drinks,Dr Pepper,Soda,Dr PepperSoda6x710.0 ml,$4.99c06,,$0.12/ 100ml,False
-drinks,Twinings,50ct Pure Camomile,Twinings50ct Pure Camomile50 ea,$8.99ea,$6.99ea,$0.14/ 1ea,True
-drinks,PC Blue Menu,Blueberry Cocktail,PC Blue MenuBlueberry Cocktail1.89 l,$3.49ea,,$0.18/ 100ml,False
-drinks,AQUAFINA,Water    ,AQUAFINAWater    591 ml,$2.29ea,,$0.39/ 100ml,False
-drinks,Vita Sana,"Fruit Juice, Mango Nectar","Vita SanaFruit Juice, Mango Nectar700 ml",$2.79ea,,$0.40/ 100ml,False
-drinks,Sprite,Bottle   ,SpriteBottle   8x300.0 ml,$7.29pack of 8,,$0.30/ 100ml,False
-drinks,Rose,Lime Cordial,RoseLime Cordial739 ml,$4.99ea,,$0.68/ 100ml,False
-drinks,Nestle,Nesquik Less Sugar Chocolate Syrup,NestleNesquik Less Sugar Chocolate Syrup510 ml,$6.29ea,,$1.23/ 100ml,False
-drinks,Pepsi,Diet Soda,PepsiDiet Soda2 l,$2.49ea,,$0.12/ 100ml,False
-drinks,President's Choice,Ginger Ale,President's ChoiceGinger Ale6x222.0 ml,$2.49pack of 6,,$0.19/ 100ml,False
+drinks,Real Canadian,Natural Spring Water,Real CanadianNatural Spring Water24x500.0 ml,$2.29c24,,$0.02/ 100ml,False
+drinks,President's Choice,Orange Juice No Pulp,President's ChoiceOrange Juice No Pulp2.63 l,$4.99ea,,$0.19/ 100ml,False
+drinks,Coca-Cola,Cola  ,Coca-ColaCola  24x355.0 ml,$11.99pack of 24,,$0.14/ 100ml,False
+drinks,Silk,"Organic Soy Beverage, Unsweetened Original, Dairy-Free","SilkOrganic Soy Beverage, Unsweetened Original, Dairy-Free1.89 l",$4.00ea,,$0.21/ 100ml,False
+drinks,Silk,"Almond Beverage, Dark Chocolate Flavour","SilkAlmond Beverage, Dark Chocolate Flavour1.89 l",$4.00ea,,$0.21/ 100ml,False
+drinks,Nestea,"Lemon Tea, Cartons 10 Pack","NesteaLemon Tea, Cartons 10 Pack10x200.0 ml",$3.79ea,,$0.19/ 100ml,False
+drinks,Simply,"Pulp Free Orange Juice, Bottle","SimplyPulp Free Orange Juice, Bottle1.54 l",$3.99ea,,$0.26/ 100ml,False
+drinks,Earths Own,Oat Vanilla ,Earths OwnOat Vanilla 1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Oasis,Orange Pure Breakfast Juice,OasisOrange Pure Breakfast Juice960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,Coca-Cola,Zero      ,Coca-ColaZero      24x355.0 ml,$11.99pack of 24,,$0.14/ 100ml,False
+drinks,Pepsi,Diet Soda,PepsiDiet Soda12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
+drinks,Del Monte,Orange Juice Without Pulp,Del MonteOrange Juice Without Pulp2.5 l,$5.29ea,,$0.21/ 100ml,False
+drinks,Barq's,Spicy Cherry Flavoured Soda Cherry Bite,Barq'sSpicy Cherry Flavoured Soda Cherry Bite500 ml,$2.29ea,,$0.46/ 100ml,False
+drinks,Minute Maid,"Fruit Punch Juice Beverage, 10 Pack","Minute MaidFruit Punch Juice Beverage, 10 Pack10x200.0 ml",$3.79ea,,$0.19/ 100ml,False
+drinks,Molson,0.5% Alcohol Beer,Molson0.5% Alcohol Beer24x355.0 ml,$15.99pack of 24,,$0.19/ 100ml,False
+drinks,Tropicana,Pure Premium PP Orange Juice No Pulp,TropicanaPure Premium PP Orange Juice No Pulp3.78 l,$9.29ea,,$0.25/ 100ml,False
 drinks,President's Choice,Ruby Red Grapefruit Cocktail,President's ChoiceRuby Red Grapefruit Cocktail1.89 l,$3.49ea,,$0.18/ 100ml,False
-drinks,Gatorade,Fierce Glacier Cherry Sports Drink,GatoradeFierce Glacier Cherry Sports Drink710 ml,$1.59ea,,$0.22/ 100ml,False
-drinks,President's Choice,Original Lemonade,President's ChoiceOriginal Lemonade1.89 l,$3.29ea,,$0.17/ 100ml,False
-drinks,Crystal Light,"Pitcher Packs, Lemonade","Crystal LightPitcher Packs, Lemonade56.6 g",$2.99ea,,$5.28/ 100g,False
-drinks,Silk,Fortified Oat Beverage Original,SilkFortified Oat Beverage Original946 ml,$2.99ea,,$0.32/ 100ml,False
-drinks,No Name,Unsweetened Pineapple Juice,No NameUnsweetened Pineapple Juice1.36 l,$3.29ea,,$0.24/ 100ml,False
-drinks,Tropicana,Blackberry Blueberry Fruit Drink   ,TropicanaBlackberry Blueberry Fruit Drink   1.54 l,$3.99ea,$2.99ea,$0.19/ 100ml,True
-drinks,Bubly Sparkling Water,Sparkling Water Limebubly,Bubly Sparkling WaterSparkling Water Limebubly473 ml,$2.29ea,,$0.48/ 100ml,False
-drinks,No Name,Hot Chocolate Mix ,No NameHot Chocolate Mix 1.8 kg,$12.49ea,,$0.69/ 100g,False
-drinks,Monster Energy,"Green Energy Drink, Can","Monster EnergyGreen Energy Drink, Can473 ml",$3.49ea,,$0.74/ 100ml,False
-drinks,President's Choice,Cucumber Mint Flavour Green Tea,President's ChoiceCucumber Mint Flavour Green Tea1.54 l,$3.99ea,,$0.26/ 100ml,False
-drinks,Crush,Orange Soda     ,CrushOrange Soda     6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
-drinks,Coca-Cola,Soda ,Coca-ColaSoda 6x710.0 ml,$5.29pack of 6,,$0.12/ 100ml,False
-drinks,Arizona,Premium Brewed Ginseng and Honey Green Tea,ArizonaPremium Brewed Ginseng and Honey Green Tea8x200.0 ml,$3.29ea,,$0.21/ 100ml,False
-drinks,Perrier,Carbonated Natural Spring Water With Natural Lemon Flavour,PerrierCarbonated Natural Spring Water With Natural Lemon Flavour10x250.0 ml,$8.49pack of 10,,$0.34/ 100ml,False
-drinks,Tetley,Super Green Tea Antiox Tropical With Vitamin C,TetleySuper Green Tea Antiox Tropical With Vitamin C20 ea,$4.49ea,,$0.22/ 1ea,False
-drinks,Sparkling Ice,Orange Mango Sparkling Water,Sparkling IceOrange Mango Sparkling Water503 ml,$1.19ea,,$0.24/ 100ml,False
-drinks,Minute Maid,"Fruit Punch Juice Beverage, 10 Pack","Minute MaidFruit Punch Juice Beverage, 10 Pack10x200.0 ml",$3.49ea,,$0.17/ 100ml,False
-drinks,Grace,Coconut Water with Pulp,GraceCoconut Water with Pulp500 ml,$2.19ea,,$0.44/ 100ml,False
-drinks,Barq's,Spicy Cherry Flavoured Soda Cherry Bite,Barq'sSpicy Cherry Flavoured Soda Cherry Bite500 ml,$2.29ea,,$0.46/ 100ml,False
-drinks,Pure Leaf,Raspberry Iced Tea,Pure LeafRaspberry Iced Tea1.75 l,$3.99ea,$2.99ea,$0.17/ 100ml,True
-drinks,President's Choice,Banana Strawberry Flavour 100% Juice Blend,President's ChoiceBanana Strawberry Flavour 100% Juice Blend10x200.0 ml,$3.99ea,,$0.20/ 100ml,False
-drinks,President's Choice,Original Tomato Clam Cocktail,President's ChoiceOriginal Tomato Clam Cocktail1.89 l,$3.69ea,,$0.20/ 100ml,False
-drinks,MiO,Sport Lemon Lime Liquid Water Enhancer,MiOSport Lemon Lime Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
-drinks,Fruite,Fruit Punch Drink,FruiteFruit Punch Drink2 l,$1.99ea,,$0.10/ 100ml,False
-drinks,Gatorade,Fierce Orange Sports Drink,GatoradeFierce Orange Sports Drink710 ml,$1.59ea,,$0.22/ 100ml,False
-drinks,President's Choice,Dirty Chai Black Tea with Espresso Coffee,President's ChoiceDirty Chai Black Tea with Espresso Coffee20 ea,$3.49ea,$3.00ea,$0.15/ 1ea,True
-drinks,Oasis,Watermelon Apple Fruit Juice,OasisWatermelon Apple Fruit Juice960 ml,$1.99ea,,$0.21/ 100ml,False
-drinks,FANTA,Fanta Orange,FANTAFanta Orange500 ml,$2.29ea,,$0.46/ 100ml,False
-drinks,President's Choice,Decaf Orange Pekoe Tea,President's ChoiceDecaf Orange Pekoe Tea48 ea,$4.49ea,,$0.09/ 1ea,False
-drinks,President's Choice,Diet Ginger Ale 6 Cans,President's ChoiceDiet Ginger Ale 6 Cans6x222.0 ml,$2.49pack of 6,,$0.19/ 100ml,False
-drinks,Tropicana,Pure Premium PP Orange Juice No Pulp,TropicanaPure Premium PP Orange Juice No Pulp3.78 l,$9.29ea,$9.00ea,$0.24/ 100ml,True
-drinks,Crystal Light,"Singles, Lemon Lime","Crystal LightSingles, Lemon Lime36 g",$2.99ea,,$8.31/ 100g,False
-drinks,President's Choice,Diet Lemon Iced Tea ,President's ChoiceDiet Lemon Iced Tea 12x355.0 ml,$4.49pack of 12,,$0.11/ 100ml,False
-drinks,Oasis,Orange Carrot Mango Juice,OasisOrange Carrot Mango Juice1.75 l,$3.79ea,,$0.22/ 100ml,False
-drinks,Nestle,Nesquik Chocolate Syrup,NestleNesquik Chocolate Syrup700 ml,$6.29ea,,$0.90/ 100ml,False
-drinks,Barq's,Spicy Cherry Flavoured Soda Cherry Bite,Barq'sSpicy Cherry Flavoured Soda Cherry Bite500 ml,$2.29ea,,$0.46/ 100ml,False
-drinks,Rose,Lime Cordial,RoseLime Cordial739 ml,$4.99ea,,$0.68/ 100ml,False
-drinks,No Name,2-Cup Black Tea Bags,No Name2-Cup Black Tea Bags100 ea,$2.79ea,,$0.03/ 1ea,False
-drinks,President's Choice,Orange Juice with Pulp,President's ChoiceOrange Juice with Pulp1.54 l,$3.49ea,,$0.23/ 100ml,False
-drinks,Five Alive,Mango Citrus Juice,Five AliveMango Citrus Juice1.75 l,$3.49ea,,$0.20/ 100ml,False
-drinks,Crush,Orange Soda     ,CrushOrange Soda     6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
-drinks,Coca-Cola,Soda ,Coca-ColaSoda 6x710.0 ml,$5.29pack of 6,,$0.12/ 100ml,False
-drinks,Arizona,Premium Brewed Ginseng and Honey Green Tea,ArizonaPremium Brewed Ginseng and Honey Green Tea8x200.0 ml,$3.29ea,,$0.21/ 100ml,False
-drinks,Pepsi,Diet Soda Caffeine Free,PepsiDiet Soda Caffeine Free12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
-drinks,Tetley,Super Herbal Tea Sunshine Lemon & Orange With Vitamin D,TetleySuper Herbal Tea Sunshine Lemon & Orange With Vitamin D20 ea,$4.49ea,,$0.22/ 1ea,False
-drinks,Simply,"Peach Juice, Bottle","SimplyPeach Juice, Bottle1.54 l",$3.79ea,$2.99ea,$0.19/ 100ml,True
-drinks,Pepsi,Diet Soda Caffeine Free,PepsiDiet Soda Caffeine Free2 l,$2.49ea,,$0.12/ 100ml,False
-drinks,Coca-Cola,"Diet , Bottle","Coca-ColaDiet , Bottle2 l",$2.59ea,,$0.13/ 100ml,False
-drinks,Tetley,Super Herbal Tea-Boost Peach Ginger Dan with Vitamin B6,TetleySuper Herbal Tea-Boost Peach Ginger Dan with Vitamin B640 g,$4.49ea,,$0.22/ 1ea,False
-drinks,Rubicon,Guava Exotic Fruit Juice,RubiconGuava Exotic Fruit Juice4x200.0 ml,$3.29ea,,$0.41/ 100ml,False
-drinks,Nestea,Iced Tea Natural Lemon Flavour  ,NesteaIced Tea Natural Lemon Flavour  500 ml,$2.49ea,,$0.50/ 100ml,False
-drinks,Mountain Dew,Zero Sugar,Mountain DewZero Sugar12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
-drinks,PC Blue Menu,Blueberry Cocktail,PC Blue MenuBlueberry Cocktail1.89 l,$3.49ea,,$0.18/ 100ml,False
 drinks,Dasani,Remineralized Water,DasaniRemineralized Water12x355.0 ml,$7.49c01,,$0.18/ 100ml,False
-drinks,Carl Jung,"De-Alcoholized Wine, Red","Carl JungDe-Alcoholized Wine, Red750 ml",$6.99ea,,$0.93/ 100ml,False
-drinks,Twinings,50ct Pure Camomile,Twinings50ct Pure Camomile50 ea,$8.99ea,$6.99ea,$0.14/ 1ea,True
-drinks,Cool Runnings,Runnings Coconut Water    ,Cool RunningsRunnings Coconut Water    500 ml,$1.99ea,,$0.40/ 100ml,False
-drinks,Vita Sana,"Fruit Juice, Mango Nectar","Vita SanaFruit Juice, Mango Nectar700 ml",$2.79ea,,$0.40/ 100ml,False
-drinks,Sprite,Bottle   ,SpriteBottle   8x300.0 ml,$7.29pack of 8,,$0.30/ 100ml,False
-drinks,AQUAFINA,Water    ,AQUAFINAWater    591 ml,$2.29ea,,$0.39/ 100ml,False
-drinks,Tetley,Green Tea The Vert Naturellement Decafeine   ,TetleyGreen Tea The Vert Naturellement Decafeine   80 ea,$9.99ea,,$0.12/ 1ea,False
-drinks,Dr Pepper,Soda,Dr PepperSoda6x710.0 ml,$4.99c06,,$0.12/ 100ml,False
-drinks,PC Organics,Organic 100% Maple Water,PC OrganicsOrganic 100% Maple Water1 l,$4.49ea,,$0.45/ 100ml,False
-drinks,Nescafe,Tasters Choice Classic Instant Coffee,NescafeTasters Choice Classic Instant Coffee100 g,$7.49ea,,$7.49/ 100g,False
-drinks,Kool-Aid,"Jammers, Strawberry Kiwi","Kool-AidJammers, Strawberry Kiwi10x180.0 ml",$2.79ea,,$0.16/ 100ml,False
-drinks,Allen's,Apple Juice,Allen'sApple Juice1.89 l,$2.99ea,,$0.16/ 100ml,False
-drinks,President's Choice,The Great Canadian Light to Medium Roast 100% Arabica Coffee,President's ChoiceThe Great Canadian Light to Medium Roast 100% Arabica Coffee72 ea,$34.49ea,,$0.48/ 1ea,False
-drinks,President's Choice,Gourmet Medium Roast Tassimo Compatible Coffee Pods,President's ChoiceGourmet Medium Roast Tassimo Compatible Coffee Pods14 ea,$8.99ea,,$0.64/ 1ea,False
-drinks,President's Choice,Gourmet Medium Roast Tassimo Compatible Coffee Pods,President's ChoiceGourmet Medium Roast Tassimo Compatible Coffee Pods14 ea,$8.99ea,,$0.64/ 1ea,False
-drinks,Canada Dry,Tonic Water ,Canada DryTonic Water 12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
-drinks,Nescafe,Rich Intense Instant Coffee,NescafeRich Intense Instant Coffee160 g,$6.49ea,,$4.06/ 100g,False
-drinks,Gatorade,Fruit Punch Sports Drink ,GatoradeFruit Punch Sports Drink 6x591.0 ml,$6.99pack of 6,,$0.20/ 100ml,False
-drinks,Red Bull,"Energy Drink,","Red BullEnergy Drink,4x250.0 ml",$9.99pack of 4,,$1.00/ 100ml,False
-drinks,Gatorade,"G2, Grape ","GatoradeG2, Grape 6x591.0 ml",$6.99pack of 6,,$0.20/ 100ml,False
-drinks,Ocean Spray,Low Calorie Cranberry Raspberry Cocktail,Ocean SprayLow Calorie Cranberry Raspberry Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
-drinks,Lavazza,Roasted Ground Coffee Qualità Rossa,LavazzaRoasted Ground Coffee Qualità Rossa250 g,$4.99ea,,$2.00/ 100g,False
-drinks,Ocean Spray,Cranberry Raspberry Cocktail,Ocean SprayCranberry Raspberry Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
-drinks,President's Choice,Espresso Perfetto,President's ChoiceEspresso Perfetto250 g,$5.49ea,,$2.20/ 100g,False
-drinks,Montellier,Carbonated Water Lemon    ,MontellierCarbonated Water Lemon    1 l,$1.49ea,,$0.15/ 100ml,False
-drinks,President's Choice,Chocolatey Peppermint Herbal Tea,President's ChoiceChocolatey Peppermint Herbal Tea20 ea,$3.99ea,,$0.20/ 1ea,False
+drinks,Gatorade,Zero Fruit Punch Sports Drink  ,GatoradeZero Fruit Punch Sports Drink  710 ml,$1.59ea,,$0.22/ 100ml,False
+drinks,Arizona,Premium Brewed Ginseng and Honey Green Tea,ArizonaPremium Brewed Ginseng and Honey Green Tea8x200.0 ml,$3.49ea,,$0.22/ 100ml,False
+drinks,Oasis,"Orange Juice with Pulp, Not from Concentrate","OasisOrange Juice with Pulp, Not from Concentrate1.5 l",$3.99ea,,$0.27/ 100ml,False
+drinks,MiO,Lemonade Liquid Water Enhancer,MiOLemonade Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Van Houtte,"Colombian Dark K-Cup Coffee Pods, 24 Count","Van HoutteColombian Dark K-Cup Coffee Pods, 24 Count24 ea",$19.99ea,,$0.83/ 1ea,False
 drinks,Maxwell House,Original Roast Ground Coffee,Maxwell HouseOriginal Roast Ground Coffee925 g,$9.99ea,,$1.08/ 100g,False
-drinks,Mott's,"Clamato, Extra Spicy","Mott'sClamato, Extra Spicy1.89 l",$3.99ea,,$0.21/ 100ml,False
-drinks,President's Choice,Spritz Up Lemon-Lime Soda,President's ChoiceSpritz Up Lemon-Lime Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Canada Dry,Ginger Ale ,Canada DryGinger Ale 24x355.0 ml,$11.99pack of 24,,$0.14/ 100ml,False
+drinks,Kool-Aid,Tropical Punch Liquid Drink Mix,Kool-AidTropical Punch Liquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,President's Choice,The Great Canadian Light to Medium Roast 100% Arabica Coffee,President's ChoiceThe Great Canadian Light to Medium Roast 100% Arabica Coffee72 ea,$34.49ea,,$0.48/ 1ea,False
+drinks,AQUAFINA,Water    ,AQUAFINAWater    591 ml,$2.29ea,,$0.39/ 100ml,False
+drinks,Kool-Aid,Watermelon Liquid Drink Mix,Kool-AidWatermelon Liquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Carnation,Marshmallow Hot Chocolate Canister,CarnationMarshmallow Hot Chocolate Canister450 g,$5.49ea,,$1.22/ 100g,False
+drinks,Perrier,Carbonated Natural Spring Water With Natural Lemon Flavour,PerrierCarbonated Natural Spring Water With Natural Lemon Flavour10x250.0 ml,$8.49pack of 10,,$0.34/ 100ml,False
+drinks,Minute Maid,Mango Passion,Minute MaidMango Passion1.54 l,$3.49ea,,$0.23/ 100ml,False
+drinks,Carnation,"Hot Chocolate Mix, Cookies and Creme - 7 sachets","CarnationHot Chocolate Mix, Cookies and Creme - 7 sachets175 g",$3.99ea,,$2.28/ 100g,False
+drinks,President's Choice,Gourmet West Coast Dark Roast 100% Arabica Tassimo Compatible Coffee Pods,President's ChoiceGourmet West Coast Dark Roast 100% Arabica Tassimo Compatible Coffee Pods14 ea,$8.99ea,,$0.64/ 1ea,False
+drinks,Vita Sana,"Fruit Juice, Mango Nectar","Vita SanaFruit Juice, Mango Nectar700 ml",$2.79ea,,$0.40/ 100ml,False
+drinks,President's Choice,Gourmet Medium Roast Tassimo Compatible Coffee Pods,President's ChoiceGourmet Medium Roast Tassimo Compatible Coffee Pods14 ea,$8.99ea,,$0.64/ 1ea,False
+drinks,San Pellegrino,Naturali Aranciata Rossa Sparkling Orange & Blood Orange Beverage,San PellegrinoNaturali Aranciata Rossa Sparkling Orange & Blood Orange Beverage6x330.0 ml,$6.99c06,,$0.35/ 100ml,False
+drinks,Lavazza,Roasted Ground Coffee Qualità Rossa,LavazzaRoasted Ground Coffee Qualità Rossa250 g,$4.99ea,,$2.00/ 100g,False
+drinks,No Name,Chocolate Syrup,No NameChocolate Syrup2 l,$9.99ea,,$0.50/ 100ml,False
+drinks,Simply,Real Fruit Beverage Peach,SimplyReal Fruit Beverage Peach340 ml,$1.99ea,,$0.59/ 100ml,False
+drinks,President's Choice,Ginger Ale,President's ChoiceGinger Ale6x222.0 ml,$2.49pack of 6,,$0.19/ 100ml,False
+drinks,MiO,Sport Lemon Lime Liquid Water Enhancer,MiOSport Lemon Lime Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Nescafe,Rich Intense Instant Coffee,NescafeRich Intense Instant Coffee160 g,$6.49ea,,$4.06/ 100g,False
+drinks,Twinings,50ct Pure Camomile,Twinings50ct Pure Camomile50 ea,$9.49ea,,$0.19/ 1ea,False
+drinks,Pepsi,Diet Soda,PepsiDiet Soda24x355.0 ml,$12.49pack of 24,,$0.15/ 100ml,False
+drinks,Cool Runnings,Runnings Coconut Water    ,Cool RunningsRunnings Coconut Water    500 ml,$1.99ea,,$0.40/ 100ml,False
+drinks,PC Blue Menu,Blueberry Cocktail,PC Blue MenuBlueberry Cocktail1.89 l,$3.49ea,,$0.18/ 100ml,False
+drinks,President's Choice,Fruit Punch Liquid Water Enhancer,President's ChoiceFruit Punch Liquid Water Enhancer48 ml,$2.69ea,,$5.60/ 100ml,False
+drinks,Nestea,"Zero Sugar Tea, Bottle","NesteaZero Sugar Tea, Bottle1.89 l",$3.99ea,,$0.21/ 100ml,False
+drinks,MiO,Berry Pomegranate Liquid Water Enhancer,MiOBerry Pomegranate Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
 drinks,President's Choice,Diet Spritz-Up Naturally Flavoured Calorie-Free Sugar-Free Lemon-Lime Soda,President's ChoiceDiet Spritz-Up Naturally Flavoured Calorie-Free Sugar-Free Lemon-Lime Soda12x355.0 ml,$4.79ea,,$0.11/ 100ml,False
+drinks,Maxwell House,Original Roast Instant Coffee,Maxwell HouseOriginal Roast Instant Coffee150 g,$5.29ea,,$3.53/ 100g,False
+drinks,Allen's,Apple Juice,Allen'sApple Juice1.89 l,$3.19ea,,$0.17/ 100ml,False
+drinks,President's Choice,Rooibos Red Tea,President's ChoiceRooibos Red Tea20 ea,$3.49ea,$3.00ea,$0.15/ 1ea,True
+drinks,President's Choice,Espresso Perfetto,President's ChoiceEspresso Perfetto250 g,$5.49ea,,$2.20/ 100g,False
+drinks,Rubicon,Guava Exotic Fruit Juice,RubiconGuava Exotic Fruit Juice4x200.0 ml,$3.29ea,,$0.41/ 100ml,False
+drinks,Fruite,Lemon Iced Tea,FruiteLemon Iced Tea2 l,$2.19ea,,$0.11/ 100ml,False
+drinks,President's Choice,Orange Juice with Pulp,President's ChoiceOrange Juice with Pulp1.54 l,$3.49ea,,$0.23/ 100ml,False
+drinks,President's Choice,Decaf Orange Pekoe Tea,President's ChoiceDecaf Orange Pekoe Tea48 ea,$4.49ea,,$0.09/ 1ea,False
+drinks,Peace Tea,"Peach Tea, Cherry","Peace TeaPeach Tea, Cherry695 ml",$1.39ea,,$0.20/ 100ml,False
+drinks,Starbucks,Blonde Roast Iced Coffee,StarbucksBlonde Roast Iced Coffee1.42 l,$7.99ea,,$0.56/ 100ml,False
+drinks,Minute Maid,Fruit Punch,Minute MaidFruit Punch1.54 l,$3.49ea,,$0.23/ 100ml,False
+drinks,Twinings,Herbal Tea Goodnight Blend,TwiningsHerbal Tea Goodnight Blend50 ea,$9.49ea,,$0.19/ 1ea,False
+drinks,Real Lemon,Single Strength Lemon Juice,Real LemonSingle Strength Lemon Juice125 ml,$1.00ea,,$0.80/ 100ml,False
+drinks,V8,Vegetable Cocktail,V8Vegetable Cocktail6x156.0 ml,$3.99ea,,$0.43/ 100ml,False
+drinks,President's Choice,Gourmet West Coast Dark Whole Bean Coffee,President's ChoiceGourmet West Coast Dark Whole Bean Coffee907 g,$16.99ea,,$1.87/ 100g,False
+drinks,Tim Hortons,Variety Pack K-Cup Coffee Pods,Tim HortonsVariety Pack K-Cup Coffee Pods30 ea,$24.99ea,,$0.83/ 1ea,False
+drinks,PC Organics,Organic 100% Maple Water,PC OrganicsOrganic 100% Maple Water1 l,$4.49ea,,$0.45/ 100ml,False
+drinks,Tetley,Super Green Tea Antiox Tropical With Vitamin C,TetleySuper Green Tea Antiox Tropical With Vitamin C20 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,President's Choice,Cucumber Mint Flavour Green Tea,President's ChoiceCucumber Mint Flavour Green Tea1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Oasis,Berry Pomegranate Antioxidant Juice,OasisBerry Pomegranate Antioxidant Juice1.75 l,$3.79ea,,$0.22/ 100ml,False
+drinks,Kool-Aid,"Jammers, Strawberry Kiwi","Kool-AidJammers, Strawberry Kiwi10x180.0 ml",$2.79ea,,$0.16/ 100ml,False
+drinks,Maxwell House,Colombian Pure Ground Coffee And Other Origins,Maxwell HouseColombian Pure Ground Coffee And Other Origins631 g,$9.99ea,,$1.58/ 100g,False
+drinks,President's Choice,Concord Grape 100% Juice Blend,President's ChoiceConcord Grape 100% Juice Blend1 l,$2.29ea,,$0.23/ 100ml,False
+drinks,Grace,Coconut Water with Pulp,GraceCoconut Water with Pulp500 ml,$2.19ea,,$0.44/ 100ml,False
+drinks,No Name,Hot Chocolate Mix ,No NameHot Chocolate Mix 1.8 kg,$12.49ea,,$0.69/ 100g,False
+drinks,Nestea,Iced Tea Natural Lemon Flavour  ,NesteaIced Tea Natural Lemon Flavour  500 ml,$2.49ea,,$0.50/ 100ml,False
+drinks,Nestle,Nesquik Less Sugar Chocolate Syrup,NestleNesquik Less Sugar Chocolate Syrup510 ml,$6.29ea,,$1.23/ 100ml,False
+drinks,No Name,Unsweetened Pineapple Juice,No NameUnsweetened Pineapple Juice1.36 l,$3.29ea,,$0.24/ 100ml,False
+drinks,No Name,2-Cup Black Tea Bags,No Name2-Cup Black Tea Bags100 ea,$2.79ea,,$0.03/ 1ea,False
+drinks,MiO,Vitamins Cherry Liquid Water Enhancer,MiOVitamins Cherry Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Becks,Non-Alcoholic Beer ,BecksNon-Alcoholic Beer 6x330.0 ml,$12.49pack of 6,,$0.63/ 100ml,False
+drinks,Flow Water,Spring Water (Case),Flow WaterSpring Water (Case)6x500.0 ml,$8.99ea,,$0.30/ 100ml,False
+drinks,Danone,"Cold Brew Coffee, Black, Unsweetened, No Cream","DanoneCold Brew Coffee, Black, Unsweetened, No Cream1.42 l",$8.29ea,,$0.58/ 100ml,False
 drinks,Heinz,Tomato Juice,HeinzTomato Juice540 ml,$1.89ea,,$0.35/ 100ml,False
-drinks,Van Houtte,"Colombian Dark K-Cup Coffee Pods, 24 Count","Van HoutteColombian Dark K-Cup Coffee Pods, 24 Count24 ea",$19.99ea,$17.99ea,$0.75/ 1ea,True
-drinks,Foco,Coconut Juice,FocoCoconut Juice520 ml,$1.99ea,,$0.38/ 100ml,False
-drinks,Rubicon,Passion Fruit Juice,RubiconPassion Fruit Juice1 l,$2.99ea,,$0.30/ 100ml,False
-drinks,T.A.S.,Coconut Water     ,T.A.S.Coconut Water     500 ml,$1.79ea,,$0.36/ 100ml,False
-drinks,Kosa,Coconut Water ,KosaCoconut Water 520 ml,$1.99ea,,$0.38/ 100ml,False
-drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water310 ml,$1.29ea,,$0.42/ 100ml,False
-drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water1 l,$3.49ea,,$0.35/ 100ml,False
-drinks,Maxwell House,Pure Ground Coffee Rich Dark Roast,Maxwell HousePure Ground Coffee Rich Dark Roast900 g,$9.99ea,,$1.11/ 100g,False
-drinks,Crystal Light,"Singles, Raspberry Ice","Crystal LightSingles, Raspberry Ice24 g",$2.99ea,,$12.46/ 100g,False
-drinks,Monster Energy,Ultra Gold,Monster EnergyUltra Gold473 ml,$3.49ea,,$0.74/ 100ml,False
-drinks,President's Choice,Lemon Thriller Herbal Tea,President's ChoiceLemon Thriller Herbal Tea20 ea,$3.49ea,$3.00ea,$7.50/ 100g,True
-drinks,Coca-Cola,Diet Coke  ,Coca-ColaDiet Coke  8x300.0 ml,$7.29pack of 8,,$0.30/ 100ml,False
+drinks,Allen's,Peach Cocktail,Allen'sPeach Cocktail8x200.0 ml,$2.29ea,,$0.14/ 100ml,False
+drinks,Crystal Light,"Singles, Lemon Lime","Crystal LightSingles, Lemon Lime36 g",$2.99ea,,$8.31/ 100g,False
+drinks,Dasani,Remineralized Water,DasaniRemineralized Water12x355.0 ml,$7.49c01,,$0.18/ 100ml,False
+drinks,Gatorade,Zero Fruit Punch Sports Drink  ,GatoradeZero Fruit Punch Sports Drink  710 ml,$1.59ea,,$0.22/ 100ml,False
+drinks,Arizona,Premium Brewed Ginseng and Honey Green Tea,ArizonaPremium Brewed Ginseng and Honey Green Tea8x200.0 ml,$3.49ea,,$0.22/ 100ml,False
+drinks,Oasis,"Orange Juice with Pulp, Not from Concentrate","OasisOrange Juice with Pulp, Not from Concentrate1.5 l",$3.99ea,,$0.27/ 100ml,False
+drinks,MiO,Lemonade Liquid Water Enhancer,MiOLemonade Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Van Houtte,"Colombian Dark K-Cup Coffee Pods, 24 Count","Van HoutteColombian Dark K-Cup Coffee Pods, 24 Count24 ea",$19.99ea,,$0.83/ 1ea,False
+drinks,Maxwell House,Original Roast Ground Coffee,Maxwell HouseOriginal Roast Ground Coffee925 g,$9.99ea,,$1.08/ 100g,False
+drinks,Canada Dry,Ginger Ale ,Canada DryGinger Ale 24x355.0 ml,$11.99pack of 24,,$0.14/ 100ml,False
+drinks,Kool-Aid,Tropical Punch Liquid Drink Mix,Kool-AidTropical Punch Liquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,President's Choice,The Great Canadian Light to Medium Roast 100% Arabica Coffee,President's ChoiceThe Great Canadian Light to Medium Roast 100% Arabica Coffee72 ea,$34.49ea,,$0.48/ 1ea,False
+drinks,Tetley,Green Tea The Vert Naturellement Decafeine   ,TetleyGreen Tea The Vert Naturellement Decafeine   80 ea,$9.99ea,,$0.12/ 1ea,False
+drinks,Nescafe,"Sweet & Creamy, Ice Java","NescafeSweet & Creamy, Ice Java470 ml",$5.99ea,,$1.27/ 100ml,False
+drinks,FANTA,Fanta Orange,FANTAFanta Orange500 ml,$2.29ea,,$0.46/ 100ml,False
+drinks,President's Choice,Blonde Brew Dealcoholized Lager Beer,President's ChoiceBlonde Brew Dealcoholized Lager Beer12x355.0 ml,$7.99pack of 12,,$0.19/ 100ml,False
+drinks,President's Choice,Orange Pekoe Premium Black Tea,President's ChoiceOrange Pekoe Premium Black Tea216 ea,$6.97ea,,$0.03/ 1ea,False
+drinks,Carl Jung,"De-Alcoholized Wine, Red","Carl JungDe-Alcoholized Wine, Red750 ml",$6.99ea,,$0.93/ 100ml,False
+drinks,Five Alive,Mango Citrus Juice,Five AliveMango Citrus Juice1.75 l,$3.49ea,,$0.20/ 100ml,False
+drinks,Molson,0.5% Alcohol Beer,Molson0.5% Alcohol Beer24x355.0 ml,$15.99pack of 24,,$0.19/ 100ml,False
+drinks,Tropicana,Pure Premium PP Orange Juice No Pulp,TropicanaPure Premium PP Orange Juice No Pulp3.78 l,$9.29ea,,$0.25/ 100ml,False
+drinks,President's Choice,Ruby Red Grapefruit Cocktail,President's ChoiceRuby Red Grapefruit Cocktail1.89 l,$3.49ea,,$0.18/ 100ml,False
+drinks,AQUAFINA,Water    ,AQUAFINAWater    591 ml,$2.29ea,,$0.39/ 100ml,False
+drinks,Kool-Aid,Watermelon Liquid Drink Mix,Kool-AidWatermelon Liquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Carnation,Marshmallow Hot Chocolate Canister,CarnationMarshmallow Hot Chocolate Canister450 g,$5.49ea,,$1.22/ 100g,False
+drinks,AHA,Pineapple Passion Fruit Sparkling Water,AHAPineapple Passion Fruit Sparkling Water12x355.0 ml,$5.49c12,,$0.13/ 100ml,False
 drinks,Tetley,The Vert Classique,TetleyThe Vert Classique80 ea,$9.99ea,,$0.12/ 1ea,False
-drinks,Crush,Crush Orange Soda ,CrushCrush Orange Soda 12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
-drinks,Arizona,100% Natural Iced Tea with Lemon,Arizona100% Natural Iced Tea with Lemon8x200.0 ml,$3.29ea,,$0.21/ 100ml,False
-drinks,President's Choice,100% Raspberry Orange Juice,President's Choice100% Raspberry Orange Juice10x200.0 ml,$3.99ea,,$0.20/ 100ml,False
-drinks,Simply,Lemonade,SimplyLemonade2.63 l,$6.99ea,,$0.27/ 100ml,False
-drinks,President's Choice,"Feeling Soothed Peppermint, Ginger & Fennel Herbal Tea","President's ChoiceFeeling Soothed Peppermint, Ginger & Fennel Herbal Tea20 ea",$3.00ea,,$0.15/ 1ea,False
-drinks,Canada Dry,Diet Ginger Ale,Canada DryDiet Ginger Ale2 l,$2.59ea,,$0.13/ 100ml,False
-drinks,Fruite,Zesty Raspberry Mixed Fruit Drink,FruiteZesty Raspberry Mixed Fruit Drink1.65 l,$2.19ea,,$0.13/ 100ml,False
-drinks,Chaokoh,Coconut Water with Pulp,ChaokohCoconut Water with Pulp520 ml,$1.79ea,,$0.34/ 100ml,False
-drinks,Monster Energy,Ultra Watermelon,Monster EnergyUltra Watermelon4x473.0 ml,$11.49c04,,$0.61/ 100ml,False
-drinks,San Pellegrino,Carbonated Natural Mineral Water,San PellegrinoCarbonated Natural Mineral Water750 ml,$2.29ea,,$0.31/ 100ml,False
-drinks,Eagle Brand,Brand Low Fat Sweetened Condensed Milk,Eagle BrandBrand Low Fat Sweetened Condensed Milk300 ml,$3.99ea,,$1.33/ 100ml,False
-drinks,Tropicana,"Pulp Free Orange Juice, Calcium & Vitamin D Added","TropicanaPulp Free Orange Juice, Calcium & Vitamin D Added2.63 l",$6.49ea,$6.29ea,$0.24/ 100ml,True
-drinks,No Name,Tomato Juice,No NameTomato Juice1 l,$2.99ea,,$0.22/ 100ml,False
-drinks,Nestea,"Peach Tea, Cartons 10 Pack","NesteaPeach Tea, Cartons 10 Pack10x200.0 ml",$3.49ea,,$0.17/ 100ml,False
-drinks,Rougemont,100% Pure McIntosh Apple Juice,Rougemont100% Pure McIntosh Apple Juice2 l,$2.99ea,,$0.15/ 100ml,False
-drinks,Mott's,Clamato Rimmer,Mott'sClamato Rimmer200 g,$4.49ea,,$2.25/ 100g,False
+drinks,Coca-Cola,Zero Sugar,Coca-ColaZero Sugar1 l,$1.59ea,,$0.16/ 100ml,False
+drinks,President's Choice,Extra Pulp Orange Juice,President's ChoiceExtra Pulp Orange Juice1.54 l,$3.49ea,,$0.23/ 100ml,False
+drinks,Timothy's,Rainforest Espresso Coffee Ground Extra Dark K-Cup,Timothy'sRainforest Espresso Coffee Ground Extra Dark K-Cup30 ea,$16.99ea,,$0.57/ 1ea,False
 drinks,Carnation,Hot Chocolate 30 Capsules ,CarnationHot Chocolate 30 Capsules 450 g,$19.99ea,,$4.44/ 100g,False
-drinks,Coca-Cola,Zero Sugar    ,Coca-ColaZero Sugar    8x300.0 ml,$7.29pack of 8,,$0.30/ 100ml,False
-drinks,Minute Maid,"Low Acid Nutri Bone Support 100% Orange Juice, Carton","Minute MaidLow Acid Nutri Bone Support 100% Orange Juice, Carton1.75 l",$3.49ea,,$0.20/ 100ml,False
-drinks,Kosa,Coconut Water ,KosaCoconut Water 520 ml,$1.99ea,,$0.38/ 100ml,False
-drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water310 ml,$1.29ea,,$0.42/ 100ml,False
-drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water1 l,$3.49ea,,$0.35/ 100ml,False
-drinks,Blue Diamond,"Almond Breeze Almond Milk, Unsweetened Vanilla","Blue DiamondAlmond Breeze Almond Milk, Unsweetened Vanilla1.89 l",$4.19ea,,$0.22/ 100ml,False
-drinks,Chaokoh,Coconut Water with Pulp,ChaokohCoconut Water with Pulp520 ml,$1.79ea,,$0.34/ 100ml,False
-drinks,No Name,Tomato Juice,No NameTomato Juice1 l,$2.99ea,,$0.22/ 100ml,False
-drinks,Nestea,"Peach Tea, Cartons 10 Pack","NesteaPeach Tea, Cartons 10 Pack10x200.0 ml",$3.49ea,,$0.17/ 100ml,False
-drinks,Rougemont,100% Pure McIntosh Apple Juice,Rougemont100% Pure McIntosh Apple Juice2 l,$2.99ea,,$0.15/ 100ml,False
-drinks,Mott's,Clamato Rimmer,Mott'sClamato Rimmer200 g,$4.49ea,,$2.25/ 100g,False
-drinks,PC Organics,Organic 100% Coconut Water,PC OrganicsOrganic 100% Coconut Water1 l,$5.00ea,,$0.50/ 100ml,False
-drinks,MiO,Sport Electrolytes Berry Burst Liquid Water Enhancer,MiOSport Electrolytes Berry Burst Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
-drinks,President's Choice,Vanilla Cherry Soda Flavour Sparkling Water,President's ChoiceVanilla Cherry Soda Flavour Sparkling Water12x355.0 ml,$4.79c01,,$0.11/ 100ml,False
-drinks,San Pellegrino,Naturali Limonata Sparkling Lemon Beverage,San PellegrinoNaturali Limonata Sparkling Lemon Beverage6x330.0 ml,$6.99c06,,$0.35/ 100ml,False
-drinks,Ocean Spray,Cranberry Mango Cocktail,Ocean SprayCranberry Mango Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
-drinks,Ocean Spray,Cocktail Cranberry Pink,Ocean SprayCocktail Cranberry Pink1.89 l,$4.79ea,,$0.25/ 100ml,False
-drinks,Bolthouse,Berry Boost,BolthouseBerry Boost946 ml,$6.49ea,,$0.69/ 100ml,False
-drinks,NOS,Energy Drink Turbo,NOSEnergy Drink Turbo473 ml,$3.49ea,,$0.74/ 100ml,False
-drinks,Lynch,"Hot Apple Cider Mix, Original","LynchHot Apple Cider Mix, Original230 g",$4.99ea,,$2.17/ 100g,False
-drinks,Gatorade,Frost Arctic Blitz    ,GatoradeFrost Arctic Blitz    6x591.0 ml,$6.99pack of 6,,$0.20/ 100ml,False
-drinks,Tetley,Pure Green Specialty Tea   ,TetleyPure Green Specialty Tea   24 ea,$4.49ea,,$0.19/ 1ea,False
-drinks,V8,"V-Go Vegetable Cocktail, Low Sodium","V8V-Go Vegetable Cocktail, Low Sodium1.89 l",$3.99ea,,$0.21/ 100ml,False
-drinks,Tetley,Peppermint Herbal Cannister Pack,TetleyPeppermint Herbal Cannister Pack20 ea,$4.49ea,,$0.22/ 1ea,False
-drinks,President's Choice,Tonic Water,President's ChoiceTonic Water6x222.0 ml,$2.49pack of 6,,$0.19/ 100ml,False
-drinks,Gatorade,Frost Glacier Freeze Sports Drink ,GatoradeFrost Glacier Freeze Sports Drink 6x591.0 ml,$6.99pack of 6,,$0.20/ 100ml,False
-drinks,Dasani,"Water, Bottle","DasaniWater, Bottle591 ml",$2.29ea,,$0.39/ 100ml,False
-drinks,Peace Tea,"Razzleberry Tea, Can","Peace TeaRazzleberry Tea, Can695 ml",$1.39ea,,$0.20/ 100ml,False
-drinks,Tetley,English Breakfast Tea ,TetleyEnglish Breakfast Tea 60 ea,$5.49ea,,$0.09/ 1ea,False
-drinks,Gatorade,Frost 4 Flavour Sports Drink ,GatoradeFrost 4 Flavour Sports Drink 24x591.0 ml,$20.99pack of 24,,$0.15/ 100ml,False
-drinks,Dr Pepper,Soda,Dr PepperSoda2 l,$2.49ea,,$0.12/ 100ml,False
-drinks,No Name,Orange Juice With Pulp,No NameOrange Juice With Pulp1.75 l,$2.29ea,,$0.13/ 100ml,False
-drinks,President's Choice,Low Sodium Club Soda,President's ChoiceLow Sodium Club Soda12x355.0 ml,$4.79pack of 12,,$0.11/ 100ml,False
+drinks,McCafe,Premium Roast     ,McCafePremium Roast     12 ea,$12.99ea,,$1.08/ 1ea,False
 drinks,President's Choice,Premium Flavoured Black Tea ,President's ChoicePremium Flavoured Black Tea 48 ea,$4.00ea,,$0.08/ 1ea,False
-drinks,San Pellegrino,Carbonated Natural Mineral Water,San PellegrinoCarbonated Natural Mineral Water750 ml,$2.29ea,,$0.31/ 100ml,False
-drinks,Eagle Brand,Brand Low Fat Sweetened Condensed Milk,Eagle BrandBrand Low Fat Sweetened Condensed Milk300 ml,$3.99ea,,$1.33/ 100ml,False
-drinks,Foco,Coconut Juice,FocoCoconut Juice520 ml,$1.99ea,,$0.38/ 100ml,False
-drinks,Monster Energy,Ultra Watermelon,Monster EnergyUltra Watermelon4x473.0 ml,$11.49c04,,$0.61/ 100ml,False
+drinks,Chaokoh,Coconut Water with Pulp,ChaokohCoconut Water with Pulp520 ml,$1.79ea,,$0.34/ 100ml,False
+drinks,San Pellegrino,Naturali Limonata Sparkling Lemon Beverage,San PellegrinoNaturali Limonata Sparkling Lemon Beverage6x330.0 ml,$6.99c06,,$0.35/ 100ml,False
+drinks,SunRype,Slim Blueberry Burst Low Calorie Beverage,SunRypeSlim Blueberry Burst Low Calorie Beverage1.36 l,$3.49ea,,$0.26/ 100ml,False
+drinks,Nestle,Nesquik Strawberry Syrup,NestleNesquik Strawberry Syrup510 ml,$6.29ea,,$1.23/ 100ml,False
+drinks,Oasis,Exotic Mango Fruit Juice,OasisExotic Mango Fruit Juice8x200.0 ml,$3.49ea,,$0.22/ 100ml,False
+drinks,Nescafe,"Coffee, GOLD Medium Roast & Ground & Instant  Capsules","NescafeCoffee, GOLD Medium Roast & Ground & Instant  Capsules12 ea",$9.99ea,,$0.83/ 1ea,False
+drinks,Rose,Grenadine,RoseGrenadine739 ml,$4.99ea,,$0.68/ 100ml,False
+drinks,Kosa,Coconut Water ,KosaCoconut Water 520 ml,$1.99ea,,$0.38/ 100ml,False
+drinks,Genki Forest,Sparkling Water Grape Delight Flavor,Genki ForestSparkling Water Grape Delight Flavor480 ml,$1.99ea,,$0.41/ 100ml,False
+drinks,President's Choice,"Feeling Soothed Peppermint, Ginger & Fennel Herbal Tea","President's ChoiceFeeling Soothed Peppermint, Ginger & Fennel Herbal Tea20 ea",$3.00ea,,$0.15/ 1ea,False
+drinks,Kool-Aid,Orange Liquid Drink Mix,Kool-AidOrange Liquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,PC Blue Menu,M Mango Pineapple,PC Blue MenuM Mango Pineapple10x200.0 ml,$3.99ea,,$2.00/ 100ml,False
+drinks,Nestea,"Peach Tea, Cartons 10 Pack","NesteaPeach Tea, Cartons 10 Pack10x200.0 ml",$3.79ea,,$0.19/ 100ml,False
+drinks,Kool-Aid,"Jammers, Blue Raspberry","Kool-AidJammers, Blue Raspberry10x180.0 ml",$2.79ea,,$0.16/ 100ml,False
+drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water1 l,$3.49ea,,$0.35/ 100ml,False
+drinks,7Up,7 Up Soda ,7Up7 Up Soda 24x355.0 ml,$12.49pack of 24,,$0.15/ 100ml,False
+drinks,Mott's,Mr & Mrs T Pina Colada Mix,Mott'sMr & Mrs T Pina Colada Mix1 l,$4.99ea,,$0.50/ 100ml,False
+drinks,Grand Pre,2% Milk,Grand Pre2% Milk1 l,$4.69ea,,$0.47/ 100ml,False
+drinks,Allen's,Peach Cocktail,Allen'sPeach Cocktail1 l,$0.99ea,,$0.10/ 100ml,False
+drinks,V8,"Vegetable Cocktail, Low Sodium","V8Vegetable Cocktail, Low Sodium6x156.0 ml",$3.99ea,,$0.43/ 100ml,False
+drinks,Del Monte,Pineapple-Orange 100% Juice,Del MontePineapple-Orange 100% Juice2.5 l,$5.29ea,,$0.21/ 100ml,False
+drinks,Tetley,English Breakfast Tea ,TetleyEnglish Breakfast Tea 60 ea,$5.49ea,,$0.09/ 1ea,False
 drinks,Rubicon,Passion Fruit Juice,RubiconPassion Fruit Juice1 l,$2.99ea,,$0.30/ 100ml,False
 drinks,T.A.S.,Coconut Water     ,T.A.S.Coconut Water     500 ml,$1.79ea,,$0.36/ 100ml,False
-drinks,President's Choice,Extra Pulp Orange Juice,President's ChoiceExtra Pulp Orange Juice1.54 l,$3.49ea,,$0.23/ 100ml,False
-drinks,FANTA,Orange ,FANTAOrange 12x355.0 ml,$6.99pack of 12,,$0.16/ 100ml,False
-drinks,Minute Maid,"Mixed Berry Juice Beverage, 8 Pack","Minute MaidMixed Berry Juice Beverage, 8 Pack8x200.0 ml",$3.49ea,,$0.22/ 100ml,False
-drinks,Tazo,"Herbal Tea Passion Hibiscus, Orange peel and Passion Fruit Flavours","TazoHerbal Tea Passion Hibiscus, Orange peel and Passion Fruit Flavours1 ea",$6.29ea,,$6.29/ 1ea,False
-drinks,Crystal Light,"Liquid Drink Mix, Blueberry Razz","Crystal LightLiquid Drink Mix, Blueberry Razz48 ml",$2.99ea,,$6.23/ 100ml,False
-drinks,Allen's,Lemonade,Allen'sLemonade8x200.0 ml,$2.29ea,,$0.14/ 100ml,False
-drinks,Red Bull,"Energy Drink, Sugar Free","Red BullEnergy Drink, Sugar Free250 ml",$2.99ea,,$1.20/ 100ml,False
-drinks,Pepsi,Max Zero Sugar Soda    ,PepsiMax Zero Sugar Soda    2 l,$2.49ea,,$0.12/ 100ml,False
-drinks,Reign,Energy Drink Orange Dreamsicle,ReignEnergy Drink Orange Dreamsicle4x473.0 ml,$11.49c04,,$2.43/ 100ml,False
-drinks,Reign,Energy Drink Orange Dreamsicle,ReignEnergy Drink Orange Dreamsicle4x473.0 ml,$11.49c04,,$2.43/ 100ml,False
-drinks,President's Choice,Free & Clear Black Cherry Sparkling Water ,President's ChoiceFree & Clear Black Cherry Sparkling Water 1 l,$1.19ea,,$0.12/ 100ml,False
-drinks,FANTA,Fanta Pineapple Can,FANTAFanta Pineapple Can12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
-drinks,Tropicana,"Pulp Free Orange Juice, Calcium & Vitamin D Added","TropicanaPulp Free Orange Juice, Calcium & Vitamin D Added2.63 l",$6.49ea,$6.29ea,$0.24/ 100ml,True
-drinks,No Name,Peppermint Herbal Tea,No NamePeppermint Herbal Tea36 g,$2.00ea,,$5.56/ 100g,False
-drinks,PC Blue Menu,Apple Juice from Concentrate ,PC Blue MenuApple Juice from Concentrate 2 l,$3.49ea,,$0.17/ 100ml,False
-drinks,Grace,"Tropical Rhythms, Mango & Carrot","GraceTropical Rhythms, Mango & Carrot473 ml",$1.49ea,,$0.32/ 100ml,False
-drinks,Ocean Spray,Cran-Pineapple Diet Low Calorie Beverage,Ocean SprayCran-Pineapple Diet Low Calorie Beverage1.89 l,$4.79ea,,$0.25/ 100ml,False
-drinks,Nestle,Nesquik Strawberry Syrup,NestleNesquik Strawberry Syrup510 ml,$6.29ea,,$1.23/ 100ml,False
-drinks,Crystal Light,Liquid Drink Mix,Crystal LightLiquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
 drinks,No Name,Grape Drink,No NameGrape Drink10x200.0 ml,$2.29ea,,$0.11/ 100ml,False
-drinks,Crush,Orange Soda ,CrushOrange Soda 6x710.0 ml,$4.99pack of 6,,$0.12/ 100ml,False
-drinks,Nestea,"Zero Iced Tea, Lemon   ","NesteaZero Iced Tea, Lemon   12x341.0 ml",$7.49pack of 12,,$0.18/ 100ml,False
-drinks,Sprite,Bottle,SpriteBottle2 l,$2.59ea,,$0.13/ 100ml,False
-drinks,MiO,Fruit Punch Flavoured Liquid Water Enhancer,MiOFruit Punch Flavoured Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
-drinks,NOS,Energy Drink Sonic Sour,NOSEnergy Drink Sonic Sour473 ml,$3.49ea,,$0.74/ 100ml,False
-drinks,Suraj,Guava Drink,SurajGuava Drink1 l,$2.00ea,,$0.20/ 100ml,False
-drinks,Canada Dry,"Diet Ginger Ale, Bottle","Canada DryDiet Ginger Ale, Bottle500 ml",$2.29ea,,$0.46/ 100ml,False
-drinks,Tea India,Tea,Tea IndiaTea681 g,$8.99ea,,$1.32/ 100g,False
-drinks,Mott's,T Margarita Mix,Mott'sT Margarita Mix1 l,$4.99ea,,$0.50/ 100ml,False
-drinks,Earths Own,"Oat Milk, Chocolate","Earths OwnOat Milk, Chocolate1.75 l",$3.99ea,,$0.23/ 100ml,False
-drinks,Dr Pepper,Soda,Dr PepperSoda24x355.0 ml,$12.49pack of 24,,$0.15/ 100ml,False
-drinks,Canada Dry,"Ginger Ale, Bottle","Canada DryGinger Ale, Bottle1 l",$1.59ea,,$0.16/ 100ml,False
-drinks,Carl Jung,White Wine De-Alcoholized,Carl JungWhite Wine De-Alcoholized750 ml,$6.99ea,,$0.93/ 100ml,False
-drinks,Grolsch,Non-Alcoholic Beer     ,GrolschNon-Alcoholic Beer     4x500.0 ml,$8.29pack of 4,,$0.41/ 100ml,False
-drinks,AHA,"Lime + Watermelon Sparkling Water, Bottle","AHALime + Watermelon Sparkling Water, Bottle500 ml",$2.29ea,,$0.46/ 100ml,False
-drinks,Budweiser,Bud Zero Can,BudweiserBud Zero Can12x355.0 ml,$16.49pack of 12,,$0.39/ 100ml,False
-drinks,Lipton,Brisk Lemon Iced Tea,LiptonBrisk Lemon Iced Tea591 ml,$2.29ea,,$0.39/ 100ml,False
-drinks,No Name,Unsweetened Orange Juice from Concentrate,No NameUnsweetened Orange Juice from Concentrate1 l,$1.29ea,,$0.13/ 100ml,False
-drinks,Duche de Longueville,Sparkling Raspberry Grape Juice,Duche de LonguevilleSparkling Raspberry Grape Juice750 ml,$3.79ea,,$0.51/ 100ml,False
-drinks,Rooster,Coconut Water with Pulp,RoosterCoconut Water with Pulp500 ml,$1.99ea,,$0.40/ 100ml,False
-drinks,Allen's,35% Less Sugar Apple Juice Beverage,Allen's35% Less Sugar Apple Juice Beverage1.89 l,$2.99ea,,$0.16/ 100ml,False
-drinks,Tetley,Super Tea Boost Berry Burst With Vitamin B6,TetleySuper Tea Boost Berry Burst With Vitamin B620 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,Gioia,Espresso Beans,GioiaEspresso Beans1000 g,$17.49ea,,$1.75/ 100g,False
+drinks,President's Choice,Diet Cola,President's ChoiceDiet Cola12x355.0 ml,$4.79pack of 12,,$0.11/ 100ml,False
+drinks,McCafe,Decaf Roast Pod    ,McCafeDecaf Roast Pod    12 ea,$12.99ea,,$1.08/ 1ea,False
+drinks,President's Choice,The Great Canadian Light to Medium Roast 100% Arabica Single Serve Coffee Pods,President's ChoiceThe Great Canadian Light to Medium Roast 100% Arabica Single Serve Coffee Pods30 ea,$16.99ea,,$0.57/ 1ea,False
+drinks,7Up,Soda      ,7UpSoda      12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
+drinks,President's Choice,100% Apple & Grape,President's Choice100% Apple & Grape10x200.0 ml,$3.99ea,,$0.20/ 100ml,False
+drinks,Grace,"Tropical Rhythms, Mango & Carrot","GraceTropical Rhythms, Mango & Carrot473 ml",$1.49ea,,$0.32/ 100ml,False
+drinks,Nescafe,Gold Dark Roast Instant and Roast & Ground Coffee,NescafeGold Dark Roast Instant and Roast & Ground Coffee100 g,$7.99ea,,$7.99/ 100g,False
+drinks,7Up,Soda      ,7UpSoda      591 ml,$2.29ea,,$0.39/ 100ml,False
+drinks,Ice River Springs,Ice River Natural Spring Water,Ice River SpringsIce River Natural Spring Water15 l,$4.79ea,,$0.03/ 100ml,False
+drinks,Mott's,"Garden Cocktail, Low Sodium","Mott'sGarden Cocktail, Low Sodium1.89 l",$3.99ea,,$0.21/ 100ml,False
+drinks,President's Choice,100% Raspberry Orange Juice,President's Choice100% Raspberry Orange Juice10x200.0 ml,$3.99ea,,$0.20/ 100ml,False
+drinks,PC Blue Menu,M Strawberry Watermelon,PC Blue MenuM Strawberry Watermelon10x200.0 ml,$3.99ea,,$2.00/ 100ml,False
+drinks,Minute Maid,"Low Acid Nutri Bone Support 100% Orange Juice, Carton","Minute MaidLow Acid Nutri Bone Support 100% Orange Juice, Carton1.75 l",$3.49ea,,$0.20/ 100ml,False
+drinks,NOS,Energy Drink Turbo,NOSEnergy Drink Turbo473 ml,$3.49ea,,$0.74/ 100ml,False
+drinks,Grace,Pure Creamed Coconut,GracePure Creamed Coconut141 g,$1.59ea,,$1.13/ 100g,False
+drinks,Nescafe,Classic Decaf Coffee,NescafeClassic Decaf Coffee100 g,$7.49ea,,$7.49/ 100g,False
+drinks,Nescafe,Rich Instant Coffee,NescafeRich Instant Coffee170 g,$6.49ea,,$3.82/ 100g,False
+drinks,Starbucks,By Nespresso Decaf Espresso Roast Coffee Pods,StarbucksBy Nespresso Decaf Espresso Roast Coffee Pods57 g,$9.99ea,,$17.53/ 100g,False
+drinks,President's Choice,Peach Mango Liquid Water Enhancer,President's ChoicePeach Mango Liquid Water Enhancer48 ml,$2.69ea,,$5.60/ 100ml,False
+drinks,SunRype,Slim Tropical Mango Low Calorie Beverage,SunRypeSlim Tropical Mango Low Calorie Beverage1.36 l,$3.49ea,,$0.26/ 100ml,False
+drinks,President's Choice,Vanilla Cherry Soda Flavour Sparkling Water,President's ChoiceVanilla Cherry Soda Flavour Sparkling Water12x355.0 ml,$4.79c01,,$0.11/ 100ml,False
+drinks,Fruite,Zesty Raspberry Mixed Fruit Drink,FruiteZesty Raspberry Mixed Fruit Drink1.65 l,$1.75ea,$1.69ea,$0.10/ 100ml,True
+drinks,Ocean Spray,Cran-Pineapple Diet Low Calorie Beverage,Ocean SprayCran-Pineapple Diet Low Calorie Beverage1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,AHA,Pineapple Passion Fruit Sparkling Water,AHAPineapple Passion Fruit Sparkling Water12x355.0 ml,$5.49c12,,$0.13/ 100ml,False
+drinks,Tetley,The Vert Classique,TetleyThe Vert Classique80 ea,$9.99ea,,$0.12/ 1ea,False
+drinks,Coca-Cola,Zero Sugar,Coca-ColaZero Sugar1 l,$1.59ea,,$0.16/ 100ml,False
+drinks,President's Choice,Extra Pulp Orange Juice,President's ChoiceExtra Pulp Orange Juice1.54 l,$3.49ea,,$0.23/ 100ml,False
+drinks,Timothy's,Rainforest Espresso Coffee Ground Extra Dark K-Cup,Timothy'sRainforest Espresso Coffee Ground Extra Dark K-Cup30 ea,$16.99ea,,$0.57/ 1ea,False
+drinks,Carnation,Hot Chocolate 30 Capsules ,CarnationHot Chocolate 30 Capsules 450 g,$19.99ea,,$4.44/ 100g,False
+drinks,McCafe,Premium Roast     ,McCafePremium Roast     12 ea,$12.99ea,,$1.08/ 1ea,False
+drinks,President's Choice,Premium Flavoured Black Tea ,President's ChoicePremium Flavoured Black Tea 48 ea,$4.00ea,,$0.08/ 1ea,False
+drinks,Chaokoh,Coconut Water with Pulp,ChaokohCoconut Water with Pulp520 ml,$1.79ea,,$0.34/ 100ml,False
+drinks,San Pellegrino,Naturali Limonata Sparkling Lemon Beverage,San PellegrinoNaturali Limonata Sparkling Lemon Beverage6x330.0 ml,$6.99c06,,$0.35/ 100ml,False
+drinks,V8,"Vegetable Cocktail, Low Sodium","V8Vegetable Cocktail, Low Sodium6x156.0 ml",$3.99ea,,$0.43/ 100ml,False
+drinks,Del Monte,Pineapple-Orange 100% Juice,Del MontePineapple-Orange 100% Juice2.5 l,$5.29ea,,$0.21/ 100ml,False
+drinks,Tetley,English Breakfast Tea ,TetleyEnglish Breakfast Tea 60 ea,$5.49ea,,$0.09/ 1ea,False
+drinks,Rubicon,Passion Fruit Juice,RubiconPassion Fruit Juice1 l,$2.99ea,,$0.30/ 100ml,False
+drinks,Maxwell House,House Blend Coffee 100% Compostable K Cup Coffee Pods,Maxwell HouseHouse Blend Coffee 100% Compostable K Cup Coffee Pods292 g,$18.99ea,,$6.50/ 100g,False
+drinks,Tetley,Herbal Tea Peppermint Spearmint Caffeine Free,TetleyHerbal Tea Peppermint Spearmint Caffeine Free32 g,$4.29ea,,$13.41/ 100g,False
+drinks,PC Organics,Organic 100% Coconut Water,PC OrganicsOrganic 100% Coconut Water1 l,$5.00ea,,$0.50/ 100ml,False
+drinks,Allen's,Fruit Punch Cocktail,Allen'sFruit Punch Cocktail8x200.0 ml,$2.29ea,,$0.14/ 100ml,False
+drinks,Nestle,Nesquik Chocolate Powder,NestleNesquik Chocolate Powder540 g,$5.99ea,,$1.11/ 100g,False
+drinks,SunRype,Slim Blueberry Burst Low Calorie Beverage,SunRypeSlim Blueberry Burst Low Calorie Beverage1.36 l,$3.49ea,,$0.26/ 100ml,False
+drinks,Nestle,Nesquik Strawberry Syrup,NestleNesquik Strawberry Syrup510 ml,$6.29ea,,$1.23/ 100ml,False
+drinks,Oasis,Exotic Mango Fruit Juice,OasisExotic Mango Fruit Juice8x200.0 ml,$3.49ea,,$0.22/ 100ml,False
+drinks,Nescafe,"Coffee, GOLD Medium Roast & Ground & Instant  Capsules","NescafeCoffee, GOLD Medium Roast & Ground & Instant  Capsules12 ea",$9.99ea,,$0.83/ 1ea,False
+drinks,Rose,Grenadine,RoseGrenadine739 ml,$4.99ea,,$0.68/ 100ml,False
+drinks,Kosa,Coconut Water ,KosaCoconut Water 520 ml,$1.99ea,,$0.38/ 100ml,False
+drinks,Blue Diamond,"Almond Breeze, Vanilla","Blue DiamondAlmond Breeze, Vanilla1.89 l",$4.19ea,,$0.22/ 100ml,False
+drinks,Heineken,Alcohol Free Beer Bottles with Natural Flavours ,HeinekenAlcohol Free Beer Bottles with Natural Flavours 6x330.0 ml,$11.99pack of 6,,$0.61/ 100ml,False
+drinks,Bolthouse,Berry Boost,BolthouseBerry Boost946 ml,$6.49ea,,$0.69/ 100ml,False
+drinks,Reign,Energy Drink Orange Dreamsicle,ReignEnergy Drink Orange Dreamsicle4x473.0 ml,$11.49c04,,$2.43/ 100ml,False
+drinks,Starbucks,Ground 100% Arabica Coffee Pike Place Medium Roast,StarbucksGround 100% Arabica Coffee Pike Place Medium Roast340 g,$12.49ea,,$3.67/ 100g,False
+drinks,Nescafe,Classic Decaf Coffee,NescafeClassic Decaf Coffee100 g,$7.49ea,,$7.49/ 100g,False
+drinks,Nescafe,Rich Instant Coffee,NescafeRich Instant Coffee170 g,$6.49ea,,$3.82/ 100g,False
+drinks,Maxwell House,House Blend Coffee 100% Compostable K Cup Coffee Pods,Maxwell HouseHouse Blend Coffee 100% Compostable K Cup Coffee Pods292 g,$18.99ea,,$6.50/ 100g,False
+drinks,PC Blue Menu,M Strawberry Watermelon,PC Blue MenuM Strawberry Watermelon10x200.0 ml,$3.99ea,,$2.00/ 100ml,False
+drinks,Minute Maid,"Low Acid Nutri Bone Support 100% Orange Juice, Carton","Minute MaidLow Acid Nutri Bone Support 100% Orange Juice, Carton1.75 l",$3.49ea,,$0.20/ 100ml,False
+drinks,NOS,Energy Drink Turbo,NOSEnergy Drink Turbo473 ml,$3.49ea,,$0.74/ 100ml,False
+drinks,Grace,Pure Creamed Coconut,GracePure Creamed Coconut141 g,$1.59ea,,$1.13/ 100g,False
+drinks,Allen's,Fruit Punch Cocktail,Allen'sFruit Punch Cocktail8x200.0 ml,$2.29ea,,$0.14/ 100ml,False
+drinks,Nestle,Nesquik Chocolate Powder,NestleNesquik Chocolate Powder540 g,$5.99ea,,$1.11/ 100g,False
+drinks,President's Choice,100% Apple Juice,President's Choice100% Apple Juice1.89 l,$3.00ea,,$0.16/ 100ml,False
+drinks,Sprite,Bottle,SpriteBottle500 ml,$2.29ea,,$0.46/ 100ml,False
+drinks,President's Choice,The Great Canadian Light to Medium Roast Tassimo Compatible Coffee Pods,President's ChoiceThe Great Canadian Light to Medium Roast Tassimo Compatible Coffee Pods14 ea,$8.99ea,,$0.64/ 1ea,False
+drinks,Mug,"Root Beer Soda, Pack of 12","MugRoot Beer Soda, Pack of 1212x355.0 ml",$6.79c12,,$0.16/ 100ml,False
 drinks,Minute Maid,Lemonade,Minute MaidLemonade340 ml,$1.99ea,,$0.59/ 100ml,False
-drinks,Ocean Spray,Diet Cranberry Mango Cocktail,Ocean SprayDiet Cranberry Mango Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
-drinks,Carnation,Marshmallow Hot Chocolate Sachets,CarnationMarshmallow Hot Chocolate Sachets250 g,$3.99ea,,$1.60/ 100g,False
 drinks,President's Choice,Cranberry Cocktail,President's ChoiceCranberry Cocktail3.78 l,$4.79ea,,$0.13/ 100ml,False
-drinks,Red Rose,Orange Pekoe Black Tea 100% Rainforest Alliance Certified,Red RoseOrange Pekoe Black Tea 100% Rainforest Alliance Certified216 ea,$11.49ea,,$0.05/ 1ea,False
-drinks,Grace,"Island Soda, Grapefruit","GraceIsland Soda, Grapefruit355 ml",$1.19ea,,$0.34/ 100ml,False
-drinks,Ocean Spray,"100% Juice Blend, White Cranberry","Ocean Spray100% Juice Blend, White Cranberry1.77 l",$4.99ea,,$0.28/ 100ml,False
 drinks,Carnation,"Aero S'Mores Hot Chocolate, Envelopes","CarnationAero S'Mores Hot Chocolate, Envelopes175 g",$3.99ea,,$2.28/ 100g,False
-drinks,Monster Energy,Reserve Energy Drink Watermelon,Monster EnergyReserve Energy Drink Watermelon473 ml,$3.49ea,,$0.74/ 100ml,False
-drinks,AHA,Raspberry Acai Sparkling Water,AHARaspberry Acai Sparkling Water12x355.0 ml,$5.49c12,,$0.13/ 100ml,False
-drinks,SunRype,Slim Pink Grapefruit Low Calorie Beverage,SunRypeSlim Pink Grapefruit Low Calorie Beverage1.36 l,$3.29ea,,$0.24/ 100ml,False
-drinks,Peace Tea,Strawberry Lemon Tea,Peace TeaStrawberry Lemon Tea695 ml,$1.39ea,,$0.20/ 100ml,False
+drinks,President's Choice,The Great Canadian Light to Medium Roast Single Serve Coffee Pods,President's ChoiceThe Great Canadian Light to Medium Roast Single Serve Coffee Pods12 ea,$8.99ea,,$0.75/ 1ea,False
+drinks,Allen's,35% Less Sugar Apple Juice Beverage,Allen's35% Less Sugar Apple Juice Beverage1.89 l,$3.19ea,,$0.17/ 100ml,False
+drinks,Pepsi,Max Zero Sugar Soda    ,PepsiMax Zero Sugar Soda    24x355.0 ml,$12.49pack of 24,,$0.15/ 100ml,False
+drinks,Canada Dry,"Ginger Ale, Bottle","Canada DryGinger Ale, Bottle1 l",$1.59ea,,$0.16/ 100ml,False
+drinks,Peace Tea,"Caddy Shack Tea, Can","Peace TeaCaddy Shack Tea, Can695 ml",$1.39ea,,$0.20/ 100ml,False
+drinks,Tassimo,Maxwell House House Blend Coffee Single Serve T-Discs,TassimoMaxwell House House Blend Coffee Single Serve T-Discs16 ea,$8.99ea,,$0.56/ 1ea,False
+drinks,Grace,"Island Soda, Grapefruit","GraceIsland Soda, Grapefruit355 ml",$1.19ea,,$0.34/ 100ml,False
+drinks,Mountain Dew,Soda,Mountain DewSoda12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
+drinks,No Name,Apple Juice,No NameApple Juice1.75 l,$2.29ea,,$0.13/ 100ml,False
+drinks,Nescafe,Nescafé Sweet and Creamy Original Instant Coffee Mix,NescafeNescafé Sweet and Creamy Original Instant Coffee Mix351 g,$7.49ea,,$2.13/ 100g,False
+drinks,Dr Pepper,Soda,Dr PepperSoda24x355.0 ml,$12.49pack of 24,,$0.15/ 100ml,False
+drinks,President's Choice,Vanilla Black Tea,President's ChoiceVanilla Black Tea20 ea,$3.79ea,,$0.19/ 1ea,False
+drinks,SunRype,Slim Pink Grapefruit Low Calorie Beverage,SunRypeSlim Pink Grapefruit Low Calorie Beverage1.36 l,$3.49ea,,$0.26/ 100ml,False
+drinks,Nestle,Nesquik Chocolate Powder ,NestleNesquik Chocolate Powder 1.36 kg,$11.99ea,,$0.88/ 100g,False
+drinks,Oasis,"Orange Juice No Pulp, Not from Concentrate","OasisOrange Juice No Pulp, Not from Concentrate1.5 l",$3.99ea,,$0.27/ 100ml,False
+drinks,Allen's,Cranberry Cocktail,Allen'sCranberry Cocktail1 l,$0.99ea,,$0.10/ 100ml,False
+drinks,Nestea,Lemon Iced Tea With 0.5 Less Sugar,NesteaLemon Iced Tea With 0.5 Less Sugar715 g,$6.49ea,,$0.91/ 100g,False
+drinks,President's Choice,Diet Ginger Ale,President's ChoiceDiet Ginger Ale12x355.0 ml,$4.79pack of 12,,$0.11/ 100ml,False
+drinks,President's Choice,West Coast Dark Roast Coffee Pods,President's ChoiceWest Coast Dark Roast Coffee Pods12 ea,$8.99ea,,$0.75/ 1ea,False
+drinks,President's Choice,Lemonade Liquid Water Enhancer,President's ChoiceLemonade Liquid Water Enhancer48 ml,$2.69ea,,$5.60/ 100ml,False
+drinks,Del Monte,Guava-Mango Blend ,Del MonteGuava-Mango Blend 2.5 l,$5.29ea,,$0.21/ 100ml,False
+drinks,AHA,Lime Watermelon,AHALime Watermelon12x355.0 ml,$5.49pack of 12,,$0.13/ 100ml,False
+drinks,Tetley,Super Tea immune lemon & Echinacea with Zinc,TetleySuper Tea immune lemon & Echinacea with Zinc20 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,NOS,Energy Drink Sonic Sour,NOSEnergy Drink Sonic Sour473 ml,$3.49ea,,$0.74/ 100ml,False
+drinks,Old Jamaica,Ginger Beer,Old JamaicaGinger Beer355 ml,$1.59ea,,$0.45/ 100ml,False
+drinks,Tetley,Super Tea Boost Berry Burst With Vitamin B6,TetleySuper Tea Boost Berry Burst With Vitamin B620 ea,$4.49ea,,$0.22/ 1ea,False
 drinks,Silk,"Oat Beverage, Plain, Unsweetened, Dairy-Free, Shelf Stable","SilkOat Beverage, Plain, Unsweetened, Dairy-Free, Shelf Stable946 ml",$2.99ea,,$0.32/ 100ml,False
-drinks,Five Alive,Passionate Peach Citrus Juice,Five AlivePassionate Peach Citrus Juice1.75 l,$3.49ea,,$0.20/ 100ml,False
+drinks,Tim Hortons,"K-Cup, Colombian","Tim HortonsK-Cup, Colombian12 ea",$11.49ea,$8.99ea,$0.75/ 1ea,True
+drinks,Tang,Orange Liquid Drink Mix,TangOrange Liquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Tiger,Malt Beverage,TigerMalt Beverage341 ml,$1.29ea,,$0.38/ 100ml,False
+drinks,McCafe,Premium Roast Bag    ,McCafePremium Roast Bag    340 g,$12.99ea,,$3.82/ 100g,False
+drinks,Fernbrook,Distilled Spring Water,FernbrookDistilled Spring Water4 l,$1.29ea,,$0.03/ 100ml,False
+drinks,President's Choice,Lemon Mist Naturally Fruit-Flavoured Water Beverage,President's ChoiceLemon Mist Naturally Fruit-Flavoured Water Beverage6x500.0 ml,$3.49pack of 6,,$0.12/ 100ml,False
+drinks,Rooster,Coconut Water with Pulp,RoosterCoconut Water with Pulp500 ml,$1.99ea,,$0.40/ 100ml,False
+drinks,President's Choice,Low Sodium & Caffeine-Free Diet Cola,President's ChoiceLow Sodium & Caffeine-Free Diet Cola12x355.0 ml,$4.79pack of 12,,$0.11/ 100ml,False
+drinks,Ocean Spray,"100% Juice Blend, White Cranberry","Ocean Spray100% Juice Blend, White Cranberry1.77 l",$4.99ea,,$0.28/ 100ml,False
+drinks,Tetley,Orange Pekoe Black Tea,TetleyOrange Pekoe Black Tea216 ea,$11.49ea,,$0.05/ 1ea,False
+drinks,No Name,Camomile Herbal Tea,No NameCamomile Herbal Tea24 g,$2.00ea,,$8.33/ 100g,False
+drinks,Grolsch,Non-Alcoholic Beer     ,GrolschNon-Alcoholic Beer     4x500.0 ml,$8.29pack of 4,,$0.41/ 100ml,False
+drinks,No Name,Peach Drink Mix Club Size,No NamePeach Drink Mix Club Size2.3 kg,$7.99ea,,$0.35/ 100g,False
+drinks,Gatorade,Frost Artic Blitz,GatoradeFrost Artic Blitz710 ml,$1.59ea,,$0.22/ 100ml,False
+drinks,Nescafe,GOLD Espresso Instant Coffee,NescafeGOLD Espresso Instant Coffee100 g,$7.99ea,,$7.99/ 100g,False
+drinks,Evian,"Spring Water, Bottle 6 Pack","EvianSpring Water, Bottle 6 Pack6x1.0 l",$14.99ea,,$0.25/ 100ml,False
+drinks,Carl Jung,White Wine De-Alcoholized,Carl JungWhite Wine De-Alcoholized750 ml,$6.99ea,,$0.93/ 100ml,False
+drinks,Gatorade,G2 Clubpack Sports Drink ,GatoradeG2 Clubpack Sports Drink 24x591.0 ml,$20.99pack of 24,,$0.15/ 100ml,False
+drinks,MiO,Cranberry Raspberry Liquid Water Enhancer,MiOCranberry Raspberry Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Tim Hortons,Dark Coffee,Tim HortonsDark Coffee48 ea,$32.99ea,,$0.69/ 1ea,False
+drinks,Tetley,Super Tea immune lemon & Echinacea with Zinc,TetleySuper Tea immune lemon & Echinacea with Zinc20 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,NOS,Energy Drink Sonic Sour,NOSEnergy Drink Sonic Sour473 ml,$3.49ea,,$0.74/ 100ml,False
+drinks,Old Jamaica,Ginger Beer,Old JamaicaGinger Beer355 ml,$1.59ea,,$0.45/ 100ml,False
+drinks,Tetley,Super Tea Boost Berry Burst With Vitamin B6,TetleySuper Tea Boost Berry Burst With Vitamin B620 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,Silk,"Oat Beverage, Plain, Unsweetened, Dairy-Free, Shelf Stable","SilkOat Beverage, Plain, Unsweetened, Dairy-Free, Shelf Stable946 ml",$2.99ea,,$0.32/ 100ml,False
+drinks,Nescafe,GOLD Instant and Roast & Ground Coffee,NescafeGOLD Instant and Roast & Ground Coffee100 g,$7.99ea,,$7.99/ 100g,False
+drinks,Rubicon,Nectar Mango,RubiconNectar Mango1 l,$2.99ea,,$0.30/ 100ml,False
+drinks,No Name,Pasteurized Instant Skim Milk Powder,No NamePasteurized Instant Skim Milk Powder500 g,$7.99ea,,$1.60/ 100g,False
+drinks,Gatorade,Zero Cool Blue Sports Drink ,GatoradeZero Cool Blue Sports Drink 710 ml,$1.59ea,,$0.22/ 100ml,False
+drinks,Tim Hortons,"Single Serve Coffee Pod, Dark Roast","Tim HortonsSingle Serve Coffee Pod, Dark Roast126 g",$11.49ea,$8.99ea,$7.13/ 100g,True
+drinks,Peace Tea,Strawberry Lemon Tea,Peace TeaStrawberry Lemon Tea695 ml,$1.39ea,,$0.20/ 100ml,False
+drinks,President's Choice,Chocolate Milk Mix,President's ChoiceChocolate Milk Mix750 g,$3.00ea,,$0.40/ 100g,False
 drinks,No Name,Pink Lemonade,No NamePink Lemonade1.75 l,$2.29ea,,$0.13/ 100ml,False
+drinks,Nescafe,GOLD Dark Roast & Ground and Instant Coffee Capsules,NescafeGOLD Dark Roast & Ground and Instant Coffee Capsules12 ea,$9.99ea,,$0.83/ 1ea,False
+drinks,Lipton,Brisk Lemon Iced Tea,LiptonBrisk Lemon Iced Tea591 ml,$2.29ea,,$0.39/ 100ml,False
+drinks,Carnation,Rolo Hot Chocolate Canister,CarnationRolo Hot Chocolate Canister450 g,$5.49ea,,$1.22/ 100g,False
+drinks,No Name,Unsweetened Orange Juice from Concentrate,No NameUnsweetened Orange Juice from Concentrate1 l,$1.29ea,,$0.13/ 100ml,False
+drinks,Gatorade,Frost Glacier Freeze Powder,GatoradeFrost Glacier Freeze Powder560 g,$7.49ea,,$1.34/ 100g,False
+drinks,Carnation,Marshmallow Hot Chocolate Sachets,CarnationMarshmallow Hot Chocolate Sachets250 g,$3.99ea,,$1.60/ 100g,False
+drinks,Tetley,Green Tea Naturally Decaffeinated,TetleyGreen Tea Naturally Decaffeinated24 ea,$4.49ea,,$0.19/ 1ea,False
+drinks,Tropicana,Pure Premium Grovestand (Lots Of Pulp),TropicanaPure Premium Grovestand (Lots Of Pulp)2.63 l,$6.79ea,,$0.26/ 100ml,False
+drinks,Mott's,T Margarita Mix,Mott'sT Margarita Mix1 l,$4.99ea,,$0.50/ 100ml,False
+drinks,Tim Hortons,Original Coffee,Tim HortonsOriginal Coffee300 g,$8.99ea,,$3.00/ 100g,False
+drinks,President's Choice,Pink Lemonade Liquid Water Enhancer,President's ChoicePink Lemonade Liquid Water Enhancer48 ml,$2.69ea,,$5.60/ 100ml,False
+drinks,Tim Hortons,Columbian K-Cup Coffee Pods,Tim HortonsColumbian K-Cup Coffee Pods30 ea,$24.99ea,,$0.83/ 1ea,False
+drinks,Crystal Light,"Liquid Drink Mix, Aloha Pineapple Coconut","Crystal LightLiquid Drink Mix, Aloha Pineapple Coconut48 ml",$2.99ea,,$6.23/ 100ml,False
+drinks,Suraj,Guava Drink,SurajGuava Drink1 l,$2.00ea,,$0.20/ 100ml,False
+drinks,President's Choice,Gourmet Medium Roast Decaffeinated Coffee Pods,President's ChoiceGourmet Medium Roast Decaffeinated Coffee Pods12 ea,$8.99ea,,$0.75/ 1ea,False
+drinks,Duche de Longueville,Sparkling Raspberry Grape Juice,Duche de LonguevilleSparkling Raspberry Grape Juice750 ml,$3.79ea,,$0.51/ 100ml,False
+drinks,President's Choice,"Jamaican Style Ginger Beer, 6 Mini Cans","President's ChoiceJamaican Style Ginger Beer, 6 Mini Cans6x222.0 ml",$2.49c06,,$0.19/ 100ml,False
+drinks,Mott's,T Margarita Mix,Mott'sT Margarita Mix1 l,$4.99ea,,$0.50/ 100ml,False
+drinks,President's Choice,Hibiscus White Tea,President's ChoiceHibiscus White Tea20 ea,$3.99ea,,$0.20/ 1ea,False
+drinks,Dr Pepper,Soda,Dr PepperSoda24x355.0 ml,$12.49pack of 24,,$0.15/ 100ml,False
+drinks,President's Choice,Vanilla Black Tea,President's ChoiceVanilla Black Tea20 ea,$3.79ea,,$0.19/ 1ea,False
+drinks,SunRype,Slim Pink Grapefruit Low Calorie Beverage,SunRypeSlim Pink Grapefruit Low Calorie Beverage1.36 l,$3.49ea,,$0.26/ 100ml,False
+drinks,Tetley,Earl Grey Decaffeinated Specialty Cannister Pack,TetleyEarl Grey Decaffeinated Specialty Cannister Pack24 ea,$4.49ea,,$0.19/ 1ea,False
+drinks,Red Rose,Orange Pekoe Black Tea 100% Rainforest Alliance Certified,Red RoseOrange Pekoe Black Tea 100% Rainforest Alliance Certified216 ea,$11.49ea,,$0.05/ 1ea,False
+drinks,Bolthouse,Daily Greens,BolthouseDaily Greens946 ml,$6.49ea,,$0.69/ 100ml,False
+drinks,Bolthouse,100% Carrot,Bolthouse100% Carrot946 ml,$6.49ea,,$0.69/ 100ml,False
+drinks,Monster Energy,Reserve Energy Drink Watermelon,Monster EnergyReserve Energy Drink Watermelon473 ml,$3.49ea,,$0.74/ 100ml,False
+drinks,Tea India,Tea,Tea IndiaTea681 g,$8.99ea,,$1.32/ 100g,False
+drinks,Grace,Island Soda,GraceIsland Soda355 ml,$1.19ea,,$0.34/ 100ml,False
+drinks,Carnation,"Simply Hot Chocolate, Canister","CarnationSimply Hot Chocolate, Canister400 g",$5.49ea,,$1.37/ 100g,False
+drinks,Canada Dry,Ginger Ale,Canada DryGinger Ale500 ml,$2.29ea,,$0.46/ 100ml,False
+drinks,Tropicana,Pure Premium Apple Juice,TropicanaPure Premium Apple Juice1.75 l,$4.49ea,,$0.26/ 100ml,False
+drinks,Reign,"Energy Drink, Razzle Berry, 4-pack","ReignEnergy Drink, Razzle Berry, 4-pack4x473.0 ml",$11.49c04,,$0.61/ 100ml,False
+drinks,Kosa,1 Coconut Water    ,Kosa1 Coconut Water    1000 ml,$3.59ea,,$0.36/ 100ml,False
+drinks,Monster Energy,Energy Drinkultra Paradise,Monster EnergyEnergy Drinkultra Paradise8x355.0 ml,$17.49c08,,$0.62/ 100ml,False
+drinks,AHA,"Water, Blueberry + Pomegranate Sparkling , Bottle","AHAWater, Blueberry + Pomegranate Sparkling , Bottle1 l",$1.79ea,,$0.18/ 100ml,False
+drinks,No Name,Lemonade,No NameLemonade1.75 l,$2.29ea,,$0.13/ 100ml,False
+drinks,McCafe,Premium Roast  Tin   ,McCafePremium Roast  Tin   950 g,$24.99ea,,$2.63/ 100g,False
+drinks,Chaokoh,Coconut Water with Jelly,ChaokohCoconut Water with Jelly520 ml,$1.79ea,,$0.34/ 100ml,False
+drinks,Coca-Cola,Diet Coke Cans  ,Coca-ColaDiet Coke Cans  24x355.0 ml,$11.99c24,,$0.14/ 100ml,False
+drinks,President's Choice,Low Sodium Club Soda,President's ChoiceLow Sodium Club Soda6x222.0 ml,$2.49pack of 6,,$0.19/ 100ml,False
+drinks,Tassimo,"McCafé Premium Roast Coffee Single Serve T-Discs, 14 T-Discs","TassimoMcCafé Premium Roast Coffee Single Serve T-Discs, 14 T-Discs14 ea",$9.99ea,,$0.71/ 1ea,False
+drinks,No Name,Apple Juice from Concentrate,No NameApple Juice from Concentrate10x200.0 ml,$2.29ea,,$0.11/ 100ml,False
+drinks,No Name,Iced Tea,No NameIced Tea1.75 l,$2.29ea,,$0.13/ 100ml,False
+drinks,UFC,Refresh 100% Coconut Water,UFCRefresh 100% Coconut Water500 ml,$2.49ea,,$0.50/ 100ml,False
+drinks,Simply,Orange Juice,SimplyOrange Juice340 ml,$1.99ea,,$0.59/ 100ml,False
+drinks,No Name,Instant Coffee Club Size,No NameInstant Coffee Club Size340 g,$6.99ea,,$2.06/ 100g,False
+drinks,Brisk,Lemon Iced Tea    ,BriskLemon Iced Tea    12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
+drinks,San Pellegrino,Naturali Aranciata Sparkling Orange Beverage,San PellegrinoNaturali Aranciata Sparkling Orange Beverage6x330.0 ml,$6.99c06,,$0.35/ 100ml,False
+drinks,Sunny Delight,Tangy,Sunny DelightTangy1.89 l,$2.99ea,,$0.16/ 100ml,False
+drinks,President's Choice,Gourmet Medium Roast Compostable Coffee Pods Club Size,President's ChoiceGourmet Medium Roast Compostable Coffee Pods Club Size72 ea,$34.49ea,,$0.48/ 1ea,False
+drinks,T&T,"Aloe Vera Drink, 50% Less Sugar","T&TAloe Vera Drink, 50% Less Sugar1.5 l",$2.99ea,,$0.20/ 100ml,False
+drinks,Vita Coco,Coconut Water Can,Vita CocoCoconut Water Can1 l,$5.99ea,,$0.60/ 100ml,False
+drinks,Tropicana,Pure Premium Homestyle (Some Pulp),TropicanaPure Premium Homestyle (Some Pulp)2.63 l,$6.79ea,,$0.26/ 100ml,False
+drinks,Maxwell House,Decaffeinated Coffee 100% Compostable K Cup Coffee Pods,Maxwell HouseDecaffeinated Coffee 100% Compostable K Cup Coffee Pods292 g,$18.99ea,,$6.50/ 100g,False
+drinks,Oasis,Berry Smoothie,OasisBerry Smoothie1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Crystal Light,"Singles, Iced Tea","Crystal LightSingles, Iced Tea26 g",$2.99ea,,$11.50/ 100g,False
+drinks,Grace,"Island Soda, Banana","GraceIsland Soda, Banana355 ml",$1.19ea,,$0.34/ 100ml,False
+drinks,President's Choice,100% Orange Mango Juice,President's Choice100% Orange Mango Juice1 l,$2.29ea,,$0.23/ 100ml,False
+drinks,President's Choice,Pomegranate Lemonade,President's ChoicePomegranate Lemonade1.89 l,$3.29ea,,$0.17/ 100ml,False
+drinks,Minute Maid,"Berry Punch Juice Beverage, 10 Pack","Minute MaidBerry Punch Juice Beverage, 10 Pack10x200.0 ml",$3.79ea,,$0.19/ 100ml,False
+drinks,President's Choice,Raspberry Mist Naturally Fruit-Flavoured Water Beverage,President's ChoiceRaspberry Mist Naturally Fruit-Flavoured Water Beverage6x500.0 ml,$3.49pack of 6,,$0.12/ 100ml,False
+drinks,President's Choice,Free & Clear Key Lime Sparkling Water ,President's ChoiceFree & Clear Key Lime Sparkling Water 1 l,$1.19ea,,$0.12/ 100ml,False
+drinks,Tazo,Wild Sweet Orange Tea,TazoWild Sweet Orange Tea20 ea,$6.29ea,,$0.31/ 1ea,False
+drinks,President's Choice,Free & Clear Tangerine-Lime Sparkling Water ,President's ChoiceFree & Clear Tangerine-Lime Sparkling Water 1 l,$1.19ea,,$0.12/ 100ml,False
+drinks,7Up,Zero Soda,7UpZero Soda12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
+drinks,No Name,Lemon Juice,No NameLemon Juice946 ml,$2.29ea,$2.00ea,$0.21/ 100ml,True
+drinks,Glaceau,"Multi-V Nutrient Enhanced Water, Bottle","GlaceauMulti-V Nutrient Enhanced Water, Bottle591 ml",$2.29ea,,$0.39/ 100ml,False
+drinks,PC Blue Menu,Lemon Sparkling Water,PC Blue MenuLemon Sparkling Water1 l,$1.19ea,,$0.12/ 100ml,False
+drinks,Carnation,2% Evaporated Partly Skimmed Milk,Carnation2% Evaporated Partly Skimmed Milk354 ml,$2.69ea,,$0.76/ 100ml,False
+drinks,Tim Hortons,Dark Roast K-Cup Compatible,Tim HortonsDark Roast K-Cup Compatible30 ea,$24.99ea,,$0.83/ 1ea,False
+drinks,Crystal Light,"Singles, Iced Tea","Crystal LightSingles, Iced Tea26 g",$2.99ea,,$11.50/ 100g,False
+drinks,Grace,"Island Soda, Banana","GraceIsland Soda, Banana355 ml",$1.19ea,,$0.34/ 100ml,False
+drinks,Vitasoy,Coconut Water with Pineapple,VitasoyCoconut Water with Pineapple1 l,$5.99ea,,$0.60/ 100ml,False
+drinks,Suraj,Lychee Drink,SurajLychee Drink1 l,$2.00ea,,$0.20/ 100ml,False
+drinks,No Name,Lime Juice,No NameLime Juice445 ml,$2.00ea,,$0.45/ 100ml,False
+drinks,President's Choice,Diet Tonic Water ,President's ChoiceDiet Tonic Water 6x222.0 ml,$2.49pack of 6,,$0.19/ 100ml,False
+drinks,President's Choice,West Coast Dark Roast 100% Arabica Single Serve Coffee Pods,President's ChoiceWest Coast Dark Roast 100% Arabica Single Serve Coffee Pods30 ea,$16.99ea,,$0.57/ 1ea,False
+drinks,President's Choice,Lemonade,President's ChoiceLemonade1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Tetley,Antiox Apple Cinnamon & Turmeric With Vitamin C,TetleyAntiox Apple Cinnamon & Turmeric With Vitamin C20 g,$4.49ea,,$0.22/ 1ea,False
+drinks,Tropicana,Cranberry,TropicanaCranberry1.75 l,$4.49ea,,$0.26/ 100ml,False
+drinks,Sparkling Ice,Coconut Pineapple Sparkling Water,Sparkling IceCoconut Pineapple Sparkling Water503 ml,$1.19ea,,$0.24/ 100ml,False
+drinks,President's Choice,Strawberry Lemonade,President's ChoiceStrawberry Lemonade1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Tetley,"Tea, Honey Lemon Ginseng Green Specialty  ","TetleyTea, Honey Lemon Ginseng Green Specialty  24 ea",$4.49ea,,$0.19/ 1ea,False
+drinks,No Name,Peach Drink,No NamePeach Drink2 l,$1.69ea,,$0.08/ 100ml,False
+drinks,President's Choice,Mint Refresher Herbal Tea,President's ChoiceMint Refresher Herbal Tea20 ea,$3.00ea,,$0.15/ 1ea,False
+drinks,Red Rose,Orange Pekoe Black Tea,Red RoseOrange Pekoe Black Tea72 ea,$5.99ea,,$0.08/ 1ea,False
+drinks,President's Choice,Colombian Supremo Medium Roast 100% Arabica Single Serve Coffee Pods,President's ChoiceColombian Supremo Medium Roast 100% Arabica Single Serve Coffee Pods30 ea,$16.99ea,,$0.57/ 1ea,False
+drinks,Vita Coco,Coconut Water Original,Vita CocoCoconut Water Original500 ml,$3.79ea,,$0.76/ 100ml,False
+drinks,President's Choice,Free & Clear Golden Peach Sparkling Water ,President's ChoiceFree & Clear Golden Peach Sparkling Water 1 l,$1.19ea,,$0.12/ 100ml,False
+drinks,Tetley,Earl Grey The Speciaux   ,TetleyEarl Grey The Speciaux   80 ea,$9.99ea,,$0.12/ 1ea,False
+drinks,No Name,Tomato Juice,No NameTomato Juice540 ml,$1.49ea,,$0.28/ 100ml,False
+drinks,PC Blue Menu,Mandarin Orange Sparkling Water,PC Blue MenuMandarin Orange Sparkling Water1 l,$1.19ea,,$0.12/ 100ml,False
+drinks,No Name,Medium Roast Coffee Pods Club Size,No NameMedium Roast Coffee Pods Club Size100 ea,$36.99c01,,$0.37/ 1ea,False
+drinks,Pepsi,Wild Cherry Soda    ,PepsiWild Cherry Soda    12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
+drinks,Real Lemon,Single Strength Lemon Juice,Real LemonSingle Strength Lemon Juice945 ml,$3.49ea,,$0.37/ 100ml,False
+drinks,Donut House,"Regular Coffee, K-Cup","Donut HouseRegular Coffee, K-Cup30 ea",$16.49ea,,$0.55/ 1ea,False
+drinks,Bolthouse,C-Boost,BolthouseC-Boost946 ml,$6.49ea,,$0.69/ 100ml,False
+drinks,Tim Hortons,"K-Cup, French Vanilla","Tim HortonsK-Cup, French Vanilla120 g",$11.49ea,$8.99ea,$7.49/ 100g,True
+drinks,President's Choice,Medium Roast Black Cold Brew Coffee,President's ChoiceMedium Roast Black Cold Brew Coffee900 ml,$4.00ea,,$0.44/ 100ml,False
+drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water500 ml,$2.19ea,,$0.44/ 100ml,False
+drinks,Rubicon,Guava Exotic Juice Drink,RubiconGuava Exotic Juice Drink1 l,$2.99ea,,$0.30/ 100ml,False
+drinks,Peace Tea,Mango Mood,Peace TeaMango Mood695 ml,$1.39ea,,$0.20/ 100ml,False
+drinks,Paldo,Aloe Vera drink,PaldoAloe Vera drink1.5 l,$3.99ea,,$0.27/ 100ml,False
+drinks,PC Blue Menu,Cranberry Cocktail,PC Blue MenuCranberry Cocktail1.89 l,$3.49ea,,$0.18/ 100ml,False
+drinks,No Name,Fruit Punch,No NameFruit Punch10x200.0 ml,$2.29ea,,$0.11/ 100ml,False
+drinks,Tim Hortons,Original Coffee,Tim HortonsOriginal Coffee48 ea,$32.99ea,,$0.69/ 1ea,False
+drinks,No Name,Dark Roast Coffee Pods Club Size,No NameDark Roast Coffee Pods Club Size1 ea,$36.99c01,,$0.37/ 1ea,False
+drinks,President's Choice,Tonic Water,President's ChoiceTonic Water12x355.0 ml,$4.79pack of 12,,$0.11/ 100ml,False
+drinks,Tetley,The Orange Pekoe,TetleyThe Orange Pekoe144 ea,$9.49ea,,$0.07/ 1ea,False
+drinks,President's Choice,Cappuccino Tassimo Compatible Coffee Pods,President's ChoiceCappuccino Tassimo Compatible Coffee Pods8 ea,$8.99ea,,$1.12/ 1ea,False
+drinks,President's Choice,West Coast Dark Roast 100% Arabica Single Serve Coffee Pods,President's ChoiceWest Coast Dark Roast 100% Arabica Single Serve Coffee Pods30 ea,$16.99ea,,$0.57/ 1ea,False
+drinks,Rubicon,Guava Exotic Juice Drink,RubiconGuava Exotic Juice Drink1 l,$2.99ea,,$0.30/ 100ml,False
+drinks,Peace Tea,Mango Mood,Peace TeaMango Mood695 ml,$1.39ea,,$0.20/ 100ml,False
+drinks,Paldo,Aloe Vera drink,PaldoAloe Vera drink1.5 l,$3.99ea,,$0.27/ 100ml,False
+drinks,PC Blue Menu,Cranberry Cocktail,PC Blue MenuCranberry Cocktail1.89 l,$3.49ea,,$0.18/ 100ml,False
+drinks,No Name,Fruit Punch,No NameFruit Punch10x200.0 ml,$2.29ea,,$0.11/ 100ml,False
+drinks,Tim Hortons,Original Coffee,Tim HortonsOriginal Coffee48 ea,$32.99ea,,$0.69/ 1ea,False
+drinks,No Name,Dark Roast Coffee Pods Club Size,No NameDark Roast Coffee Pods Club Size1 ea,$36.99c01,,$0.37/ 1ea,False
+drinks,President's Choice,Tonic Water,President's ChoiceTonic Water12x355.0 ml,$4.79pack of 12,,$0.11/ 100ml,False
+drinks,Tetley,The Orange Pekoe,TetleyThe Orange Pekoe144 ea,$9.49ea,,$0.07/ 1ea,False
+drinks,President's Choice,Cappuccino Tassimo Compatible Coffee Pods,President's ChoiceCappuccino Tassimo Compatible Coffee Pods8 ea,$8.99ea,,$1.12/ 1ea,False
+drinks,MiO,Sport Orange Liquid Water Enhancer,MiOSport Orange Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,President's Choice,Camomile Herbal Tea,President's ChoiceCamomile Herbal Tea20 ea,$3.49ea,$3.00ea,$0.15/ 1ea,True
+drinks,Tassimo,Nabob Espresso Single Serve T-Discs,TassimoNabob Espresso Single Serve T-Discs14 ea,$9.99ea,,$0.71/ 1ea,False
+drinks,President's Choice,Espresso Forte Whole Bean Coffee,President's ChoiceEspresso Forte Whole Bean Coffee907 g,$16.99ea,,$1.87/ 100g,False
+drinks,Tazo,Chai Latte Tea Concentrate,TazoChai Latte Tea Concentrate946 ml,$8.99ea,,$0.95/ 100ml,False
+drinks,Pepsi,Diet Sleek Soda,PepsiDiet Sleek Soda15x222.0 ml,$7.29pack of 15,,$0.22/ 100ml,False
+drinks,Mountain Dew,Soda,Mountain DewSoda591 ml,$2.29ea,,$0.39/ 100ml,False
+drinks,Timothy's,"Coffee, Ground  Light Breakfast Blend","Timothy'sCoffee, Ground  Light Breakfast Blend30 ea",$16.99ea,,$0.57/ 1ea,False
+drinks,President's Choice,Gourmet Medium Roast Decaffeinated Coffee Pods,President's ChoiceGourmet Medium Roast Decaffeinated Coffee Pods30 ea,$16.99ea,,$0.57/ 1ea,False
+drinks,Monster Energy,"Pacific Punch Energy Drink, Can","Monster EnergyPacific Punch Energy Drink, Can473 ml",$3.49ea,,$0.74/ 100ml,False
+drinks,PC Blue Menu,Peach Mango Sparkling Flavoured Water,PC Blue MenuPeach Mango Sparkling Flavoured Water1 l,$1.19ea,,$0.12/ 100ml,False
+drinks,Sprite,Bottle,SpriteBottle1 l,$1.59ea,,$0.16/ 100ml,False
+drinks,Ocean Spray,"100% Juice Blends 100% Juice, Cranberry","Ocean Spray100% Juice Blends 100% Juice, Cranberry1.77 l",$4.99ea,,$0.28/ 100ml,False
+drinks,Ribena,Concentrated Blackcurrant Beverage Original,RibenaConcentrated Blackcurrant Beverage Original850 ml,$8.99ea,,$1.06/ 100ml,False
+drinks,Nescafe,Rich Original Coffee Capsules,NescafeRich Original Coffee Capsules477 g,$19.99ea,,$4.19/ 100g,False
+drinks,Fruite,Grape Drink,FruiteGrape Drink2 l,$2.19ea,,$0.11/ 100ml,False
+drinks,Perrier,Carbonated Natural Spring Water With Natural Lime Flavour,PerrierCarbonated Natural Spring Water With Natural Lime Flavour1 l,$2.29ea,,$0.23/ 100ml,False
+drinks,Allen's,Strawberry Banana Cocktail (Case),Allen'sStrawberry Banana Cocktail (Case)24x200.0 ml,$5.99ea,,$0.12/ 100ml,False
+drinks,President's Choice,Lemonade,President's ChoiceLemonade12x355.0 ml,$4.49pack of 12,,$0.11/ 100ml,False
+drinks,Nestea,"Iced Tea, Lemon ","NesteaIced Tea, Lemon 12x341.0 ml",$7.49c12,,$0.18/ 100ml,False
+drinks,Nescafe,Rich French Vanilla Instant Coffee,NescafeRich French Vanilla Instant Coffee100 g,$6.49ea,,$6.49/ 100g,False
+drinks,President's Choice,100% Mango Juice ,President's Choice100% Mango Juice 1 l,$2.29ea,,$0.23/ 100ml,False
+drinks,Pepsi,Sleek Soda     ,PepsiSleek Soda     15x222.0 ml,$7.29pack of 15,,$0.22/ 100ml,False
+drinks,PC Blue Menu,Lime Sparkling Water,PC Blue MenuLime Sparkling Water1 l,$1.19ea,,$0.12/ 100ml,False
+drinks,Heinz,Tomato Juice,HeinzTomato Juice1.36 l,$3.79ea,,$0.28/ 100ml,False
+drinks,President's Choice,Tangerine Grapefruit Liquid Water Enhancer,President's ChoiceTangerine Grapefruit Liquid Water Enhancer48 ml,$2.69ea,,$5.60/ 100ml,False
+drinks,President's Choice,Espresso Perfetto 100% Arabica Coffee,President's ChoiceEspresso Perfetto 100% Arabica Coffee907 g,$16.99ea,,$1.87/ 100g,False
+drinks,Ocean Spray,Cranberry Cocktail,Ocean SprayCranberry Cocktail3 l,$7.49ea,,$0.25/ 100ml,False
+drinks,Allen's,Strawberry Banana Cocktail,Allen'sStrawberry Banana Cocktail8x200.0 ml,$2.29ea,,$0.14/ 100ml,False
+drinks,No Name,Unsweetened Orange Juice from Concentrate Boxes,No NameUnsweetened Orange Juice from Concentrate Boxes10x200.0 ml,$2.29ea,,$0.11/ 100ml,False
+drinks,PC Blue Menu,Ruby Red Grapefruit Cocktail,PC Blue MenuRuby Red Grapefruit Cocktail2 l,$3.49ea,,$0.18/ 100ml,False
+drinks,President's Choice,Natural Spring Water,President's ChoiceNatural Spring Water1.5 l,$0.99ea,,$0.07/ 100ml,False
+drinks,No Name,Lemonade Drink Mix Club Size,No NameLemonade Drink Mix Club Size2.3 kg,$7.99ea,,$0.35/ 100g,False
+drinks,Crystal Light,"Singles, Pink Lemonade","Crystal LightSingles, Pink Lemonade45 g",$2.99ea,,$6.64/ 100g,False
+drinks,Nutrament,Vanilla,NutramentVanilla355 ml,$2.99ea,,$0.84/ 100ml,False
+drinks,Tim Hortons,Original Fine Grind Coffee,Tim HortonsOriginal Fine Grind Coffee930 g,$20.99ea,,$2.26/ 100g,False
+drinks,Nestle,Pure Life Splash ,NestlePure Life Splash 24x500.0 ml,$9.49pack of 24,,$0.08/ 100ml,False
+drinks,Peace Tea,Peach Party,Peace TeaPeach Party1.75 l,$2.39ea,,$0.14/ 100ml,False
+drinks,Starbucks,Medium Roast Iced Coffee,StarbucksMedium Roast Iced Coffee1.42 l,$7.99ea,,$0.56/ 100ml,False
+drinks,Crystal Light,"Singles, Tangerine Grapefruit","Crystal LightSingles, Tangerine Grapefruit40 g",$2.99ea,,$7.48/ 100g,False
+drinks,Simply,"Watermelon  Juice, Bottle","SimplyWatermelon  Juice, Bottle1.54 l",$3.79ea,,$0.25/ 100ml,False
+drinks,Kool-Aid,"Jammers, Grape","Kool-AidJammers, Grape10x180.0 ml",$2.79ea,,$0.16/ 100ml,False
+drinks,Gold Peak,"Lemon Tea, Jug","Gold PeakLemon Tea, Jug2.63 l",$6.49ea,,$0.25/ 100ml,False
+drinks,Tetley,Herbal Tea Live Bold Cinnamon Chai Rooibos,TetleyHerbal Tea Live Bold Cinnamon Chai Rooibos40 g,$4.29ea,,$10.73/ 100g,False
+drinks,Vita Coco,100% Pure Coconut Water,Vita Coco100% Pure Coconut Water1 l,$5.99ea,,$0.60/ 100ml,False
+drinks,Grace,Coconut Milk,GraceCoconut Milk400 ml,$2.29ea,,$0.57/ 100ml,False
+drinks,Maxwell House,Original Roast Coffee 100% Compostable K Cup Coffee Pods,Maxwell HouseOriginal Roast Coffee 100% Compostable K Cup Coffee Pods285 g,$18.99ea,,$6.66/ 100g,False
+drinks,PC Blue Menu,M Cherry Peach,PC Blue MenuM Cherry Peach10x200.0 ml,$3.99ea,,$2.00/ 100ml,False
+drinks,MiO,Cherry Blackberry Liquid Water Enhancer,MiOCherry Blackberry Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Nescafe,Nescafé Sweet and Creamy French Vanilla Instant Coffee Mix,NescafeNescafé Sweet and Creamy French Vanilla Instant Coffee Mix351 g,$7.49ea,,$2.13/ 100g,False
+drinks,Allen's,Peach Cocktail,Allen'sPeach Cocktail24x200.0 ml,$5.99c01,,$0.12/ 100ml,False
+drinks,President's Choice,Lemon Ginger Herbal Tea,President's ChoiceLemon Ginger Herbal Tea20 ea,$3.00ea,,$0.15/ 1ea,False
+drinks,President's Choice,100% Fruit Punch Juice,President's Choice100% Fruit Punch Juice10x200.0 ml,$3.99ea,,$0.20/ 100ml,False
+drinks,Pepsi,Zero Sugar Soda    ,PepsiZero Sugar Soda    12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
+drinks,Silk,"Creamy Cashew Beverage, Unsweetened Original, Dairy-Free","SilkCreamy Cashew Beverage, Unsweetened Original, Dairy-Free1.89 l",$4.00ea,,$0.21/ 100ml,False
+drinks,Nestea,Iced Tea     ,NesteaIced Tea     20x341.0 ml,$10.49pack of 20,,$0.15/ 100ml,False
+drinks,Sprite,Soda ,SpriteSoda 24x355.0 ml,$11.99pack of 24,,$0.14/ 100ml,False
+drinks,Folgers, Classic Roast K-Cup Coffee Pods 12 Count,Folgers Classic Roast K-Cup Coffee Pods 12 Count12 ea,$7.49ea,,$0.62/ 1ea,False
+drinks,Ocean Spray,Cranberry Cocktail,Ocean SprayCranberry Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,Oasis,Smoothie Tropical Mango,OasisSmoothie Tropical Mango1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Bolthouse,Green Goodness,BolthouseGreen Goodness946 ml,$6.49ea,,$0.69/ 100ml,False
+drinks,PC Blue Menu,Sparkling Water (Case),PC Blue MenuSparkling Water (Case)12x355.0 ml,$4.79c01,,$0.11/ 100ml,False
+drinks,Silk,"Dairy Free Plant Based Oat Beverage, Original, Plain","SilkDairy Free Plant Based Oat Beverage, Original, Plain1.75 l",$4.00ea,,$0.23/ 100ml,False
+drinks,Nescafe,Origins Colombia Coffee,NescafeOrigins Colombia Coffee95 g,$7.99ea,,$8.41/ 100g,False
+drinks,Coca-Cola,"Zero Sugar, Bottle","Coca-ColaZero Sugar, Bottle500 ml",$2.29ea,,$0.46/ 100ml,False
+drinks,Simply,Lemonade With Raspberry,SimplyLemonade With Raspberry3 l,$6.49ea,,$0.25/ 100ml,False
+drinks,Grace,"Kola, Champagne","GraceKola, Champagne355 ml",$1.19ea,,$0.34/ 100ml,False
+drinks,Monster Energy,Energy Zero Ultra,Monster EnergyEnergy Zero Ultra4x473.0 ml,$11.49pack of 4,,$0.61/ 100ml,False
+drinks,Blue Diamond,"Almond Breeze Unsweetened Almond Milk, Original","Blue DiamondAlmond Breeze Unsweetened Almond Milk, Original1.89 l",$4.19ea,,$0.22/ 100ml,False
+drinks,Oasis,Fruit Fusion Fruit Juice,OasisFruit Fusion Fruit Juice960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,Ocean Spray,Cranberry Cherry Cocktail,Ocean SprayCranberry Cherry Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,President's Choice,The Great Canadian Light to Medium Roast Coffee,President's ChoiceThe Great Canadian Light to Medium Roast Coffee930 g,$16.99ea,,$1.83/ 100g,False
+drinks,Simply,"with Pulp Orange Juice, Bottle","Simplywith Pulp Orange Juice, Bottle1.54 l",$3.99ea,,$0.26/ 100ml,False
+drinks,Pepsi,7UP Soda ,Pepsi7UP Soda 6x222.0 ml,$4.49excl. hst & bottle deposit,,$0.34/ 100ml,False
+drinks,Folgers,Classic Roast Ground Coffee,FolgersClassic Roast Ground Coffee816 g,$10.99ea,,$1.35/ 100g,False
+drinks,Tropicana,Strawberry Peach Beverage    ,TropicanaStrawberry Peach Beverage    1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,President's Choice,Gourmet Medium Roast Extra Fine Grind Coffee ,President's ChoiceGourmet Medium Roast Extra Fine Grind Coffee 930 g,$16.99ea,,$1.83/ 100g,False
+drinks,Pepsi,Diet Soda,PepsiDiet Soda6x710.0 ml,$4.99c06,,$0.12/ 100ml,False
+drinks,Sprite,Soda ,SpriteSoda 6x710.0 ml,$5.29pack of 6,,$0.12/ 100ml,False
+drinks,No Name,2% Evaporated Partly Skimmed Milk,No Name2% Evaporated Partly Skimmed Milk354 ml,$1.79ea,,$0.51/ 100ml,False
+drinks,President's Choice,Orange Soda,President's ChoiceOrange Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,President's Choice,Diet Cola,President's ChoiceDiet Cola2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,7Up,7UP Soft Drink,7Up7UP Soft Drink8x355.0 ml,$6.49pack of 8,,$1.83/ 100ml,False
+drinks,Pepsi,Diet Soda,PepsiDiet Soda6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
+drinks,Pepsi,Zero Sugar Soda ,PepsiZero Sugar Soda 8x355.0 ml,$6.49pack of 8,,$0.23/ 100ml,False
+drinks,Lavazza,Crema & Gusto,LavazzaCrema & Gusto250 g,$4.99ea,,$2.00/ 100g,False
+drinks,Allen's,Peach Cocktail,Allen'sPeach Cocktail24x200.0 ml,$5.99c01,,$0.12/ 100ml,False
+drinks,President's Choice,Lemon Ginger Herbal Tea,President's ChoiceLemon Ginger Herbal Tea20 ea,$3.00ea,,$0.15/ 1ea,False
+drinks,Oasis,Tropical Passion Fruit Juice,OasisTropical Passion Fruit Juice8x200.0 ml,$3.49ea,,$0.22/ 100ml,False
+drinks,Coca-Cola,Bottle,Coca-ColaBottle1 l,$1.59ea,,$0.16/ 100ml,False
+drinks,Pepsi,Zero Sugar Soda    ,PepsiZero Sugar Soda    591 ml,$2.29ea,,$0.39/ 100ml,False
+drinks,Tang's,Orange Drink Mix,Tang'sOrange Drink Mix276 g,$2.79ea,,$1.01/ 100g,False
+drinks,Rubicon,Mango Drink,RubiconMango Drink4x200.0 ml,$3.29ea,,$0.41/ 100ml,False
+drinks,Ocean Spray,"100% Juice Blends 100% Juice, Cranberry and Grape","Ocean Spray100% Juice Blends 100% Juice, Cranberry and Grape1.77 l",$4.99ea,,$0.28/ 100ml,False
+drinks,No Name,Iced Tea,No NameIced Tea10x200.0 ml,$2.29ea,,$0.11/ 100ml,False
+drinks,Tim Hortons,"Fine Grain Coffee, Decaffeinated","Tim HortonsFine Grain Coffee, Decaffeinated300 g",$8.99ea,,$3.00/ 100g,False
+drinks,PC Blue Menu,Watermelon Sparkling Water ,PC Blue MenuWatermelon Sparkling Water 1 l,$1.19ea,,$0.12/ 100ml,False
+drinks,MiO,Cherry Blackberry Liquid Water Enhancer,MiOCherry Blackberry Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,President's Choice,Ginger Ale,President's ChoiceGinger Ale12x355.0 ml,$4.79pack of 12,,$0.11/ 100ml,False
+drinks,Kraft,Grape Liquid Drink Mix,KraftGrape Liquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Danone,"Cold Brew Coffee, Black Lightly Sweetened","DanoneCold Brew Coffee, Black Lightly Sweetened1.42 l",$8.29ea,,$0.58/ 100ml,False
+drinks,Krispy Kreme,Doughnuts Value Pack Light Roast Coffee 30 K-Cup Pods,Krispy KremeDoughnuts Value Pack Light Roast Coffee 30 K-Cup Pods30 ea,$16.49ea,,$0.55/ 1ea,False
+drinks,Oasis,Smoothie Tropical Mango,OasisSmoothie Tropical Mango1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Bolthouse,Green Goodness,BolthouseGreen Goodness946 ml,$6.49ea,,$0.69/ 100ml,False
+drinks,Silk,"Creamy Cashew Beverage, Unsweetened Original, Dairy-Free","SilkCreamy Cashew Beverage, Unsweetened Original, Dairy-Free1.89 l",$4.00ea,,$0.21/ 100ml,False
+drinks,No Name,Chocolate Syrup,No NameChocolate Syrup2 l,$9.99ea,,$0.50/ 100ml,False
+drinks,Simply,Real Fruit Beverage Peach,SimplyReal Fruit Beverage Peach340 ml,$1.99ea,,$0.59/ 100ml,False
+drinks,President's Choice,Ginger Ale,President's ChoiceGinger Ale6x222.0 ml,$2.49pack of 6,,$0.19/ 100ml,False
+drinks,Molson,0.5% Alcohol Beer,Molson0.5% Alcohol Beer24x355.0 ml,$15.99pack of 24,,$0.19/ 100ml,False
+drinks,Tropicana,Pure Premium PP Orange Juice No Pulp,TropicanaPure Premium PP Orange Juice No Pulp3.78 l,$9.29ea,,$0.25/ 100ml,False
+drinks,President's Choice,Ruby Red Grapefruit Cocktail,President's ChoiceRuby Red Grapefruit Cocktail1.89 l,$3.49ea,,$0.18/ 100ml,False
+drinks,Dasani,Remineralized Water,DasaniRemineralized Water12x355.0 ml,$7.49c01,,$0.18/ 100ml,False
+drinks,Gatorade,Zero Fruit Punch Sports Drink  ,GatoradeZero Fruit Punch Sports Drink  710 ml,$1.59ea,,$0.22/ 100ml,False
+drinks,Arizona,Premium Brewed Ginseng and Honey Green Tea,ArizonaPremium Brewed Ginseng and Honey Green Tea8x200.0 ml,$3.49ea,,$0.22/ 100ml,False
+drinks,Oasis,"Orange Juice with Pulp, Not from Concentrate","OasisOrange Juice with Pulp, Not from Concentrate1.5 l",$3.99ea,,$0.27/ 100ml,False
+drinks,MiO,Lemonade Liquid Water Enhancer,MiOLemonade Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Van Houtte,"Colombian Dark K-Cup Coffee Pods, 24 Count","Van HoutteColombian Dark K-Cup Coffee Pods, 24 Count24 ea",$19.99ea,,$0.83/ 1ea,False
+drinks,Maxwell House,Original Roast Ground Coffee,Maxwell HouseOriginal Roast Ground Coffee925 g,$9.99ea,,$1.08/ 100g,False
+drinks,Canada Dry,Ginger Ale ,Canada DryGinger Ale 24x355.0 ml,$11.99pack of 24,,$0.14/ 100ml,False
+drinks,Kool-Aid,Tropical Punch Liquid Drink Mix,Kool-AidTropical Punch Liquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,President's Choice,The Great Canadian Light to Medium Roast 100% Arabica Coffee,President's ChoiceThe Great Canadian Light to Medium Roast 100% Arabica Coffee72 ea,$34.49ea,,$0.48/ 1ea,False
+drinks,Sparkling Ice,Orange Mango Sparkling Water,Sparkling IceOrange Mango Sparkling Water503 ml,$1.19ea,,$0.24/ 100ml,False
+drinks,Bolthouse,Green Goodness,BolthouseGreen Goodness1.54 l,$8.49ea,,$0.55/ 100ml,False
+drinks,Coca-Cola,Classic 500 ml Bottle,Coca-ColaClassic 500 ml Bottle500 ml,$2.29ea,,$0.46/ 100ml,False
+drinks,Reign,Razzle Berry Energy Drink,ReignRazzle Berry Energy Drink473 ml,$3.49ea,,$0.74/ 100ml,False
+drinks,Folgers, Vanilla Biscotti K-Cup Coffee Pods 12 Count,Folgers Vanilla Biscotti K-Cup Coffee Pods 12 Count12 ea,$7.49ea,,$0.62/ 1ea,False
+drinks,Mountain Dew,Zero Sugar,Mountain DewZero Sugar12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
+drinks,Tetley,Super Herbal Tea Immune+ Peppermint & Ginger With Zinc And Vitamin D,TetleySuper Herbal Tea Immune+ Peppermint & Ginger With Zinc And Vitamin D20 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,Oasis,Smoothie Strawberry Banana,OasisSmoothie Strawberry Banana1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Tropicana,Red Grapefruit,TropicanaRed Grapefruit1.54 l,$4.49ea,,$0.29/ 100ml,False
+drinks,Tetley,Super Herbal Tea-Boost Peach Ginger Dan with Vitamin B6,TetleySuper Herbal Tea-Boost Peach Ginger Dan with Vitamin B640 g,$4.49ea,,$0.22/ 1ea,False
+drinks,Red Bull,"Energy Drink,","Red BullEnergy Drink,4x250.0 ml",$9.99pack of 4,,$1.00/ 100ml,False
+drinks,Silk,"Almond Beverage, Unsweetened, Vanilla Flavour, Dairy-Free","SilkAlmond Beverage, Unsweetened, Vanilla Flavour, Dairy-Free1.89 l",$4.00ea,,$0.21/ 100ml,False
+drinks,Tropicana,Red Grapefruit,TropicanaRed Grapefruit1.54 l,$4.49ea,,$0.29/ 100ml,False
+drinks,Gatorade,Fierce Orange Sports Drink,GatoradeFierce Orange Sports Drink710 ml,$1.59ea,,$0.22/ 100ml,False
+drinks,Tetley,Super Herbal Tea-Boost Peach Ginger Dan with Vitamin B6,TetleySuper Herbal Tea-Boost Peach Ginger Dan with Vitamin B640 g,$4.49ea,,$0.22/ 1ea,False
+drinks,Red Bull,"Energy Drink,","Red BullEnergy Drink,4x250.0 ml",$9.99pack of 4,,$1.00/ 100ml,False
+drinks,Silk,"Almond Beverage, Unsweetened, Vanilla Flavour, Dairy-Free","SilkAlmond Beverage, Unsweetened, Vanilla Flavour, Dairy-Free1.89 l",$4.00ea,,$0.21/ 100ml,False
+drinks,Tetley,Super Herbal Tea Sunshine Lemon & Orange With Vitamin D,TetleySuper Herbal Tea Sunshine Lemon & Orange With Vitamin D20 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,Silk,"Organic Soy Beverage, Original, Dairy-Free","SilkOrganic Soy Beverage, Original, Dairy-Free1.89 l",$4.00ea,,$0.21/ 100ml,False
+drinks,Simply,"Lemonade With Raspberry, Bottle","SimplyLemonade With Raspberry, Bottle1.54 l",$3.79ea,,$0.25/ 100ml,False
+drinks,Tassimo,Nabob Cappuccino Coffee Single Serve T-Discs,TassimoNabob Cappuccino Coffee Single Serve T-Discs263 g,$9.99ea,,$3.80/ 100g,False
+drinks,Nestle,Nesquik Chocolate Syrup,NestleNesquik Chocolate Syrup700 ml,$6.29ea,,$0.90/ 100ml,False
+drinks,Tetley,Herbal Tea Live Calm Camomile Spearmint Orange,TetleyHerbal Tea Live Calm Camomile Spearmint Orange30 g,$4.29ea,,$14.30/ 100g,False
+drinks,Silk,Fortified Oat Beverage Original,SilkFortified Oat Beverage Original946 ml,$2.99ea,,$0.32/ 100ml,False
+drinks,Monster Energy,"Green Energy Drink, Can","Monster EnergyGreen Energy Drink, Can473 ml",$3.49ea,,$0.74/ 100ml,False
+drinks,Reign,White Gummy Bear,ReignWhite Gummy Bear473 ml,$3.49ea,,$0.74/ 100ml,False
+drinks,President's Choice,Gourmet Swiss Water Process Decaffeinated Medium Roast Coffee,President's ChoiceGourmet Swiss Water Process Decaffeinated Medium Roast Coffee875 g,$16.99ea,,$1.94/ 100g,False
+drinks,Bubly Sparkling Water,Sparkling Water Cherry ,Bubly Sparkling WaterSparkling Water Cherry 12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
+drinks,Gatorade,"G2, Grape ","GatoradeG2, Grape 6x591.0 ml",$6.99pack of 6,,$0.20/ 100ml,False
+drinks,Mott's,"Clamato, The Works","Mott'sClamato, The Works1.89 l",$3.99ea,,$0.21/ 100ml,False
+drinks,Pepsi,Diet Soda Caffeine Free,PepsiDiet Soda Caffeine Free2 l,$2.29ea,$1.25ea,$0.06/ 100ml,True
+drinks,Canada Dry,Ginger Ale ,Canada DryGinger Ale 6x710.0 ml,$5.29pack of 6,,$0.12/ 100ml,False
+drinks,Carnation,"Rich And Creamy Hot Chocolate, Large Canister","CarnationRich And Creamy Hot Chocolate, Large Canister1.7 kg",$17.99ea,,$1.06/ 100g,False
+drinks,Coca-Cola,Soda ,Coca-ColaSoda 6x710.0 ml,$5.29pack of 6,,$0.12/ 100ml,False
+drinks,Del Monte,Mango Nectar,Del MonteMango Nectar960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,Oasis,Watermelon Apple Fruit Juice,OasisWatermelon Apple Fruit Juice960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,President's Choice,Spritz Up Lemon-Lime Soda,President's ChoiceSpritz Up Lemon-Lime Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Mott's,"Clamato, Extra Spicy","Mott'sClamato, Extra Spicy1.89 l",$3.99ea,,$0.21/ 100ml,False
+drinks,Pepsi,Diet Soda,PepsiDiet Soda2 l,$1.25ea,,$0.06/ 100ml,False
+drinks,Carnation,Evaporated Milk,CarnationEvaporated Milk354 ml,$2.69ea,,$0.76/ 100ml,False
+drinks,Dr Pepper,Soda,Dr PepperSoda6x710.0 ml,$4.99c06,,$0.12/ 100ml,False
+drinks,Pure Leaf,Raspberry Iced Tea,Pure LeafRaspberry Iced Tea1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Ocean Spray,Cranberry Raspberry Cocktail,Ocean SprayCranberry Raspberry Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,Gold Peak,"Rasberry Tea, Carafe","Gold PeakRasberry Tea, Carafe1.75 l",$3.79ea,,$0.22/ 100ml,False
+drinks,Oasis,Exotic Mango Fruit Juice,OasisExotic Mango Fruit Juice960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,Crush,Orange Soda     ,CrushOrange Soda     6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
+drinks,Mott's,"Clamato, Original","Mott'sClamato, Original1.89 l",$3.99ea,,$0.21/ 100ml,False
+drinks,President's Choice,Diet Ginger Ale,President's ChoiceDiet Ginger Ale2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,President's Choice,Diet Tonic Water,President's ChoiceDiet Tonic Water2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Ocean Spray,Low Calorie Cranberry Raspberry Cocktail,Ocean SprayLow Calorie Cranberry Raspberry Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,Oasis,Apple Juice,OasisApple Juice960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,President's Choice,Diet Spritz-Up Lemon-Lime Soda,President's ChoiceDiet Spritz-Up Lemon-Lime Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Oasis,Tropical Fruits Fruit Juice And Filtered Water Blend,OasisTropical Fruits Fruit Juice And Filtered Water Blend960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,Tropicana,Blackberry Blueberry Fruit Drink   ,TropicanaBlackberry Blueberry Fruit Drink   1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Eagle Brand,Brand Sweetened Condensed Milk,Eagle BrandBrand Sweetened Condensed Milk300 ml,$3.99ea,,$1.33/ 100ml,False
+drinks,President's Choice,Medium Roast Colombian Coffee,President's ChoiceMedium Roast Colombian Coffee340 g,$9.49ea,,$2.79/ 100g,False
+drinks,Ocean Spray,Diet Cranberry Juice,Ocean SprayDiet Cranberry Juice1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,Coca-Cola,"Diet , Bottle","Coca-ColaDiet , Bottle2 l",$1.25ea,,$0.06/ 100ml,False
+drinks,Canada Dry,Tonic Water ,Canada DryTonic Water 12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
+drinks,Canada Dry,Club Soda ,Canada DryClub Soda 12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
+drinks,Coca-Cola,Soda ,Coca-ColaSoda 12x355.0 ml,$6.99pack of 12,,$0.16/ 100ml,False
+drinks,Coca-Cola,Diet Coke Caffeine Free,Coca-ColaDiet Coke Caffeine Free12x355.0 ml,$6.99pack of 12,,$0.16/ 100ml,False
+drinks,Fresca,Soda Sugar-Free Natural Grapefruit Flavour,FrescaSoda Sugar-Free Natural Grapefruit Flavour6x222.0 ml,$3.99pack of 6,,$0.30/ 100ml,False
+drinks,Canada Dry,Tonic Water ,Canada DryTonic Water 12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
+drinks,Canada Dry,Club Soda ,Canada DryClub Soda 12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
+drinks,Sprite,Bottle   ,SpriteBottle   8x300.0 ml,$7.29pack of 8,,$0.30/ 100ml,False
+drinks,Canada Dry,Club Soda ,Canada DryClub Soda 6x222.0 ml,$3.99pack of 6,,$0.30/ 100ml,False
+drinks,Gatorade,Fruit Punch Sports Drink ,GatoradeFruit Punch Sports Drink 6x591.0 ml,$6.99pack of 6,,$0.20/ 100ml,False
+drinks,Gatorade,Zero Glacier Freeze,GatoradeZero Glacier Freeze6x591.0 ml,$6.99pack of 6,,$0.20/ 100ml,False
+drinks,Gatorade,Glacier Cherry Sports Drink ,GatoradeGlacier Cherry Sports Drink 6x591.0 ml,$6.99pack of 6,,$0.20/ 100ml,False
+drinks,Coca-Cola,Diet Coke  ,Coca-ColaDiet Coke  6x222.0 ml,$3.99pack of 6,,$0.30/ 100ml,False
+drinks,Montellier,Carbonated Water Lemon    ,MontellierCarbonated Water Lemon    1 l,$1.49ea,,$0.15/ 100ml,False
+drinks,Allen's,Lemonade,Allen'sLemonade8x200.0 ml,$2.29ea,,$0.14/ 100ml,False
+drinks,No Name,Hot Chocolate Mix,No NameHot Chocolate Mix500 g,$2.97ea,,$0.59/ 100g,False
+drinks,Tim Hortons,Instant Dark Coffee,Tim HortonsInstant Dark Coffee100 g,$8.49ea,,$8.49/ 100g,False
+drinks,Dasani,"Water, Bottle","DasaniWater, Bottle591 ml",$2.29ea,,$0.39/ 100ml,False
+drinks,No Name,Orange Juice With Pulp,No NameOrange Juice With Pulp1.75 l,$2.29ea,,$0.13/ 100ml,False
+drinks,Minute Maid,"Mixed Berry Juice Beverage, 8 Pack","Minute MaidMixed Berry Juice Beverage, 8 Pack8x200.0 ml",$3.79ea,,$0.24/ 100ml,False
+drinks,Vitasoy,Lemon Tea Drink,VitasoyLemon Tea Drink6x250.0 ml,$5.49ea,,$0.37/ 100ml,False
+drinks,MiO,Vitamins Blackberry Raspberry Liquid Water Enhancer,MiOVitamins Blackberry Raspberry Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,No Name,Tomato Juice,No NameTomato Juice1 l,$2.99ea,,$0.22/ 100ml,False
+drinks,T.A.S.,Coconut Water     ,T.A.S.Coconut Water     500 ml,$1.79ea,,$0.36/ 100ml,False
+drinks,No Name,Grape Drink,No NameGrape Drink10x200.0 ml,$2.29ea,,$0.11/ 100ml,False
+drinks,Gioia,Espresso Beans,GioiaEspresso Beans1000 g,$17.49ea,,$1.75/ 100g,False
+drinks,Coca-Cola,Coffee Vanilla,Coca-ColaCoffee Vanilla355 ml,$3.29ea,,$0.93/ 100ml,False
+drinks,Gatorade,Zero Variety Flavour,GatoradeZero Variety Flavour24x591.0 ml,$20.99c24,,$0.15/ 100ml,False
+drinks,President's Choice,Lemon Thriller Herbal Tea,President's ChoiceLemon Thriller Herbal Tea20 ea,$3.49ea,$3.00ea,$7.50/ 100g,True
+drinks,No Name,Peppermint Herbal Tea,No NamePeppermint Herbal Tea36 g,$2.00ea,,$5.56/ 100g,False
+drinks,MiO,Fruit Punch Flavoured Liquid Water Enhancer,MiOFruit Punch Flavoured Liquid Water Enhancer48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Gatorade,Frost 4 Flavour Sports Drink ,GatoradeFrost 4 Flavour Sports Drink 24x591.0 ml,$20.99pack of 24,,$0.15/ 100ml,False
+drinks,President's Choice,100% Mango Juice,President's Choice100% Mango Juice10x200.0 ml,$3.99ea,,$0.20/ 100ml,False
+drinks,Crystal Light,"Singles, Raspberry Ice","Crystal LightSingles, Raspberry Ice24 g",$2.99ea,,$12.46/ 100g,False
+drinks,Rougemont,100% Pure McIntosh Apple Juice,Rougemont100% Pure McIntosh Apple Juice2 l,$2.99ea,,$0.15/ 100ml,False
+drinks,Sunny Delight,Smooth,Sunny DelightSmooth1.89 l,$2.99ea,,$0.16/ 100ml,False
+drinks,Crystal Light,"Liquid Drink Mix, Blueberry Razz","Crystal LightLiquid Drink Mix, Blueberry Razz48 ml",$2.99ea,,$6.23/ 100ml,False
+drinks,Crystal Light,Liquid Drink Mix,Crystal LightLiquid Drink Mix48 ml,$2.99ea,,$6.23/ 100ml,False
+drinks,Red Bull,"Energy Drink, Sugar Free","Red BullEnergy Drink, Sugar Free250 ml",$2.99ea,,$1.20/ 100ml,False
+drinks,Blue Diamond,"Almond Breeze Almond Milk, Unsweetened Vanilla","Blue DiamondAlmond Breeze Almond Milk, Unsweetened Vanilla1.89 l",$4.19ea,,$0.22/ 100ml,False
+drinks,Fruitopia,Fruit Integration Fruit Beverage,FruitopiaFruit Integration Fruit Beverage1.75 l,$2.29ea,,$0.13/ 100ml,False
+drinks,Heineken,Alcohol Free Beer with Natural Flavours ,HeinekenAlcohol Free Beer with Natural Flavours 6x330.0 ml,$11.99pack of 6,,$0.61/ 100ml,False
+drinks,Allen's,Pure Apple Juice Low Acid,Allen'sPure Apple Juice Low Acid1 l,$0.99ea,,$0.10/ 100ml,False
+drinks,Tetley,Peppermint Herbal Cannister Pack,TetleyPeppermint Herbal Cannister Pack20 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,President's Choice,Fresh-Pressed Sweet Apple Cider,President's ChoiceFresh-Pressed Sweet Apple Cider3 l,$5.99ea,,$0.20/ 100ml,False
+drinks,Blue Diamond,"Almond Breeze, Vanilla","Blue DiamondAlmond Breeze, Vanilla1.89 l",$4.19ea,,$0.22/ 100ml,False
+drinks,Nestle,Purelife Natural Spring Water,NestlePurelife Natural Spring Water24x500.0 ml,$3.69pack of 24,,$0.03/ 100ml,False
+drinks,Red Bull,"Energy Drink, Sugar Free","Red BullEnergy Drink, Sugar Free4x250.0 ml",$9.99pack of 4,,$1.00/ 100ml,False
+drinks,Heineken,Alcohol Free Beer Bottles with Natural Flavours ,HeinekenAlcohol Free Beer Bottles with Natural Flavours 6x330.0 ml,$11.99pack of 6,,$0.61/ 100ml,False
+drinks,Silk,"Oat Beverage, Unsweetened, Plant Based, Dairy Free","SilkOat Beverage, Unsweetened, Plant Based, Dairy Free1.75 l",$4.00ea,,$0.23/ 100ml,False
+drinks,Coca-Cola,"Diet, Bottle","Coca-ColaDiet, Bottle500 ml",$2.29ea,,$0.46/ 100ml,False
+drinks,Crush,Crush Orange Soda ,CrushCrush Orange Soda 12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
+drinks,Grace,100% Pure Coconut Water,Grace100% Pure Coconut Water310 ml,$1.29ea,,$0.42/ 100ml,False
+drinks,Arizona,100% Natural Iced Tea with Lemon,Arizona100% Natural Iced Tea with Lemon8x200.0 ml,$3.49ea,,$0.22/ 100ml,False
+drinks,Carnation,Thick Cream,CarnationThick Cream170 ml,$3.29ea,,$1.94/ 100ml,False
+drinks,Red Bull,"Energy Drink, Sugar Free","Red BullEnergy Drink, Sugar Free4x250.0 ml",$9.99pack of 4,,$1.00/ 100ml,False
+drinks,No Name,Apple Juice from Concentrate,No NameApple Juice from Concentrate1 l,$1.29ea,,$0.13/ 100ml,False
+drinks,Folgers, Black Silk K-Cup Coffee Pods 30 Count,Folgers Black Silk K-Cup Coffee Pods 30 Count30 ea,$20.99ea,,$8.75/ 100g,False
+drinks,Folgers, Lively Colombian K-Cup Coffee Pods 30 Count,Folgers Lively Colombian K-Cup Coffee Pods 30 Count30 ea,$20.99ea,,$0.70/ 1ea,False
+drinks,Monster Energy,Ultra Gold,Monster EnergyUltra Gold473 ml,$3.49ea,,$0.74/ 100ml,False
+drinks,San Pellegrino,Carbonated Natural Mineral Water,San PellegrinoCarbonated Natural Mineral Water750 ml,$2.29ea,,$0.31/ 100ml,False
+drinks,Nestea,"Zero Iced Tea, Lemon   ","NesteaZero Iced Tea, Lemon   12x341.0 ml",$7.49pack of 12,,$0.18/ 100ml,False
+drinks,Gatorade,Frost Glacier Freeze Sports Drink ,GatoradeFrost Glacier Freeze Sports Drink 6x591.0 ml,$6.99pack of 6,,$0.20/ 100ml,False
+drinks,Folgers,Decaffeinated Ground Coffee Classic Decaf,FolgersDecaffeinated Ground Coffee Classic Decaf544 g,$10.99ea,,$2.02/ 100g,False
+drinks,Nescafe,"RICH Colombian, Instant Coffee","NescafeRICH Colombian, Instant Coffee100 g",$6.49ea,,$6.49/ 100g,False
+drinks,Gatorade,"G2, Fruit Punch ","GatoradeG2, Fruit Punch 6x591.0 ml",$6.99pack of 6,,$0.20/ 100ml,False
+drinks,Brisk,Zero Lemon Iced Tea,BriskZero Lemon Iced Tea710 ml,$1.49ea,,$0.21/ 100ml,False
+drinks,Ocean Spray,Cocktail Cranberry Pink,Ocean SprayCocktail Cranberry Pink1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,Pure Leaf,"Brewed Iced Tea, Lemon","Pure LeafBrewed Iced Tea, Lemon1.75 l",$3.99ea,,$0.23/ 100ml,False
+drinks,Tropicana,Pineapple Mango With Lime Beverage  ,TropicanaPineapple Mango With Lime Beverage  1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Minute Maid,"Low Acid 100% Orange Juice From Concentrate, Carton","Minute MaidLow Acid 100% Orange Juice From Concentrate, Carton1.75 l",$3.49ea,,$0.20/ 100ml,False
+drinks,President's Choice,Low Sodium & Caffeine-Free Diet Cola,President's ChoiceLow Sodium & Caffeine-Free Diet Cola2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Pepsi,Diet Pepsi,PepsiDiet Pepsi8x355.0 ml,$6.49pack of 8,,$1.83/ 100ml,False
+drinks,Ocean Spray,Cranberry Mango Cocktail,Ocean SprayCranberry Mango Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,Carnation,Fat Free Evaporated Skim Milk,CarnationFat Free Evaporated Skim Milk354 ml,$2.69ea,,$0.76/ 100ml,False
+drinks,President's Choice,Tonic Water,President's ChoiceTonic Water2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,No Name,Medium Roast Decaf Coffee,No NameMedium Roast Decaf Coffee925 g,$8.99ea,,$0.97/ 100g,False
+drinks,Crush,Orange Soda ,CrushOrange Soda 6x710.0 ml,$4.99pack of 6,,$0.12/ 100ml,False
+drinks,Mott's,"Motts Clamato, Pickled Bean","Mott'sMotts Clamato, Pickled Bean1.89 l",$3.99ea,,$0.21/ 100ml,False
+drinks,President's Choice,Naturally Flavoured Grape Soda,President's ChoiceNaturally Flavoured Grape Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Dr Pepper,Soda,Dr PepperSoda2 l,$1.25ea,,$0.06/ 100ml,False
+drinks,Pepsi,Max Zero Sugar Soda    ,PepsiMax Zero Sugar Soda    2 l,$2.29ea,$1.25ea,$0.06/ 100ml,True
+drinks,Eagle Brand,Brand Low Fat Sweetened Condensed Milk,Eagle BrandBrand Low Fat Sweetened Condensed Milk300 ml,$3.99ea,,$1.33/ 100ml,False
+drinks,Folgers,Black Silk Ground Coffee Dark,FolgersBlack Silk Ground Coffee Dark641 g,$10.99ea,,$1.71/ 100g,False
+drinks,No Name,Dark Roast Coffee Pods,No NameDark Roast Coffee Pods114 g,$6.99ea,,$6.13/ 100g,False
+drinks,Sprite,Bottle,SpriteBottle2 l,$1.25ea,,$0.06/ 100ml,False
+drinks,Canada Dry,Diet Ginger Ale ,Canada DryDiet Ginger Ale 12x355.0 ml,$6.99pack of 12,,$0.16/ 100ml,False
+drinks,Canada Dry,Tonic Water ,Canada DryTonic Water 6x222.0 ml,$3.99pack of 6,,$0.30/ 100ml,False
+drinks,Coca-Cola,Diet Coke  ,Coca-ColaDiet Coke  8x300.0 ml,$7.29pack of 8,,$0.30/ 100ml,False
+drinks,Canada Dry,Ginger Ale ,Canada DryGinger Ale 12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
+drinks,Bubly Sparkling Water,"Lime Sparkling Water Beverage, 12 Pack ","Bubly Sparkling WaterLime Sparkling Water Beverage, 12 Pack 12x355.0 ml",$6.79c12,,$0.16/ 100ml,False
+drinks,Coca-Cola,Diet Coke  ,Coca-ColaDiet Coke  12x355.0 ml,$6.99pack of 12,,$0.16/ 100ml,False
+drinks,FANTA,Fanta Pineapple Can,FANTAFanta Pineapple Can12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
+drinks,Coca-Cola,Zero Sugar    ,Coca-ColaZero Sugar    8x300.0 ml,$7.29pack of 8,,$0.30/ 100ml,False
+drinks,Simply,Lemonade,SimplyLemonade2.63 l,$6.49ea,,$0.25/ 100ml,False
+drinks,Dr Pepper,Diet Soda,Dr PepperDiet Soda12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
+drinks,Fruite,Peach Drink,FruitePeach Drink2 l,$2.19ea,,$0.11/ 100ml,False
+drinks,Tetley,Earl Grey Decaffeinated Specialty Cannister Pack,TetleyEarl Grey Decaffeinated Specialty Cannister Pack24 ea,$4.49ea,,$0.19/ 1ea,False
+drinks,Red Bull,Energy Drink,Red BullEnergy Drink250 ml,$2.99ea,,$1.20/ 100ml,False
+drinks,Evian,"Spring Water, Bottle","EvianSpring Water, Bottle1.5 l",$3.29ea,,$0.22/ 100ml,False
+drinks,Peace Tea,Sno-Berry,Peace TeaSno-Berry12x341.0 ml,$7.49c12,,$0.18/ 100ml,False
+drinks,Brisk,Iced Tea Lemonade,BriskIced Tea Lemonade710 ml,$1.49ea,,$0.21/ 100ml,False
+drinks,President's Choice,Gourmet Medium Roast Fine Grind Coffee ,President's ChoiceGourmet Medium Roast Fine Grind Coffee 930 g,$16.99ea,,$1.83/ 100g,False
+drinks,Bubly Sparkling Water,Limited Edition Watermelon,Bubly Sparkling WaterLimited Edition Watermelon12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
+drinks,Peace Tea,Peach Party,Peace TeaPeach Party12x341.0 ml,$7.49pack of 12,,$0.18/ 100ml,False
+drinks,Nestea,Raspberry Can,NesteaRaspberry Can12x341.0 ml,$7.49c12,,$0.18/ 100ml,False
+drinks,President's Choice,Old-Fashioned Style Root Beer Soda,President's ChoiceOld-Fashioned Style Root Beer Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Crush,Orange Soda,CrushOrange Soda2 l,$1.25ea,,$0.06/ 100ml,False
+drinks,Coca-Cola,Zero Sugar     ,Coca-ColaZero Sugar     6x710.0 ml,$5.29pack of 6,,$0.12/ 100ml,False
+drinks,Del Monte,Pineapple Nectar,Del MontePineapple Nectar960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,Del Monte,Guava Nectar,Del MonteGuava Nectar960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,Tropicana,Orange Juice No Pulp ,TropicanaOrange Juice No Pulp 1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Oasis,Tropical Passion Fruit Juice,OasisTropical Passion Fruit Juice960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,Pepsi,Soda  ,PepsiSoda  8x355.0 ml,$6.49pack of 8,,$0.23/ 100ml,False
+drinks,President's Choice,Jamaican-Style Ginger Beer,President's ChoiceJamaican-Style Ginger Beer2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,No Name,Medium Roast Ground Coffee,No NameMedium Roast Ground Coffee925 g,$8.99ea,,$0.97/ 100g,False
+drinks,7Up,Soda      ,7UpSoda      2 l,$1.25ea,,$0.06/ 100ml,False
+drinks,Sparkling Ice,Lemon Lime Sparkling Water,Sparkling IceLemon Lime Sparkling Water503 ml,$1.19ea,,$0.24/ 100ml,False
+drinks,Folgers,Ground Coffee Intensely Dark,FolgersGround Coffee Intensely Dark641 g,$10.99ea,,$1.71/ 100g,False
+drinks,Five Alive,Passionate Peach Citrus Juice,Five AlivePassionate Peach Citrus Juice1.75 l,$3.49ea,,$0.20/ 100ml,False
+drinks,Minute Maid,Gold Peak Iced Tea (Natural Lemon Flavour),Minute MaidGold Peak Iced Tea (Natural Lemon Flavour)1.75 l,$3.79ea,,$0.22/ 100ml,False
+drinks,Ocean Spray,"Cranberry Cocktail, Light","Ocean SprayCranberry Cocktail, Light1.89 l",$4.79ea,,$0.25/ 100ml,False
+drinks,Ocean Spray,Diet Cranberry Mango Cocktail,Ocean SprayDiet Cranberry Mango Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,Tropicana,Tropics Orange Strawberry,TropicanaTropics Orange Strawberry1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,No Name,Medium Roast Decaffeinated Coffee Pods,No NameMedium Roast Decaffeinated Coffee Pods114 g,$6.99ea,,$6.13/ 100g,False
+drinks,President's Choice,Low Sodium Club Soda,President's ChoiceLow Sodium Club Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Coca-Cola,Diet Coke  ,Coca-ColaDiet Coke  6x710.0 ml,$5.29pack of 6,,$0.12/ 100ml,False
+drinks,Coca-Cola,Bottle,Coca-ColaBottle2 l,$1.25ea,,$0.06/ 100ml,False
+drinks,Canada Dry,Club Soda Triple Berry,Canada DryClub Soda Triple Berry12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
+drinks,Crystal Light,"Singles, Raspberry Peach","Crystal LightSingles, Raspberry Peach54 g",$2.99ea,,$5.54/ 100g,False
+drinks,Sprite,Soda ,SpriteSoda 12x355.0 ml,$6.99pack of 12,,$0.16/ 100ml,False
+drinks,Bubly Sparkling Water,Blackberry Sparkling Water ,Bubly Sparkling WaterBlackberry Sparkling Water 12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
+drinks,Coca-Cola,"Zero Sugar Caffeine, 12 Pack ","Coca-ColaZero Sugar Caffeine, 12 Pack 12x355.0 ml",$6.99pack of 12,,$0.16/ 100ml,False
+drinks,Coca-Cola,Bottle     ,Coca-ColaBottle     8x300.0 ml,$7.29pack of 8,,$0.30/ 100ml,False
+drinks,Bubly Sparkling Water,Orange Bubly ,Bubly Sparkling WaterOrange Bubly 12x355.0 ml,$6.79pack of 12,,$0.16/ 100ml,False
+drinks,Tetley,Super Green Matcha,TetleySuper Green Matcha20 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,Fruitopia,Fruit Integration,FruitopiaFruit Integration1 l,$1.89ea,,$0.19/ 100ml,False
+drinks,Minute Maid,"No Sugar Watermelon Blueberry Juice Beverage, 8 Pack","Minute MaidNo Sugar Watermelon Blueberry Juice Beverage, 8 Pack8x200.0 ml",$3.79ea,,$0.24/ 100ml,False
+drinks,Gatorade,Fierce Cool Blue Sports Drink,GatoradeFierce Cool Blue Sports Drink710 ml,$1.59ea,,$0.22/ 100ml,False
+drinks,Tetley,"Tea, Honey Lemon Ginseng Green Specialty  ","TetleyTea, Honey Lemon Ginseng Green Specialty  24 ea",$4.49ea,,$0.19/ 1ea,False
+drinks,Silk,"Almond Beverage, Dark Chocolate Flavour","SilkAlmond Beverage, Dark Chocolate Flavour1.89 l",$4.00ea,,$0.21/ 100ml,False
+drinks,No Name,Peach Drink,No NamePeach Drink2 l,$1.69ea,,$0.08/ 100ml,False
+drinks,Maxwell House,Decaffeinated Coffee 100% Compostable K Cup Coffee Pods,Maxwell HouseDecaffeinated Coffee 100% Compostable K Cup Coffee Pods292 g,$18.99ea,,$6.50/ 100g,False
+drinks,Oasis,Berry Smoothie,OasisBerry Smoothie1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Minute Maid, Lemonade ,Minute Maid Lemonade 1.54 l,$3.49ea,,$0.23/ 100ml,False
+drinks,Minute Maid,Pink Lemonade,Minute MaidPink Lemonade1.54 l,$3.49ea,,$0.23/ 100ml,False
+drinks,Genki Forest,Sparkling Water White Peach Flavor,Genki ForestSparkling Water White Peach Flavor480 ml,$1.99ea,,$0.41/ 100ml,False
+drinks,Nescafe,RICH Instant Coffee,NescafeRICH Instant Coffee475 g,$14.99ea,,$3.16/ 100g,False
+drinks,Bolthouse,100% Carrot,Bolthouse100% Carrot1.54 l,$8.49ea,,$0.55/ 100ml,False
+drinks,Monster Energy,Drink,Monster EnergyDrink4x473.0 ml,$11.49pack of 4,,$0.61/ 100ml,False
+drinks,Tetley,Super Green Matcha,TetleySuper Green Matcha20 ea,$4.49ea,,$0.22/ 1ea,False
+drinks,Fruitopia,Fruit Integration,FruitopiaFruit Integration1 l,$1.89ea,,$0.19/ 100ml,False
+drinks,Minute Maid,"No Sugar Watermelon Blueberry Juice Beverage, 8 Pack","Minute MaidNo Sugar Watermelon Blueberry Juice Beverage, 8 Pack8x200.0 ml",$3.79ea,,$0.24/ 100ml,False
+drinks,Gatorade,Fierce Cool Blue Sports Drink,GatoradeFierce Cool Blue Sports Drink710 ml,$1.59ea,,$0.22/ 100ml,False
+drinks,Vita Coco,Coconut Water Can,Vita CocoCoconut Water Can1 l,$5.99ea,,$0.60/ 100ml,False
+drinks,Tropicana,Pure Premium Homestyle (Some Pulp),TropicanaPure Premium Homestyle (Some Pulp)2.63 l,$6.79ea,,$0.26/ 100ml,False
+drinks,Maxwell House,Decaffeinated Coffee 100% Compostable K Cup Coffee Pods,Maxwell HouseDecaffeinated Coffee 100% Compostable K Cup Coffee Pods292 g,$18.99ea,,$6.50/ 100g,False
+drinks,Oasis,Berry Smoothie,OasisBerry Smoothie1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Minute Maid, Lemonade ,Minute Maid Lemonade 1.54 l,$3.49ea,,$0.23/ 100ml,False
+drinks,Minute Maid,Pink Lemonade,Minute MaidPink Lemonade1.54 l,$3.49ea,,$0.23/ 100ml,False
+drinks,Tetley,Mint Green Specialty Tea   ,TetleyMint Green Specialty Tea   24 ea,$4.49ea,,$0.19/ 1ea,False
+drinks,Minute Maid,Low Acid 100% Orange Juice Nutri Pulp Free,Minute MaidLow Acid 100% Orange Juice Nutri Pulp Free1.75 l,$3.49ea,,$0.20/ 100ml,False
+drinks,Oasis,Berry Juice,OasisBerry Juice8x200.0 ml,$3.49ea,,$0.22/ 100ml,False
+drinks,Silk,"Oat Beverage, Vanilla, Unsweetened, Dairy-Free, Shelf Stable","SilkOat Beverage, Vanilla, Unsweetened, Dairy-Free, Shelf Stable946 ml",$2.99ea,,$0.32/ 100ml,False
+drinks,Van Houtte,"Colombian Medium K-Cup Coffee Pods, 24 Count","Van HoutteColombian Medium K-Cup Coffee Pods, 24 Count228 g",$19.99ea,,$8.77/ 100g,False
+drinks,President's Choice,Jalapeno Lemonade,President's ChoiceJalapeno Lemonade1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Tropicana,Pure Premium Orange Juice (Pulp Free),TropicanaPure Premium Orange Juice (Pulp Free)2.63 l,$6.79ea,,$0.26/ 100ml,False
+drinks,Schweppes,Ginger Ale,SchweppesGinger Ale2 l,$1.25ea,,$0.06/ 100ml,False
+drinks,Monster Energy,"Mango Loco Energy Drink, Can","Monster EnergyMango Loco Energy Drink, Can473 ml",$3.49ea,,$0.74/ 100ml,False
+drinks,Monster Energy,"Ultra Zero Energy Drink, Can","Monster EnergyUltra Zero Energy Drink, Can473 ml",$3.49ea,,$0.74/ 100ml,False
+drinks,President's Choice,Lemonade Radler ,President's ChoiceLemonade Radler 12x355.0 ml,$7.99pack of 12,,$0.19/ 100ml,False
+drinks,Sparkling Ice,Kiwi Strawberry Sparkling Water,Sparkling IceKiwi Strawberry Sparkling Water503 ml,$1.19ea,,$0.24/ 100ml,False
+drinks,Brisk,Lemon Iced Tea    ,BriskLemon Iced Tea    710 ml,$1.49ea,,$0.21/ 100ml,False
+drinks,Gatorade,Lemon Lime Sports Drink (Case),GatoradeLemon Lime Sports Drink (Case)6x591.0 ml,$6.99ea,,$0.20/ 100ml,False
+drinks,Sparkling Ice,Black Raspberry Sparkling Water,Sparkling IceBlack Raspberry Sparkling Water503 ml,$1.19ea,,$0.24/ 100ml,False
+drinks,Brisk,Blackberry Iced Tea,BriskBlackberry Iced Tea710 ml,$1.49ea,,$0.21/ 100ml,False
+drinks,Nescafe,"RICH Hazelnut, Instant Coffee","NescafeRICH Hazelnut, Instant Coffee100 g",$6.49ea,,$6.49/ 100g,False
+drinks,Peace Tea,Razzleberry,Peace TeaRazzleberry12x341.0 ml,$7.49pack of 12,,$0.18/ 100ml,False
+drinks,President's Choice,Ginger Ale,President's ChoiceGinger Ale2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Pure Leaf,Lemon Iced Tea,Pure LeafLemon Iced Tea1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,President's Choice,Gourmet Medium Roast Regular Grind Coffee ,President's ChoiceGourmet Medium Roast Regular Grind Coffee 930 g,$16.99ea,,$1.83/ 100g,False
+drinks,Pepsi,Soda      ,PepsiSoda      6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
+drinks,Crush,Tray Variety Pack Soda ,CrushTray Variety Pack Soda 24x355.0 ml,$12.49pack of 24,,$0.15/ 100ml,False
+drinks,President's Choice,Cream Soda,President's ChoiceCream Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Tropicana,Watermelon Beverage     ,TropicanaWatermelon Beverage     1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Five Alive,", Carton","Five Alive, Carton1.75 l",$3.49ea,,$0.20/ 100ml,False
+drinks,No Name,Evaporated Milk,No NameEvaporated Milk354 ml,$1.79ea,,$0.51/ 100ml,False
+drinks,Tropicana,Lemonade      ,TropicanaLemonade      1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Dr Pepper,Soft Drink Mini ,Dr PepperSoft Drink Mini 6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
+drinks,Mug,Root Beer Soda,MugRoot Beer Soda2 l,$2.29ea,$1.25ea,$0.06/ 100ml,True
+drinks,Ocean Spray,Low Calorie Cranberry Beverage Pink Lite,Ocean SprayLow Calorie Cranberry Beverage Pink Lite1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,Pepsi,Zero Sugar ,PepsiZero Sugar 6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
+drinks,No Name,Medium Roast Coffee Pods,No NameMedium Roast Coffee Pods114 g,$6.99ea,,$6.13/ 100g,False
+drinks,Tropicana,Tropics Orange Peach Mang,TropicanaTropics Orange Peach Mang1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Pepsi,Soda      ,PepsiSoda      6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
+drinks,Crush,Tray Variety Pack Soda ,CrushTray Variety Pack Soda 24x355.0 ml,$12.49pack of 24,,$0.15/ 100ml,False
+drinks,President's Choice,Cream Soda,President's ChoiceCream Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,Pepsi,Zero Sugar ,PepsiZero Sugar 6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
+drinks,President's Choice,Lemonade Radler ,President's ChoiceLemonade Radler 12x355.0 ml,$7.99pack of 12,,$0.19/ 100ml,False
+drinks,Sparkling Ice,Kiwi Strawberry Sparkling Water,Sparkling IceKiwi Strawberry Sparkling Water503 ml,$1.19ea,,$0.24/ 100ml,False
+drinks,Tropicana,Watermelon Beverage     ,TropicanaWatermelon Beverage     1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Five Alive,", Carton","Five Alive, Carton1.75 l",$3.49ea,,$0.20/ 100ml,False
+drinks,No Name,Evaporated Milk,No NameEvaporated Milk354 ml,$1.79ea,,$0.51/ 100ml,False
+drinks,Tropicana,Lemonade      ,TropicanaLemonade      1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Dr Pepper,Soft Drink Mini ,Dr PepperSoft Drink Mini 6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
+drinks,Mug,Root Beer Soda,MugRoot Beer Soda2 l,$2.29ea,$1.25ea,$0.06/ 100ml,True
+drinks,Ocean Spray,Low Calorie Cranberry Beverage Pink Lite,Ocean SprayLow Calorie Cranberry Beverage Pink Lite1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,No Name,Medium Roast Coffee Pods,No NameMedium Roast Coffee Pods114 g,$6.99ea,,$6.13/ 100g,False
+drinks,Tropicana,Tropics Orange Peach Mang,TropicanaTropics Orange Peach Mang1.75 l,$3.99ea,,$0.23/ 100ml,False
+drinks,Gatorade,Cool Blue Sports Drink ,GatoradeCool Blue Sports Drink 6x591.0 ml,$6.99pack of 6,,$0.20/ 100ml,False
+drinks,Mott's,Garden Cocktail,Mott'sGarden Cocktail1.89 l,$3.99ea,,$0.21/ 100ml,False
+drinks,Peace Tea,Sno-Berry,Peace TeaSno-Berry695 ml,$1.39ea,,$0.20/ 100ml,False
+drinks,Rooster,Coconut Water,RoosterCoconut Water500 ml,$1.99ea,,$0.40/ 100ml,False
+drinks,Real Lemon,Realime Single Strength Lime Juice,Real LemonRealime Single Strength Lime Juice125 ml,$1.00ea,,$0.80/ 100ml,False
+drinks,Tim Hortons,"Single Serve Coffee Pods, Original","Tim HortonsSingle Serve Coffee Pods, Original126 g",$8.99ea,,$7.13/ 100g,False
+drinks,Peace Tea,"Peach Party Tea, Can","Peace TeaPeach Party Tea, Can695 ml",$1.39ea,,$0.20/ 100ml,False
+drinks,No Name,Instant Coffee,No NameInstant Coffee150 g,$3.79ea,,$2.53/ 100g,False
+drinks,HAO TEA,China Green Tea,HAO TEAChina Green Tea200 g,$3.99ea,,$2.00/ 100g,False
+drinks,McCafe,Decaf Premium Roast    ,McCafeDecaf Premium Roast    340 g,$12.99ea,,$3.82/ 100g,False
+drinks,President's Choice,Gourmet Medium Roast Coffee Pods,President's ChoiceGourmet Medium Roast Coffee Pods30 ea,$16.99ea,,$0.57/ 1ea,False
+drinks,Pepsi,Diet Soda,PepsiDiet Soda591 ml,$2.29ea,,$0.39/ 100ml,False
+drinks,Simply,Real Fruit Beverage Fruit Punch,SimplyReal Fruit Beverage Fruit Punch1.54 l,$3.79ea,,$0.25/ 100ml,False
+drinks,Suraj,Mango Exotic Juice Drink,SurajMango Exotic Juice Drink1 l,$2.00ea,,$0.20/ 100ml,False
+drinks,President's Choice,Honey Yuzu Citrus Flavoured Lemonade,President's ChoiceHoney Yuzu Citrus Flavoured Lemonade1.89 l,$3.29ea,,$0.17/ 100ml,False
+drinks,President's Choice,Red Brew Dealcoholized Lager Beer ,President's ChoiceRed Brew Dealcoholized Lager Beer 12x355.0 ml,$7.99pack of 12,,$0.19/ 100ml,False
+drinks,Suraj,Pineapple Coconut Exotic Juice Drink,SurajPineapple Coconut Exotic Juice Drink1 l,$2.00ea,,$0.20/ 100ml,False
+drinks,President's Choice,Sparkling Lemonade 12 Cans,President's ChoiceSparkling Lemonade 12 Cans12x355.0 ml,$4.79ea,,$0.11/ 100ml,False
+drinks,Minute Maid,Real Fruit Beverage Nutri Fibre Mixed Berry 1.75 L,Minute MaidReal Fruit Beverage Nutri Fibre Mixed Berry 1.75 L1.75 l,$3.49ea,,$0.20/ 100ml,False
+drinks,AHA,Blueberry Pomegranate ,AHABlueberry Pomegranate 12x355.0 ml,$5.49pack of 12,,$0.13/ 100ml,False
+drinks,President's Choice,Dark Chocolate Peppermint Candy Hot Cocoa Mix,President's ChoiceDark Chocolate Peppermint Candy Hot Cocoa Mix500 g,$4.99ea,$3.00ea,$0.60/ 100g,True
+drinks,Allen's,Fruit Punch Cocktail,Allen'sFruit Punch Cocktail1 l,$0.99ea,,$0.10/ 100ml,False
+drinks,President's Choice,"Green Tea, Club Pack","President's ChoiceGreen Tea, Club Pack48 ea",$3.99ea,,$8.31/ 100ea,False
+drinks,Schweppes,Ginger Ale ,SchweppesGinger Ale 12x355.0 ml,$6.79c12,,$0.16/ 100ml,False
+drinks,Grace,"Coconut Water, With Pulp","GraceCoconut Water, With Pulp310 ml",$1.29ea,,$0.42/ 100ml,False
+drinks,Coca-Cola,Diet Bottle,Coca-ColaDiet Bottle1 l,$1.59ea,,$0.16/ 100ml,False
+drinks,President's Choice,Cranberry Cocktail,President's ChoiceCranberry Cocktail1.89 l,$3.49ea,,$0.18/ 100ml,False
+drinks,Allen's,Grape Cocktail,Allen'sGrape Cocktail8x200.0 ml,$2.29ea,,$0.14/ 100ml,False
+drinks,President's Choice,Mango Lemonade,President's ChoiceMango Lemonade1.89 l,$3.29ea,,$0.17/ 100ml,False
+drinks,Simply,Watermelon,SimplyWatermelon340 ml,$1.99ea,,$0.59/ 100ml,False
+drinks,Nestea,"Lemon Tea, Bottle","NesteaLemon Tea, Bottle1.89 l",$3.99ea,,$0.21/ 100ml,False
+drinks,Glaceau,"Acai-Blueberry-Pomegranate Nutrient Enhanced Water, Bottle","GlaceauAcai-Blueberry-Pomegranate Nutrient Enhanced Water, Bottle591 ml",$2.29ea,,$0.39/ 100ml,False
+drinks,No Name,Fruit Punch,No NameFruit Punch2 l,$1.69ea,,$0.08/ 100ml,False
+drinks,Tassimo,Maxwell House Decaf Coffee Single Serve T-Discs,TassimoMaxwell House Decaf Coffee Single Serve T-Discs14 ea,$8.99ea,,$0.64/ 1ea,False
+drinks,Tassimo,Nabob Café Crema Coffee Single Serve T-Discs,TassimoNabob Café Crema Coffee Single Serve T-Discs14 ea,$9.99ea,,$9.08/ 100g,False
+drinks,Tassimo,Maxwell House Rich Dark Roast Coffee Single Serve T-Discs,TassimoMaxwell House Rich Dark Roast Coffee Single Serve T-Discs14 ea,$8.99ea,,$0.64/ 1ea,False
+drinks,President's Choice,Mango Raspberry Lemonade,President's ChoiceMango Raspberry Lemonade1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Blue Diamond,Almond Breeze Original,Blue DiamondAlmond Breeze Original1.89 l,$4.19ea,,$0.22/ 100ml,False
+drinks,Silk,"Oat Beverage, Vanilla, Unsweetened, Dairy-Free","SilkOat Beverage, Vanilla, Unsweetened, Dairy-Free1.75 l",$4.00ea,,$0.23/ 100ml,False
+drinks,Simply,"Lemonade, Bottle","SimplyLemonade, Bottle1.54 l",$3.79ea,,$0.25/ 100ml,False
+drinks,Bolthouse,Strawberry Banana,BolthouseStrawberry Banana1.54 l,$8.49ea,,$0.55/ 100ml,False
+drinks,Nestea,"Iced Tea, Lemon ","NesteaIced Tea, Lemon 12x341.0 ml",$7.49c12,,$0.18/ 100ml,False
+drinks,Nescafe,Rich French Vanilla Instant Coffee,NescafeRich French Vanilla Instant Coffee100 g,$6.49ea,,$6.49/ 100g,False
+drinks,Brisk,Peach Iced Tea,BriskPeach Iced Tea710 ml,$1.49ea,,$0.21/ 100ml,False
+drinks,San Pellegrino,Sparkling Drink Lemon & Raspberry,San PellegrinoSparkling Drink Lemon & Raspberry6x330.0 ml,$7.49pack of 6,,$0.38/ 100ml,False
+drinks,Crystal Light,"Singles, Strawberry Orange Banana","Crystal LightSingles, Strawberry Orange Banana27 g",$2.99ea,,$11.07/ 100g,False
+drinks,President's Choice,Gourmet West Coast Dark Roast Coffee,President's ChoiceGourmet West Coast Dark Roast Coffee875 g,$16.99ea,,$1.94/ 100g,False
+drinks,Oasis,Fruit Fusion Fruit Juice,OasisFruit Fusion Fruit Juice960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,Ocean Spray,Cranberry Cherry Cocktail,Ocean SprayCranberry Cherry Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,President's Choice,The Great Canadian Light to Medium Roast Coffee,President's ChoiceThe Great Canadian Light to Medium Roast Coffee930 g,$16.99ea,,$1.83/ 100g,False
+drinks,Ocean Spray,Cranberry Cocktail,Ocean SprayCranberry Cocktail1.89 l,$4.79ea,,$0.25/ 100ml,False
+drinks,Simply,"with Pulp Orange Juice, Bottle","Simplywith Pulp Orange Juice, Bottle1.54 l",$3.99ea,,$0.26/ 100ml,False
+drinks,Pepsi,7UP Soda ,Pepsi7UP Soda 6x222.0 ml,$4.49excl. hst & bottle deposit,,$0.34/ 100ml,False
+drinks,Folgers,Classic Roast Ground Coffee,FolgersClassic Roast Ground Coffee816 g,$10.99ea,,$1.35/ 100g,False
+drinks,Tropicana,Strawberry Peach Beverage    ,TropicanaStrawberry Peach Beverage    1.54 l,$3.99ea,,$0.26/ 100ml,False
+drinks,Oasis,Orange Pure Breakfast Juice,OasisOrange Pure Breakfast Juice960 ml,$2.19ea,,$0.23/ 100ml,False
+drinks,President's Choice,Gourmet Medium Roast Extra Fine Grind Coffee ,President's ChoiceGourmet Medium Roast Extra Fine Grind Coffee 930 g,$16.99ea,,$1.83/ 100g,False
+drinks,Pepsi,Diet Soda,PepsiDiet Soda6x710.0 ml,$4.99c06,,$0.12/ 100ml,False
+drinks,Sprite,Soda ,SpriteSoda 6x710.0 ml,$5.29pack of 6,,$0.12/ 100ml,False
+drinks,No Name,2% Evaporated Partly Skimmed Milk,No Name2% Evaporated Partly Skimmed Milk354 ml,$1.79ea,,$0.51/ 100ml,False
+drinks,President's Choice,Orange Soda,President's ChoiceOrange Soda2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,President's Choice,Diet Cola,President's ChoiceDiet Cola2 l,$1.19ea,,$0.06/ 100ml,False
+drinks,7Up,7UP Soft Drink,7Up7UP Soft Drink8x355.0 ml,$6.49pack of 8,,$1.83/ 100ml,False
+drinks,Simply,"Pulp Free Orange Juice, Bottle","SimplyPulp Free Orange Juice, Bottle1.54 l",$3.99ea,,$0.26/ 100ml,False
+drinks,Pepsi,Diet Soda,PepsiDiet Soda6x222.0 ml,$4.49pack of 6,,$0.34/ 100ml,False
+drinks,Pepsi,Zero Sugar Soda ,PepsiZero Sugar Soda 8x355.0 ml,$6.49pack of 8,,$0.23/ 100ml,False
+drinks,No Name,Dark Roast Ground Coffee,No NameDark Roast Ground Coffee925 g,$8.99ea,,$0.97/ 100g,False
+drinks,A&W,Root Beer ,A&WRoot Beer 12x355.0 ml,$6.99c12,,$0.16/ 100ml,False
+drinks,Gatorade,"Zero, Orange","GatoradeZero, Orange6x591.0 ml",$6.99pack of 6,,$0.20/ 100ml,False
+drinks,Coca-Cola,Zero      ,Coca-ColaZero      6x222.0 ml,$3.99pack of 6,,$0.30/ 100ml,False
+drinks,Gatorade,G Zero Grape Sports Drink,GatoradeG Zero Grape Sports Drink6x591.0 ml,$6.99pack of 6,,$0.20/ 100ml,False
+drinks,Coca-Cola,"Caffeine Free, Bottle","Coca-ColaCaffeine Free, Bottle2 l",$2.49ea,$1.25ea,$0.06/ 100ml,True
+drinks,Sprite,Zero      ,SpriteZero      12x355.0 ml,$6.99pack of 12,,$0.16/ 100ml,False
+drinks,A&W,Root Beer,A&WRoot Beer2 l,$1.25ea,,$0.06/ 100ml,False
+drinks,Coca-Cola,Zero Sugar     ,Coca-ColaZero Sugar     12x355.0 ml,$6.99pack of 12,,$0.16/ 100ml,False
+drinks,Canada Dry,Ginger Ale,Canada DryGinger Ale2 l,$2.49ea,$1.25ea,$0.06/ 100ml,True
+drinks,Canada Dry,Ginger Ale ,Canada DryGinger Ale 6x222.0 ml,$3.99pack of 6,,$0.30/ 100ml,False
