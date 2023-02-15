@@ -28,7 +28,6 @@ def nav_to_page(driver, link):
 def close_cookies_blocker(driver, cookie_close_xref):
     '''cookie blocker pops up when you first go to a page, 
     this function clicks the close button on the popup'''
-
     cookies_block = driver.find_element_by_xpath(xpath='//*[@id="privacy-policy"]/div/div/button').click()
     print('\t closed cookie blocker')  
 

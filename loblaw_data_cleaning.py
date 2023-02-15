@@ -7,6 +7,21 @@ import re
 
 stores = ['zehrs', 'no_frills', 'valu_mart']
 
+
+def clean_product_name(text, brand):
+    # add space after brand 
+    s = text.replace(brand, f'{brand} ')
+    
+    # search for all numbers with letter directly in front 
+    find_num = re.search('(?<=\w)\d', s)
+    # index of that pattern match 
+    idx = find_num.start()
+    # split on the pattern index 
+    s = s[:idx] + ' ' + s[idx:]
+
+    return s 
+
+
 for store in stores:
 
     # read in raw data
@@ -61,13 +76,15 @@ for store in stores:
 
         if not is_sale:
             price, pup = None, None
+
+        full_product_text = clean_product_name(row.product_name, row.brand)
         
         clean_data = clean_data.append({
                         'store': store, 
                         'category': row.category,
                         'brand': row.brand, 
                         'product': row.product_text, 
-                        'full_product_text': row.product_name,
+                        'full_product_text': full_product_text,
                         'list_price': list_price, 
                         'price': price_was,
                         'sale_price':  price,
