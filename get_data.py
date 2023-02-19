@@ -5,17 +5,17 @@ import time
 print('##################### PROCESS STARTED #####################')
 
 # 1. scrapers 
-print('------------ scraping data')
+# print('------------ scraping data')
 
-start_time = time.time() 
-print('starting loblaw co scraping')
-import loblaw_co_scraper
-print(f'completed in {time.time() - start_time} \n')
+# start_time = time.time() 
+# print('starting loblaw co scraping')
+# import loblaw_co_scraper
+# print(f'completed in {time.time() - start_time} \n')
 
-start_time = time.time() 
-print('starting flipp scraping')
-import flipp_scraper_v2 # upgrade to v2 
-print(f'completed in {time.time() - start_time} \n')
+# start_time = time.time() 
+# print('starting flipp scraping')
+# import flipp_scraper_v2 # upgrade to v2 
+# print(f'completed in {time.time() - start_time} \n')
 
 # 2. cleaning
 print('------------ cleaning data')

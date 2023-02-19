@@ -10,16 +10,20 @@ stores = ['zehrs', 'no_frills', 'valu_mart']
 
 def clean_product_name(text, brand):
     # add space after brand 
-    s = text.replace(brand, f'{brand} ')
+    try:
+        s = text.replace(brand, f'{brand} ')
+    except:
+        s = text
     
     # search for all numbers with letter directly in front 
-    find_num = re.search('(?<=\w)\d', s)
-    # index of that pattern match 
-    idx = find_num.start()
-    # split on the pattern index 
-    s = s[:idx] + ' ' + s[idx:]
-
-    return s 
+    try:
+        find_num = re.search('(?<=\w)\d', s)
+        # index of that pattern match 
+        idx = find_num.start()
+        # split on the pattern index 
+        return s[:idx] + ' ' + s[idx:]
+    except: 
+        return text
 
 
 for store in stores:

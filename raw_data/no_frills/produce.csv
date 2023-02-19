@@ -1,389 +1,399 @@
 category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale
 produce,,"Bananas, Bunch","Bananas, Bunch",$1.50(est.)ea,,$1.30/ 1kg,False
-produce,,Strawberries 1LB,Strawberries 1LB454 g,$5.99ea,$4.99ea,$1.10/ 100g,True
+produce,,English Cucumber,English Cucumber1 ea,$2.49ea,,$2.49/ 1ea,False
+produce,,Green Onion,Green Onion1 bunch,$1.69ea,,$1.69/ 1ea,False
 produce,,Green Seedless Grapes,Green Seedless Grapes,$6.72(est.)ea,,$6.59/ 1kg,False
-produce,Farmer's Market,Yellow Onions,Farmer's MarketYellow Onions3 lb bag,$2.49ea,,$0.18/ 100g,False
-produce,,Blueberries 1 pint,Blueberries 1 pint340 g,$4.99ea,$3.99ea,$1.17/ 100g,True
 produce,,Celery Stalks,Celery Stalks1 ea,$3.99ea,,$3.99/ 1ea,False
 produce,,Avocados Bag,Avocados Bag1 bag,$3.99ea,,$0.80/ 1ea,False
-produce,,Lettuce Iceberg,Lettuce Iceberg1 ea,$2.99ea,$1.99ea,$1.99/ 1ea,True
-produce,,Cauliflower,Cauliflower1 ea,$3.99ea,,$3.99/ 1ea,False
-produce,,Roma Tomatoes,Roma Tomatoes,$0.79(est.)ea,,$6.59/ 1kg,False
-produce,,Lemon,Lemon1 ea,$0.99ea,,$0.99/ 1ea,False
-produce,,Broccoli,Broccoli1 ea,$3.99ea,,$3.99/ 1ea,False
+produce,,Roma Tomatoes,Roma Tomatoes,$0.53(est.)ea,,$4.39/ 1kg,False
+produce,Farmer's Market,Yellow Onions,Farmer's MarketYellow Onions3 lb bag,$2.49ea,,$0.18/ 100g,False
 produce,,Red Seedless Grapes,Red Seedless Grapes,$6.52(est.)ea,,$6.59/ 1kg,False
-produce,,Tomato On The Vine Red ( 1 Bunch),Tomato On The Vine Red ( 1 Bunch),$5.46(est.)ea,,$7.69/ 1kg,False
-produce,Farmer's Market,Carrots,Farmer's MarketCarrots3 lb bag,$2.49ea,,$0.18/ 100g,False
-produce,,Pineapple,Pineapple1 ea,$2.99ea,$1.87ea,$1.87/ 1ea,True
-produce,,Tomato Beefsteak  Red,Tomato Beefsteak  Red,$1.77(est.)ea,,$6.59/ 1kg,False
-produce,,Zucchini,Zucchini,$1.54(est.)ea,,$5.49/ 1kg,False
-produce,,Cilantro,Cilantro1 bunch,$1.29ea,,$1.29/ 1ea,False
-produce,,Red Peppers    ,Red Peppers    ,$2.64(est.)ea,,$11.00/ 1kg,False
-produce,,Sweet Potato,Sweet Potato,$2.07(est.)ea,$1.37(est.)ea,$2.18/ 1kg,True
+produce,,Lettuce Iceberg,Lettuce Iceberg1 ea,$3.49ea,,$3.49/ 1ea,False
+produce,,Lemon,Lemon1 ea,$0.99ea,,$0.99/ 1ea,False
+produce,,Blueberries 1 pint,Blueberries 1 pint340 g,$4.99ea,$3.99ea,$1.17/ 100g,True
 produce,Farmer's Market,Grape Tomatoes,Farmer's MarketGrape Tomatoes283 g,$2.99ea,$2.49ea,$0.88/ 100g,True
-produce,,Red Onion,Red Onion,$1.62(est.)ea,,$4.39/ 1kg,False
-produce,,Broccoli Crown,Broccoli Crown1 ea,$2.29ea,$1.99ea,$1.99/ 1ea,True
+produce,,Broccoli,Broccoli1 ea,$3.99ea,,$3.99/ 1ea,False
+produce,Farmer's Market,Carrots,Farmer's MarketCarrots3 lb bag,$2.49ea,,$0.18/ 100g,False
+produce,,Tomato On The Vine Red ( 1 Bunch),Tomato On The Vine Red ( 1 Bunch),$5.46(est.)ea,,$7.69/ 1kg,False
+produce,,Cauliflower,Cauliflower1 ea,$3.99ea,,$3.99/ 1ea,False
+produce,,Cilantro,Cilantro1 bunch,$1.29ea,,$1.29/ 1ea,False
+produce,,Zucchini,Zucchini,$1.23(est.)ea,,$4.39/ 1kg,False
 produce,,Sweet Green Peppers,Sweet Green Peppers,$2.15(est.)ea,,$7.69/ 1kg,False
-produce,,Clementines,Clementines4 lb,$5.99ea,,$0.33/ 100g,False
+produce,,Red Peppers    ,Red Peppers    ,$2.11(est.)ea,,$8.80/ 1kg,False
+produce,,Tomato Beefsteak  Red,Tomato Beefsteak  Red,$1.77(est.)ea,,$6.59/ 1kg,False
+produce,,Red Onion,Red Onion,$1.62(est.)ea,,$4.39/ 1kg,False
+produce,,Sweet Potato,Sweet Potato,$2.04(est.)ea,$1.37(est.)ea,$2.18/ 1kg,True
+produce,,Limes,Limes1 ea,$0.59ea,,$0.59/ 1ea,False
+produce,,Royal Gala Apples,Royal Gala Apples,$1.15(est.)ea,$0.46(est.)ea,$2.18/ 1kg,True
+produce,,Mandarin,Mandarin4 lb,$5.99ea,,$0.33/ 100g,False
 produce,PC Organics,"Organic Bananas, Bunch","PC OrganicsOrganic Bananas, Bunch",$2.40(est.)ea,,$2.18/ 1kg,False
-produce,,Ginger,Ginger,$0.92(est.)ea,,$4.39/ 1kg,False
+produce,,Pineapple,Pineapple1 ea,$2.99ea,,$2.99/ 1ea,False
+produce,,Asparagus,Asparagus,$6.49(est.)ea,$5.19(est.)ea,$8.80/ 1kg,True
+produce,,Avocado,Avocado1 ea,$0.99ea,,$0.99/ 1ea,False
 produce,,Raspberries 1/2 pint,Raspberries 1/2 pint170 g,$4.99ea,,$2.94/ 100g,False
-produce,,Red Field Peppers,Red Field Peppers1 ea,$2.99ea,$1.99ea,$0.50/ 1ea,True
-produce,,Avocado,Avocado1 ea,$1.99ea,,$1.99/ 1ea,False
-produce,,Limes,Limes1 ea,$0.89ea,,$0.89/ 1ea,False
-produce,Farmer's Market,Sweet Baby Peppers,Farmer's MarketSweet Baby Peppers4 pack,$4.99ea,,$1.25/ 1ea,False
-produce,Rooster,Garlic      ,RoosterGarlic      90 g,$0.99ea,,$0.33/ 1ea,False
 produce,No Name,Naturally Imperfect Mixed Sweet Peppers 2.5lb Bag,No NameNaturally Imperfect Mixed Sweet Peppers 2.5lb Bag1.113 kg,$6.00ea,,$0.54/ 100g,False
-produce,Farmer's Market,Russet Potatoes,Farmer's MarketRusset Potatoes10 lb bag,$5.79ea,,$0.13/ 100g,False
+produce,,Ginger,Ginger,$1.15(est.)ea,,$5.49/ 1kg,False
+produce,Farmer's Market,Russet Potatoes,Farmer's MarketRusset Potatoes10 lb bag,$2.99ea,$2.49ea,$0.05/ 100g,True
 produce,,Cantaloupe,Cantaloupe1 ea,$2.99ea,,$2.99/ 1ea,False
-produce,,Royal Gala Apples,Royal Gala Apples,$1.15(est.)ea,,$5.49/ 1kg,False
-produce,,Bartlett Pears,Bartlett Pears,$1.15(est.)ea,$0.92(est.)ea,$4.39/ 1kg,True
+produce,,Red Field Peppers,Red Field Peppers1 ea,$2.99ea,,$0.75/ 1ea,False
+produce,Rooster,Garlic      ,RoosterGarlic      90 g,$0.99ea,,$0.33/ 1ea,False
+produce,,Broccoli Crown,Broccoli Crown1 ea,$2.49ea,,$2.49/ 1ea,False
+produce,Farmer's Market,Sweet Baby Peppers,Farmer's MarketSweet Baby Peppers4 pack,$4.99ea,,$1.25/ 1ea,False
 produce,,Mango,Mango1 ea,$0.99ea,,$0.99/ 1ea,False
+produce,,Bartlett Pears,Bartlett Pears,$1.38(est.)ea,,$6.59/ 1kg,False
+produce,Farmer's Market,Mini Carrots,Farmer's MarketMini Carrots340 g,$1.99ea,,$0.59/ 100g,False
 produce,,Colossal Garlic,Colossal Garlic,$1.61(est.)ea,,$16.07/ 1kg,False
 produce,,Sweet Onion,Sweet Onion,$2.63(est.)ea,,$5.71/ 1kg,False
-produce,PC Organics,Baby Spinach,PC OrganicsBaby Spinach142 g,$4.49ea,,$3.16/ 100g,False
-produce,,LoBok (Daikon Radish),LoBok (Daikon Radish),$2.67(est.)ea,,$2.84/ 1kg,False
-produce,,Celery Hearts,Celery Hearts2 pack,$5.49ea,,$2.75/ 1ea,False
-produce,,Romaine Hearts,Romaine Hearts1 ea,$3.99ea,,$2.00/ 1ea,False
-produce,PC Organics,Organic Cucumber Mini,PC OrganicsOrganic Cucumber Mini342 g,$4.49ea,,$0.75/ 1ea,False
 produce,President's Choice,Salad Kit Chopped Sesame Wonton ,President's ChoiceSalad Kit Chopped Sesame Wonton 347 g,$4.99ea,,$1.44/ 100g,False
-produce,,"Fresh Dill, Baby","Fresh Dill, Baby1 bunch",$3.49ea,,$3.49/ 1ea,False
-produce,PC Blue Menu,Unsalted California Pistachios ,PC Blue MenuUnsalted California Pistachios 454 g,$9.99ea,,$2.20/ 100g,False
-produce,No Name,Naturally Imperfect Avocados,No NameNaturally Imperfect Avocados3 lb bag,$7.00ea,,$0.51/ 100g,False
-produce,Farmer's Market,Red Potatoes 10lb Bag,Farmer's MarketRed Potatoes 10lb Bag10 lb bag,$5.97ea,$4.99ea,$0.11/ 100g,True
-produce,PC Organics,Organic Cauliflower,PC OrganicsOrganic Cauliflower1 ea,$5.99ea,,$5.99/ 1ea,False
-produce,,Honey Pitted Dates,Honey Pitted Dates350 g,$2.99ea,,$0.85/ 100g,False
-produce,,Clementine Stem & Leaf,Clementine Stem & Leaf,$0.92(est.)ea,,$8.80/ 1kg,False
-produce,Farmer's Market,Granny Smith Apples,Farmer's MarketGranny Smith Apples4 lb bag,$7.99ea,,$0.44/ 100g,False
-produce,PC Organics,Organic Grape Tomatoes,PC OrganicsOrganic Grape Tomatoes255 g,$3.99ea,,$1.56/ 100g,False
-produce,Bolthouse,"Juice, 100% Pomegranate","BolthouseJuice, 100% Pomegranate1.54 l",$10.99ea,,$0.71/ 100ml,False
-produce,,Taiwanese Flat Cabbage,Taiwanese Flat Cabbage,$3.21(est.)ea,,$2.84/ 1kg,False
-produce,,Jalapeno Peppers,Jalapeno Peppers,$0.44(est.)ea,,$8.80/ 1kg,False
-produce,,"Red Potatoes, Small","Red Potatoes, Small2.27 kg",$3.99ea,$1.99ea,$0.09/ 100g,True
-produce,,Long Beans,Long Beans,$0.44/50 g,,$0.88/ 100g,False
-produce,President's Choice,Mixed Greens,President's ChoiceMixed Greens0.34 kg,$3.99ea,,$1.17/ 100g,False
-produce,No Name,Naturally Imperfect English Cucumber 3lb Bag,No NameNaturally Imperfect English Cucumber 3lb Bag1.36 kg,$7.00ea,,$0.51/ 100g,False
-produce,President's Choice,Whole Cremini Mushrooms,President's ChoiceWhole Cremini Mushrooms454 g,$3.99ea,,$0.88/ 100g,False
-produce,,French Beans,French Beans400 g,$4.99ea,,$1.25/ 100g,False
-produce,President's Choice,Bay Leaf,President's ChoiceBay Leaf28 g,$2.49ea,,,False
-produce,,Italian Parsley,Italian Parsley1 bunch,$1.99ea,,$1.99/ 1ea,False
-produce,PC Organics,Organic Tomato On The Vine Red (1 Bunch),PC OrganicsOrganic Tomato On The Vine Red (1 Bunch),$7.92(est.)ea,,$11.00/ 1kg,False
-produce,Remedy,Organic Mango Passionfruit Kombucha,RemedyOrganic Mango Passionfruit Kombucha700 ml,$4.99ea,,$0.71/ 100ml,False
-produce,Farmer's Market,Red Grapefruit,Farmer's MarketRed Grapefruit3 lb bag,$5.49ea,$4.99ea,$0.37/ 100g,True
-produce,PC Organics,Organic Garlic,PC OrganicsOrganic Garlic115 g,$2.99ea,,$2.60/ 100g,False
-produce,,"Red Beets, Bunched","Red Beets, Bunched1 bunch",$3.99ea,,$3.99/ 1ea,False
-produce,,Curly Parsley,Curly Parsley1 bunch,$1.99ea,,$1.99/ 1ea,False
-produce,,Black Plums,Black Plums,$0.88(est.)ea,,$8.80/ 1kg,False
-produce,,Baby Bok Choy Jr,Baby Bok Choy Jr,$3.68(est.)ea,,$5.49/ 1kg,False
-produce,Taylor Farms,Guacamole Crunch Chopped Salad Kit,Taylor FarmsGuacamole Crunch Chopped Salad Kit319 g,$4.99ea,,$1.56/ 100g,False
-produce,Renees,Dill Refrigerated Dip,ReneesDill Refrigerated Dip283 g,$4.99ea,,$1.76/ 100g,False
-produce,President's Choice,Spring Mix,President's ChoiceSpring Mix0.142 kg,$3.99ea,,$2.81/ 100g,False
-produce,,Kiwis,Kiwis1 ea,$0.89ea,,$0.89/ 1ea,False
-produce,No Name,Brown Mushrooms,No NameBrown Mushrooms680 g,$4.00ea,,$0.59/ 100g,False
-produce,,Green Beans,Green Beans,$0.44/50 g,,$0.88/ 100g,False
-produce,President's Choice,Mixed Little Gems,President's ChoiceMixed Little Gems0.68 kg,$4.19ea,,$0.62/ 100g,False
-produce,President's Choice,Thyme ,President's ChoiceThyme 28 g,$2.49ea,,,False
-produce,PC Organics,Organic Baby King Oyster Mushrooms,PC OrganicsOrganic Baby King Oyster Mushrooms200 g,$4.99ea,,$2.50/ 100g,False
-produce,,Yellow Fleshed Potato,Yellow Fleshed Potato2270 g,$2.99ea,$1.99ea,$0.09/ 100g,True
-produce,,Fresh Kiwi Fruit,Fresh Kiwi Fruit600 g,$3.99ea,,$0.67/ 100g,False
-produce,Farmer's Market,Ambrosia Apples 4lb,Farmer's MarketAmbrosia Apples 4lb1.814 kg,$6.49ea,$4.99ea,$0.28/ 100g,True
+produce,President's Choice,Broccoli Slaw,President's ChoiceBroccoli Slaw340 g,$3.49ea,,$1.03/ 100g,False
 produce,President's Choice,Vegetable Medley,President's ChoiceVegetable Medley340 g,$4.99ea,,$1.47/ 100g,False
-produce,,Dried Turkish Apricots,Dried Turkish Apricots200 g,$2.99ea,,$1.50/ 100g,False
-produce,President's Choice,Mint,President's ChoiceMint28 g,$2.49ea,,,False
-produce,,White Pummelos,White Pummelos1 ea,$2.99ea,,$2.99/ 1ea,False
-produce,Bolthouse,Green Goodness,BolthouseGreen Goodness1.54 l,$8.49ea,,$0.55/ 100ml,False
+produce,Bolthouse,"Juice, 100% Pomegranate","BolthouseJuice, 100% Pomegranate1.54 l",$10.99ea,,$0.71/ 100ml,False
+produce,Taylor Farms,Broccoli Crunch Salad Kit,Taylor FarmsBroccoli Crunch Salad Kit360 g,$4.99ea,,$1.39/ 100g,False
+produce,President's Choice,Spring Mix,President's ChoiceSpring Mix0.142 kg,$3.99ea,,$2.81/ 100g,False
+produce,Renees,Dill Refrigerated Dip,ReneesDill Refrigerated Dip283 g,$4.99ea,,$1.76/ 100g,False
+produce,President's Choice,Bay Leaf,President's ChoiceBay Leaf28 g,$2.49ea,,,False
+produce,No Name,Brown Mushrooms,No NameBrown Mushrooms680 g,$5.00ea,,$0.74/ 100g,False
+produce,President's Choice,Spring Mix,President's ChoiceSpring Mix0.312 kg,$5.99ea,,$1.92/ 100g,False
+produce,President's Choice,Salad Kit Chopped Sesame Wonton ,President's ChoiceSalad Kit Chopped Sesame Wonton 347 g,$4.99ea,,$1.44/ 100g,False
+produce,President's Choice,Broccoli Slaw,President's ChoiceBroccoli Slaw340 g,$3.49ea,,$1.03/ 100g,False
+produce,President's Choice,Mixed Greens,President's ChoiceMixed Greens0.34 kg,$3.99ea,,$1.17/ 100g,False
 produce,Bolthouse,Blue Goodness,BolthouseBlue Goodness946 ml,$6.49ea,,$0.69/ 100ml,False
 produce,Marzetti,"Veggie Dip, Ranch","MarzettiVeggie Dip, Ranch340 g",$4.99ea,,$1.47/ 100g,False
+produce,Bolthouse,Green Goodness,BolthouseGreen Goodness1.54 l,$8.49ea,,$0.55/ 100ml,False
+produce,POM Wonderful,100% Pomegranate Juice,POM Wonderful100% Pomegranate Juice1.4 l,$12.99ea,,$0.93/ 100ml,False
+produce,,Tangerine Ortaniques,Tangerine Ortaniques,$4.45(est.)ea,,$4.39/ 1kg,False
+produce,,Papaya,Papaya,$5.14(est.)ea,,$3.95/ 1kg,False
+produce,,Dried Turkish Apricots,Dried Turkish Apricots200 g,$2.99ea,,$1.50/ 100g,False
+produce,,Honey Pitted Dates,Honey Pitted Dates350 g,$2.99ea,,$0.85/ 100g,False
+produce,Farmer's Market,Red Grapefruit,Farmer's MarketRed Grapefruit3 lb bag,$5.99ea,,$0.44/ 100g,False
+produce,,Fresh Kiwi Fruit,Fresh Kiwi Fruit600 g,$3.99ea,,$0.67/ 100g,False
+produce,Taylor Farms,Guacamole Crunch Chopped Salad Kit,Taylor FarmsGuacamole Crunch Chopped Salad Kit319 g,$4.99ea,,$1.56/ 100g,False
+produce,Farmer's Market,Ambrosia Apples,Farmer's MarketAmbrosia Apples1.814 kg,$6.99ea,,$0.39/ 100g,False
+produce,PC Organics,Organic Cauliflower,PC OrganicsOrganic Cauliflower1 ea,$5.99ea,,$5.99/ 1ea,False
+produce,PC Organics,"Organic Avocados, Bag","PC OrganicsOrganic Avocados, Bag3 pack",$5.88ea,$4.99ea,$1.66/ 1ea,True
+produce,,Mandarin Kinnow,Mandarin Kinnow,$3.28/1 kg,,$3.28/ 1kg,False
+produce,,Long Beans,Long Beans,$0.44/50 g,,$0.88/ 100g,False
+produce,,"Fresh Dill, Baby","Fresh Dill, Baby1 bunch",$3.49ea,,$3.49/ 1ea,False
 produce,,White Pummelos,White Pummelos1 ea,$2.99ea,,$2.99/ 1ea,False
-produce,,Strawberries 2LB,Strawberries 2LB907 g,$7.99ea,,$0.88/ 100g,False
-produce,,Red Cherries,Red Cherries,$9.79(est.)ea,,$11.00/ 1kg,False
-produce,President's Choice,Spring Mix,President's ChoiceSpring Mix0.312 kg,$5.99ea,,$1.92/ 100g,False
+produce,,Taiwanese Flat Cabbage,Taiwanese Flat Cabbage,$3.71(est.)ea,,$3.28/ 1kg,False
+produce,,Kiwis,Kiwis1 ea,$0.99ea,,$0.99/ 1ea,False
+produce,,Romaine Hearts,Romaine Hearts1 ea,$3.97ea,$2.99ea,$1.50/ 1ea,True
+produce,President's Choice,Mixed Little Gems,President's ChoiceMixed Little Gems0.68 kg,$2.99ea,,$0.44/ 100g,False
+produce,,LoBok (Daikon Radish),LoBok (Daikon Radish),$2.67(est.)ea,,$2.84/ 1kg,False
+produce,,"Red Beets, Bunched","Red Beets, Bunched1 bunch",$3.99ea,,$3.99/ 1ea,False
+produce,No Name,Naturally Imperfect English Cucumber 3lb Bag,No NameNaturally Imperfect English Cucumber 3lb Bag1.36 kg,$7.00ea,,$0.51/ 100g,False
+produce,,Clementine Stem & Leaf,Clementine Stem & Leaf,$0.92(est.)ea,,$8.80/ 1kg,False
+produce,,Red Cherries,Red Cherries,$11.76(est.)ea,,$13.21/ 1kg,False
+produce,,Baby Bok Choy Jr,Baby Bok Choy Jr,$3.68(est.)ea,,$5.49/ 1kg,False
+produce,Farmer's Market,Granny Smith Apples,Farmer's MarketGranny Smith Apples4 lb bag,$8.99ea,,$0.50/ 100g,False
+produce,,"Red Potatoes, Small","Red Potatoes, Small2.27 kg",$3.99ea,,$0.18/ 100g,False
+produce,PC Organics,Organic Garlic,PC OrganicsOrganic Garlic115 g,$2.99ea,,$2.60/ 100g,False
+produce,,French Beans,French Beans400 g,$4.99ea,,$1.25/ 100g,False
+produce,,Black Plums,Black Plums,$0.77(est.)ea,$0.66(est.)ea,$6.59/ 1kg,True
+produce,President's Choice,Whole Cremini Mushrooms,President's ChoiceWhole Cremini Mushrooms454 g,$4.99ea,,$1.10/ 100g,False
+produce,PC Organics,Organic Baby King Oyster Mushrooms,PC OrganicsOrganic Baby King Oyster Mushrooms200 g,$4.99ea,,$2.50/ 100g,False
+produce,Farmer's Market,Red Potatoes 10lb Bag,Farmer's MarketRed Potatoes 10lb Bag10 lb bag,$5.29ea,,$0.12/ 100g,False
+produce,PC Blue Menu,Unsalted California Pistachios ,PC Blue MenuUnsalted California Pistachios 454 g,$9.99ea,,$2.20/ 100g,False
+produce,,Organic French Beans,Organic French Beans350 g,$4.99ea,,$1.43/ 100g,False
+produce,,Jalapeno Peppers,Jalapeno Peppers,$0.44(est.)ea,,$8.80/ 1kg,False
+produce,,Atemoya,Atemoya1 ea,$4.99ea,,$4.99/ 1ea,False
+produce,PC Organics,Organic Grape Tomatoes,PC OrganicsOrganic Grape Tomatoes255 g,$3.99ea,,$1.56/ 100g,False
+produce,,Celery Hearts,Celery Hearts2 pack,$4.99ea,,$2.50/ 1ea,False
+produce,,Curly Parsley,Curly Parsley1 bunch,$1.99ea,,$1.99/ 1ea,False
+produce,,Green Beans,Green Beans,$0.44/50 g,,$0.88/ 100g,False
+produce,,Italian Parsley,Italian Parsley1 bunch,$1.99ea,,$1.99/ 1ea,False
 produce,Farmer's Market,Roma Tomatoes,Farmer's MarketRoma Tomatoes1 ea,$7.00ea,,$0.51/ 100g,False
-produce,President's Choice,Green Thai Hot Peppers,President's ChoiceGreen Thai Hot Peppers75 g,$4.00ea,,$5.33/ 100g,False
-produce,President's Choice,Chopped Mexican Style Street Corn Salad Kit,President's ChoiceChopped Mexican Style Street Corn Salad Kit285 g,$4.99ea,,$1.75/ 100g,False
-produce,,Cooking Spinach,Cooking Spinach227 g,$2.99ea,,$1.32/ 100g,False
-produce,Taylor Farms,"Chopped Salad Kit, Steakhouse","Taylor FarmsChopped Salad Kit, Steakhouse365 g",$4.99ea,,$1.37/ 100g,False
-produce,PC Organics,Organics Whole Cremini Mushrooms,PC OrganicsOrganics Whole Cremini Mushrooms227 g,$2.99ea,,$1.32/ 100g,False
-produce,President's Choice,Whole Cremini Mushrooms,President's ChoiceWhole Cremini Mushrooms227 g,$2.79ea,,$1.23/ 100g,False
-produce,,"Carrots, Bunched","Carrots, Bunched1 bunch",$2.99ea,,$2.99/ 1ea,False
-produce,Paramount,Pistachios No Shells Honey Roasted,ParamountPistachios No Shells Honey Roasted155 g,$7.99ea,,$5.15/ 100g,False
-produce,Farmer's Market,Red Onions,Farmer's MarketRed Onions3 lb bag,$3.99ea,,$0.29/ 100g,False
-produce,Farmer's Market,Yellow Potato 10lb Bag,Farmer's MarketYellow Potato 10lb Bag10 lb bag,$4.99ea,,$0.11/ 100g,False
-produce,,"Chinese Carrots, Jumbo","Chinese Carrots, Jumbo",$2.43(est.)ea,,$3.28/ 1kg,False
-produce,,Organic Grape Tomatoes,Organic Grape Tomatoes680 g,$7.99ea,,$1.18/ 100g,False
-produce,,"Wonderful Pistachios, Shelled","Wonderful Pistachios, Shelled170 g",$7.99ea,,$4.70/ 100g,False
-produce,,"Greenhouse Peppers, Yellow","Greenhouse Peppers, Yellow",$2.75(est.)ea,,$11.00/ 1kg,False
-produce,,Cotton Candy grapes,Cotton Candy grapes454 g,$5.99ea,,$1.32/ 100g,False
+produce,PC Organics,Organic Tomato On The Vine Red (1 Bunch),PC OrganicsOrganic Tomato On The Vine Red (1 Bunch),$7.92(est.)ea,,$11.00/ 1kg,False
 produce,PC Organics,Organic Field Greens & Baby Spinach - Salad Mix,PC OrganicsOrganic Field Greens & Baby Spinach - Salad Mix142 g,$4.49ea,,$3.16/ 100g,False
-produce,PC Organics,Gala Apples 3Lb Bag,PC OrganicsGala Apples 3Lb Bag3 lb bag,$7.99ea,,$0.59/ 100g,False
-produce,No Name,"Roasted Peanuts, No Salt","No NameRoasted Peanuts, No Salt907 g",$5.00ea,,$0.55/ 100g,False
-produce,President's Choice,Sliced White Mushrooms,President's ChoiceSliced White Mushrooms227 g,$2.99ea,,$1.32/ 100g,False
-produce,,Golden Delicious Apples,Golden Delicious Apples,$1.21(est.)ea,,$5.49/ 1kg,False
-produce,,Campari Tomatoes 1lb,Campari Tomatoes 1lb454 g,$5.00ea,,$1.10/ 100g,False
-produce,President's Choice,Oregano,President's ChoiceOregano28 g,$2.49ea,,,False
-produce,,Collard Greens,Collard Greens1 bunch,$3.99ea,,$3.99/ 1ea,False
-produce,,Hami Melons,Hami Melons,$9.58(est.)ea,,$3.28/ 1kg,False
-produce,,Santa Claus Melons,Santa Claus Melons,$6.24(est.)ea,,$3.28/ 1kg,False
-produce,Paramount,"Pistachios, Roasted Salted","ParamountPistachios, Roasted Salted450 g",$10.99ea,,$2.44/ 100g,False
-produce,President's Choice,Garden Salad,President's ChoiceGarden Salad0.34 kg,$3.99ea,,$1.17/ 100g,False
-produce,President's Choice,Finger Hot Hot Peppers,President's ChoiceFinger Hot Hot Peppers226 g,$4.00ea,,$1.77/ 100g,False
-produce,Renees,Ranch Refrigerated Dip,ReneesRanch Refrigerated Dip283 g,$4.99ea,,$1.76/ 100g,False
-produce,,Jamaican Pumpkin,Jamaican Pumpkin,$5.93(est.)ea,,$3.95/ 1kg,False
-produce,Taylor Farms,"Chopped Salad Kit, Dill Pickle","Taylor FarmsChopped Salad Kit, Dill Pickle341 g",$4.99ea,,$1.50/ 100g,False
-produce,,Minneola Tangelos,Minneola Tangelos,$1.13(est.)ea,,$5.05/ 1kg,False
-produce,,Nectarines,Nectarines,$1.23(est.)ea,$0.92(est.)ea,$6.59/ 1kg,True
-produce,Aurora,Sundried Tomatoes,AuroraSundried Tomatoes85 g,$2.49ea,,$2.77/ 100g,False
-produce,President's Choice,Green Beans,President's ChoiceGreen Beans340 g,$4.99ea,,$1.47/ 100g,False
-produce,President's Choice,Dill,President's ChoiceDill28 g,$2.49ea,,,False
 produce,PC Organics,Baby Arugula,PC OrganicsBaby Arugula142 g,$4.49ea,,$3.16/ 100g,False
-produce,7D,Dried Mangos,7DDried Mangos140 g,$5.99ea,,$4.28/ 100g,False
-produce,,D'Anjou Pears,D'Anjou Pears,$1.05(est.)ea,,$4.39/ 1kg,False
-produce,Bolthouse,Berry Boost,BolthouseBerry Boost946 ml,$6.49ea,,$0.69/ 100ml,False
-produce,PC Organics,Organic Peppers,PC OrganicsOrganic Peppers2 pack,$4.99ea,,$2.50/ 1ea,False
-produce,President's Choice,Sliced Cremini Mushrooms,President's ChoiceSliced Cremini Mushrooms227 g,$2.99ea,,$1.32/ 100g,False
-produce,Marzetti,"Veggie Dip, Light Ranch","MarzettiVeggie Dip, Light Ranch340 g",$4.99ea,,$1.47/ 100g,False
-produce,Marzetti,"Veggie Dip, Spinach","MarzettiVeggie Dip, Spinach340 g",$4.99ea,,$1.47/ 100g,False
-produce,Wholly Guacamole,Minis,Wholly GuacamoleMinis227 g,$4.99ea,,$2.20/ 100g,False
+produce,President's Choice,Bacon Caesar Chop Salad Kit,President's ChoiceBacon Caesar Chop Salad Kit326 g,$4.99ea,,$1.53/ 100g,False
 produce,Manns,Snap Peas,MannsSnap Peas227 g,$3.99ea,,$1.76/ 100g,False
 produce,President's Choice,Savory,President's ChoiceSavory28 g,$2.49ea,,,False
-produce,,Fresh Coconut Young,Fresh Coconut Young1 ea,$3.99ea,,$3.99/ 1ea,False
-produce,Farmer's Market,Honeycrisp Apples,Farmer's MarketHoneycrisp Apples4 lb bag,$7.99ea,,$0.44/ 100g,False
-produce,President's Choice,Portobello Mushroom Caps,President's ChoicePortobello Mushroom Caps4 pack,$4.99ea,,$2.38/ 100g,False
-produce,President's Choice,Broccoli Florets,President's ChoiceBroccoli Florets340 g,$3.99ea,,$1.17/ 100g,False
+produce,President's Choice,Garden Salad,President's ChoiceGarden Salad0.34 kg,$3.99ea,,$1.17/ 100g,False
+produce,President's Choice,Sliced White Mushrooms,President's ChoiceSliced White Mushrooms227 g,$2.99ea,,$1.32/ 100g,False
+produce,,Cooking Spinach,Cooking Spinach227 g,$2.99ea,,$1.32/ 100g,False
+produce,President's Choice,Chopped Romaine,President's ChoiceChopped Romaine0.907 kg,$6.99ea,,$0.77/ 100g,False
+produce,President's Choice,Green Beans,President's ChoiceGreen Beans340 g,$4.99ea,,$1.47/ 100g,False
 produce,President's Choice,Loads Of Garlic Caesar Salad Kit,President's ChoiceLoads Of Garlic Caesar Salad Kit319 g,$4.99ea,,$1.56/ 100g,False
-produce,President's Choice,Tarragon,President's ChoiceTarragon28 g,$2.49ea,,,False
-produce,,Pomegranate,Pomegranate1 ea,$2.49ea,,$2.49/ 1ea,False
+produce,President's Choice,Sliced Cremini Mushrooms,President's ChoiceSliced Cremini Mushrooms227 g,$2.99ea,,$1.32/ 100g,False
+produce,Marzetti,"Veggie Dip, Spinach","MarzettiVeggie Dip, Spinach340 g",$4.99ea,,$1.47/ 100g,False
 produce,President's Choice,Whole Button Mushrooms,President's ChoiceWhole Button Mushrooms227 g,$3.49ea,,$1.54/ 100g,False
 produce,President's Choice,Live Lettuce Boston,President's ChoiceLive Lettuce Boston1 ea,$2.49ea,,$2.49/ 1ea,False
+produce,President's Choice,Chopped Mexican Style Street Corn Salad Kit,President's ChoiceChopped Mexican Style Street Corn Salad Kit285 g,$4.99ea,,$1.75/ 100g,False
+produce,Renees,Ranch Refrigerated Dip,ReneesRanch Refrigerated Dip283 g,$4.99ea,,$1.76/ 100g,False
+produce,President's Choice,Broccoli Florets,President's ChoiceBroccoli Florets340 g,$3.99ea,,$1.17/ 100g,False
+produce,Bolthouse,Berry Boost,BolthouseBerry Boost946 ml,$6.49ea,,$0.69/ 100ml,False
+produce,Wholly Guacamole,Minis,Wholly GuacamoleMinis227 g,$4.99ea,,$2.20/ 100g,False
 produce,President's Choice,Caesar Salad Kit,President's ChoiceCaesar Salad Kit282 g,$4.99ea,,$1.77/ 100g,False
-produce,PC Blue Menu,Blue Menu Unsalted Virginia Peanuts,PC Blue MenuBlue Menu Unsalted Virginia Peanuts454 g,$3.50ea,,$0.77/ 100g,False
+produce,Marzetti,"Veggie Dip, Light Ranch","MarzettiVeggie Dip, Light Ranch340 g",$4.99ea,,$1.47/ 100g,False
+produce,Taylor Farms,"Chopped Salad Kit, Steakhouse","Taylor FarmsChopped Salad Kit, Steakhouse365 g",$4.99ea,,$1.37/ 100g,False
+produce,Aurora,Sundried Tomatoes,AuroraSundried Tomatoes85 g,$2.49ea,,$2.77/ 100g,False
+produce,,Cotton Candy grapes,Cotton Candy grapes454 g,$5.99ea,,$1.32/ 100g,False
+produce,No Name,"Roasted Peanuts, No Salt","No NameRoasted Peanuts, No Salt907 g",$5.00ea,,$0.55/ 100g,False
+produce,,Hami Melons,Hami Melons,$9.58(est.)ea,,$3.28/ 1kg,False
+produce,,Minneola Tangelos,Minneola Tangelos,$1.22(est.)ea,,$5.49/ 1kg,False
 produce,Farmer's Market,Cortland Apples,Farmer's MarketCortland Apples4 lb bag,$6.99ea,,$0.39/ 100g,False
-produce,President's Choice,Bacon Caesar Chop Salad Kit,President's ChoiceBacon Caesar Chop Salad Kit326 g,$4.99ea,,$1.53/ 100g,False
-produce,,"Garlic, Peeled","Garlic, Peeled250 g",$2.99ea,,$1.20/ 100g,False
-produce,PC Organics,Romaine Lettuce Hearts,PC OrganicsRomaine Lettuce Hearts3 ea,$5.99ea,,$2.00/ 1ea,False
-produce,,Asparagus,Asparagus,$7.79(est.)ea,,$13.21/ 1kg,False
-produce,,Baby Bok Choy,Baby Bok Choy,$3.33(est.)ea,,$5.05/ 1kg,False
-produce,,Purple Eggplants,Purple Eggplants,$3.13(est.)ea,,$5.49/ 1kg,False
+produce,,Nectarines,Nectarines,$1.23(est.)ea,,$8.80/ 1kg,False
+produce,PC Organics,Organics Whole Cremini Mushrooms,PC OrganicsOrganics Whole Cremini Mushrooms227 g,$2.99ea,,$1.32/ 100g,False
+produce,Taylor Farms,"Chopped Salad Kit, Dill Pickle","Taylor FarmsChopped Salad Kit, Dill Pickle341 g",$4.99ea,,$1.50/ 100g,False
+produce,President's Choice,Whole Cremini Mushrooms,President's ChoiceWhole Cremini Mushrooms227 g,$2.79ea,,$1.23/ 100g,False
+produce,President's Choice,Portobello Mushroom Caps,President's ChoicePortobello Mushroom Caps4 pack,$4.99ea,,$2.38/ 100g,False
+produce,President's Choice,Tarragon,President's ChoiceTarragon28 g,$2.49ea,,,False
+produce,President's Choice,Oregano,President's ChoiceOregano28 g,$2.49ea,,,False
+produce,,Collard Greens,Collard Greens1 bunch,$3.99ea,$0.99ea,$0.99/ 1ea,True
+produce,,"Chinese Carrots, Jumbo","Chinese Carrots, Jumbo",$2.43(est.)ea,$2.11(est.)ea,$2.84/ 1kg,True
+produce,President's Choice,Oregano,President's ChoiceOregano28 g,$2.49ea,,,False
+produce,,Collard Greens,Collard Greens1 bunch,$3.99ea,$0.99ea,$0.99/ 1ea,True
+produce,,"Chinese Carrots, Jumbo","Chinese Carrots, Jumbo",$2.43(est.)ea,$2.11(est.)ea,$2.84/ 1kg,True
+produce,President's Choice,Finger Hot Hot Peppers,President's ChoiceFinger Hot Hot Peppers226 g,$4.00ea,,$1.77/ 100g,False
+produce,,"Wonderful Pistachios, Shelled","Wonderful Pistachios, Shelled170 g",$7.99ea,,$4.70/ 100g,False
+produce,Farmer's Market,Red Onions,Farmer's MarketRed Onions3 lb bag,$3.99ea,,$0.29/ 100g,False
+produce,,Organic Grape Tomatoes,Organic Grape Tomatoes680 g,$7.99ea,,$1.18/ 100g,False
+produce,Farmer's Market,Corn On The Cob,Farmer's MarketCorn On The Cob4 pack,$4.99ea,,$1.25/ 1ea,False
+produce,Farmer's Market,Yellow Potato 10lb Bag,Farmer's MarketYellow Potato 10lb Bag10 lb bag,$5.99ea,,$0.13/ 100g,False
 produce,,Spaghetti Squash,Spaghetti Squash,$5.53(est.)ea,,$4.39/ 1kg,False
+produce,,Jamaican Pumpkin,Jamaican Pumpkin,$5.93(est.)ea,,$3.95/ 1kg,False
+produce,,Cotton Candy grapes,Cotton Candy grapes454 g,$5.99ea,,$1.32/ 100g,False
+produce,No Name,"Roasted Peanuts, No Salt","No NameRoasted Peanuts, No Salt907 g",$5.00ea,,$0.55/ 100g,False
+produce,,Hami Melons,Hami Melons,$9.58(est.)ea,,$3.28/ 1kg,False
+produce,,Minneola Tangelos,Minneola Tangelos,$1.22(est.)ea,,$5.49/ 1kg,False
+produce,Farmer's Market,Cortland Apples,Farmer's MarketCortland Apples4 lb bag,$6.99ea,,$0.39/ 100g,False
+produce,Marzetti,"Veggie Dip, Spinach","MarzettiVeggie Dip, Spinach340 g",$4.99ea,,$1.47/ 100g,False
+produce,President's Choice,Loads Of Garlic Caesar Salad Kit,President's ChoiceLoads Of Garlic Caesar Salad Kit319 g,$4.99ea,,$1.56/ 100g,False
+produce,President's Choice,Sliced Cremini Mushrooms,President's ChoiceSliced Cremini Mushrooms227 g,$2.99ea,,$1.32/ 100g,False
+produce,President's Choice,Chopped Mexican Style Street Corn Salad Kit,President's ChoiceChopped Mexican Style Street Corn Salad Kit285 g,$4.99ea,,$1.75/ 100g,False
+produce,President's Choice,Broccoli Florets,President's ChoiceBroccoli Florets340 g,$3.99ea,,$1.17/ 100g,False
+produce,Renees,Ranch Refrigerated Dip,ReneesRanch Refrigerated Dip283 g,$4.99ea,,$1.76/ 100g,False
+produce,Taylor Farms,"Chopped Salad Kit, Steakhouse","Taylor FarmsChopped Salad Kit, Steakhouse365 g",$4.99ea,,$1.37/ 100g,False
+produce,Aurora,Sundried Tomatoes,AuroraSundried Tomatoes85 g,$2.49ea,,$2.77/ 100g,False
+produce,President's Choice,Whole Button Mushrooms,President's ChoiceWhole Button Mushrooms227 g,$3.49ea,,$1.54/ 100g,False
+produce,President's Choice,Live Lettuce Boston,President's ChoiceLive Lettuce Boston1 ea,$2.49ea,,$2.49/ 1ea,False
+produce,,Black Mission Figs,Black Mission Figs227 g,$4.99ea,$2.99ea,$1.32/ 100g,True
+produce,,Baby Bok Choy,Baby Bok Choy,$3.33(est.)ea,,$5.05/ 1kg,False
+produce,,Pomegranate,Pomegranate1 ea,$2.49ea,,$2.49/ 1ea,False
 produce,,Villagio Marzano Tomatoes,Villagio Marzano Tomatoes681 g,$7.00ea,,$10.28/ 1kg,False
-produce,,Butternut Squash,Butternut Squash,$7.07(est.)ea,,$4.39/ 1kg,False
+produce,,Fresh Coconut Young,Fresh Coconut Young1 ea,$3.99ea,,$3.99/ 1ea,False
+produce,,Purple Eggplants,Purple Eggplants,$2.50(est.)ea,,$4.39/ 1kg,False
 produce,,Rutabaga,Rutabaga,$3.12(est.)ea,,$1.96/ 1kg,False
-produce,No Name,"Raw, Unsalted Pumpkin Seeds","No NameRaw, Unsalted Pumpkin Seeds100 g",$2.00ea,,$2.00/ 100g,False
-produce,,"Mint, Fresh","Mint, Fresh1 bunch",$1.49ea,,$1.49/ 1ea,False
-produce,,Granadilla,Granadilla1 ea,$1.99ea,,$1.99/ 1ea,False
-produce,,Red Delicious Apples,Red Delicious Apples,$1.15(est.)ea,,$5.49/ 1kg,False
-produce,Paramount,Pistachios No Shells Roasted Light Salt,ParamountPistachios No Shells Roasted Light Salt170 g,$7.99ea,,$4.70/ 100g,False
-produce,No Name,Naturally Imperfect Limes,No NameNaturally Imperfect Limes907 g,$5.00ea,,$0.55/ 100g,False
+produce,,Medjool Dates,Medjool Dates454 g,$7.99ea,,$1.76/ 100g,False
+produce,Wholly Guacamole,Chunky Bowl ,Wholly GuacamoleChunky Bowl 213 g,$4.99ea,,$2.34/ 100g,False
+produce,Eat Smart,Sweet Kale Salad Kit,Eat SmartSweet Kale Salad Kit340 g,$4.99ea,,$1.47/ 100g,False
+produce,Renees,French Onion Refrigerated Dip,ReneesFrench Onion Refrigerated Dip283 g,$4.99ea,,$1.76/ 100g,False
+produce,President's Choice,Whole Oyster Mushrooms,President's ChoiceWhole Oyster Mushrooms100 g,$3.99ea,,$3.99/ 100g,False
+produce,Gourmet Garden,Lightly Dried Cilantro,Gourmet GardenLightly Dried Cilantro10 g,$4.99ea,,$49.90/ 100g,False
+produce,President's Choice,Live Lettuce Tri Mix - 1 Unit,President's ChoiceLive Lettuce Tri Mix - 1 Unit350 g,$2.99ea,,$2.99/ 1ea,False
+produce,President's Choice,Salad Kit Sweet Kale Club Size,President's ChoiceSalad Kit Sweet Kale Club Size0.68 g,$6.99ea,,$1.03/ 100g,False
+produce,President's Choice,Romaine Salad,President's ChoiceRomaine Salad0.255 kg,$3.99ea,,$1.56/ 100g,False
+produce,,Popeye Select Spinach,Popeye Select Spinach1 kg,$8.99ea,,$0.80/ 100g,False
+produce,President's Choice,Southwest Salad Kit,President's ChoiceSouthwest Salad Kit369 g,$4.99ea,,$1.35/ 100g,False
+produce,President's Choice,Kale Slaw,President's ChoiceKale Slaw340 g,$3.49ea,,$1.03/ 100g,False
+produce,PC Organics,Organics Baby Spinach,PC OrganicsOrganics Baby Spinach312 g,$6.49ea,$5.99ea,$1.92/ 100g,True
+produce,Bolthouse,100% Carrot,Bolthouse100% Carrot946 ml,$6.49ea,,$0.69/ 100ml,False
+produce,POM Wonderful,100% Pomegranate Juice,POM Wonderful100% Pomegranate Juice473 ml,$5.99ea,,$1.27/ 100ml,False
+produce,,Medjool Dates,Medjool Dates454 g,$7.99ea,,$1.76/ 100g,False
+produce,Wholly Guacamole,Chunky Bowl ,Wholly GuacamoleChunky Bowl 213 g,$4.99ea,,$2.34/ 100g,False
+produce,Marzetti,Caramel Dip Snack,MarzettiCaramel Dip Snack6x340.0 g,$4.99ea,,$10.40/ 100g,False
+produce,Marzetti,Caramel Dip,MarzettiCaramel Dip227 g,$4.99ea,,$2.20/ 100g,False
+produce,,Organic Green Grapes,Organic Green Grapes1 ea,$8.99ea,,$1.98/ 100g,False
+produce,Aurora,Dried Turkish Figs,AuroraDried Turkish Figs200 g,$2.99ea,,$1.50/ 100g,False
+produce,,Sweet Nantes Carrots,Sweet Nantes Carrots467 g,$3.39ea,,$0.73/ 100g,False
 produce,President's Choice,Adora Seedless® Black Grapes,President's ChoiceAdora Seedless® Black Grapes,$12.06(est.)ea,,$8.80/ 1kg,False
 produce,President's Choice,Salted Virginia Peanuts,President's ChoiceSalted Virginia Peanuts454 g,$3.50ea,,$0.77/ 100g,False
-produce,Remedy,Kombucha Lemon Lime & Mint  ,RemedyKombucha Lemon Lime & Mint  700 ml,$4.99ea,,$0.71/ 100ml,False
-produce,Paramount,No shell BBQ Pistachios,ParamountNo shell BBQ Pistachios155 g,$7.99ea,,$5.15/ 100g,False
-produce,,Romaine Lettuce,Romaine Lettuce1 ea,$3.49ea,,$3.49/ 1ea,False
-produce,President's Choice,Live Lettuce Tri Mix - 1 Unit,President's ChoiceLive Lettuce Tri Mix - 1 Unit350 g,$2.99ea,,$2.99/ 1ea,False
-produce,,Organic Orange,Organic Orange907 g,$5.99ea,,$0.66/ 100g,False
-produce,President's Choice,Romaine Salad,President's ChoiceRomaine Salad0.255 kg,$3.99ea,,$1.56/ 100g,False
-produce,,Karela (1Pack),Karela (1Pack),$2.77(est.)ea,,$8.80/ 1kg,False
-produce,President's Choice,Ambrosia Apples,President's ChoiceAmbrosia Apples,$1.21(est.)ea,,$5.49/ 1kg,False
-produce,,Tamarinds,Tamarinds500 g,$4.99ea,,$1.00/ 100g,False
+produce,Paramount,Pistachios No Shells Roasted Light Salt,ParamountPistachios No Shells Roasted Light Salt170 g,$7.99ea,,$4.70/ 100g,False
+produce,,Dates Medjool,Dates Medjool907 g,$12.99ea,,$1.43/ 100g,False
+produce,PC Organics,Organic Peppers Mini 227G,PC OrganicsOrganic Peppers Mini 227G227 g,$4.99ea,,$2.20/ 100g,False
+produce,,Yellow Potatoes,Yellow Potatoes,$1.32(est.)ea,,$4.39/ 1kg,False
+produce,,White Onion,White Onion,$2.11(est.)ea,,$5.71/ 1kg,False
+produce,PC Organics,Organics Baby Cut Carrots,PC OrganicsOrganics Baby Cut Carrots2 lb,$5.79ea,,$0.64/ 100g,False
 produce,,Ataulfo Mango,Ataulfo Mango1 ea,$1.79ea,,$1.79/ 1ea,False
-produce,Eat Smart,Sweet Kale Salad Kit,Eat SmartSweet Kale Salad Kit340 g,$4.99ea,,$1.47/ 100g,False
-produce,,Red Grapefruit,Red Grapefruit1 ea,$1.49ea,,$1.49/ 1ea,False
-produce,No Name,Naturally Imperfect Lemons 3lb Bag,No NameNaturally Imperfect Lemons 3lb Bag1.36 kg,$5.00ea,,$0.37/ 100g,False
-produce,Aurora,Dried Turkish Figs,AuroraDried Turkish Figs200 g,$2.99ea,,$1.50/ 100g,False
-produce,No Name,"Raw, Unsalted Pumpkin Seeds","No NameRaw, Unsalted Pumpkin Seeds100 g",$2.00ea,,$2.00/ 100g,False
-produce,,Sweet Nantes Carrots,Sweet Nantes Carrots467 g,$3.19ea,,$0.68/ 100g,False
-produce,Renees,French Onion Refrigerated Dip,ReneesFrench Onion Refrigerated Dip283 g,$4.99ea,,$1.76/ 100g,False
-produce,,Opo Squash,Opo Squash,$2.35(est.)ea,,$3.73/ 1kg,False
+produce,No Name,Naturally Imperfect Limes,No NameNaturally Imperfect Limes907 g,$5.50ea,,$0.61/ 100g,False
+produce,Farmer's Market,Yellow Onions,Farmer's MarketYellow Onions10 lb bag,$6.29ea,,$0.14/ 100g,False
+produce,,Fenugreek,Fenugreek1 bunch,$1.99ea,,$1.99/ 1ea,False
+produce,,Snow Peas,Snow Peas200 g,$3.49ea,,$1.75/ 100g,False
+produce,,Opo Squash,Opo Squash,$1.79(est.)ea,,$2.84/ 1kg,False
+produce,Paramount,No shell BBQ Pistachios,ParamountNo shell BBQ Pistachios155 g,$7.99ea,,$5.15/ 100g,False
+produce,,Organic Orange,Organic Orange907 g,$5.99ea,,$0.66/ 100g,False
+produce,,Blackberries 1 pint,Blackberries 1 pint340 g,$6.99ea,,$2.06/ 100g,False
+produce,No Name,Naturally Imperfect Potatoes 15lb,No NameNaturally Imperfect Potatoes 15lb6804 g,$6.00ea,,$0.09/ 100g,False
+produce,,Turnips,Turnips,$2.25(est.)ea,,$5.93/ 1kg,False
+produce,No Name,Naturally Imperfect Lemons 3lb Bag,No NameNaturally Imperfect Lemons 3lb Bag1.36 kg,$6.00ea,,$0.44/ 100g,False
+produce,,Green Peppers,Green Peppers1 ea,$2.99ea,,$0.75/ 1ea,False
+produce,,Karela (1Pack),Karela (1Pack),$2.77(est.)ea,,$8.80/ 1kg,False
+produce,,Yellow Yams,Yellow Yams,$4.40(est.)ea,,$8.80/ 1kg,False
+produce,President's Choice,Salted California Pistachios,President's ChoiceSalted California Pistachios225 g,$4.99ea,,$2.22/ 100g,False
+produce,Farmer's Market,Mandarin Orange 1.5LBs,Farmer's MarketMandarin Orange 1.5LBs681 g,$3.99ea,$2.99ea,$0.44/ 100g,True
+produce,,Jamaican Aloe,Jamaican Aloe,$1.74(est.)ea,,$3.28/ 1kg,False
+produce,,Kohlrabi,Kohlrabi,$2.69(est.)ea,,$5.49/ 1kg,False
+produce,President's Choice,Ambrosia Apples,President's ChoiceAmbrosia Apples,$1.21(est.)ea,$0.48(est.)ea,$2.18/ 1kg,True
+produce,,Romaine Lettuce,Romaine Lettuce1 ea,$3.49ea,,$3.49/ 1ea,False
 produce,Farmer's Market,Red Delicious Apples,Farmer's MarketRed Delicious Apples4 lb bag,$6.99ea,,$0.39/ 100g,False
 produce,President's Choice,Fresh Poultry Herb Blend,President's ChoiceFresh Poultry Herb Blend28 g,$2.49ea,,,False
-produce,President's Choice,Live Lettuce Tri Mix - 1 Unit,President's ChoiceLive Lettuce Tri Mix - 1 Unit350 g,$2.99ea,,$2.99/ 1ea,False
-produce,,Organic Orange,Organic Orange907 g,$5.99ea,,$0.66/ 100g,False
-produce,President's Choice,Romaine Salad,President's ChoiceRomaine Salad0.255 kg,$3.99ea,,$1.56/ 100g,False
-produce,,Karela (1Pack),Karela (1Pack),$2.77(est.)ea,,$8.80/ 1kg,False
-produce,President's Choice,Ambrosia Apples,President's ChoiceAmbrosia Apples,$1.21(est.)ea,,$5.49/ 1kg,False
-produce,,Tamarinds,Tamarinds500 g,$4.99ea,,$1.00/ 100g,False
-produce,,Ataulfo Mango,Ataulfo Mango1 ea,$1.79ea,,$1.79/ 1ea,False
-produce,Eat Smart,Sweet Kale Salad Kit,Eat SmartSweet Kale Salad Kit340 g,$4.99ea,,$1.47/ 100g,False
-produce,,Red Grapefruit,Red Grapefruit1 ea,$1.49ea,,$1.49/ 1ea,False
-produce,No Name,Naturally Imperfect Lemons 3lb Bag,No NameNaturally Imperfect Lemons 3lb Bag1.36 kg,$5.00ea,,$0.37/ 100g,False
-produce,Aurora,Dried Turkish Figs,AuroraDried Turkish Figs200 g,$2.99ea,,$1.50/ 100g,False
-produce,Gourmet Garden,Lightly Dried Cilantro,Gourmet GardenLightly Dried Cilantro10 g,$4.99ea,,$49.90/ 100g,False
-produce,,Yellow Yams,Yellow Yams,$4.40(est.)ea,,$8.80/ 1kg,False
-produce,,Kohlrabi,Kohlrabi,$2.69(est.)ea,,$5.49/ 1kg,False
-produce,President's Choice,Salad Kit Sweet Kale Club Size,President's ChoiceSalad Kit Sweet Kale Club Size0.68 g,$6.99ea,,$1.03/ 100g,False
-produce,,Green Peppers,Green Peppers1 ea,$2.99ea,$1.99ea,$0.50/ 1ea,True
-produce,,Leeks,Leeks1 bunch,$4.99ea,,$4.99/ 1ea,False
-produce,President's Choice,Whole White Mushrooms,President's ChoiceWhole White Mushrooms454 g,$3.99ea,,$0.88/ 100g,False
-produce,,Turnips,Turnips,$2.09(est.)ea,,$5.49/ 1kg,False
-produce,President's Choice,Kale Slaw,President's ChoiceKale Slaw340 g,$3.49ea,,$1.03/ 100g,False
-produce,PC Organics,Organics Yellow Onions,PC OrganicsOrganics Yellow Onions2 lb bag,$3.39ea,,$0.37/ 100g,False
-produce,President's Choice,Salted California Pistachios,President's ChoiceSalted California Pistachios225 g,$4.99ea,,$2.22/ 100g,False
-produce,,Dates Medjool,Dates Medjool907 g,$12.99ea,,$1.43/ 100g,False
-produce,No Name,Naturally Imperfect Limes,No NameNaturally Imperfect Limes907 g,$5.00ea,,$0.55/ 100g,False
-produce,POM Wonderful,100% Pomegranate Juice,POM Wonderful100% Pomegranate Juice473 ml,$5.99ea,,$1.27/ 100ml,False
-produce,Bolthouse,100% Carrot,Bolthouse100% Carrot946 ml,$6.49ea,,$0.69/ 100ml,False
-produce,Bolthouse,Daily Greens,BolthouseDaily Greens946 ml,$6.49ea,,$0.69/ 100ml,False
-produce,,Medjool Dates,Medjool Dates454 g,$7.99ea,,$1.76/ 100g,False
+produce,President's Choice,Whole White Mushrooms,President's ChoiceWhole White Mushrooms454 g,$4.99ea,,$1.10/ 100g,False
+produce,,"Portobello Mushrooms, Bulk","Portobello Mushrooms, Bulk",$1.59(est.)ea,,$13.21/ 1kg,False
 produce,PC Organics,Organic Lemons,PC OrganicsOrganic Lemons2 lb bag,$5.99ea,$4.99ea,$0.55/ 100g,True
-produce,PC Organics,Organics Baby Spinach,PC OrganicsOrganics Baby Spinach312 g,$6.49ea,,$2.08/ 100g,False
-produce,Farmer's Market,Mandarin Orange 1.5LBs,Farmer's MarketMandarin Orange 1.5LBs681 g,$3.99ea,$3.49ea,$0.51/ 100g,True
-produce,,White Onion,White Onion,$2.11(est.)ea,,$5.71/ 1kg,False
+produce,,Red Grapefruit,Red Grapefruit1 ea,$1.49ea,,$1.49/ 1ea,False
+produce,PC Organics,Organics Yellow Onions,PC OrganicsOrganics Yellow Onions2 lb bag,$3.49ea,,$0.38/ 100g,False
+produce,,Red Delicious Apples,Red Delicious Apples,$1.15(est.)ea,,$5.49/ 1kg,False
+produce,,Brussels Sprouts,Brussels Sprouts,$0.26(est.)ea,,$8.80/ 1kg,False
+produce,,Granadilla,Granadilla1 ea,$1.99ea,,$1.99/ 1ea,False
+produce,,Tamarinds,Tamarinds500 g,$4.99ea,,$1.00/ 100g,False
 produce,,Star Fruit,Star Fruit1 ea,$2.99ea,,$2.99/ 1ea,False
-produce,,Yellow Potatoes,Yellow Potatoes,$1.32(est.)ea,,$4.39/ 1kg,False
+produce,,Caribbean Avocado,Caribbean Avocado1 ea,$3.99ea,,$3.99/ 1ea,False
 produce,,Carrots,Carrots,$0.43(est.)ea,,$3.28/ 1kg,False
+produce,,Leeks,Leeks1 bunch,$4.99ea,,$4.99/ 1ea,False
 produce,PC Organics,Organic Roma Tomatoes,PC OrganicsOrganic Roma Tomatoes454 g,$3.99ea,,$0.88/ 100g,False
-produce,,"Spinach, Bunched","Spinach, Bunched1 ea",$1.99ea,,$1.99/ 1ea,False
-produce,PC Organics,Organic Peppers Mini 227G,PC OrganicsOrganic Peppers Mini 227G227 g,$4.99ea,,$2.20/ 100g,False
-produce,No Name,"Raw, Unsalted Sunflower Seeds","No NameRaw, Unsalted Sunflower Seeds100 g",$1.99ea,,$1.99/ 100g,False
-produce,President's Choice,Baby Spinach,President's ChoiceBaby Spinach0.142 kg,$3.99ea,,$2.81/ 100g,False
-produce,President's Choice,Yellow Hot Hot Peppers,President's ChoiceYellow Hot Hot Peppers226 g,$4.00ea,,$1.77/ 100g,False
-produce,President's Choice,"Ready Veggie, Kale Blend","President's ChoiceReady Veggie, Kale Blend340 g",$4.99ea,,$1.47/ 100g,False
-produce,President's Choice,"Ready Veggie, Kale Blend","President's ChoiceReady Veggie, Kale Blend340 g",$4.99ea,,$1.47/ 100g,False
-produce,PC Organics,Organic Mini Carrots 1lb Bag,PC OrganicsOrganic Mini Carrots 1lb Bag1 lb bag,$2.99ea,,$0.66/ 100g,False
-produce,PC Organics,Organic Broccoli,PC OrganicsOrganic Broccoli1 ea,$4.99ea,,$4.99/ 1ea,False
-produce,PC Organics,Celery Hearts,PC OrganicsCelery Hearts1 ea,$5.99ea,,$3.00/ 1ea,False
-produce,,Shiitake Mushrooms,Shiitake Mushrooms,$0.72/25 g,,$2.86/ 100g,False
-produce,PC Organics,Organics Portobello Mushroom Caps,PC OrganicsOrganics Portobello Mushroom Caps2 pack,$4.99ea,,$2.94/ 100g,False
-produce,,Green Cabbage,Green Cabbage,$3.29(est.)ea,,$1.96/ 1kg,False
-produce,Gourmet Garden,Lightly Dried Basil,Gourmet GardenLightly Dried Basil12 g,$4.99ea,,$41.58/ 100g,False
-produce,,Kale,Kale1 bunch,$2.99ea,,$2.99/ 1ea,False
+produce,,"Spinach, Bunched","Spinach, Bunched1 ea",$2.49ea,,$2.49/ 1ea,False
+produce,,"Mint, Fresh","Mint, Fresh1 bunch",$1.49ea,,$1.49/ 1ea,False
 produce,Gourmet Garden,"Lightly Dried, Ginger Bowl","Gourmet GardenLightly Dried, Ginger Bowl220 g",$4.99ea,,$22.68/ 100g,False
+produce,President's Choice,Cilantro,President's ChoiceCilantro28 g,$2.49ea,,,False
+produce,,Matchstick Carrots,Matchstick Carrots283 g,$2.29ea,,$0.81/ 100g,False
+produce,PC Blue Menu,Caesar Salad Kit,PC Blue MenuCaesar Salad Kit283 g,$4.99ea,,$1.76/ 100g,False
 produce,President's Choice,Sweet Kale Salad Kit,President's ChoiceSweet Kale Salad Kit340 g,$4.99ea,,$1.47/ 100g,False
 produce,Manns,Snow Peas,MannsSnow Peas170 g,$3.99ea,,$2.35/ 100g,False
-produce,Remedy,Org Kom Rasp Lemn 700Ml  ,RemedyOrg Kom Rasp Lemn 700Ml  700 ml,$4.99ea,,$0.71/ 100ml,False
-produce,President's Choice,Cilantro,President's ChoiceCilantro28 g,$2.49ea,,,False
-produce,Farmer's Market,McIntosh Apples,Farmer's MarketMcIntosh Apples4 lb bag,$6.99ea,,$0.39/ 100g,False
-produce,President's Choice,Ontario Greenhouse-Grown Strawberries ,President's ChoiceOntario Greenhouse-Grown Strawberries 340 g,$5.99ea,,$1.76/ 100g,False
-produce,Remedy,Kombucha Ginger Lemon,RemedyKombucha Ginger Lemon700 ml,$4.99ea,,$0.71/ 100ml,False
-produce,PC Organics,Organic Ginger,PC OrganicsOrganic Ginger160 g,$2.19ea,,$1.37/ 100g,False
-produce,Marzetti,"Fruit Dip, Cream Cheese","MarzettiFruit Dip, Cream Cheese255 g",$4.99ea,,$1.96/ 100g,False
-produce,PC Blue Menu,Unsalted California Pistachios ,PC Blue MenuUnsalted California Pistachios 225 g,$4.99ea,,$2.22/ 100g,False
-produce,,White Mushrooms,White Mushrooms,$0.30(est.)ea,,$0.99/ 100g,False
+produce,President's Choice,Brussel Sprouts,President's ChoiceBrussel Sprouts907 g,$6.99ea,,$0.77/ 100g,False
 produce,,Cremini Mushrooms,Cremini Mushrooms,$0.33(est.)ea,,$1.10/ 100g,False
-produce,,Snap Peas,Snap Peas200 g,$3.49ea,,$1.75/ 100g,False
-produce,Eat Smart,Sunflower Kale Vegetable Salad Kit,Eat SmartSunflower Kale Vegetable Salad Kit340 g,$4.99ea,,$1.47/ 100g,False
-produce,President's Choice,Broccoli Florets,President's ChoiceBroccoli Florets907 g,$7.99ea,,$0.88/ 100g,False
-produce,President's Choice,50-50 Blend - A Blend of Baby Spinach and Field Greens,President's Choice50-50 Blend - A Blend of Baby Spinach and Field Greens0.283 kg,$4.99ea,,$1.76/ 100g,False
-produce,,Bean Sprouts,Bean Sprouts454 g,$1.99ea,,$0.44/ 100g,False
-produce,No Name,Roasted Peanuts In Shell,No NameRoasted Peanuts In Shell2 kg,$9.00ea,,$0.45/ 100g,False
-produce,,Red Leaf Lettuce,Red Leaf Lettuce1 ea,$2.99ea,,$2.99/ 1ea,False
-produce,Farmer's Market,Gala Apples,Farmer's MarketGala Apples4 lb bag,$5.99ea,$4.99ea,$0.28/ 100g,True
 produce,PC Organics,"Kale, Chard and Spinach Salad Mix","PC OrganicsKale, Chard and Spinach Salad Mix142 g",$4.49ea,,$3.16/ 100g,False
-produce,Bolthouse,C-Boost,BolthouseC-Boost946 ml,$6.49ea,,$0.69/ 100ml,False
-produce,,Dragon Fruit,Dragon Fruit1 ea,$3.99ea,,$3.99/ 1ea,False
-produce,,Rapini,Rapini1 bunch,$3.99ea,,$3.99/ 1ea,False
-produce,,Shallots,Shallots350 g,$3.19ea,,$0.91/ 100g,False
-produce,,"Lemon Grass, 2 Pack","Lemon Grass, 2 Pack104 g",$2.49ea,,$2.39/ 100g,False
+produce,President's Choice,"Ready Veggie, Kale Blend","President's ChoiceReady Veggie, Kale Blend340 g",$4.99ea,,$1.47/ 100g,False
+produce,President's Choice,50-50 Blend - A Blend of Baby Spinach and Field Greens,President's Choice50-50 Blend - A Blend of Baby Spinach and Field Greens0.283 kg,$4.99ea,,$1.76/ 100g,False
+produce,No Name,Roasted Peanuts In Shell,No NameRoasted Peanuts In Shell2 kg,$9.00ea,,$0.45/ 100g,False
+produce,,Shiitake Mushrooms,Shiitake Mushrooms,$0.72/25 g,,$2.86/ 100g,False
+produce,Gourmet Garden,Lightly Dried Basil,Gourmet GardenLightly Dried Basil12 g,$4.99ea,,$41.58/ 100g,False
 produce,President's Choice,Baby Arugula Spinach Blend,President's ChoiceBaby Arugula Spinach Blend0.142 kg,$3.99ea,,$2.81/ 100g,False
+produce,Eat Smart,Sunflower Kale Vegetable Salad Kit,Eat SmartSunflower Kale Vegetable Salad Kit340 g,$4.99ea,,$1.47/ 100g,False
+produce,Remedy,Org Kom Rasp Lemn 700Ml  ,RemedyOrg Kom Rasp Lemn 700Ml  700 ml,$4.99ea,,$0.71/ 100ml,False
+produce,Taylor Farms,Everything Ranch Salad Kit,Taylor FarmsEverything Ranch Salad Kit336 g,$4.99ea,,$1.49/ 100g,False
 produce,President's Choice,Chipotle Chop Salad Kit,President's ChoiceChipotle Chop Salad Kit340 g,$4.99ea,,$1.47/ 100g,False
-produce,,"Peppers, Mini","Peppers, Mini454 g",$5.99ea,,$1.32/ 100g,False
-produce,PC Organics,Organic Basil,PC OrganicsOrganic Basil20 g,$2.49ea,,,False
-produce,President's Choice,Sage,President's ChoiceSage28 g,$2.49ea,,,False
-produce,No Name,Naturally Imperfect White Mushrooms,No NameNaturally Imperfect White Mushrooms680 g,$4.00ea,,$0.59/ 100g,False
-produce,,Fennel,Fennel1 ea,$3.99ea,,$3.99/ 1ea,False
-produce,President's Choice,Whole White Mushrooms,President's ChoiceWhole White Mushrooms227 g,$2.49ea,,$1.10/ 100g,False
-produce,Paramount,Pistachios No Shells Chili Roasted,ParamountPistachios No Shells Chili Roasted155 g,$7.99ea,,$5.15/ 100g,False
 produce,Sunrich,Sun Rich Sliced Red Apples,SunrichSun Rich Sliced Red Apples595 g,$5.00ea,,$0.84/ 100g,False
-produce,PC Organics,Arugula & Baby Spinach Salad Mix,PC OrganicsArugula & Baby Spinach Salad Mix142 g,$4.49ea,,$3.16/ 100g,False
-produce,,Baby Napa,Baby Napa,$5.05/1 kg,,$5.05/ 1kg,False
-produce,President's Choice,Cilantro,President's ChoiceCilantro28 g,$2.49ea,,,False
-produce,Farmer's Market,McIntosh Apples,Farmer's MarketMcIntosh Apples4 lb bag,$6.99ea,,$0.39/ 100g,False
-produce,President's Choice,Ontario Greenhouse-Grown Strawberries ,President's ChoiceOntario Greenhouse-Grown Strawberries 340 g,$5.99ea,,$1.76/ 100g,False
+produce,President's Choice,Broccoli Florets,President's ChoiceBroccoli Florets907 g,$7.99ea,,$0.88/ 100g,False
 produce,Remedy,Kombucha Ginger Lemon,RemedyKombucha Ginger Lemon700 ml,$4.99ea,,$0.71/ 100ml,False
-produce,Farmer's Market,Lemons,Farmer's MarketLemons2 lb bag,$3.99ea,,$0.44/ 100g,False
+produce,Manns,Snap Peas,MannsSnap Peas425 g,$5.99ea,,$1.41/ 100g,False
 produce,President's Choice,Barbecue Ranch Chopped Salad Kit,President's ChoiceBarbecue Ranch Chopped Salad Kit369 g,$4.99ea,,$1.35/ 100g,False
 produce,Fresh Attitude,Caesar Salad with Toppings Family Sized,Fresh AttitudeCaesar Salad with Toppings Family Sized427 g,$6.99ea,,$1.64/ 100g,False
-produce,,Blueberries 1/2 pint,Blueberries 1/2 pint170 g,$3.69ea,,$2.17/ 100g,False
+produce,Farmer's Market,McIntosh Apples,Farmer's MarketMcIntosh Apples4 lb bag,$6.99ea,,$0.39/ 100g,False
+produce,No Name,Naturally Imperfect White Mushrooms,No NameNaturally Imperfect White Mushrooms680 g,$5.00ea,,$0.74/ 100g,False
+produce,,Organic Iceberg Lettuce,Organic Iceberg Lettuce1 ea,$3.99ea,,$3.99/ 1ea,False
 produce,,Radish,Radish454 g,$2.79ea,,$0.61/ 100g,False
-produce,,Parsnip,Parsnip,$1.37(est.)ea,,$5.49/ 1kg,False
-produce,Paramount,"Pistachios, Roasted & Unsalted","ParamountPistachios, Roasted & Unsalted225 g",$5.99ea,$3.99ea,$1.77/ 100g,True
+produce,,Bean Sprouts,Bean Sprouts454 g,$1.99ea,,$0.44/ 100g,False
+produce,Paramount,"Pistachios, Roasted & Unsalted","ParamountPistachios, Roasted & Unsalted225 g",$5.99ea,$4.49ea,$2.00/ 100g,True
+produce,PC Blue Menu,Unsalted California Pistachios ,PC Blue MenuUnsalted California Pistachios 225 g,$4.99ea,,$2.22/ 100g,False
+produce,,Snap Peas,Snap Peas200 g,$3.49ea,,$1.75/ 100g,False
 produce,President's Choice,Red Thai Hot Peppers,President's ChoiceRed Thai Hot Peppers75 g,$4.00ea,,$5.33/ 100g,False
-produce,President's Choice,Brussel Sprouts,President's ChoiceBrussel Sprouts907 g,$6.99ea,,$0.77/ 100g,False
-produce,PC Organics,Organic Ginger,PC OrganicsOrganic Ginger160 g,$2.19ea,,$1.37/ 100g,False
-produce,Marzetti,"Fruit Dip, Cream Cheese","MarzettiFruit Dip, Cream Cheese255 g",$4.99ea,,$1.96/ 100g,False
-produce,Bolthouse,100% Carrot,Bolthouse100% Carrot1.54 l,$8.49ea,,$0.55/ 100ml,False
-produce,,Blackberries 1/2 Pint,Blackberries 1/2 Pint170 g,$2.99ea,,$1.76/ 100g,False
-produce,,Honeycrisp Apples,Honeycrisp Apples,$1.85(est.)ea,,$7.69/ 1kg,False
-produce,Farmer's Market,Navel Oranges,Farmer's MarketNavel Oranges3 lb bag,$4.99ea,,$0.37/ 100g,False
-produce,President's Choice,Axiany Cherry Tomatoes,President's ChoiceAxiany Cherry Tomatoes681 g,$7.00ea,,$1.03/ 100g,False
-produce,President's Choice,Axiany Cherry Tomatoes,President's ChoiceAxiany Cherry Tomatoes0.225 kg,$4.00ea,,$1.78/ 100g,False
-produce,,Green House Beefsteak Tomatoes ,Green House Beefsteak Tomatoes 454 g,$4.00ea,,$0.88/ 100g,False
-produce,,Acorn Squash,Acorn Squash,$3.69(est.)ea,,$4.39/ 1kg,False
-produce,,Shanghai Bok Choy,Shanghai Bok Choy,$3.23(est.)ea,,$5.05/ 1kg,False
+produce,,Red Leaf Lettuce,Red Leaf Lettuce1 ea,$2.99ea,,$2.99/ 1ea,False
+produce,,Red Beets,Red Beets,$0.71(est.)ea,,$3.73/ 1kg,False
 produce,,Fuji Apples,Fuji Apples,$0.92(est.)ea,,$4.39/ 1kg,False
-produce,,Peaches,Peaches,$1.05(est.)ea,,$6.59/ 1kg,False
+produce,PC Organics,Organic Broccoli,PC OrganicsOrganic Broccoli1 ea,$4.99ea,,$4.99/ 1ea,False
+produce,,Bosc Pears,Bosc Pears,$1.45(est.)ea,,$6.59/ 1kg,False
+produce,PC Organics,Organic Ginger,PC OrganicsOrganic Ginger160 g,$2.19ea,,$1.37/ 100g,False
+produce,PC Organics,Organic Basil,PC OrganicsOrganic Basil20 g,$2.49ea,,,False
+produce,,"Peppers, Mini","Peppers, Mini454 g",$5.99ea,,$1.32/ 100g,False
+produce,Farmer's Market,Lemons,Farmer's MarketLemons2 lb bag,$4.99ea,,$0.55/ 100g,False
+produce,President's Choice,Yellow Hot Hot Peppers,President's ChoiceYellow Hot Hot Peppers226 g,$4.00ea,,$1.77/ 100g,False
+produce,,Blackberries 1/2 Pint,Blackberries 1/2 Pint170 g,$3.99ea,,$2.35/ 100g,False
+produce,President's Choice,Whole White Mushrooms,President's ChoiceWhole White Mushrooms227 g,$2.49ea,,$1.10/ 100g,False
+produce,President's Choice,Ontario Greenhouse-Grown Strawberries ,President's ChoiceOntario Greenhouse-Grown Strawberries 340 g,$5.99ea,,$1.76/ 100g,False
+produce,Bolthouse,100% Carrot,Bolthouse100% Carrot1.54 l,$8.49ea,,$0.55/ 100ml,False
+produce,Bolthouse,C-Boost,BolthouseC-Boost946 ml,$6.49ea,,$0.69/ 100ml,False
+produce,Marzetti,"Veggie Dip, Ranch Snack Pack","MarzettiVeggie Dip, Ranch Snack Pack43 g",$4.99ea,,$11.60/ 100g,False
+produce,President's Choice,Baby Spinach,President's ChoiceBaby Spinach0.142 kg,$3.99ea,,$2.81/ 100g,False
+produce,Farmer's Market,Mini Cucumbers,Farmer's MarketMini Cucumbers6 pack,$3.99ea,,$0.67/ 1ea,False
+produce,,Parsnip,Parsnip,$1.37(est.)ea,,$5.49/ 1kg,False
+produce,,Fennel,Fennel1 ea,$3.99ea,,$3.99/ 1ea,False
+produce,,Shallots,Shallots350 g,$3.19ea,,$0.91/ 100g,False
+produce,PC Organics,Organic Mini Carrots 1lb Bag,PC OrganicsOrganic Mini Carrots 1lb Bag1 lb bag,$2.99ea,,$0.66/ 100g,False
+produce,,"Lemon Grass, 2 Pack","Lemon Grass, 2 Pack104 g",$2.49ea,,$2.39/ 100g,False
+produce,,Acorn Squash,Acorn Squash,$3.69(est.)ea,,$4.39/ 1kg,False
+produce,Farmer's Market,Gala Apples,Farmer's MarketGala Apples4 lb bag,$6.99ea,,$0.39/ 100g,False
+produce,,Kale,Kale1 bunch,$1.99ea,$0.99ea,$0.99/ 1ea,True
+produce,PC Organics,Organics Portobello Mushroom Caps,PC OrganicsOrganics Portobello Mushroom Caps2 pack,$4.99ea,,$2.94/ 100g,False
+produce,Farmer's Market,Navel Oranges,Farmer's MarketNavel Oranges3 lb bag,$5.69ea,,$0.42/ 100g,False
+produce,PC Organics,Arugula & Baby Spinach Salad Mix,PC OrganicsArugula & Baby Spinach Salad Mix142 g,$4.49ea,,$3.16/ 100g,False
+produce,Paramount,Pistachios No Shells Chili Roasted,ParamountPistachios No Shells Chili Roasted155 g,$7.99ea,,$5.15/ 100g,False
+produce,,Green Cabbage,Green Cabbage,$3.29(est.)ea,,$1.96/ 1kg,False
+produce,,"Artichokes, Large","Artichokes, Large1 ea",$3.99ea,,$3.99/ 1ea,False
+produce,,Rapini,Rapini1 bunch,$3.99ea,,$3.99/ 1ea,False
+produce,PC Organics,Celery Hearts,PC OrganicsCelery Hearts1 ea,$5.49ea,,$2.75/ 1ea,False
+produce,Marzetti,"Fruit Dip, Cream Cheese","MarzettiFruit Dip, Cream Cheese255 g",$4.99ea,,$1.96/ 100g,False
+produce,President's Choice,Axiany Cherry Tomatoes,President's ChoiceAxiany Cherry Tomatoes681 g,$7.00ea,,$1.03/ 100g,False
+produce,,Honeycrisp Apples,Honeycrisp Apples,$1.85(est.)ea,,$7.69/ 1kg,False
 produce,President's Choice,Variety Pack Tomatoes,President's ChoiceVariety Pack Tomatoes680 g,$7.00ea,,$1.03/ 100g,False
-produce,Bolthouse,Green Goodness,BolthouseGreen Goodness946 ml,$6.49ea,,$0.69/ 100ml,False
-produce,Wholly Guacamole,Classic Bowl ,Wholly GuacamoleClassic Bowl 213 g,$4.99ea,,$2.34/ 100g,False
-produce,PC Organics,Field Greens Salad Mix,PC OrganicsField Greens Salad Mix142 g,$4.49ea,,$3.16/ 100g,False
-produce,Paramount,"Wonderful Pistachios, Sweet Chili","ParamountWonderful Pistachios, Sweet Chili200 g",$5.99ea,$3.99ea,$2.00/ 100g,True
-produce,,Organic Blackberries,Organic Blackberries170 g,$4.99ea,,$2.94/ 100g,False
-produce,,"Grapes, Red Globe","Grapes, Red Globe",$5.38(est.)ea,,$5.49/ 1kg,False
-produce,Taylor Farms,"Chopped Salad Kit, Buffalo Ranch","Taylor FarmsChopped Salad Kit, Buffalo Ranch383 g",$4.99ea,,$1.30/ 100g,False
-produce,,Coconut Rolled Medjool Dates,Coconut Rolled Medjool Dates340 g,$7.99ea,,$2.35/ 100g,False
-produce,Love Beets,Cooked Beets,Love BeetsCooked Beets250 g,$3.99ea,,$1.60/ 100g,False
-produce,,Navel Orange,Navel Orange,$1.54(est.)ea,,$4.39/ 1kg,False
-produce,,Parsnips 1lb Bag,Parsnips 1lb Bag1 lb bag,$4.69ea,,$1.03/ 100g,False
-produce,Paramount,"No shell Pistachios, Sea Salt & Vinegar","ParamountNo shell Pistachios, Sea Salt & Vinegar155 g",$7.99ea,,$5.15/ 100g,False
-produce,,Sweet Onions 3lb Bag,Sweet Onions 3lb Bag3 lb bag,$6.99ea,,$0.51/ 100g,False
-produce,President's Choice,Yellow Mini Potatoes,President's ChoiceYellow Mini Potatoes0.68 kg,$4.19ea,,$0.62/ 100g,False
-produce,President's Choice,Chives,President's ChoiceChives28 g,$2.49ea,,,False
-produce,PC Organics,Organic Chives,PC OrganicsOrganic Chives20 g,$2.49ea,,$12.45/ 100g,False
-produce,Taylor Farms,"Chopped Salad Kit, Maple Bourbon Bacon","Taylor FarmsChopped Salad Kit, Maple Bourbon Bacon315 g",$4.99ea,,$1.58/ 100g,False
-produce,,Eddoes,Eddoes,$1.15(est.)ea,,$7.69/ 1kg,False
-produce,Paramount,"Wonderful Pistachios, Roasted & Salted","ParamountWonderful Pistachios, Roasted & Salted225 g",$4.49ea,$3.99ea,$1.77/ 100g,True
-produce,President's Choice,Arugula,President's ChoiceArugula0.142 kg,$3.99ea,,$2.81/ 100g,False
-produce,PC Organics,Organic Mint,PC OrganicsOrganic Mint20 g,$2.49ea,,,False
-produce,Love Beets,Cooked Beets,Love BeetsCooked Beets250 g,$3.99ea,,$1.60/ 100g,False
-produce,President's Choice,Ruby Little Gems Potatoes,President's ChoiceRuby Little Gems Potatoes0.68 kg,$4.19ea,,$0.62/ 100g,False
-produce,President's Choice,Arugula,President's ChoiceArugula0.142 kg,$3.99ea,,$2.81/ 100g,False
-produce,PC Organics,Organic Mint,PC OrganicsOrganic Mint20 g,$2.49ea,,,False
-produce,President's Choice,Scotch Bonnet Hot Peppers,President's ChoiceScotch Bonnet Hot Peppers113 g,$4.00ea,,$3.54/ 100g,False
-produce,Bolthouse,Green Goodness,BolthouseGreen Goodness946 ml,$6.49ea,,$0.69/ 100ml,False
-produce,Marzetti,"Veggie Dip, Southwest Ranch","MarzettiVeggie Dip, Southwest Ranch340 g",$4.99ea,,$1.47/ 100g,False
+produce,President's Choice,Axiany Cherry Tomatoes,President's ChoiceAxiany Cherry Tomatoes0.225 kg,$4.00ea,,$1.78/ 100g,False
+produce,,Green House Beefsteak Tomatoes ,Green House Beefsteak Tomatoes 454 g,$3.00ea,,$0.66/ 100g,False
+produce,,Shanghai Bok Choy,Shanghai Bok Choy,$3.23(est.)ea,,$5.05/ 1kg,False
+produce,,"Greenhouse Peppers, Orange","Greenhouse Peppers, Orange",$2.11(est.)ea,,$8.80/ 1kg,False
+produce,,Baby Napa,Baby Napa,$5.05/1 kg,,$5.05/ 1kg,False
+produce,,Blueberries 1/2 pint,Blueberries 1/2 pint170 g,$3.99ea,,$2.35/ 100g,False
+produce,,Dragon Fruit,Dragon Fruit1 ea,$3.99ea,,$3.99/ 1ea,False
 produce,Duda Farms,Duda Celery Sticks,Duda FarmsDuda Celery Sticks454 g,$4.99ea,,$1.10/ 100g,False
-produce,Farmer's Market,Mini Carrots,Farmer's MarketMini Carrots2 lb bag,$5.29ea,,$0.58/ 100g,False
-produce,President's Choice,Baby Spinach,President's ChoiceBaby Spinach0.312 kg,$5.99ea,,$1.92/ 100g,False
-produce,Bolthouse,Strawberry Banana,BolthouseStrawberry Banana1.54 l,$8.49ea,,$0.55/ 100ml,False
-produce,President's Choice,Caesar Salad Chop Kit,President's ChoiceCaesar Salad Chop Kit298 g,$4.99ea,,$1.67/ 100g,False
-produce,,Mini Seedless Watermelon,Mini Seedless Watermelon1 ea,$5.99ea,,$5.99/ 1ea,False
-produce,,Pink Onions,Pink Onions3 lb bag,$2.89ea,,$0.21/ 100g,False
-produce,,Organic Strawberries 1 LB,Organic Strawberries 1 LB454 g,$9.99ea,,$2.20/ 100g,False
-produce,,Organic Red Grapes,Organic Red Grapes1 ea,$8.99ea,,$1.98/ 100g,False
-produce,Farmer's Market,Red Onions 10lb Bag,Farmer's MarketRed Onions 10lb Bag10 lb bag,$7.99ea,,$0.18/ 100g,False
-produce,President's Choice,Habanero Hot Peppers,President's ChoiceHabanero Hot Peppers50 g,$4.00ea,,$8.00/ 100g,False
-produce,,Pitted Honey Dates,Pitted Honey Dates907 g,$5.99ea,,$0.66/ 100g,False
-produce,,Red Swiss Chard,Red Swiss Chard1 bunch,$3.99ea,,$3.99/ 1ea,False
-produce,President's Choice,Jalapeno Hot Peppers,President's ChoiceJalapeno Hot Peppers226 g,$4.00ea,,$1.77/ 100g,False
-produce,President's Choice,Pencil Hot Hot Peppers,President's ChoicePencil Hot Hot Peppers80 g,$4.00ea,,$5.00/ 100g,False
-produce,President's Choice,Avocado Ranch Chopped Salad Kit,President's ChoiceAvocado Ranch Chopped Salad Kit347 g,$4.99ea,,$1.44/ 100g,False
-produce,,Physalis (Gooseberries),Physalis (Gooseberries)200 g,$3.99ea,,$2.00/ 100g,False
-produce,,Granny Smith Apples,Granny Smith Apples,$1.32(est.)ea,,$6.59/ 1kg,False
-produce,,Shanghai Bok Choy Jr.,Shanghai Bok Choy Jr.,$3.29(est.)ea,,$5.49/ 1kg,False
-produce,Aurora,Roasted Chestnuts,AuroraRoasted Chestnuts100 g,$1.99ea,,$1.99/ 100g,False
-produce,,Red Cabbage,Red Cabbage,$2.90(est.)ea,,$2.18/ 1kg,False
-produce,PC Organics,Organic Blueberries,PC OrganicsOrganic Blueberries277 g,$4.99ea,,$1.80/ 100g,False
-produce,,Pink Lady Apples,Pink Lady Apples,$1.15(est.)ea,,$5.49/ 1kg,False
-produce,,Green Swiss Chard,Green Swiss Chard1 bunch,$3.99ea,,$3.99/ 1ea,False
-produce,,Canary Melon,Canary Melon,$3.25(est.)ea,,$0.33/ 100g,False
-produce,,Chayote Squash,Chayote Squash1 ea,$0.99ea,,$0.99/ 1ea,False
-produce,,Coconuts,Coconuts1 ea,$1.99ea,,$1.99/ 1ea,False
-produce,,"Grapes, Red Globe","Grapes, Red Globe",$5.38(est.)ea,,$5.49/ 1kg,False
-produce,Taylor Farms,"Chopped Salad Kit, Buffalo Ranch","Taylor FarmsChopped Salad Kit, Buffalo Ranch383 g",$4.99ea,,$1.30/ 100g,False
-produce,,Coconut Rolled Medjool Dates,Coconut Rolled Medjool Dates340 g,$7.99ea,,$2.35/ 100g,False
-produce,,Navel Orange,Navel Orange,$1.54(est.)ea,,$4.39/ 1kg,False
-produce,,Parsnips 1lb Bag,Parsnips 1lb Bag1 lb bag,$4.69ea,,$1.03/ 100g,False
-produce,Paramount,"No shell Pistachios, Sea Salt & Vinegar","ParamountNo shell Pistachios, Sea Salt & Vinegar155 g",$7.99ea,,$5.15/ 100g,False
-produce,,Sweet Onions 3lb Bag,Sweet Onions 3lb Bag3 lb bag,$6.99ea,,$0.51/ 100g,False
-produce,President's Choice,Yellow Mini Potatoes,President's ChoiceYellow Mini Potatoes0.68 kg,$4.19ea,,$0.62/ 100g,False
-produce,President's Choice,Chives,President's ChoiceChives28 g,$2.49ea,,,False
-produce,PC Organics,Organic Chives,PC OrganicsOrganic Chives20 g,$2.49ea,,$12.45/ 100g,False
-produce,Taylor Farms,"Chopped Salad Kit, Maple Bourbon Bacon","Taylor FarmsChopped Salad Kit, Maple Bourbon Bacon315 g",$4.99ea,,$1.58/ 100g,False
-produce,,Eddoes,Eddoes,$1.15(est.)ea,,$7.69/ 1kg,False
-produce,Paramount,"Wonderful Pistachios, Roasted & Salted","ParamountWonderful Pistachios, Roasted & Salted225 g",$4.49ea,$3.99ea,$1.77/ 100g,True
 produce,Dole,Sunflower Bacon Crunch Chopped Salad Kit,DoleSunflower Bacon Crunch Chopped Salad Kit346 g,$4.99ea,,$1.44/ 100g,False
-produce,Duda Farms,Duda Celery Sticks,Duda FarmsDuda Celery Sticks454 g,$4.99ea,,$1.10/ 100g,False
-produce,Farmer's Market,Mini Carrots,Farmer's MarketMini Carrots2 lb bag,$5.29ea,,$0.58/ 100g,False
+produce,,Shishito Peppers,Shishito Peppers227 g,$3.99ea,,$1.76/ 100g,False
+produce,PC Organics,Field Greens Salad Mix,PC OrganicsField Greens Salad Mix142 g,$4.49ea,,$3.16/ 100g,False
+produce,Taylor Farms,"Chopped Salad Kit, Maple Bourbon Bacon","Taylor FarmsChopped Salad Kit, Maple Bourbon Bacon315 g",$4.99ea,,$1.58/ 100g,False
+produce,Gourmet Garden,Lightly Dried Parsley,Gourmet GardenLightly Dried Parsley10 g,$4.99ea,,$49.90/ 100g,False
+produce,,Pink Onions,Pink Onions3 lb bag,$2.89ea,,$0.21/ 100g,False
+produce,President's Choice,Baby Spinach And Tender Red Lettuce,President's ChoiceBaby Spinach And Tender Red Lettuce0.142 kg,$3.99ea,,$2.81/ 100g,False
 produce,President's Choice,Baby Spinach,President's ChoiceBaby Spinach0.312 kg,$5.99ea,,$1.92/ 100g,False
+produce,President's Choice,Basil,President's ChoiceBasil80 g,$3.49ea,,,False
+produce,,Coconut Rolled Medjool Dates,Coconut Rolled Medjool Dates340 g,$7.99ea,,$2.35/ 100g,False
+produce,President's Choice,Coleslaw,President's ChoiceColeslaw397 g,$2.99ea,,$0.75/ 100g,False
+produce,Wholly Guacamole,Classic Bowl ,Wholly GuacamoleClassic Bowl 213 g,$4.99ea,,$2.34/ 100g,False
+produce,Aurora,Roasted Chestnuts,AuroraRoasted Chestnuts100 g,$1.99ea,,$1.99/ 100g,False
+produce,PC Organics,Organics Field Greens Salad Mix,PC OrganicsOrganics Field Greens Salad Mix312 g,$6.49ea,$5.99ea,$1.92/ 100g,True
+produce,President's Choice,Basil,President's ChoiceBasil28 g,$2.49ea,,,False
+produce,PC Organics,Organic Chives,PC OrganicsOrganic Chives20 g,$2.49ea,,$12.45/ 100g,False
+produce,,Chinese Napa Cabbage,Chinese Napa Cabbage,$3.67(est.)ea,,$3.28/ 1kg,False
+produce,President's Choice,Scotch Bonnet Hot Peppers,President's ChoiceScotch Bonnet Hot Peppers113 g,$4.00ea,,$3.54/ 100g,False
+produce,PC Organics,Organic Carrots,PC OrganicsOrganic Carrots2 lb bag,$3.69ea,,$0.41/ 100g,False
+produce,,Mandarin Sumo,Mandarin Sumo,$2.31(est.)ea,,$11.00/ 1kg,False
+produce,Bolthouse,Strawberry Banana,BolthouseStrawberry Banana1.54 l,$8.49ea,,$0.55/ 100ml,False
+produce,Marzetti,"Veggie Dip, Southwest Ranch","MarzettiVeggie Dip, Southwest Ranch340 g",$4.99ea,,$1.47/ 100g,False
+produce,Bolthouse,Green Goodness,BolthouseGreen Goodness946 ml,$6.49ea,,$0.69/ 100ml,False
+produce,,Eddoes,Eddoes,$1.15(est.)ea,,$7.69/ 1kg,False
+produce,,Parsnips 1lb Bag,Parsnips 1lb Bag1 lb bag,$4.69ea,,$1.03/ 100g,False
+produce,Love Beets,Cooked Beets,Love BeetsCooked Beets250 g,$3.99ea,,$1.60/ 100g,False
+produce,President's Choice,Pencil Hot Hot Peppers,President's ChoicePencil Hot Hot Peppers80 g,$4.00ea,,$5.00/ 100g,False
+produce,President's Choice,Yellow Mini Potatoes,President's ChoiceYellow Mini Potatoes0.68 kg,$2.99ea,,$0.44/ 100g,False
+produce,,Potato Baking Tray,Potato Baking Tray1 ea,$3.99ea,,$3.99/ 1ea,False
+produce,Farmer's Market,Mini Carrots,Farmer's MarketMini Carrots2 lb bag,$5.29ea,,$0.58/ 100g,False
+produce,,Green Swiss Chard,Green Swiss Chard1 bunch,$3.99ea,,$3.99/ 1ea,False
+produce,Paramount,"Wonderful Pistachios, Roasted & Salted","ParamountWonderful Pistachios, Roasted & Salted225 g",$4.49ea,,$2.00/ 100g,False
+produce,Paramount,"No shell Pistachios, Sea Salt & Vinegar","ParamountNo shell Pistachios, Sea Salt & Vinegar155 g",$7.99ea,,$5.15/ 100g,False
+produce,PC Organics,Organic Mint,PC OrganicsOrganic Mint20 g,$2.49ea,,,False
+produce,,Pink Lady Apples,Pink Lady Apples,$1.15(est.)ea,,$5.49/ 1kg,False
+produce,,Rooster Bag Garlic,Rooster Bag Garlic1 kg,$6.29ea,,$0.63/ 100g,False
+produce,,Chayote Squash,Chayote Squash1 ea,$0.79ea,,$0.79/ 1ea,False
+produce,,Cassava,Cassava,$1.93(est.)ea,,$2.84/ 1kg,False
+produce,PC Organics,Organic White Mushrooms,PC OrganicsOrganic White Mushrooms227 g,$2.69ea,,$1.19/ 100g,False
+produce,,Mini Seedless Watermelon,Mini Seedless Watermelon1 ea,$5.99ea,,$5.99/ 1ea,False
+produce,President's Choice,Arugula,President's ChoiceArugula0.142 kg,$3.99ea,,$2.81/ 100g,False
+produce,,Organic Red Grapes,Organic Red Grapes1 ea,$8.99ea,,$1.98/ 100g,False
+produce,Farmer's Market,Sweet Potatoes,Farmer's MarketSweet Potatoes5 lb,$5.49ea,,$0.24/ 100g,False
+produce,,Celery Root,Celery Root,$3.33(est.)ea,,$4.39/ 1kg,False
+produce,,Pitted Honey Dates,Pitted Honey Dates907 g,$5.99ea,,$0.66/ 100g,False
+produce,,Shanghai Bok Choy Jr.,Shanghai Bok Choy Jr.,$3.29(est.)ea,,$5.49/ 1kg,False
+produce,,Organic Strawberries 1 LB,Organic Strawberries 1 LB454 g,$8.99ea,,$1.98/ 100g,False
+produce,,"Grapes, Red Globe","Grapes, Red Globe",$5.38(est.)ea,,$5.49/ 1kg,False
+produce,,Okra,Okra,$0.88/100 g,,$8.80/ 1kg,False
+produce,President's Choice,Ruby Little Gems Potatoes,President's ChoiceRuby Little Gems Potatoes0.68 kg,$2.99ea,,$0.44/ 100g,False
+produce,,Canary Melon,Canary Melon,$3.25(est.)ea,,$0.33/ 100g,False
+produce,,Granny Smith Apples,Granny Smith Apples,$1.32(est.)ea,,$6.59/ 1kg,False
 produce,,Buttercup Squash,Buttercup Squash,$6.70(est.)ea,,$4.39/ 1kg,False
+produce,,"Plantains, Single","Plantains, Single",$0.79(est.)ea,,$2.40/ 1kg,False
+produce,,Red Cabbage,Red Cabbage,$2.90(est.)ea,,$2.18/ 1kg,False
+produce,,Long Eggplants,Long Eggplants,$0.88(est.)ea,,$3.51/ 1kg,False
+produce,President's Choice,Rosemary,President's ChoiceRosemary28 g,$2.49ea,,,False
+produce,Farmer's Market,Red Onions 10lb Bag,Farmer's MarketRed Onions 10lb Bag10 lb bag,$6.97ea,$3.99ea,$0.09/ 100g,True
+produce,President's Choice,Habanero Hot Peppers,President's ChoiceHabanero Hot Peppers50 g,$4.00ea,,$8.00/ 100g,False
+produce,,Red Swiss Chard,Red Swiss Chard1 bunch,$3.99ea,,$3.99/ 1ea,False
+produce,,Organic Blackberries,Organic Blackberries170 g,$4.99ea,,$2.94/ 100g,False
+produce,,Green Leaf Lettuce,Green Leaf Lettuce1 ea,$2.99ea,,$2.99/ 1ea,False
+produce,,Sweet Onions 3lb Bag,Sweet Onions 3lb Bag3 lb bag,$6.99ea,,$0.51/ 100g,False
+produce,PC Organics,Organic Blueberries,PC OrganicsOrganic Blueberries277 g,$4.99ea,,$1.80/ 100g,False
+produce,Taylor Farms,"Chopped Salad Kit, Buffalo Ranch","Taylor FarmsChopped Salad Kit, Buffalo Ranch383 g",$4.99ea,,$1.30/ 100g,False
+produce,,Green Beans,Green Beans380 g,$4.99ea,,$1.31/ 100g,False
+produce,Paramount,"Wonderful Pistachios, Sweet Chili","ParamountWonderful Pistachios, Sweet Chili200 g",$5.99ea,$4.49ea,$2.25/ 100g,True
+produce,No Name,Imperfect Apples,No NameImperfect Apples6 lb,$6.00ea,,$0.22/ 100g,False
+produce,,Physalis (Gooseberries),Physalis (Gooseberries)200 g,$3.99ea,,$2.00/ 100g,False
 produce,,Russet Potato,Russet Potato,$1.51(est.)ea,,$3.51/ 1kg,False
+produce,,Coconuts,Coconuts1 ea,$1.99ea,$1.29ea,$1.29/ 1ea,True
+produce,President's Choice,Mixiany Cherry Tomatoes,President's ChoiceMixiany Cherry Tomatoes680 g,$7.00ea,,$1.03/ 100g,False
+produce,,Vero Tomato,Vero Tomato680 g,$5.00ea,,$0.74/ 100g,False
