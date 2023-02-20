@@ -5,6 +5,7 @@ main computational load comes from the per unit price parsing and calculating
 
 import pandas as pd
 import re 
+from datetime import datetime, date
 
 
 def extract_number_unit(text, unit):
@@ -76,6 +77,15 @@ def per_unit_price(price, text):
         
     return pup, unit
 
+def clean_date(date_str):
+    # output looks like month/day 
+    dt_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%S%z")
+    return dt_obj.strftime("%m/%d")
+
+def get_todays_date():
+    today = date.today()
+    return today.strftime("%m/%d/%Y")
+
 
 ## CLEAN 
 
@@ -140,7 +150,9 @@ for store in stores:
                         'sale_per_unit_price': pup,
                         'units': unit, # unit for pup (ml, g, etc)
                         'price_per_1': price_per_1, # the whole price is the price for a single unit (ie: 1 apple, 1 box of KD; not /lb, etc)
-                        'is_sale': True
+                        'is_sale': True,
+                        'sale_valid_until': clean_date(row.flyer_valid_to),
+                        'data_last_refreshed_at': get_todays_date()
                     }, ignore_index = True)
     
     # save clean_data 

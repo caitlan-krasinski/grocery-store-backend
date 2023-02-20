@@ -4,6 +4,7 @@ script to clean loblaw co stores data after scraping.
 
 import pandas as pd
 import re 
+from datetime import date
 
 stores = ['zehrs', 'no_frills', 'valu_mart']
 
@@ -24,6 +25,16 @@ def clean_product_name(text, brand):
         return s[:idx] + ' ' + s[idx:]
     except: 
         return text
+
+def clean_date(date_str):
+    if date_str == date_str:
+        return date_str.split('Ends ')[1]
+    else: 
+        return None
+
+def get_todays_date():
+    today = date.today()
+    return today.strftime("%m/%d/%Y")
 
 
 for store in stores:
@@ -97,7 +108,9 @@ for store in stores:
                         'sale_per_unit_price': pup,
                         'units': unit,
                         'price_per_1': price_per_1,
-                        'is_sale': is_sale
+                        'is_sale': is_sale,
+                        'sale_valid_until': clean_date(row.sale_valid_to), 
+                        'data_last_refreshed_at': get_todays_date()
                     }, ignore_index = True)
 
     clean_data.to_csv(f'clean_data/{store}/{store}_data.csv', index=False)

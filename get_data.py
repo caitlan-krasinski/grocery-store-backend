@@ -5,17 +5,17 @@ import time
 print('##################### PROCESS STARTED #####################')
 
 # 1. scrapers 
-# print('------------ scraping data')
+print('------------ scraping data')
 
-# start_time = time.time() 
-# print('starting loblaw co scraping')
-# import loblaw_co_scraper
-# print(f'completed in {time.time() - start_time} \n')
+start_time = time.time() 
+print('starting loblaw co scraping')
+import loblaw_co_scraper
+print(f'completed in {time.time() - start_time} \n')
 
-# start_time = time.time() 
-# print('starting flipp scraping')
-# import flipp_scraper_v2 # upgrade to v2 
-# print(f'completed in {time.time() - start_time} \n')
+start_time = time.time() 
+print('starting flipp scraping')
+import flipp_scraper_v2 # upgrade to v2 
+print(f'completed in {time.time() - start_time} \n')
 
 # 2. cleaning
 print('------------ cleaning data')
@@ -34,12 +34,13 @@ print(f'completed in {time.time() - start_time} \n')
 print('------------ generating synthetic data')
 
 start_time = time.time() 
-import generate_synthetic_data
+# import generate_synthetic_data
+import emp_study_scaling_factors
 import combine_flipp_synth_data
 print(f'completed in {time.time() - start_time} \n')
 
 
-## INDEXING DEPRECATED 
+# # INDEXING DEPRECATED 
 # # 4. index 
 # print('------------ building indexes')
 
