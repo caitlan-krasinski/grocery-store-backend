@@ -1,87 +1,90 @@
-category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale
-seafood,President's Choice,Pacific White Shrimp Raw Peeled,President's ChoicePacific White Shrimp Raw Peeled400 g,$10.99ea,,$2.75/ 100g,False
-seafood,,"Fresh Atlantic Salmon Fillets, Skin On, Packaged, Club Size","Fresh Atlantic Salmon Fillets, Skin On, Packaged, Club Size",$20.23(est.)ea,,$24.23/ 1kg,False
-seafood,,"Fresh Atlantic Salmon Fillets, Skin On, Packaged","Fresh Atlantic Salmon Fillets, Skin On, Packaged",$8.43(est.)ea,,$26.43/ 1kg,False
-seafood,President's Choice,Pacific White Shrimp Cooked Peeled,President's ChoicePacific White Shrimp Cooked Peeled400 g,$11.99ea,,$3.00/ 100g,False
-seafood,Seaquest,"Colossal Raw Shrimp, 16/20","SeaquestColossal Raw Shrimp, 16/20300 g",$7.99ea,,$2.66/ 100g,False
-seafood,Seaquest,"Scallops, Small","SeaquestScallops, Small454 g",$11.99ea,$10.99ea,$2.42/ 100g,True
-seafood,President's Choice,Zipperback Pacific White Shrimp Raw,President's ChoiceZipperback Pacific White Shrimp Raw400 g,$12.99ea,,$3.25/ 100g,False
-seafood,President's Choice,Pacific White Shrimp Platter with Mild Cocktail Sauce,President's ChoicePacific White Shrimp Platter with Mild Cocktail Sauce568 g,$19.99ea,,$3.52/ 100g,False
-seafood,Seaquest,King Crab Flavoured Wild Alaska Pollock & Wild Pacific Whiting,SeaquestKing Crab Flavoured Wild Alaska Pollock & Wild Pacific Whiting227 g,$3.99ea,,$1.76/ 100g,False
-seafood,Seaquest,Leg-style King Crab Flavoured Wild Alaska Pollock & Wild Pacific Whiting,SeaquestLeg-style King Crab Flavoured Wild Alaska Pollock & Wild Pacific Whiting227 g,$3.99ea,,$1.76/ 100g,False
-seafood,DOM,Smoked Steelhead Salmon,DOMSmoked Steelhead Salmon50 g,$3.49ea,,$6.98/ 100g,False
-seafood,President's Choice,Smoked Wild Sockeye Salmon,President's ChoiceSmoked Wild Sockeye Salmon150 g,$13.99ea,,$9.33/ 100g,False
-seafood,President's Choice,Breaded Coconut Shrimp With Sweet Chili Dipping Sauce,President's ChoiceBreaded Coconut Shrimp With Sweet Chili Dipping Sauce454 g,$11.99ea,,$2.64/ 100g,False
-seafood,Seaquest,Wild Haddock Fillets Skinless Boneless ,SeaquestWild Haddock Fillets Skinless Boneless 400 g,$8.99ea,,$2.25/ 100g,False
-seafood,,$10 Basa Fillets,$10 Basa Fillets908 g,$10.00ea,,$1.10/ 100g,False
-seafood,Seaquest,Salad Shrimp,SeaquestSalad Shrimp454 g,$11.99ea,,$2.64/ 100g,False
-seafood,President's Choice,Bacon-Wrapped Wild Sea Scallops,President's ChoiceBacon-Wrapped Wild Sea Scallops260 g,$17.99ea,,$6.92/ 100g,False
-seafood,President's Choice,Tempura Torpedo Shrimp With Sweet Soy Dipping Sauce,President's ChoiceTempura Torpedo Shrimp With Sweet Soy Dipping Sauce340 g,$11.99ea,,$3.53/ 100g,False
-seafood,President's Choice,Breaded Butterflied Shrimp ,President's ChoiceBreaded Butterflied Shrimp 400 g,$11.99ea,,$3.00/ 100g,False
-seafood,,"Raw Wild Shrimp, Easy Peel","Raw Wild Shrimp, Easy Peel300 g",$13.99ea,,$4.66/ 100g,False
-seafood,Seaquest,Pink Salmon Fillets,SeaquestPink Salmon Fillets1 kg,$18.99ea,,$1.90/ 100g,False
-seafood,President's Choice,Scottish Atlantic Salmon Double Smoked ,President's ChoiceScottish Atlantic Salmon Double Smoked 150 g,$12.99ea,,$8.66/ 100g,False
-seafood,Seaquest,Wild Haddock Fillets Club Size ,SeaquestWild Haddock Fillets Club Size 1 kg,$17.99ea,,$1.80/ 100g,False
-seafood,,Lobster Tail 2-3 Oz Frozen (1 Ea),Lobster Tail 2-3 Oz Frozen (1 Ea)57 g,$6.99ea,,$6.99/ 1ea,False
-seafood,President's Choice,Raw Shrimp,President's ChoiceRaw Shrimp340 g,$11.99ea,$10.99ea,$3.23/ 100g,True
-seafood,President's Choice,Beer Battered Shrimp,President's ChoiceBeer Battered Shrimp300 g,$11.99ea,,$4.00/ 100g,False
-seafood,Seaquest,Shrimp Ring,SeaquestShrimp Ring454 g,$16.99ea,,$3.74/ 100g,False
-seafood,Waterview Market,Crispy Calamari,Waterview MarketCrispy Calamari300 g,$4.29ea,,$1.43/ 100g,False
-seafood,President's Choice,Salmon & Haddock Fish Cake,President's ChoiceSalmon & Haddock Fish Cake290 g,$9.99ea,,$3.44/ 100g,False
-seafood,Ocean Jewel,"Scottish Kippers, Boned    ","Ocean JewelScottish Kippers, Boned    200 g",$4.99ea,,$2.50/ 100g,False
-seafood,PC Blue Menu,"Wild Sea Scallops, 100/150","PC Blue MenuWild Sea Scallops, 100/150400 g",$15.99ea,,$4.00/ 100g,False
-seafood,High Liner,Wild Pacific Salmon Loins Market Cuts ,High LinerWild Pacific Salmon Loins Market Cuts 227 g,$9.99ea,,$4.40/ 100g,False
-seafood,President's Choice,Crispy Shrimp Fine Hors D'Oeuvre Trio,President's ChoiceCrispy Shrimp Fine Hors D'Oeuvre Trio528 g,$16.99ea,,$3.22/ 100g,False
-seafood,Nanuk,Smoked Coho Salmon,NanukSmoked Coho Salmon300 g,$22.99ea,,$7.66/ 100g,False
-seafood,President's Choice,"Wild Yellowfin Tuna Skinless Boneless Steaks, Sustainably Sourced 280g","President's ChoiceWild Yellowfin Tuna Skinless Boneless Steaks, Sustainably Sourced 280g280 g",$12.99ea,,$4.64/ 100g,False
-seafood,Seaquest,"Basa fillets, skinless & boneless","SeaquestBasa fillets, skinless & boneless1 kg",$14.99ea,,$1.50/ 100g,False
-seafood,Seaquest,Wild Pollock Fillets,SeaquestWild Pollock Fillets400 g,$7.99ea,,$2.00/ 100g,False
-seafood,President's Choice,Raw Butterflied Shrimp Garlic & Herb Grilling 12 Pieces Minimum,President's ChoiceRaw Butterflied Shrimp Garlic & Herb Grilling 12 Pieces Minimum340 g,$13.99ea,,$4.11/ 100g,False
-seafood,President's Choice, Atlantic Salmon Burger,President's Choice Atlantic Salmon Burger568 g,$13.99ea,,$2.46/ 100g,False
-seafood,PC Blue Menu,Rainbow Trout Skinless Boneless Fillets,PC Blue MenuRainbow Trout Skinless Boneless Fillets280 g,$13.99ea,,$5.00/ 100g,False
-seafood,PC Organics,Organic Atlantic Salmon Fillets,PC OrganicsOrganic Atlantic Salmon Fillets280 g,$19.99ea,,$7.14/ 100g,False
-seafood,President's Choice,Sea Salt and Malt Vinegar Haddock Bites,President's ChoiceSea Salt and Malt Vinegar Haddock Bites454 g,$11.99ea,,$2.64/ 100g,False
-seafood,President's Choice,Shrimp & Scallops Au Gratin,President's ChoiceShrimp & Scallops Au Gratin240 g,$12.99ea,,$5.41/ 100g,False
-seafood,Feature Foods,Lunch Herring,Feature FoodsLunch Herring320 g,$4.99ea,,$1.56/ 100g,False
-seafood,Anchor Bay,Cooked Shrimp 61-70 ct,Anchor BayCooked Shrimp 61-70 ct454 g,$15.99ea,,$3.52/ 100g,False
-seafood,Foppen,Smoked Slice Salmon Loin,FoppenSmoked Slice Salmon Loin170 g,$13.99ea,,$8.23/ 100g,False
-seafood,Millionnaires,Flat Fillets of Anchovies,MillionnairesFlat Fillets of Anchovies50 g,$4.99ea,,$4.99/ 50g,False
-seafood,Premier, Seafood Mix,Premier Seafood Mix340 g,$5.99ea,,$1.76/ 100g,False
-seafood,President's Choice,Butter & Lemon Grilling Lobster Tail Skewers,President's ChoiceButter & Lemon Grilling Lobster Tail Skewers200 g,$15.99ea,,$8.00/ 100g,False
-seafood,PC Blue Menu,"Wild Nova Scotian Sea Scallops, Frozen","PC Blue MenuWild Nova Scotian Sea Scallops, Frozen400 g",$25.99ea,,$6.50/ 100g,False
-seafood,Toppits,"Frozen Lobster Meat, Cooked","ToppitsFrozen Lobster Meat, Cooked150 g",$28.99ea,,$19.33/ 100g,False
-seafood,,"Lobster Tail, Frozen","Lobster Tail, Frozen95 g",$8.99ea,,$9.46/ 100g,False
-seafood,President's Choice,Melt In The Middle Sustainably Sourced Cod Fish Cakes,President's ChoiceMelt In The Middle Sustainably Sourced Cod Fish Cakes290 g,$9.99ea,,$3.44/ 100g,False
-seafood,PC Organics,Organic Zipperback Shrimp,PC OrganicsOrganic Zipperback Shrimp300 g,$13.99ea,,$4.66/ 100g,False
-seafood,Foodfest,Steelhead Smoked Salmon,FoodfestSteelhead Smoked Salmon140 g,$12.99ea,,$9.28/ 100g,False
-seafood,President's Choice,Raw Zipperback Shrimp Grilling,President's ChoiceRaw Zipperback Shrimp Grilling454 g,$18.99ea,,$4.18/ 100g,False
-seafood,Toppits,"Tempura Shrimp, Oven Ready","ToppitsTempura Shrimp, Oven Ready500 g",$11.99ea,,$2.40/ 100g,False
-seafood,,"Fresh Tilapia Fillets, Packaged","Fresh Tilapia Fillets, Packaged",$6.03(est.)ea,,$25.33/ 1kg,False
-seafood,President's Choice,Black Tiger Shrimp Raw Gigantico,President's ChoiceBlack Tiger Shrimp Raw Gigantico400 g,$16.99ea,,$4.25/ 100g,False
-seafood,Nanuk,Smoked Sockeye Salmon,NanukSmoked Sockeye Salmon85 g,$11.99ea,,$14.11/ 100g,False
-seafood,,Haddock Fillet,Haddock Fillet,$28.64/1 kg,,$28.64/ 1kg,False
-seafood,,"Lobster Tail, Frozen","Lobster Tail, Frozen125 g",$10.99ea,,$9.73/ 100g,False
-seafood,President's Choice,Black Tiger Shrimp With Mild Cocktail Sauce Gigantico,President's ChoiceBlack Tiger Shrimp With Mild Cocktail Sauce Gigantico568 g,$27.99ea,,$4.93/ 100g,False
-seafood,Foppen,Smoked Salmon Toast Trio,FoppenSmoked Salmon Toast Trio248 g,$15.99ea,,$6.45/ 100g,False
-seafood,High Liner,Catch of the Day Haddock Fillets 5,High LinerCatch of the Day Haddock Fillets 5580 g,$16.99ea,,$2.93/ 100g,False
-seafood,Anchor Bay,Mussel Meat,Anchor BayMussel Meat340 g,$5.99ea,,$1.76/ 100g,False
-seafood,Feature Foods,Herring Fillets in Wine Marinade,Feature FoodsHerring Fillets in Wine Marinade320 g,$5.99ea,,$1.87/ 100g,False
-seafood,President's Choice,Oak Smoked Scottish Atlantic Salmon,President's ChoiceOak Smoked Scottish Atlantic Salmon150 g,$12.99ea,,$8.66/ 100g,False
-seafood,President's Choice,Breaded Cod Bites With Sauce,President's ChoiceBreaded Cod Bites With Sauce454 g,$13.99ea,,$3.08/ 100g,False
-seafood,President's Choice,Wild Atlantic Cod Fillets ,President's ChoiceWild Atlantic Cod Fillets 280 g,$9.99ea,,$3.57/ 100g,False
-seafood,President's Choice,Pacific White Shrimp Cooked Peeled Responsibly Farmed Jumbo ,President's ChoicePacific White Shrimp Cooked Peeled Responsibly Farmed Jumbo 400 g,$18.99ea,,$4.75/ 100g,False
-seafood,PC Blue Menu,Atlantic Salmon Skinless Boneless Fillets,PC Blue MenuAtlantic Salmon Skinless Boneless Fillets280 g,$15.99ea,,$5.71/ 100g,False
-seafood,PC Organics,Organics Peeled Raw Black Tiger Shrimp,PC OrganicsOrganics Peeled Raw Black Tiger Shrimp300 g,$14.99ea,,$5.00/ 100g,False
-seafood,President's Choice,Gluten Free Breaded Shrimp,President's ChoiceGluten Free Breaded Shrimp340 g,$11.99ea,,$3.53/ 100g,False
-seafood,PC Organics,Organics Zipperback Raw Black Tiger Shrimp,PC OrganicsOrganics Zipperback Raw Black Tiger Shrimp300 g,$10.99ea,,$3.66/ 100g,False
-seafood,Seaquest,"Calamari Rings, Uncooked","SeaquestCalamari Rings, Uncooked340 g",$9.99ea,,$2.94/ 100g,False
-seafood,Toppits,Snow Crab Legs & Claw,ToppitsSnow Crab Legs & Claw500 g,$29.99ea,,$6.00/ 100g,False
-seafood,,Cod Fillets,Cod Fillets,$33.05/1 kg,,$33.05/ 1kg,False
-seafood,President's Choice,Wild Atlantic Cold Water Shrimp Cooked Peeled ,President's ChoiceWild Atlantic Cold Water Shrimp Cooked Peeled 340 g,$12.99ea,,$3.82/ 100g,False
-seafood,Seaquest,Shrimp Ring,SeaquestShrimp Ring227 g,$8.99ea,,$3.96/ 100g,False
-seafood,President's Choice,Breaded Potato and Wild Salt Cod Croquettes,President's ChoiceBreaded Potato and Wild Salt Cod Croquettes300 g,$11.99ea,,$4.00/ 100g,False
-seafood,Seaquest,"Sole Fillets, Skinless Boneless","SeaquestSole Fillets, Skinless Boneless400 g",$8.99ea,,$2.25/ 100g,False
-seafood,President's Choice,Smoked Atlantic Salmon,President's ChoiceSmoked Atlantic Salmon150 g,$13.99ea,,$9.33/ 100g,False
-seafood,Anchor Bay,Cooked Clam Meat,Anchor BayCooked Clam Meat340 g,$6.99ea,,$2.33/ 100g,False
-seafood,President's Choice,Everything Seasoned Smoked Steelhead Salmon,President's ChoiceEverything Seasoned Smoked Steelhead Salmon150 g,$13.99ea,,$9.33/ 100g,False
-seafood,Fortune Oysters, Live Oysters,Fortune Oysters Live Oysters360 g,$9.99ea,,$2.78/ 100g,False
+category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale,sale_valid_to
+seafood,President's Choice,Pacific White Shrimp Raw Peeled,President's ChoicePacific White Shrimp Raw Peeled400 g,$10.99ea,,$2.75/ 100g,False,
+seafood,President's Choice,Pacific White Shrimp Cooked Peeled,President's ChoicePacific White Shrimp Cooked Peeled400 g,$11.99ea,,$3.00/ 100g,False,
+seafood,,"Fresh Atlantic Salmon Fillets, Skin On, Packaged","Fresh Atlantic Salmon Fillets, Skin On, Packaged",$11.60(est.)ea,,$36.36/ 1kg,False,
+seafood,,"Fresh Atlantic Salmon Fillets, Skin On, Packaged, Club Size","Fresh Atlantic Salmon Fillets, Skin On, Packaged, Club Size",$28.52(est.)ea,,$34.15/ 1kg,False,
+seafood,Seaquest,"Colossal Raw Shrimp, 16/20","SeaquestColossal Raw Shrimp, 16/20300 g",$7.99ea,,$2.66/ 100g,False,
+seafood,Seaquest,Wild Haddock Fillets Skinless Boneless ,SeaquestWild Haddock Fillets Skinless Boneless 400 g,$8.99ea,,$2.25/ 100g,False,
+seafood,Seaquest,"Scallops, Small","SeaquestScallops, Small454 g",$11.99ea,$10.99ea,$2.42/ 100g,True,saleEnds 03/01
+seafood,Seaquest,"Sole Fillets, Skinless Boneless","SeaquestSole Fillets, Skinless Boneless400 g",$8.99ea,,$2.25/ 100g,False,
+seafood,DOM,Smoked Steelhead Salmon,DOMSmoked Steelhead Salmon50 g,$3.49ea,,$6.98/ 100g,False,
+seafood,Seaquest,King Crab Flavoured Wild Alaska Pollock & Wild Pacific Whiting,SeaquestKing Crab Flavoured Wild Alaska Pollock & Wild Pacific Whiting227 g,$3.99ea,,$1.76/ 100g,False,
+seafood,Seaquest,Leg-style King Crab Flavoured Wild Alaska Pollock & Wild Pacific Whiting,SeaquestLeg-style King Crab Flavoured Wild Alaska Pollock & Wild Pacific Whiting227 g,$3.99ea,,$1.76/ 100g,False,
+seafood,,"Raw Wild Shrimp, Easy Peel","Raw Wild Shrimp, Easy Peel300 g",$13.99ea,,$4.66/ 100g,False,
+seafood,Seaquest,Salad Shrimp,SeaquestSalad Shrimp454 g,$11.99ea,,$2.64/ 100g,False,
+seafood,President's Choice,Pacific White Shrimp Platter with Mild Cocktail Sauce,President's ChoicePacific White Shrimp Platter with Mild Cocktail Sauce568 g,$19.99ea,,$3.52/ 100g,False,
+seafood,President's Choice,Zipperback Pacific White Shrimp Raw,President's ChoiceZipperback Pacific White Shrimp Raw400 g,$12.99ea,,$3.25/ 100g,False,
+seafood,President's Choice,Smoked Wild Sockeye Salmon,President's ChoiceSmoked Wild Sockeye Salmon150 g,$11.99ea,$7.99ea,$5.33/ 100g,True,saleEnds 03/01
+seafood,,$10 Basa Fillets,$10 Basa Fillets908 g,$10.00ea,,$1.10/ 100g,False,
+seafood,President's Choice,Breaded Coconut Shrimp With Sweet Chili Dipping Sauce,President's ChoiceBreaded Coconut Shrimp With Sweet Chili Dipping Sauce454 g,$14.99ea,,$3.30/ 100g,False,
+seafood,President's Choice,Breaded Butterflied Shrimp ,President's ChoiceBreaded Butterflied Shrimp 400 g,$14.99ea,,$3.75/ 100g,False,
+seafood,Seaquest,Pink Salmon Fillets,SeaquestPink Salmon Fillets1 kg,$18.99ea,,$1.90/ 100g,False,
+seafood,President's Choice,Tempura Torpedo Shrimp With Sweet Soy Dipping Sauce,President's ChoiceTempura Torpedo Shrimp With Sweet Soy Dipping Sauce340 g,$14.99ea,,$4.41/ 100g,False,
+seafood,President's Choice,Scottish Atlantic Salmon Double Smoked ,President's ChoiceScottish Atlantic Salmon Double Smoked 150 g,$11.99ea,$7.99ea,$5.33/ 100g,True,saleEnds 03/01
+seafood,President's Choice,Bacon-Wrapped Wild Sea Scallops,President's ChoiceBacon-Wrapped Wild Sea Scallops260 g,$17.99ea,,$6.92/ 100g,False,
+seafood,,"Tuna, Previously Frozen, Packaged","Tuna, Previously Frozen, Packaged",$7.15(est.)ea,,$30.84/ 1kg,False,
+seafood,Seaquest,Wild Pollock Fillets,SeaquestWild Pollock Fillets400 g,$7.99ea,,$2.00/ 100g,False,
+seafood,Ocean Jewel,"Scottish Kippers, Boned    ","Ocean JewelScottish Kippers, Boned    200 g",$4.99ea,,$2.50/ 100g,False,
+seafood,Nanuk,Smoked Coho Salmon,NanukSmoked Coho Salmon300 g,$22.99ea,,$7.66/ 100g,False,
+seafood,Seaquest,"Basa fillets, skinless & boneless","SeaquestBasa fillets, skinless & boneless1 kg",$14.99ea,,$1.50/ 100g,False,
+seafood,PC Blue Menu,"Wild Sea Scallops, 100/150","PC Blue MenuWild Sea Scallops, 100/150400 g",$15.99ea,,$4.00/ 100g,False,
+seafood,PC Organics,Organic Shrimp Ring,PC OrganicsOrganic Shrimp Ring340 g,$24.99ea,,$7.35/ 100g,False,
+seafood,President's Choice,"Wild Yellowfin Tuna Skinless Boneless Steaks, Sustainably Sourced 280g","President's ChoiceWild Yellowfin Tuna Skinless Boneless Steaks, Sustainably Sourced 280g280 g",$12.99ea,,$4.64/ 100g,False,
+seafood,President's Choice,Salmon & Haddock Fish Cake,President's ChoiceSalmon & Haddock Fish Cake290 g,$9.99ea,,$3.44/ 100g,False,
+seafood,Waterview Market,Crispy Calamari,Waterview MarketCrispy Calamari300 g,$4.29ea,,$1.43/ 100g,False,
+seafood,President's Choice,Crispy Shrimp Fine Hors D'Oeuvre Trio,President's ChoiceCrispy Shrimp Fine Hors D'Oeuvre Trio528 g,$16.99ea,,$3.22/ 100g,False,
+seafood,Feature Foods,Lunch Herring,Feature FoodsLunch Herring320 g,$4.99ea,,$1.56/ 100g,False,
+seafood,,Tuna Steak Previously Frozen ,Tuna Steak Previously Frozen ,$8.64(est.)ea,,$30.84/ 1kg,False,
+seafood,Millionnaires,Flat Fillets of Anchovies,MillionnairesFlat Fillets of Anchovies50 g,$4.99ea,,$4.99/ 50g,False,
+seafood,President's Choice,Raw Butterflied Shrimp Garlic & Herb Grilling 12 Pieces Minimum,President's ChoiceRaw Butterflied Shrimp Garlic & Herb Grilling 12 Pieces Minimum340 g,$13.99ea,,$4.11/ 100g,False,
+seafood,Anchor Bay,Cooked Shrimp 61-70 ct,Anchor BayCooked Shrimp 61-70 ct454 g,$15.99ea,,$3.52/ 100g,False,
+seafood,Foppen,Smoked Slice Salmon Loin,FoppenSmoked Slice Salmon Loin170 g,$13.99ea,,$8.23/ 100g,False,
+seafood,President's Choice,Shrimp & Scallops Au Gratin,President's ChoiceShrimp & Scallops Au Gratin240 g,$12.99ea,,$5.41/ 100g,False,
+seafood,PC Blue Menu,"Wild Sockeye Salmon Sustainably Sourced, Skin-On Boneless Fillets","PC Blue MenuWild Sockeye Salmon Sustainably Sourced, Skin-On Boneless Fillets280 g",$17.99ea,,$6.43/ 100g,False,
+seafood,PC Blue Menu,Rainbow Trout Skinless Boneless Fillets,PC Blue MenuRainbow Trout Skinless Boneless Fillets280 g,$13.99ea,,$5.00/ 100g,False,
+seafood,President's Choice, Atlantic Salmon Burger,President's Choice Atlantic Salmon Burger568 g,$13.99ea,,$2.46/ 100g,False,
+seafood,PC Organics,Organic Atlantic Salmon Fillets,PC OrganicsOrganic Atlantic Salmon Fillets280 g,$19.99ea,,$7.14/ 100g,False,
+seafood,Premier, Seafood Mix,Premier Seafood Mix340 g,$5.99ea,,$1.76/ 100g,False,
+seafood,President's Choice,Raw Shrimp,President's ChoiceRaw Shrimp340 g,$12.99ea,,$3.82/ 100g,False,
+seafood,President's Choice,Sea Salt and Malt Vinegar Haddock Bites,President's ChoiceSea Salt and Malt Vinegar Haddock Bites454 g,$11.99ea,$10.99ea,$2.42/ 100g,True,saleEnds 03/01
+seafood,Foodfest,Steelhead Smoked Salmon,FoodfestSteelhead Smoked Salmon140 g,$12.99ea,,$9.28/ 100g,False,
+seafood,Nanuk,Smoked Sockeye Salmon,NanukSmoked Sockeye Salmon85 g,$11.99ea,,$14.11/ 100g,False,
+seafood,High Liner,Catch of the Day Haddock Fillets 5,High LinerCatch of the Day Haddock Fillets 5580 g,$14.99ea,,$2.58/ 100g,False,
+seafood,Feature Foods,Herring Fillets in Wine Marinade,Feature FoodsHerring Fillets in Wine Marinade320 g,$5.99ea,,$1.87/ 100g,False,
+seafood,,"Fresh Tilapia Fillets, Packaged","Fresh Tilapia Fillets, Packaged",$6.03(est.)ea,,$25.33/ 1kg,False,
+seafood,Anchor Bay,Mussel Meat,Anchor BayMussel Meat340 g,$5.99ea,,$1.76/ 100g,False,
+seafood,Seaquest,Wild Haddock Fillets Club Size ,SeaquestWild Haddock Fillets Club Size 1 kg,$17.99ea,,$1.80/ 100g,False,
+seafood,Toppits,"Tempura Shrimp, Oven Ready","ToppitsTempura Shrimp, Oven Ready500 g",$11.99ea,,$2.40/ 100g,False,
+seafood,,"Lobster Tail, Frozen","Lobster Tail, Frozen125 g",$10.99ea,,$9.73/ 100g,False,
+seafood,,"Lobster Tail, Frozen","Lobster Tail, Frozen95 g",$8.99ea,,$9.46/ 100g,False,
+seafood,PC Blue Menu,"Wild Nova Scotian Sea Scallops, Frozen","PC Blue MenuWild Nova Scotian Sea Scallops, Frozen400 g",$25.99ea,,$6.50/ 100g,False,
+seafood,PC Organics,Organic Zipperback Shrimp,PC OrganicsOrganic Zipperback Shrimp300 g,$13.99ea,,$4.66/ 100g,False,
+seafood,President's Choice,Black Tiger Shrimp Raw Gigantico,President's ChoiceBlack Tiger Shrimp Raw Gigantico400 g,$16.99ea,,$4.25/ 100g,False,
+seafood,Foppen,Smoked Salmon Toast Trio,FoppenSmoked Salmon Toast Trio248 g,$15.99ea,,$6.45/ 100g,False,
+seafood,President's Choice,Melt In The Middle Sustainably Sourced Cod Fish Cakes,President's ChoiceMelt In The Middle Sustainably Sourced Cod Fish Cakes290 g,$9.99ea,,$3.44/ 100g,False,
+seafood,President's Choice,Butter & Lemon Grilling Lobster Tail Skewers,President's ChoiceButter & Lemon Grilling Lobster Tail Skewers200 g,$15.99ea,,$8.00/ 100g,False,
+seafood,President's Choice,Oak Smoked Scottish Atlantic Salmon,President's ChoiceOak Smoked Scottish Atlantic Salmon150 g,$12.99ea,$7.99ea,$5.33/ 100g,True,saleEnds 03/01
+seafood,Toppits,"Frozen Lobster Meat, Cooked","ToppitsFrozen Lobster Meat, Cooked150 g",$28.99ea,,$19.33/ 100g,False,
+seafood,President's Choice,Beer Battered Shrimp,President's ChoiceBeer Battered Shrimp300 g,$12.99ea,,$4.33/ 100g,False,
+seafood,President's Choice,Raw Zipperback Shrimp Grilling,President's ChoiceRaw Zipperback Shrimp Grilling454 g,$18.99ea,,$4.18/ 100g,False,
+seafood,,Haddock Fillet,Haddock Fillet,$28.64/1 kg,,$28.64/ 1kg,False,
+seafood,President's Choice,Black Tiger Shrimp With Mild Cocktail Sauce Gigantico,President's ChoiceBlack Tiger Shrimp With Mild Cocktail Sauce Gigantico568 g,$27.99ea,,$4.93/ 100g,False,
+seafood,,Cod Fillets,Cod Fillets,$33.05/1 kg,,$33.05/ 1kg,False,
+seafood,Seaquest,Shrimp Ring,SeaquestShrimp Ring454 g,$16.99ea,,$3.74/ 100g,False,
+seafood,President's Choice,Breaded Cod Bites With Sauce,President's ChoiceBreaded Cod Bites With Sauce454 g,$13.99ea,,$3.08/ 100g,False,
+seafood,President's Choice,Wild Atlantic Cod Fillets ,President's ChoiceWild Atlantic Cod Fillets 280 g,$9.99ea,,$3.57/ 100g,False,
+seafood,PC Organics,Organics Peeled Raw Black Tiger Shrimp,PC OrganicsOrganics Peeled Raw Black Tiger Shrimp300 g,$14.99ea,,$5.00/ 100g,False,
+seafood,Seaquest,"Calamari Rings, Uncooked","SeaquestCalamari Rings, Uncooked340 g",$9.99ea,,$2.94/ 100g,False,
+seafood,PC Blue Menu,Atlantic Salmon Skinless Boneless Fillets,PC Blue MenuAtlantic Salmon Skinless Boneless Fillets280 g,$15.99ea,,$5.71/ 100g,False,
+seafood,President's Choice,Gluten Free Breaded Shrimp,President's ChoiceGluten Free Breaded Shrimp340 g,$11.99ea,,$3.53/ 100g,False,
+seafood,President's Choice,Pacific White Shrimp Cooked Peeled Responsibly Farmed Jumbo ,President's ChoicePacific White Shrimp Cooked Peeled Responsibly Farmed Jumbo 400 g,$18.99ea,,$4.75/ 100g,False,
+seafood,PC Organics,Organics Zipperback Raw Black Tiger Shrimp,PC OrganicsOrganics Zipperback Raw Black Tiger Shrimp300 g,$10.99ea,,$3.66/ 100g,False,
+seafood,Toppits,Snow Crab Legs & Claw,ToppitsSnow Crab Legs & Claw500 g,$29.99ea,,$6.00/ 100g,False,
+seafood,Fortune Oysters, Live Oysters,Fortune Oysters Live Oysters360 g,$9.99ea,,$2.78/ 100g,False,
+seafood,,Lobster Tail 2-3 Oz Frozen (1 Ea),Lobster Tail 2-3 Oz Frozen (1 Ea)57 g,$6.99ea,,$6.99/ 1ea,False,
+seafood,Anchor Bay,Cooked Clam Meat,Anchor BayCooked Clam Meat340 g,$6.99ea,,$2.33/ 100g,False,
+seafood,Seaquest,Shrimp Ring,SeaquestShrimp Ring227 g,$8.99ea,,$3.96/ 100g,False,
+seafood,President's Choice,Everything Seasoned Smoked Steelhead Salmon,President's ChoiceEverything Seasoned Smoked Steelhead Salmon150 g,$12.99ea,$7.99ea,$5.33/ 100g,True,saleEnds 03/01
+seafood,President's Choice,Breaded Potato and Wild Salt Cod Croquettes,President's ChoiceBreaded Potato and Wild Salt Cod Croquettes300 g,$11.99ea,,$4.00/ 100g,False,
+seafood,President's Choice,Wild Atlantic Cold Water Shrimp Cooked Peeled ,President's ChoiceWild Atlantic Cold Water Shrimp Cooked Peeled 340 g,$12.99ea,$9.99ea,$2.94/ 100g,True,saleEnds 03/01
+seafood,President's Choice,Smoked Atlantic Salmon,President's ChoiceSmoked Atlantic Salmon150 g,$11.99ea,$7.99ea,$5.33/ 100g,True,saleEnds 03/01

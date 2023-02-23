@@ -1,478 +1,490 @@
-category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale
-meat,PC Blue Menu,"Chicken Breast, Boneless Skinless, 3 Pack","PC Blue MenuChicken Breast, Boneless Skinless, 3 Pack1 ea",$12.00ea,,$12.00/ 1ea,False
-meat,,"Beef Striploin Grilling Steak, Club Pack","Beef Striploin Grilling Steak, Club Pack",$35.77(est.)ea,,$37.46/ 1kg,False
-meat,PC Blue Menu,Minced Turkey,PC Blue MenuMinced Turkey454 g,$8.00ea,,$1.76/ 100g,False
-meat,Schneider,Hickory Smoked Classic Cut Bacon,SchneiderHickory Smoked Classic Cut Bacon375 g,$8.79ea,,$2.34/ 100g,False
-meat,PC Blue Menu,"Boneless Skinless Chicken Breasts, 4 Pack","PC Blue MenuBoneless Skinless Chicken Breasts, 4 Pack1 ea",$15.00ea,,$15.00/ 1ea,False
-meat,President's Choice,"Free From Split Chicken Wings, Club Pack","President's ChoiceFree From Split Chicken Wings, Club Pack",$12.83(est.)ea,,$12.10/ 1kg,False
-meat,President's Choice,"Free From Chicken Breast, Boneless, Skinless, Club Pack","President's ChoiceFree From Chicken Breast, Boneless, Skinless, Club Pack",$24.28(est.)ea,,$22.91/ 1kg,False
-meat,PC Blue Menu,Ground Chicken,PC Blue MenuGround Chicken454 g,$8.00ea,,$1.76/ 100g,False
-meat,,Chicken Thigh  Boneless Skinless Club Pack,Chicken Thigh  Boneless Skinless Club Pack,$21.67(est.)ea,,$18.06/ 1kg,False
-meat,No Name,Mild Sugar-Cured Bacon,No NameMild Sugar-Cured Bacon500 g,$7.49ea,,$1.50/ 100g,False
-meat,President's Choice,"Air Chilled Chicken, Whole","President's ChoiceAir Chilled Chicken, Whole",$17.03(est.)ea,,$9.46/ 1kg,False
-meat,PC Blue Menu,Chicken Thighs  boneless Skinless  8 Pack,PC Blue MenuChicken Thighs  boneless Skinless  8 Pack1 ea,$12.00ea,,$12.00/ 1ea,False
-meat,,Pork Tenderloin Pack of 2,Pork Tenderloin Pack of 2,$6.99(est.)ea,,$6.59/ 1kg,False
-meat,President's Choice,"Free From Chicken Breast, Boneless, Skinless","President's ChoiceFree From Chicken Breast, Boneless, Skinless",$12.14(est.)ea,,$23.35/ 1kg,False
-meat,President's Choice,Reduced Salt Bacon  ,President's ChoiceReduced Salt Bacon  500 g,$8.49ea,,$1.70/ 100g,False
-meat,President's Choice,Free From Mild Italian Pork Sausages,President's ChoiceFree From Mild Italian Pork Sausages500 g,$7.99ea,,$1.60/ 100g,False
-meat,Schneider,Hickory Smoked 50% Less Salt Bacon,SchneiderHickory Smoked 50% Less Salt Bacon375 g,$8.79ea,,$2.34/ 100g,False
-meat,,"Chicken Leg (Back Attached) , Club Pack","Chicken Leg (Back Attached) , Club Pack",$6.53(est.)ea,,$5.49/ 1kg,False
-meat,No Name,Original Hot Dogs    ,No NameOriginal Hot Dogs    450 g,$4.49ea,,$1.00/ 100g,False
-meat,President's Choice,"Free From Chicken Thigh, Boneless, Skinless, Club Pack","President's ChoiceFree From Chicken Thigh, Boneless, Skinless, Club Pack",$23.85(est.)ea,,$20.04/ 1kg,False
-meat,No Name,"Bacon, Mild Sugar Cured with Reduced Salt, Uncooked","No NameBacon, Mild Sugar Cured with Reduced Salt, Uncooked500 g",$7.49ea,,$1.50/ 100g,False
-meat,No Name,Chicken Hot Dogs,No NameChicken Hot Dogs450 g,$2.79ea,,$0.62/ 100g,False
-meat,,Beef Striploin Steak,Beef Striploin Steak,$15.75(est.)ea,,$39.66/ 1kg,False
-meat,Maple Leaf,Original Natural Bacon,Maple LeafOriginal Natural Bacon375 g,$8.79ea,,$2.34/ 100g,False
-meat,Maple Leaf,Natural Top Dogs Original Hot Dogs,Maple LeafNatural Top Dogs Original Hot Dogs375 g,$5.99ea,,$1.60/ 100g,False
-meat,President's Choice,"Pub Recipe Chicken Strips, Fully Cooked","President's ChoicePub Recipe Chicken Strips, Fully Cooked700 g",$5.99ea,$5.49ea,$0.78/ 100g,True
-meat,,Lean Ground Beef,Lean Ground Beef500 g,$7.00ea,,$1.40/ 100g,False
-meat,Maple Leaf,Natural Top Dogs BBQ Hot Dogs,Maple LeafNatural Top Dogs BBQ Hot Dogs375 g,$5.99ea,,$1.60/ 100g,False
-meat,Sufra,Halal Chicken Nuggets,SufraHalal Chicken Nuggets840 g,$12.99ea,,$1.55/ 100g,False
-meat,President's Choice,"Certified Angus Beef Premium Tenderloin Oven Roast, Service Case","President's ChoiceCertified Angus Beef Premium Tenderloin Oven Roast, Service Case",$72.74(est.)ea,,$88.17/ 1kg,False
-meat,Lous,Smoked Applewood Back Bacon,LousSmoked Applewood Back Bacon375 g,$7.99ea,,$2.13/ 100g,False
-meat,Sufra,Halal Chicken Strips,SufraHalal Chicken Strips840 g,$12.99ea,,$1.55/ 100g,False
-meat,,Oktoberfest Pork Sausage Meat,Oktoberfest Pork Sausage Meat,$8.30(est.)ea,,$13.21/ 1kg,False
-meat,Schneider,"Smoked Sausage, Spicy Sicilian","SchneiderSmoked Sausage, Spicy Sicilian375 g",$7.79ea,$6.89ea,$1.84/ 100g,True
-meat,,"Lethbridge Pork Back Rib, Service Case","Lethbridge Pork Back Rib, Service Case",$16.96(est.)ea,,$24.23/ 1kg,False
-meat,,Beef Braising Short Ribs,Beef Braising Short Ribs,$19.96(est.)ea,,$33.04/ 1kg,False
-meat,,Beef Porterhouse T-Bone Grilling Steak,Beef Porterhouse T-Bone Grilling Steak,$24.95(est.)ea,,$41.87/ 1kg,False
-meat,,Lamb Lollipop Chops,Lamb Lollipop Chops,$16.94(est.)ea,,$68.32/ 1kg,False
-meat,,Extra Lean Ground Beef,Extra Lean Ground Beef454 g,$7.49ea,,$1.65/ 100g,False
-meat,,"Boneless Pork Chop Center & Rib, Club Pack","Boneless Pork Chop Center & Rib, Club Pack",$8.09(est.)ea,,$10.56/ 1kg,False
-meat,President's Choice,"Free From Chicken Thigh, Bone-in, Skin-on","President's ChoiceFree From Chicken Thigh, Bone-in, Skin-on",$6.90(est.)ea,,$12.10/ 1kg,False
-meat,St Hubert,Montana's Texan BBQ Ribs,St HubertMontana's Texan BBQ Ribs650 g,$15.99ea,,$2.46/ 100g,False
-meat,President's Choice,Free From Air Chilled Whole Chicken Breast Strips,President's ChoiceFree From Air Chilled Whole Chicken Breast Strips,$10.41(est.)ea,,$23.13/ 1kg,False
-meat,,"Lamb Leg, Short Cut, Previously Frozen","Lamb Leg, Short Cut, Previously Frozen",$45.59(est.)ea,,$19.82/ 1kg,False
-meat,Johnsonville,"Smoked Sausage, Polish Style","JohnsonvilleSmoked Sausage, Polish Style375 g",$6.49ea,$4.99ea,$1.33/ 100g,True
-meat,Johnsonville,Salt & Pepper Sausage Meat ,JohnsonvilleSalt & Pepper Sausage Meat 375 g,$6.99ea,,$1.86/ 100g,False
-meat,,Beef Marinated Striploin Steak,Beef Marinated Striploin Steak,$13.04(est.)ea,,$44.07/ 1kg,False
-meat,No Name,Breaded Chicken Cutlettes Chicken Nuggets Club Size,No NameBreaded Chicken Cutlettes Chicken Nuggets Club Size1810 g,$12.49ea,,$0.69/ 100g,False
-meat,Gold Label,Naturally Smokeys Smoked Sausages With Natural Ingredient Brats,Gold LabelNaturally Smokeys Smoked Sausages With Natural Ingredient Brats375 g,$5.49ea,,$1.46/ 100g,False
-meat,Yorkshire Valley Farms,Organic Chicken Bites,Yorkshire Valley FarmsOrganic Chicken Bites454 g,$14.99ea,,$3.30/ 100g,False
-meat,,Beef T-Bone Grilling Steak,Beef T-Bone Grilling Steak,$19.16(est.)ea,,$39.66/ 1kg,False
-meat,President's Choice,"Certified Angus Beef Premium Tenderloin Oven Roast, Service Case","President's ChoiceCertified Angus Beef Premium Tenderloin Oven Roast, Service Case",$72.74(est.)ea,,$88.17/ 1kg,False
-meat,Maple Leaf,Natural Top Dogs BBQ Hot Dogs,Maple LeafNatural Top Dogs BBQ Hot Dogs375 g,$5.99ea,,$1.60/ 100g,False
-meat,Sufra,Halal Chicken Nuggets,SufraHalal Chicken Nuggets840 g,$12.99ea,,$1.55/ 100g,False
-meat,,Oktoberfest Pork Sausage Meat,Oktoberfest Pork Sausage Meat,$8.30(est.)ea,,$13.21/ 1kg,False
-meat,President's Choice,"Certified Angus Beef, Tenderloin Grilling Steak","President's ChoiceCertified Angus Beef, Tenderloin Grilling Steak",$33.70(est.)ea,,$92.57/ 1kg,False
-meat,Maple Leaf,Mini-Sizzlers Breakfast Sausages,Maple LeafMini-Sizzlers Breakfast Sausages375 g,$8.99ea,,$2.40/ 100g,False
-meat,,Rib Steak Fast Fry,Rib Steak Fast Fry,$13.35(est.)ea,,$44.07/ 1kg,False
-meat,President's Choice,"Free From Pork Loin Chop, Centre Cut","President's ChoiceFree From Pork Loin Chop, Centre Cut",$7.03(est.)ea,,$15.39/ 1kg,False
-meat,Gold Label,Naturally Smokeys Smoked Sausages Made With Natural Ingredients Original,Gold LabelNaturally Smokeys Smoked Sausages Made With Natural Ingredients Original375 g,$5.49ea,,$1.46/ 100g,False
-meat,,"Pork Center Chop Bone In, Club Pack","Pork Center Chop Bone In, Club Pack",$18.75(est.)ea,,$13.21/ 1kg,False
-meat,King Cole,Duck Leg Confit,King ColeDuck Leg Confit280 g,$16.99ea,,$6.07/ 100g,False
-meat,Schneider,"Smoked Sausage, Spicy Sicilian","SchneiderSmoked Sausage, Spicy Sicilian375 g",$7.79ea,$6.89ea,$1.84/ 100g,True
-meat,Lous,Smoked Applewood Back Bacon,LousSmoked Applewood Back Bacon375 g,$7.99ea,,$2.13/ 100g,False
-meat,Sufra,Halal Chicken Strips,SufraHalal Chicken Strips840 g,$12.99ea,,$1.55/ 100g,False
-meat,Janes,"Boneless Chicken Bites, Honey Garlic","JanesBoneless Chicken Bites, Honey Garlic710 g",$20.99ea,,$2.96/ 100g,False
-meat,Maple Leaf,Fully Cooked Natural Pork Breakfast Sausage Patties,Maple LeafFully Cooked Natural Pork Breakfast Sausage Patties300 g,$8.29ea,,$2.76/ 100g,False
-meat,,"Boneless Pork Chop Center & Rib, Club Pack","Boneless Pork Chop Center & Rib, Club Pack",$8.09(est.)ea,,$10.56/ 1kg,False
-meat,Zabiha Halal,"Chicken Stix, Fully Cooked","Zabiha HalalChicken Stix, Fully Cooked300 g",$9.99ea,,$3.33/ 100g,False
-meat,Janes,Boneless Chicken Bites,JanesBoneless Chicken Bites710 g,$20.99ea,,$2.96/ 100g,False
-meat,Lous,Peameal Bacon Original,LousPeameal Bacon Original800 g,$7.99ea,,$1.00/ 100g,False
-meat,President's Choice,Nashville Breaded Chicken Bites,President's ChoiceNashville Breaded Chicken Bites700 g,$15.99ea,,$2.28/ 100g,False
-meat,President's Choice,Free From Lean Ground Lamb,President's ChoiceFree From Lean Ground Lamb454 g,$15.99ea,,$3.52/ 100g,False
-meat,Maple Lodge Farms LT,Ultimate Chicken Wiener,Maple Lodge Farms LTUltimate Chicken Wiener900 g,$7.19ea,,$0.80/ 100g,False
-meat,President's Choice,Jerk Chicken Wings,President's ChoiceJerk Chicken Wings907 g,$15.99ea,,$1.76/ 100g,False
-meat,Marcangelo,"Chicken Souvlaki, Value Pack","MarcangeloChicken Souvlaki, Value Pack480 g",$14.99ea,,$3.12/ 100g,False
-meat,President's Choice,Australian Lamb Frozen Short Cut Leg Of Lamb,President's ChoiceAustralian Lamb Frozen Short Cut Leg Of Lamb,$60.78(est.)ea,,$22.02/ 1kg,False
-meat,President's Choice,Honey Barbecue Pork Back Ribs,President's ChoiceHoney Barbecue Pork Back Ribs680 g,$15.99ea,,$2.35/ 100g,False
-meat,Houston Avenue Bar & Grill,Portuguese Flavoured Flattened Chicken ,Houston Avenue Bar & GrillPortuguese Flavoured Flattened Chicken ,$13.21/1 kg,,$13.21/ 1kg,False
-meat,Lous,Pork Back Ribs BBQ Sauce,LousPork Back Ribs BBQ Sauce610 g,$15.99ea,,$2.62/ 100g,False
-meat,President's Choice,Free From Hot Italian Pork Sausages,President's ChoiceFree From Hot Italian Pork Sausages500 g,$7.99ea,,$1.60/ 100g,False
-meat,Johnsonville,Smoked & Fully Cooked Sausages Pure Pork Smoked Bratwurst,JohnsonvilleSmoked & Fully Cooked Sausages Pure Pork Smoked Bratwurst375 g,$6.99ea,$4.99ea,$1.33/ 100g,True
-meat,Butterball,Homestyle Stuffing,ButterballHomestyle Stuffing900 g,$6.99ea,,$0.78/ 100g,False
-meat,President's Choice,Sirloin Beef Meatballs ,President's ChoiceSirloin Beef Meatballs 907 g,$15.99ea,,$1.76/ 100g,False
-meat,President's Choice,Free From Whole Chicken,President's ChoiceFree From Whole Chicken,$18.59(est.)ea,,$11.00/ 1kg,False
-meat,Maple Lodge Farms LT,Chicken Wiener,Maple Lodge Farms LTChicken Wiener450 g,$3.99ea,,$0.89/ 100g,False
-meat,President's Choice,Free From Bangers Pork Sausages,President's ChoiceFree From Bangers Pork Sausages500 g,$7.99ea,,$1.60/ 100g,False
-meat,Impossible Foods Inc.,Simulated Meat Burger,Impossible Foods Inc.Simulated Meat Burger340 g,$11.99ea,,$3.53/ 100g,False
-meat,,Ground Bison,Ground Bison280 g,$13.49ea,,$4.82/ 100g,False
-meat,President's Choice,Too Good To Be Wings Maple Barbecue Boneless Coated Chicken Breast Chunks,President's ChoiceToo Good To Be Wings Maple Barbecue Boneless Coated Chicken Breast Chunks800 g,$16.99ea,,$2.12/ 100g,False
-meat,President's Choice,"Free From Chicken Thigh, Boneless, Skinless","President's ChoiceFree From Chicken Thigh, Boneless, Skinless",$10.46(est.)ea,,$20.92/ 1kg,False
-meat,Schneider,Smokies Honey Garlic Smoked Sausage,SchneiderSmokies Honey Garlic Smoked Sausage900 g,$15.49ea,,$1.72/ 100g,False
-meat,President's Choice,Free From Original Breakfast Pork Sausages,President's ChoiceFree From Original Breakfast Pork Sausages375 g,$6.99ea,,$1.86/ 100g,False
-meat,,Southern-Style Popcorn Chicken,Southern-Style Popcorn Chicken1.13 kg,$10.00ea,,$0.88/ 100g,False
-meat,Janes,"Pub Style Chicken Nugget, Fully Cooked","JanesPub Style Chicken Nugget, Fully Cooked700 g",$13.99ea,,$2.00/ 100g,False
-meat,President's Choice,"Pub Recipe Chicken Strips, Fully Cooked, Club Size","President's ChoicePub Recipe Chicken Strips, Fully Cooked, Club Size1.4 kg",$12.99ea,,$0.93/ 100g,False
-meat,,Ground Bison,Ground Bison280 g,$13.49ea,,$4.82/ 100g,False
-meat,President's Choice,Too Good To Be Wings Maple Barbecue Boneless Coated Chicken Breast Chunks,President's ChoiceToo Good To Be Wings Maple Barbecue Boneless Coated Chicken Breast Chunks800 g,$16.99ea,,$2.12/ 100g,False
-meat,President's Choice,"Free From Chicken Thigh, Boneless, Skinless","President's ChoiceFree From Chicken Thigh, Boneless, Skinless",$10.46(est.)ea,,$20.92/ 1kg,False
-meat,Houston Avenue Bar & Grill,Portuguese Flavoured Flattened Chicken ,Houston Avenue Bar & GrillPortuguese Flavoured Flattened Chicken ,$13.21/1 kg,,$13.21/ 1kg,False
-meat,Lous,Pork Back Ribs BBQ Sauce,LousPork Back Ribs BBQ Sauce610 g,$15.99ea,,$2.62/ 100g,False
-meat,President's Choice,Free From Hot Italian Pork Sausages,President's ChoiceFree From Hot Italian Pork Sausages500 g,$7.99ea,,$1.60/ 100g,False
-meat,Butterball,Homestyle Stuffing,ButterballHomestyle Stuffing900 g,$6.99ea,,$0.78/ 100g,False
-meat,President's Choice,Sirloin Beef Meatballs ,President's ChoiceSirloin Beef Meatballs 907 g,$15.99ea,,$1.76/ 100g,False
-meat,President's Choice,Free From Whole Chicken,President's ChoiceFree From Whole Chicken,$18.59(est.)ea,,$11.00/ 1kg,False
-meat,Zabiha Halal,Chicken Breast Strips,Zabiha HalalChicken Breast Strips800 g,$13.99ea,,$1.75/ 100g,False
-meat,Greenfield Natural Meat Co.,Wieners,Greenfield Natural Meat Co.Wieners375 g,$8.79ea,,$2.34/ 100g,False
-meat,PC Blue Menu,"Air Chilled Chicken Breast Fillets, Boneless, Skinless","PC Blue MenuAir Chilled Chicken Breast Fillets, Boneless, Skinless1 ea",$10.00ea,,$10.00/ 1ea,False
-meat,,EZ Marinade,EZ Marinade25 g,$1.00ea,,$4.00/ 100g,False
-meat,Hayter's Farm,Turkey Sausage Original,Hayter's FarmTurkey Sausage Original1.14 kg,$17.49ea,,$1.53/ 100g,False
-meat,,Top Sirloin Beefeater Medallion,Top Sirloin Beefeater Medallion,$9.73(est.)ea,,$28.63/ 1kg,False
-meat,President's Choice,"Air Chilled Chicken Drumsticks, 8-Pack","President's ChoiceAir Chilled Chicken Drumsticks, 8-Pack1 ea",$10.00ea,,$10.00/ 1ea,False
-meat,President's Choice,"Italian Meatballs, Club Pack","President's ChoiceItalian Meatballs, Club Pack1.81 kg",$29.99ea,,$1.66/ 100g,False
-meat,Schneider,Applewood Smoked Brown Sugar Ham,SchneiderApplewood Smoked Brown Sugar Ham700 g,$16.99ea,,$2.43/ 100g,False
-meat,President's Choice,Vermont-Style Maple Flavour Extra Lean Boneless Ham,President's ChoiceVermont-Style Maple Flavour Extra Lean Boneless Ham800 g,$12.99ea,,$1.62/ 100g,False
-meat,President's Choice,"Free From Air Chilled Chicken Breast Cutlet, Tray Pack","President's ChoiceFree From Air Chilled Chicken Breast Cutlet, Tray Pack",$10.80(est.)ea,,$25.11/ 1kg,False
-meat,,"Beef Rib Grilling Steak, Boneless","Beef Rib Grilling Steak, Boneless",$15.09(est.)ea,,$46.28/ 1kg,False
-meat,New Zealand,Lamb Sausage,New ZealandLamb Sausage500 g,$9.99ea,,$19.98/ 1kg,False
-meat,,Lamb Shoulder Chops,Lamb Shoulder Chops,$9.29(est.)ea,,$22.02/ 1kg,False
-meat,King Cole, Rendered Duck Fat,King Cole Rendered Duck Fat300 g,$7.99ea,,$2.66/ 100g,False
-meat,,Beef Boneless Blade Steak,Beef Boneless Blade Steak,$9.20(est.)ea,,$22.02/ 1kg,False
-meat,Johnsonville,Original Bratwurst Sausage,JohnsonvilleOriginal Bratwurst Sausage500 g,$6.99ea,,$1.40/ 100g,False
-meat,,Beef Striploin Fast Fry Steak,Beef Striploin Fast Fry Steak,$12.64(est.)ea,,$41.87/ 1kg,False
-meat,President's Choice,"Centre Cut Pork Loin Roast, Boneless","President's ChoiceCentre Cut Pork Loin Roast, Boneless",$14.44(est.)ea,,$17.59/ 1kg,False
-meat,Schneider,Butcher Cut Double Smoked Bacon,SchneiderButcher Cut Double Smoked Bacon500 g,$13.29ea,,$2.66/ 100g,False
-meat,,"Pork Belly, Sliced","Pork Belly, Sliced",$7.65(est.)ea,,$17.59/ 1kg,False
-meat,Zabiha Halal, Corn Dog,Zabiha Halal Corn Dog1 kg,$11.99ea,,$1.20/ 100g,False
-meat,Maple Leaf,"Natural Top Dogs Original Hot Dogs, Family Size","Maple LeafNatural Top Dogs Original Hot Dogs, Family Size900 g",$9.99ea,,$1.11/ 100g,False
-meat,,Lamb Rack Frenched Frozen,Lamb Rack Frenched Frozen,$20.22(est.)ea,,$41.87/ 1kg,False
-meat,President's Choice,Turkey Smokies,President's ChoiceTurkey Smokies300 g,$8.49ea,,$2.83/ 100g,False
-meat,,Extra Lean Ground Beef,Extra Lean Ground Beef500 g,$8.00ea,,$1.60/ 100g,False
-meat,,Beef Sirloin Tip Steak,Beef Sirloin Tip Steak,$8.79(est.)ea,,$20.92/ 1kg,False
-meat,,Pork Meatball Mild Italian,Pork Meatball Mild Italian,$6.16(est.)ea,,$13.21/ 1kg,False
-meat,President's Choice,Free From Lean Ground Beef,President's ChoiceFree From Lean Ground Beef454 g,$9.99ea,,$2.20/ 100g,False
-meat,Sufra,Halal Breaded Chicken Burgers,SufraHalal Breaded Chicken Burgers828 g,$12.99ea,,$1.57/ 100g,False
-meat,President's Choice,"Certified Angus Beef, Sirloin Tip Steak,Service Case","President's ChoiceCertified Angus Beef, Sirloin Tip Steak,Service Case",$9.64(est.)ea,,$22.02/ 1kg,False
-meat,President's Choice,"Air Chilled Chicken Breast Cutlet, Boneless, Skinless","President's ChoiceAir Chilled Chicken Breast Cutlet, Boneless, Skinless1 ea",$12.00ea,,$12.00/ 1ea,False
-meat,St Hubert,Frozen Back Ribs,St HubertFrozen Back Ribs680 g,$18.49ea,,$2.72/ 100g,False
-meat,Johnsonville,Ground Mild Italian Sausage,JohnsonvilleGround Mild Italian Sausage375 g,$6.99ea,,$1.86/ 100g,False
-meat,,Swedish Meatballs,Swedish Meatballs1.5 kg,$10.00ea,,$0.67/ 100g,False
-meat,Beyond Meat,Beyond Beef Grounds,Beyond MeatBeyond Beef Grounds340 g,$9.99ea,,$2.94/ 100g,False
-meat,Janes,"Pub Style Chicken Burger, Fully Cooked","JanesPub Style Chicken Burger, Fully Cooked700 g",$13.99ea,,$2.00/ 100g,False
-meat,St Hubert,"Back Ribs, Texas Style","St HubertBack Ribs, Texas Style680 g",$18.49ea,,$2.72/ 100g,False
-meat,PC Blue Menu,Sirloin Beef Burger,PC Blue MenuSirloin Beef Burger1.02 kg,$16.99ea,,$1.67/ 100g,False
-meat,,"Beef Rib Grilling Steak, Boneless","Beef Rib Grilling Steak, Boneless",$15.09(est.)ea,,$46.28/ 1kg,False
-meat,Hayter's Farm,Turkey Sausage Original,Hayter's FarmTurkey Sausage Original1.14 kg,$17.49ea,,$1.53/ 100g,False
-meat,President's Choice,"Italian Meatballs, Club Pack","President's ChoiceItalian Meatballs, Club Pack1.81 kg",$29.99ea,,$1.66/ 100g,False
-meat,President's Choice,Vermont-Style Maple Flavour Extra Lean Boneless Ham,President's ChoiceVermont-Style Maple Flavour Extra Lean Boneless Ham800 g,$12.99ea,,$1.62/ 100g,False
-meat,President's Choice,"Free From Air Chilled Chicken Breast Cutlet, Tray Pack","President's ChoiceFree From Air Chilled Chicken Breast Cutlet, Tray Pack",$10.80(est.)ea,,$25.11/ 1kg,False
-meat,,Top Sirloin Beefeater Medallion,Top Sirloin Beefeater Medallion,$9.73(est.)ea,,$28.63/ 1kg,False
-meat,President's Choice,"Air Chilled Chicken Drumsticks, 8-Pack","President's ChoiceAir Chilled Chicken Drumsticks, 8-Pack1 ea",$10.00ea,,$10.00/ 1ea,False
-meat,Schneider,Applewood Smoked Brown Sugar Ham,SchneiderApplewood Smoked Brown Sugar Ham700 g,$16.99ea,,$2.43/ 100g,False
-meat,Butterball,Bacon-Rasher Turkey     ,ButterballBacon-Rasher Turkey     300 g,$6.99ea,,$2.33/ 100g,False
-meat,Beretta,Organic Chicken Dogs,BerettaOrganic Chicken Dogs300 g,$9.99ea,,$3.33/ 100g,False
-meat,Shopsys,Deli-Fresh All Beef Wieners,ShopsysDeli-Fresh All Beef Wieners375 g,$8.79ea,,$2.34/ 100g,False
-meat,President's Choice,"Free From Chicken Drumsticks, Tray Pack","President's ChoiceFree From Chicken Drumsticks, Tray Pack",$6.42(est.)ea,,$11.88/ 1kg,False
-meat,Swiss Chalet,BBQ Pork Ribs,Swiss ChaletBBQ Pork Ribs600 g,$15.99ea,,$2.67/ 100g,False
-meat,President's Choice,Free From Peameal-Style Sliced Cured Pork Loin,President's ChoiceFree From Peameal-Style Sliced Cured Pork Loin375 g,$8.49ea,,$2.26/ 100g,False
-meat,,Double Smoked Back Bacon,Double Smoked Back Bacon375 g,$8.49ea,,$2.26/ 100g,False
-meat,New Zealand,Lamb Sausage,New ZealandLamb Sausage500 g,$9.99ea,,$19.98/ 1kg,False
-meat,President's Choice,Kofta Beef Meatballs,President's ChoiceKofta Beef Meatballs454 g,$9.99ea,,$2.20/ 100g,False
-meat,King Cole,Boneless Duck Breast,King ColeBoneless Duck Breast,$9.79(est.)ea,,$30.99/ 1kg,False
-meat,Butcher's Choice,"BBQ Beef Burgers, Hickory Flavour","Butcher's ChoiceBBQ Beef Burgers, Hickory Flavour1.13 kg",$16.99ea,,$1.50/ 100g,False
-meat,No Name,Pork Loin Peameal-Style Sliced Cured,No NamePork Loin Peameal-Style Sliced Cured454 g,$6.49ea,$6.29ea,$1.39/ 100g,True
-meat,Maple Leaf,Red Hots Original Hot Dogs Party Size,Maple LeafRed Hots Original Hot Dogs Party Size900 g,$9.99ea,,$1.11/ 100g,False
-meat,No Name,Pork Cottage Roll,No NamePork Cottage Roll,$15.51(est.)ea,,$10.34/ 1kg,False
-meat,President's Choice,Cheddar Jalapeno Smokies Pork Sausages,President's ChoiceCheddar Jalapeno Smokies Pork Sausages1000 g,$13.29ea,,$1.33/ 100g,False
-meat,President's Choice,"Chicken Wings Club Pack, Honey Garlic","President's ChoiceChicken Wings Club Pack, Honey Garlic1.81 kg",$29.99ea,,$1.66/ 100g,False
-meat,President's Choice,Crisp & Crunchy Mild Southern-Style Chicken Wings,President's ChoiceCrisp & Crunchy Mild Southern-Style Chicken Wings1.81 kg,$29.99ea,,$1.66/ 100g,False
-meat,President's Choice,Free From Pork Frankfurters,President's ChoiceFree From Pork Frankfurters375 g,$6.79ea,,$1.81/ 100g,False
-meat,President's Choice,Free From Turkey Meatballs,President's ChoiceFree From Turkey Meatballs800 g,$15.99ea,,$2.00/ 100g,False
-meat,Butcher's Choice,Beef Burgers,Butcher's ChoiceBeef Burgers1.13 kg,$16.99ea,,$1.50/ 100g,False
-meat,Maple Leaf,"Natural Pork Breakfast Sausage, Fully Cooked","Maple LeafNatural Pork Breakfast Sausage, Fully Cooked300 g",$8.29ea,,$2.76/ 100g,False
-meat,Schneider,"Smokies, Sharp Cheddar Smoked Sausage","SchneiderSmokies, Sharp Cheddar Smoked Sausage900 g",$15.49ea,,$1.72/ 100g,False
-meat,,Chicken Strips,Chicken Strips1.5 kg,$10.00ea,,$0.67/ 100g,False
-meat,Impossible Foods Inc.,Simulated Meat Burger Patties Made From Plants,Impossible Foods Inc.Simulated Meat Burger Patties Made From Plants226 g,$9.49ea,,$4.20/ 100g,False
-meat,Maple Leaf,Natural Smoked Black Forest Ham,Maple LeafNatural Smoked Black Forest Ham600 g,$15.99ea,,$2.67/ 100g,False
-meat,President's Choice,Plant Based Beefless Ground,President's ChoicePlant Based Beefless Ground340 g,$9.99ea,,$2.94/ 100g,False
-meat,President's Choice,World of Flavours Korean Pork Belly Roast,President's ChoiceWorld of Flavours Korean Pork Belly Roast600 g,$13.99ea,,$2.33/ 100g,False
-meat,,Swedish Meatballs,Swedish Meatballs1.5 kg,$10.00ea,,$0.67/ 100g,False
-meat,President's Choice,Swedish Beef Meatballs,President's ChoiceSwedish Beef Meatballs907 g,$15.99ea,,$1.76/ 100g,False
-meat,Maple Leaf,Original Natural Smoked Ham,Maple LeafOriginal Natural Smoked Ham600 g,$15.99ea,,$2.67/ 100g,False
-meat,PC Blue Menu,Thick & Juicy™ Lean Beef Burgers  ,PC Blue MenuThick & Juicy™ Lean Beef Burgers  1.13 kg,$16.99ea,,$1.50/ 100g,False
-meat,No Name,All-Beef Wieners,No NameAll-Beef Wieners450 g,$6.99ea,,$1.55/ 100g,False
-meat,,Whole Beef Tenderloin,Whole Beef Tenderloin,$75.09(est.)ea,,$26.19/ 1kg,False
-meat,St Hubert,Frozen Back Ribs,St HubertFrozen Back Ribs680 g,$18.49ea,,$2.72/ 100g,False
-meat,Johnsonville,Ground Mild Italian Sausage,JohnsonvilleGround Mild Italian Sausage375 g,$6.99ea,,$1.86/ 100g,False
-meat,Beyond Meat,Beyond Beef Grounds,Beyond MeatBeyond Beef Grounds340 g,$9.99ea,,$2.94/ 100g,False
-meat,Janes,"Pub Style Chicken Burger, Fully Cooked","JanesPub Style Chicken Burger, Fully Cooked700 g",$13.99ea,,$2.00/ 100g,False
-meat,St Hubert,"Back Ribs, Texas Style","St HubertBack Ribs, Texas Style680 g",$18.49ea,,$2.72/ 100g,False
-meat,PC Blue Menu,Sirloin Beef Burger,PC Blue MenuSirloin Beef Burger1.02 kg,$16.99ea,,$1.67/ 100g,False
-meat,President's Choice,Gluten Free Chicken Strips,President's ChoiceGluten Free Chicken Strips600 g,$8.49ea,,$1.42/ 100g,False
-meat,President's Choice,Free From Turkey Meatballs,President's ChoiceFree From Turkey Meatballs800 g,$15.99ea,,$2.00/ 100g,False
-meat,Butcher's Choice,Beef Burgers,Butcher's ChoiceBeef Burgers1.13 kg,$16.99ea,,$1.50/ 100g,False
-meat,Maple Leaf,"Natural Pork Breakfast Sausage, Fully Cooked","Maple LeafNatural Pork Breakfast Sausage, Fully Cooked300 g",$8.29ea,,$2.76/ 100g,False
-meat,Schneider,"Smokies, Sharp Cheddar Smoked Sausage","SchneiderSmokies, Sharp Cheddar Smoked Sausage900 g",$15.49ea,,$1.72/ 100g,False
-meat,President's Choice,Free From Peameal-Style Sliced Cured Pork Loin,President's ChoiceFree From Peameal-Style Sliced Cured Pork Loin375 g,$8.49ea,,$2.26/ 100g,False
-meat,,"Lethbridge Pork Loin Rib Rack, Service Case","Lethbridge Pork Loin Rib Rack, Service Case",$19.90(est.)ea,,$19.82/ 1kg,False
-meat,,Chorizo Style Pork Sausage,Chorizo Style Pork Sausage,$5.94(est.)ea,,$13.21/ 1kg,False
-meat,No Name,"Chicken Burger, Club Pack","No NameChicken Burger, Club Pack1810 g",$12.49ea,,$0.69/ 100g,False
-meat,Lous,Maple Bourbon Pork Back Ribs In Maple Bourbon Bbq Sauce,LousMaple Bourbon Pork Back Ribs In Maple Bourbon Bbq Sauce585 g,$15.99ea,,$2.73/ 100g,False
-meat,,Veal Inside Scallopini,Veal Inside Scallopini,$7.37(est.)ea,,$26.43/ 1kg,False
-meat,President's Choice,Free From Mild Italian Pork Sausages,President's ChoiceFree From Mild Italian Pork Sausages1200 g,$16.99ea,,$1.42/ 100g,False
-meat,,Beef Korean-style Short Ribs,Beef Korean-style Short Ribs,$13.99(est.)ea,,$35.25/ 1kg,False
-meat,,Veal Loin Chop,Veal Loin Chop,$10.55(est.)ea,,$26.43/ 1kg,False
-meat,,Boneless Rib End Pork Fast Fry Chops,Boneless Rib End Pork Fast Fry Chops,$7.13(est.)ea,,$15.41/ 1kg,False
-meat,,"Extra Lean Ground Beef, Club Pack","Extra Lean Ground Beef, Club Pack",$24.35(est.)ea,,$15.41/ 1kg,False
-meat,,Beef Inside Round Oven Roast,Beef Inside Round Oven Roast,$16.79(est.)ea,,$13.21/ 1kg,False
-meat,President's Choice,Extra Lean Ground Sirloin,President's ChoiceExtra Lean Ground Sirloin454 g,$9.00ea,,$1.98/ 100g,False
-meat,Johnsonville,Hot Italian Sausage,JohnsonvilleHot Italian Sausage500 g,$6.99ea,,$1.40/ 100g,False
-meat,,Beef Eye of Round Marinating Steak,Beef Eye of Round Marinating Steak,$7.30(est.)ea,,$20.92/ 1kg,False
-meat,Zabiha Halal,Frozen Popcorn Chicken,Zabiha HalalFrozen Popcorn Chicken800 g,$13.99ea,,$1.75/ 100g,False
-meat,,Free From Boneless Center Cut Chop,Free From Boneless Center Cut Chop,$9.30(est.)ea,,$19.82/ 1kg,False
-meat,Marcangelo,Mild Italian Sausage,MarcangeloMild Italian Sausage1 kg,$15.99ea,,$1.60/ 100g,False
-meat,,Pork Breast Bone,Pork Breast Bone,$5.55(est.)ea,,$6.59/ 1kg,False
-meat,Cooks,Premium Lean Hickory Smoked Ham Steak,CooksPremium Lean Hickory Smoked Ham Steak454 g,$6.99ea,,$1.54/ 100g,False
-meat,,Honey Garlic Pork Sausage,Honey Garlic Pork Sausage,$6.39(est.)ea,,$13.21/ 1kg,False
-meat,Zabiha Halal,Chicken Breast Nuggets,Zabiha HalalChicken Breast Nuggets800 g,$13.99ea,,$1.75/ 100g,False
-meat,,Marinated Lamb Loin Chops,Marinated Lamb Loin Chops,$13.05(est.)ea,,$36.35/ 1kg,False
-meat,,"Pork Sirloin Chop, Club Pack","Pork Sirloin Chop, Club Pack",$8.86(est.)ea,,$8.80/ 1kg,False
-meat,President's Choice,Free From Boneless Stewing Beef,President's ChoiceFree From Boneless Stewing Beef454 g,$13.99ea,,$3.08/ 100g,False
-meat,,"Marinated Chicken Thigh, Service Case","Marinated Chicken Thigh, Service Case",$9.75(est.)ea,,$19.82/ 1kg,False
-meat,,Beef Flank Steak,Beef Flank Steak,$19.80(est.)ea,,$30.84/ 1kg,False
-meat,,Hot Italian Sausages,Hot Italian Sausages,$12.70(est.)ea,,$15.41/ 1kg,False
-meat,,Chorizo Sausage,Chorizo Sausage,$12.93(est.)ea,,$15.41/ 1kg,False
-meat,Schneider,97% Fat Free Lower Sodium Smoked Ham,Schneider97% Fat Free Lower Sodium Smoked Ham700 g,$16.99ea,,$2.43/ 100g,False
-meat,President's Choice,"Certified Angus Beef Striploin Grill Steak, Service Case","President's ChoiceCertified Angus Beef Striploin Grill Steak, Service Case",$21.96(est.)ea,,$42.97/ 1kg,False
-meat,Janes,Chicken Burgers,JanesChicken Burgers852 g,$13.99ea,,$1.64/ 100g,False
-meat,Johnsonville,Maple Breakfast Sausage,JohnsonvilleMaple Breakfast Sausage375 g,$6.99ea,,$1.86/ 100g,False
-meat,,Top Sirloin Beefeater Steak,Top Sirloin Beefeater Steak,$10.87(est.)ea,,$27.53/ 1kg,False
-meat,,Breaded Chicken Thighs,Breaded Chicken Thighs,$9.45(est.)ea,,$19.82/ 1kg,False
-meat,President's Choice,"Free From Chicken Drumsticks, Club Pack","President's ChoiceFree From Chicken Drumsticks, Club Pack",$11.62(est.)ea,,$10.56/ 1kg,False
-meat,President's Choice,"Certified Angus Beef Strip Loin Steak, Club Pack","President's ChoiceCertified Angus Beef Strip Loin Steak, Club Pack",$39.23(est.)ea,,$41.87/ 1kg,False
-meat,,"Navel Beef, 4LB","Navel Beef, 4LB1.814 kg",$22.99ea,,$1.27/ 100g,False
-meat,,Breaded Chicken Drums,Breaded Chicken Drums,$6.38(est.)ea,,$12.10/ 1kg,False
-meat,Schneider,Original Ham Steak,SchneiderOriginal Ham Steak175 g,$6.19ea,,$3.54/ 100g,False
-meat,,Beef Sirloin Tip Fast Fry,Beef Sirloin Tip Fast Fry,$5.48(est.)ea,,$22.02/ 1kg,False
-meat,President's Choice,Free From Sirloin Tip Roast Beef,President's ChoiceFree From Sirloin Tip Roast Beef,$20.61(est.)ea,,$26.42/ 1kg,False
-meat,President's Choice,Dry Cured Bacon,President's ChoiceDry Cured Bacon500 g,$8.99ea,,$1.80/ 100g,False
-meat,Zabiha Halal,Buffalo Wings Spicy,Zabiha HalalBuffalo Wings Spicy908 g,$19.49ea,,$2.15/ 100g,False
-meat,Clean,Fully Cooked Sausage Gourmet Chicken Spinach Feta,CleanFully Cooked Sausage Gourmet Chicken Spinach Feta375 g,$5.99ea,,$1.60/ 100g,False
-meat,Janes,BBQ Chickens Bites,JanesBBQ Chickens Bites710 g,$20.99ea,,$2.96/ 100g,False
-meat,President's Choice,Steak-Cut Smoked Bacon Stacon Uncooked,President's ChoiceSteak-Cut Smoked Bacon Stacon Uncooked500 g,$8.99ea,,$1.80/ 100g,False
-meat,Schneider,"Smoked Sausage, Classic Recipe","SchneiderSmoked Sausage, Classic Recipe375 g",$7.79ea,$6.89ea,$1.84/ 100g,True
-meat,No Name,"Chicken Wings, Club Pack","No NameChicken Wings, Club Pack1.81 kg",$26.99ea,,$1.49/ 100g,False
-meat,President's Choice,Gochujang Sweet & Spicy Chicken Wings,President's ChoiceGochujang Sweet & Spicy Chicken Wings907 g,$15.99ea,,$1.76/ 100g,False
-meat,President's Choice,Free From Wieners,President's ChoiceFree From Wieners375 g,$5.99ea,,$1.60/ 100g,False
-meat,Butcher's Choice,"Beef Burger, Cheddar Cheese","Butcher's ChoiceBeef Burger, Cheddar Cheese1.13 kg",$14.99ea,,$1.33/ 100g,False
-meat,President's Choice,Free From Sausages,President's ChoiceFree From Sausages300 g,$6.99ea,,$2.33/ 100g,False
-meat,Schneider,Texas BBQ Chicken Wings,SchneiderTexas BBQ Chicken Wings615 g,$16.99ea,$15.99ea,$2.60/ 100g,True
-meat,No Name,"Honey Garlic Chicken Wings, Club Pack","No NameHoney Garlic Chicken Wings, Club Pack1.81 kg",$26.99ea,,$1.49/ 100g,False
-meat,President's Choice,Thick & Juicy Beef Burgers,President's ChoiceThick & Juicy Beef Burgers2.72 kg,$31.99ea,,$1.18/ 100g,False
-meat,Schneider,Red Hots Original Hot Dogs,SchneiderRed Hots Original Hot Dogs375 g,$6.99ea,,$1.86/ 100g,False
-meat,Maple Lodge Farms LT,Chicken Bacon-Style,Maple Lodge Farms LTChicken Bacon-Style375 g,$6.99ea,,$1.86/ 100g,False
-meat,Johnsonville,Fully Cooked Maple Breakfast Sausages,JohnsonvilleFully Cooked Maple Breakfast Sausages250 g,$5.99ea,$5.49ea,$2.20/ 100g,True
-meat,Maple Leaf,Natural Less Salt Bacon,Maple LeafNatural Less Salt Bacon375 g,$8.79ea,,$2.34/ 100g,False
-meat,Schneider,"Smoked Sausage, Classic Cheddar","SchneiderSmoked Sausage, Classic Cheddar375 g",$7.79ea,$6.89ea,$1.84/ 100g,True
-meat,President's Choice,Thick & Juicy™ Chicken Burgers ,President's ChoiceThick & Juicy™ Chicken Burgers 1.13 kg,$16.99ea,,$1.50/ 100g,False
-meat,Lous,Peameal Bacon Original,LousPeameal Bacon Original454 g,$8.49ea,,$1.87/ 100g,False
-meat,Lesters,Wieners All Beef,LestersWieners All Beef375 g,$5.49ea,,$1.46/ 100g,False
-meat,Marcangelo,Beef Top Sirloin Roast,MarcangeloBeef Top Sirloin Roast600 g,$19.99ea,,$3.33/ 100g,False
-meat,President's Choice,Italian Meatballs,President's ChoiceItalian Meatballs600 g,$11.99ea,,$2.00/ 100g,False
-meat,Marcangelo,Hot Italian Jumbo Sausage,MarcangeloHot Italian Jumbo Sausage675 g,$9.99ea,,$1.48/ 100g,False
-meat,Al Safa,Lean Ground Beef,Al SafaLean Ground Beef908 g,$11.00ea,,$1.21/ 100g,False
-meat,President's Choice,Jerk Frenched Chops,President's ChoiceJerk Frenched Chops440 g,$10.39ea,,$2.36/ 100g,False
-meat,President's Choice,World of Flavours Thai Style Chicken Stir Fry Strips,President's ChoiceWorld of Flavours Thai Style Chicken Stir Fry Strips350 g,$11.99ea,,$3.43/ 100g,False
-meat,Johnsonville,"Smoked Sausage, Cheddar","JohnsonvilleSmoked Sausage, Cheddar375 g",$6.99ea,$4.99ea,$1.33/ 100g,True
-meat,Johnsonville,Original Breakfast Sausage,JohnsonvilleOriginal Breakfast Sausage375 g,$6.99ea,,$1.86/ 100g,False
-meat,President's Choice,Plant Based Spicy Italian Sausage,President's ChoicePlant Based Spicy Italian Sausage400 g,$8.99ea,,$2.25/ 100g,False
-meat,Lesters,Wieners Hot Dog Jumbo,LestersWieners Hot Dog Jumbo450 g,$4.49ea,,$1.00/ 100g,False
-meat,President's Choice,Free From Lean Ground Pork,President's ChoiceFree From Lean Ground Pork454 g,$7.49ea,,$1.65/ 100g,False
-meat,President's Choice,Free From Turkey Breast Scaloppine,President's ChoiceFree From Turkey Breast Scaloppine,$4.59(est.)ea,,$12.76/ 1kg,False
-meat,Butterball,"Turkey, Bacon Style","ButterballTurkey, Bacon Style375 g",$6.99ea,,$1.86/ 100g,False
-meat,,Veal Aged Chop Hotel Style,Veal Aged Chop Hotel Style,$20.71(est.)ea,,$44.07/ 1kg,False
-meat,President's Choice,"Plant Based Veggie Bites - Corn, Carrot & Kale  ","President's ChoicePlant Based Veggie Bites - Corn, Carrot & Kale  400 g",$6.99ea,,$1.75/ 100g,False
-meat,President's Choice,World of Flavours Filipino Adobo Pork Stir Fry Strips,President's ChoiceWorld of Flavours Filipino Adobo Pork Stir Fry Strips350 g,$9.99ea,,$2.85/ 100g,False
-meat,President's Choice,Wof Chicken Southern BBQ,President's ChoiceWof Chicken Southern BBQ,$22.78(est.)ea,,$16.51/ 1kg,False
-meat,Montpak,Lean Ground Veal ,MontpakLean Ground Veal 454 g,$7.99ea,,$1.76/ 100g,False
-meat,,Plain Pork Kebab,Plain Pork Kebab,$10.59(est.)ea,,$22.02/ 1kg,False
-meat,President's Choice,"Free From Centre Cut Pork Loin Chop, Boneless","President's ChoiceFree From Centre Cut Pork Loin Chop, Boneless",$8.26(est.)ea,,$16.51/ 1kg,False
-meat,President's Choice,Free From Maple Breakfast Pork Sausages,President's ChoiceFree From Maple Breakfast Pork Sausages375 g,$6.99ea,,$1.86/ 100g,False
-meat,,Pork Classic Roast,Pork Classic Roast,$9.28(est.)ea,,$5.49/ 1kg,False
-meat,Schneider,Original Half Ham,SchneiderOriginal Half Ham700 g,$16.99ea,,$2.43/ 100g,False
-meat,Marcangelo,Frozen Twisters Jumbo Sausage,MarcangeloFrozen Twisters Jumbo Sausage500 g,$10.99ea,,$2.20/ 100g,False
-meat,No Name,"Fully Cooked, Breaded Chicken Nuggets Cutlettes","No NameFully Cooked, Breaded Chicken Nuggets Cutlettes908 g",$6.99ea,,$0.77/ 100g,False
-meat,Marcangelo,"Pork Souvlaki, Value Pack","MarcangeloPork Souvlaki, Value Pack640 g",$14.99ea,,$2.34/ 100g,False
-meat,Beyond Meat,Beyond Burger Plant-Based,Beyond MeatBeyond Burger Plant-Based226 g,$7.99ea,,$3.54/ 100g,False
-meat,President's Choice,Thick & Juicy™ Beef Burgers  ,President's ChoiceThick & Juicy™ Beef Burgers  1.36 kg,$16.99ea,,$1.25/ 100g,False
-meat,,Plain Pork Kebab,Plain Pork Kebab,$10.59(est.)ea,,$22.02/ 1kg,False
-meat,President's Choice,"Free From Centre Cut Pork Loin Chop, Boneless","President's ChoiceFree From Centre Cut Pork Loin Chop, Boneless",$8.26(est.)ea,,$16.51/ 1kg,False
-meat,President's Choice,Free From Maple Breakfast Pork Sausages,President's ChoiceFree From Maple Breakfast Pork Sausages375 g,$6.99ea,,$1.86/ 100g,False
-meat,No Name,"Chicken Wings, Honey Garlic","No NameChicken Wings, Honey Garlic908 g",$14.99ea,$14.49ea,$1.60/ 100g,True
-meat,President's Choice,"Chicken Wings, Crisp & Crunchy Mild Southern-Style ","President's ChoiceChicken Wings, Crisp & Crunchy Mild Southern-Style 907 g",$15.99ea,,$1.76/ 100g,False
-meat,Greenfield Natural Meat Co.,Bacon,Greenfield Natural Meat Co.Bacon375 g,$10.49ea,,$2.80/ 100g,False
-meat,President's Choice,Free From Hot Italian Pork Sausages,President's ChoiceFree From Hot Italian Pork Sausages1200 g,$16.99ea,,$1.42/ 100g,False
-meat,Johnsonville,Honey Garlic Sausage,JohnsonvilleHoney Garlic Sausage500 g,$6.99ea,,$1.40/ 100g,False
-meat,,Chicken Backs for Soup,Chicken Backs for Soup,$2.86(est.)ea,,$5.71/ 1kg,False
-meat,President's Choice,Free From Grass Fed Australian Angus Beef Tenderloin Steaks,President's ChoiceFree From Grass Fed Australian Angus Beef Tenderloin Steaks,$74.93/1 kg,,$74.93/ 1kg,False
-meat,,Pork Loin Center Chop Boneless,Pork Loin Center Chop Boneless,$7.65(est.)ea,,$17.62/ 1kg,False
-meat,Marcangelo,Hot Italian Sausage,MarcangeloHot Italian Sausage1 kg,$15.99ea,,$1.60/ 100g,False
-meat,,Grilling Beef Back Ribs,Grilling Beef Back Ribs,$12.82(est.)ea,,$19.82/ 1kg,False
-meat,,Marinated Chicken Wings,Marinated Chicken Wings,$7.88(est.)ea,,$16.51/ 1kg,False
-meat,,Inside Round Rouladen,Inside Round Rouladen,$7.30(est.)ea,,$20.92/ 1kg,False
-meat,President's Choice,"Air Chilled Chicken Thighs, Bone-in, Skin-on","President's ChoiceAir Chilled Chicken Thighs, Bone-in, Skin-on1 ea",$10.00ea,,$10.00/ 1ea,False
-meat,Gold Label,Naturally Smokeys Smoked Sausages Made With Natural Ingredients Cheddar,Gold LabelNaturally Smokeys Smoked Sausages Made With Natural Ingredients Cheddar375 g,$5.49ea,,$1.46/ 100g,False
-meat,,Beef Whiskey Cheddar Meatball ,Beef Whiskey Cheddar Meatball ,$6.79(est.)ea,,$16.51/ 1kg,False
-meat,,"Smoked Side Bacon, Sliced","Smoked Side Bacon, Sliced",$10.76(est.)ea,,$15.21/ 1kg,False
-meat,Johnsonville,Brown Sugar & Honey Breakfast Sausage,JohnsonvilleBrown Sugar & Honey Breakfast Sausage375 g,$6.99ea,,$1.86/ 100g,False
-meat,,Thick Sliced Smoked Ham,Thick Sliced Smoked Ham500 g,$12.99ea,,$2.60/ 100g,False
-meat,,"Ground Pork, Lean","Ground Pork, Lean",$6.34(est.)ea,,$9.90/ 1kg,False
-meat,,"Beef Fondue Cubes, Bourguignonne","Beef Fondue Cubes, Bourguignonne",$6.86(est.)ea,,$20.92/ 1kg,False
-meat,Maple Lodge Farms LT,Ultimate Mild Chicken Dinner Sausage,Maple Lodge Farms LTUltimate Mild Chicken Dinner Sausage500 g,$7.29ea,,$1.46/ 100g,False
-meat,,Marinated Pork Back Ribs,Marinated Pork Back Ribs,$11.32(est.)ea,,$19.82/ 1kg,False
-meat,Gold Label,Naturally Prime Angus Smoked Sausages Made With Natural Ingredients Cheddar,Gold LabelNaturally Prime Angus Smoked Sausages Made With Natural Ingredients Cheddar375 g,$6.49ea,,$1.73/ 100g,False
-meat,,"Beef Sirloin Tip Steak, Club Pack","Beef Sirloin Tip Steak, Club Pack",$21.56(est.)ea,,$19.82/ 1kg,False
-meat,,Medium Ground Beef,Medium Ground Beef500 g,$6.00ea,,$1.20/ 100g,False
-meat,President's Choice,Free From Extra Lean Ground Beef,President's ChoiceFree From Extra Lean Ground Beef454 g,$10.99ea,,$2.42/ 100g,False
-meat,Lilydale,Daystarters Sausage Turkey ,LilydaleDaystarters Sausage Turkey 375 g,$5.99ea,,$1.60/ 100g,False
-meat,,Beef Cap-off Rib Steak,Beef Cap-off Rib Steak,$18.99(est.)ea,,$42.96/ 1kg,False
-meat,Hayter's Farm,Turkey-Burger Classic Seasoned,Hayter's FarmTurkey-Burger Classic Seasoned1.14 kg,$17.49ea,,$1.53/ 100g,False
-meat,Marcangelo,Chicken Breasts With Spinach And Feta,MarcangeloChicken Breasts With Spinach And Feta350 g,$13.99ea,,$4.00/ 100g,False
-meat,Sufra,Halal Stuffed Chicken Mozzarella,SufraHalal Stuffed Chicken Mozzarella568 g,$12.99ea,,$2.29/ 100g,False
-meat,,"Lean Ground Beef, Club Pack","Lean Ground Beef, Club Pack",$21.51(est.)ea,,$13.21/ 1kg,False
-meat,,"Marinated Pork Tenderloin, Service Case","Marinated Pork Tenderloin, Service Case",$4.47(est.)ea,,$11.00/ 1kg,False
-meat,,Chicken Stir Fry Strips,Chicken Stir Fry Strips,$7.27(est.)ea,,$24.23/ 1kg,False
-meat,Zabiha Halal,Chicken Burgers,Zabiha HalalChicken Burgers908 g,$13.49ea,,$1.49/ 100g,False
-meat,,Beef Simmering Short Ribs,Beef Simmering Short Ribs,$25.54(est.)ea,,$34.15/ 1kg,False
-meat,Mrakovic,Chevapi Chicken Family Box,MrakovicChevapi Chicken Family Box1700 g,$35.99ea,,$2.12/ 100g,False
-meat,,Lean Ground Beef & Pork,Lean Ground Beef & Pork,$7.09(est.)ea,,$15.41/ 1kg,False
-meat,President's Choice,"Certified Angus Beef, Premium Striploin Oven Roast, Service Case","President's ChoiceCertified Angus Beef, Premium Striploin Oven Roast, Service Case",$36.97(est.)ea,,$40.76/ 1kg,False
-meat,President's Choice,"Free From Bone In Pork Center Chop, Club Pack","President's ChoiceFree From Bone In Pork Center Chop, Club Pack",$25.12(est.)ea,,$17.15/ 1kg,False
-meat,,Beef Top Sirloin Fast Fry Steak,Beef Top Sirloin Fast Fry Steak,$7.85(est.)ea,,$29.74/ 1kg,False
-meat,President's Choice,Air Chilled Split Chicken Wings,President's ChoiceAir Chilled Split Chicken Wings1 ea,$12.00ea,,$12.00/ 1ea,False
-meat,Sufra,Halal Beef Burgers,SufraHalal Beef Burgers907 g,$19.99ea,,$2.20/ 100g,False
-meat,Pinty's,Buffalo Chicken Wings,Pinty'sBuffalo Chicken Wings780 g,$23.49ea,,$3.01/ 100g,False
-meat,No Name,"Burger C/Pack 20'S 5Lb, Club Pack","No NameBurger C/Pack 20'S 5Lb, Club Pack2.27 kg",$20.99ea,,$0.92/ 100g,False
-meat,,Chorizo Style Pork Sausage Meat,Chorizo Style Pork Sausage Meat,$6.35(est.)ea,,$13.21/ 1kg,False
-meat,Mitchell's Gourmet Foods,Heritage Thick Sliced Bacon,Mitchell's Gourmet FoodsHeritage Thick Sliced Bacon1 kg,$22.99ea,,$2.30/ 100g,False
-meat,,"Marinated Pork Tenderloin, Service Case","Marinated Pork Tenderloin, Service Case",$4.47(est.)ea,,$11.00/ 1kg,False
-meat,,Chicken Stir Fry Strips,Chicken Stir Fry Strips,$7.27(est.)ea,,$24.23/ 1kg,False
-meat,King Cole,Half Duck à L'Orange,King ColeHalf Duck à L'Orange400 g,$16.89ea,,$4.22/ 100g,False
-meat,Butterball,Turkey Franks,ButterballTurkey Franks450 g,$5.99ea,,$1.33/ 100g,False
-meat,President's Choice,Everything Seasoned Breaded Chicken Breast Fillets,President's ChoiceEverything Seasoned Breaded Chicken Breast Fillets750 g,$15.99ea,,$2.13/ 100g,False
-meat,Schneider,Juicy Jumbos All Beef Hot Dogs Family Pack,SchneiderJuicy Jumbos All Beef Hot Dogs Family Pack750 g,$13.49ea,,$1.80/ 100g,False
-meat,Zabiha Halal,Sausage Snacks Original Fully Cooked Chicken Sticks,Zabiha HalalSausage Snacks Original Fully Cooked Chicken Sticks300 g,$9.99ea,,$3.33/ 100g,False
-meat,President's Choice,Old-Fashioned Style Peppercorn Bacon,President's ChoiceOld-Fashioned Style Peppercorn Bacon1 kg,$17.99ea,,$1.80/ 100g,False
-meat,Schneider,Juicy Jumbos Hot & Spicy Hot Dogs,SchneiderJuicy Jumbos Hot & Spicy Hot Dogs450 g,$7.49ea,,$1.66/ 100g,False
-meat,President's Choice,Italian Smokies,President's ChoiceItalian Smokies1 kg,$13.29ea,,$1.33/ 100g,False
-meat,Maple Leaf,Lazy Maple Natural Bacon,Maple LeafLazy Maple Natural Bacon375 g,$8.79ea,,$2.34/ 100g,False
-meat,President's Choice,Honey Garlic Chicken Wings,President's ChoiceHoney Garlic Chicken Wings700 g,$15.99ea,,$2.28/ 100g,False
-meat,Johnsonville,"Smoked Sausage, Beef & Cheddar","JohnsonvilleSmoked Sausage, Beef & Cheddar375 g",$7.49ea,,$2.00/ 100g,False
-meat,President's Choice,"Chicken Nuggets, Club Pack","President's ChoiceChicken Nuggets, Club Pack1.4 kg",$12.99ea,,$0.93/ 100g,False
-meat,Sufra,Chicken Thigh,SufraChicken Thigh1.54 kg,$12.00ea,,$0.78/ 100g,False
-meat,No Name,Breaded Chicken Cutlettes Chicken Strips,No NameBreaded Chicken Cutlettes Chicken Strips908 g,$6.99ea,,$0.77/ 100g,False
-meat,President's Choice,World of Flavours Chicken Drumsticks Buffalo,President's ChoiceWorld of Flavours Chicken Drumsticks Buffalo,$16.51/1 kg,,$16.51/ 1kg,False
-meat,President's Choice,Yuzu Citrus Chicken Wings,President's ChoiceYuzu Citrus Chicken Wings907 g,$15.99ea,,$1.76/ 100g,False
-meat,President's Choice,Honey Garlic Chicken Wings,President's ChoiceHoney Garlic Chicken Wings907 g,$15.99ea,,$1.76/ 100g,False
-meat,President's Choice,Thick & Juicy™ Prime Rib Beef Burger,President's ChoiceThick & Juicy™ Prime Rib Beef Burger1.13 kg,$16.99ea,,$1.50/ 100g,False
-meat,President's Choice,Angus Ballpark Franks,President's ChoiceAngus Ballpark Franks450 g,$7.29ea,,$1.62/ 100g,False
-meat,President's Choice,"Too Good To Be Wings Boneless Chicken Breast Chunks, Butter Buffalo","President's ChoiceToo Good To Be Wings Boneless Chicken Breast Chunks, Butter Buffalo800 g",$16.99ea,,$2.12/ 100g,False
-meat,Marcangelo,Sweet Italian Jumbo Sausage,MarcangeloSweet Italian Jumbo Sausage675 g,$10.99ea,,$1.63/ 100g,False
-meat,President's Choice,Free From Naturally Smoked Fully Cooked Bacon,President's ChoiceFree From Naturally Smoked Fully Cooked Bacon65 g,$7.29ea,,$11.22/ 100g,False
-meat,President's Choice,Free From Flank Steak,President's ChoiceFree From Flank Steak,$16.26(est.)ea,,$39.65/ 1kg,False
-meat,President's Choice,Free From Turkey Thighs,President's ChoiceFree From Turkey Thighs,$7.55(est.)ea,,$12.10/ 1kg,False
-meat,President's Choice,Chicken Wing Split Buffalo,President's ChoiceChicken Wing Split Buffalo,$16.51/1 ea,,$16.51/ 1kg,False
-meat,Marcangelo,Chicken Breast Medallions Bacon Wrapped 452 g,MarcangeloChicken Breast Medallions Bacon Wrapped 452 g452 g,$14.99ea,,$3.32/ 100g,False
-meat,President's Choice,World Of Flavours Canadian Maple Apple Butter Roast,President's ChoiceWorld Of Flavours Canadian Maple Apple Butter Roast730 g,$13.49ea,,$1.85/ 100g,False
-meat,Pinty's,Buffalo Chicken Wings,Pinty'sBuffalo Chicken Wings780 g,$23.49ea,,$3.01/ 100g,False
-meat,No Name,"Burger C/Pack 20'S 5Lb, Club Pack","No NameBurger C/Pack 20'S 5Lb, Club Pack2.27 kg",$20.99ea,,$0.92/ 100g,False
-meat,No Name,"Chicken Wings, Mild BBQ","No NameChicken Wings, Mild BBQ908 g",$14.99ea,$14.49ea,$1.60/ 100g,True
-meat,President's Choice,Chicken Flatened Portugese,President's ChoiceChicken Flatened Portugese,$23.94(est.)ea,,$16.51/ 1kg,False
-meat,Johnsonville,Original Breakfast Sausage Rounds,JohnsonvilleOriginal Breakfast Sausage Rounds250 g,$6.99ea,,$2.80/ 100g,False
-meat,Johnsonville,Ground Hot Italian Sausage,JohnsonvilleGround Hot Italian Sausage375 g,$6.99ea,,$1.86/ 100g,False
-meat,No Name,"Fully Cooked, Breaded Chicken Burgers","No NameFully Cooked, Breaded Chicken Burgers908 g",$6.99ea,,$0.77/ 100g,False
-meat,President's Choice,Dry-Rubbed Sea Salt & Black Pepper Pork Back Ribs,President's ChoiceDry-Rubbed Sea Salt & Black Pepper Pork Back Ribs680 g,$15.99ea,,$2.35/ 100g,False
-meat,,Stewing Veal Boneless,Stewing Veal Boneless,$10.78(est.)ea,,$24.23/ 1kg,False
-meat,President's Choice,Free From Honey Garlic Flavoured Pork Sausages,President's ChoiceFree From Honey Garlic Flavoured Pork Sausages1200 g,$16.99ea,,$1.42/ 100g,False
-meat,,Beef Oxtail Pieces,Beef Oxtail Pieces,$18.94(est.)ea,,$30.84/ 1kg,False
-meat,Mina,Supreme Crunch Halal Spicy Chicken Burgers,MinaSupreme Crunch Halal Spicy Chicken Burgers600 g,$14.99ea,,$2.50/ 100g,False
-meat,President's Choice,"Free From Air Chilled Chicken Thighs, Club Pack","President's ChoiceFree From Air Chilled Chicken Thighs, Club Pack",$14.64(est.)ea,,$11.44/ 1kg,False
-meat,Pillers,European Wieners,PillersEuropean Wieners450 g,$9.99ea,,$2.22/ 100g,False
-meat,,Marinated Chicken Breasts Boneless,Marinated Chicken Breasts Boneless,$10.08(est.)ea,,$24.22/ 1kg,False
-meat,President's Choice,"Free From Split Chicken Breasts, Bone-in, Skin-on","President's ChoiceFree From Split Chicken Breasts, Bone-in, Skin-on",$11.10(est.)ea,,$15.85/ 1kg,False
-meat,Gold Label,Naturally Prime Angus Smoked Sausages Made With Natural Ingredients Original,Gold LabelNaturally Prime Angus Smoked Sausages Made With Natural Ingredients Original375 g,$6.49ea,,$1.73/ 100g,False
-meat,,Honey Garlic Sausage,Honey Garlic Sausage,$13.88(est.)ea,,$15.41/ 1kg,False
-meat,,Sirloin and Rib End Chops,Sirloin and Rib End Chops,$12.30(est.)ea,,$7.69/ 1kg,False
-meat,President's Choice,"Certified Angus Beef, Strip Loin Steak","President's ChoiceCertified Angus Beef, Strip Loin Steak",$12.68(est.)ea,,$42.97/ 1kg,False
-meat,,"Plain Chicken Kebab, Service Case","Plain Chicken Kebab, Service Case",$11.51(est.)ea,,$24.23/ 1kg,False
-meat,,Marinated Chicken Drums,Marinated Chicken Drums,$6.00(est.)ea,,$12.10/ 1kg,False
-meat,President's Choice,"Air-Chilled Chicken Thigh Club Pack, Boneless, Skinless","President's ChoiceAir-Chilled Chicken Thigh Club Pack, Boneless, Skinless",$15.06(est.)ea,,$13.21/ 1kg,False
-meat,Johnsonville,Mild Italian Sausage,JohnsonvilleMild Italian Sausage500 g,$6.99ea,,$1.40/ 100g,False
-meat,The Keg,BBQ Pork Back Ribs,The KegBBQ Pork Back Ribs700 g,$18.99ea,,$2.71/ 100g,False
-meat,President's Choice,Free From Boneless Rib Steak,President's ChoiceFree From Boneless Rib Steak,$17.90(est.)ea,,$61.71/ 1kg,False
-meat,,"Beef Top Sirloin Grilling Steak, Club Pack","Beef Top Sirloin Grilling Steak, Club Pack",$25.58(est.)ea,,$26.43/ 1kg,False
-meat,,Chicken Liver Tray Pack,Chicken Liver Tray Pack,$3.44(est.)ea,,$8.59/ 1kg,False
-meat,Janes,Little Wins Chicken & Vegetable Chicken Nuggets,JanesLittle Wins Chicken & Vegetable Chicken Nuggets600 g,$15.99ea,,$2.67/ 100g,False
-meat,,"Beef Inside Round Marinating Steak, Club Pack","Beef Inside Round Marinating Steak, Club Pack",$14.06(est.)ea,,$20.92/ 1kg,False
-meat,,"Beef Eye of Round Marinating Steak, Club Pack","Beef Eye of Round Marinating Steak, Club Pack",$21.31(est.)ea,,$19.82/ 1kg,False
-meat,,Beef Eye of Round Oven Roast,Beef Eye of Round Oven Roast,$21.27(est.)ea,,$18.71/ 1kg,False
-meat,,"Side Rib Centre Cut, Club Pack","Side Rib Centre Cut, Club Pack",$12.14(est.)ea,,$11.00/ 1kg,False
-meat,,Lamb Loin Chops,Lamb Loin Chops,$12.65(est.)ea,,$35.25/ 1kg,False
-meat,Swiss Chalet,"Pork Back Ribs, Honey Garlic","Swiss ChaletPork Back Ribs, Honey Garlic600 g",$15.99ea,,$2.67/ 100g,False
-meat,,"Pork Back Ribs (Portions) , Service Case","Pork Back Ribs (Portions) , Service Case",$12.30(est.)ea,,$15.41/ 1kg,False
-meat,President's Choice,"Free From Air Chilled Chicken Thighs, Club Pack","President's ChoiceFree From Air Chilled Chicken Thighs, Club Pack",$14.64(est.)ea,,$11.44/ 1kg,False
-meat,Pillers,European Wieners,PillersEuropean Wieners450 g,$9.99ea,,$2.22/ 100g,False
-meat,President's Choice,"Free From Split Chicken Breasts, Bone-in, Skin-on","President's ChoiceFree From Split Chicken Breasts, Bone-in, Skin-on",$11.10(est.)ea,,$15.85/ 1kg,False
-meat,Gold Label,Naturally Prime Angus Smoked Sausages Made With Natural Ingredients Original,Gold LabelNaturally Prime Angus Smoked Sausages Made With Natural Ingredients Original375 g,$6.49ea,,$1.73/ 100g,False
-meat,Marcangelo,Chicken Breasts With Asparagus And Mozzarella,MarcangeloChicken Breasts With Asparagus And Mozzarella350 g,$13.99ea,,$4.00/ 100g,False
-meat,Mina,Supreme Crunch Halal Spicy Chicken Drumsticks,MinaSupreme Crunch Halal Spicy Chicken Drumsticks720 g,$14.99ea,,$2.08/ 100g,False
-meat,,Lethbridge Pork Loin Chop Boneless,Lethbridge Pork Loin Chop Boneless,$10.79(est.)ea,,$22.02/ 1kg,False
-meat,Mina,Supreme Crunch Halal Spicy Chicken Burgers,MinaSupreme Crunch Halal Spicy Chicken Burgers600 g,$14.99ea,,$2.50/ 100g,False
-meat,,"Beef Cap-off Rib Grilling Steak, Club Pack","Beef Cap-off Rib Grilling Steak, Club Pack",$41.87(est.)ea,,$41.87/ 1kg,False
-meat,Johnsonville,"Smoked Sausage, Buffalo Cheese","JohnsonvilleSmoked Sausage, Buffalo Cheese375 g",$6.99ea,$4.99ea,$1.33/ 100g,True
-meat,Marcangelo,Italian Pork Meatballs,MarcangeloItalian Pork Meatballs1 kg,$15.99ea,,$1.60/ 100g,False
-meat,,Beef Stir Fry Strips,Beef Stir Fry Strips,$7.46(est.)ea,,$24.22/ 1kg,False
-meat,,Beef Jalapeno Tequila Meatball ,Beef Jalapeno Tequila Meatball ,$6.65(est.)ea,,$16.51/ 1kg,False
-meat,,Marinated Chicken Breasts Boneless,Marinated Chicken Breasts Boneless,$10.08(est.)ea,,$24.22/ 1kg,False
-meat,,Beef Oxtail Pieces,Beef Oxtail Pieces,$18.94(est.)ea,,$30.84/ 1kg,False
-meat,President's Choice,Free From Honey Garlic Flavoured Pork Sausages,President's ChoiceFree From Honey Garlic Flavoured Pork Sausages1200 g,$16.99ea,,$1.42/ 100g,False
-meat,Beretta,Organic Beef Dogs,BerettaOrganic Beef Dogs300 g,$9.99ea,,$3.33/ 100g,False
-meat,Schneider,Sliced Smoked Ham Applewood Smoked,SchneiderSliced Smoked Ham Applewood Smoked600 g,$16.99ea,,$2.83/ 100g,False
-meat,President's Choice,Ham Steak,President's ChoiceHam Steak175 g,$5.49ea,,$3.14/ 100g,False
-meat,Johnsonville,"Smoked Sausage, Beef","JohnsonvilleSmoked Sausage, Beef375 g",$7.49ea,,$2.00/ 100g,False
-meat,Schneider,"Smokies, Original Smoked Sausage","SchneiderSmokies, Original Smoked Sausage900 g",$15.49ea,,$1.72/ 100g,False
-meat,Butcher's Choice,"Beef Burger, Club Pack","Butcher's ChoiceBeef Burger, Club Pack2.27 kg",$29.99ea,,$1.32/ 100g,False
-meat,President's Choice,"Cocktail Sausage Smokies, Original","President's ChoiceCocktail Sausage Smokies, Original500 g",$7.49ea,,$1.50/ 100g,False
-meat,King Cole,Smoked Duck Breast,King ColeSmoked Duck Breast,$11.76(est.)ea,,$44.99/ 1kg,False
-meat,Schneider,Juicy Jumbos Original Hot Dogs,SchneiderJuicy Jumbos Original Hot Dogs450 g,$6.99ea,,$1.55/ 100g,False
-meat,President's Choice,Gochujang Sweet & Spicy Chicken Bites,President's ChoiceGochujang Sweet & Spicy Chicken Bites700 g,$15.99ea,,$2.28/ 100g,False
-meat,PC Blue Menu,Italian Beef Meatballs,PC Blue MenuItalian Beef Meatballs907 g,$15.99ea,,$1.76/ 100g,False
-meat,Janes,Chicken Wings Buffalo,JanesChicken Wings Buffalo660 g,$17.99ea,,$2.73/ 100g,False
-meat,,Chickent Nuggets,Chickent Nuggets1.5 kg,$10.00ea,,$0.67/ 100g,False
-meat,King Cole,Smoked Duck Breast,King ColeSmoked Duck Breast,$11.76(est.)ea,,$44.99/ 1kg,False
-meat,Schneider,Juicy Jumbos Original Hot Dogs,SchneiderJuicy Jumbos Original Hot Dogs450 g,$6.99ea,,$1.55/ 100g,False
-meat,President's Choice,Gochujang Sweet & Spicy Chicken Bites,President's ChoiceGochujang Sweet & Spicy Chicken Bites700 g,$15.99ea,,$2.28/ 100g,False
-meat,Schneider,Cheddar Hot Dogs,SchneiderCheddar Hot Dogs375 g,$6.49ea,,$1.73/ 100g,False
-meat,PC Blue Menu,Angus Beef Meatballs,PC Blue MenuAngus Beef Meatballs907 g,$15.99ea,,$1.76/ 100g,False
-meat,Schneider,Salt & Cracked Pepper Chicken Wings,SchneiderSalt & Cracked Pepper Chicken Wings615 g,$16.99ea,$15.99ea,$2.60/ 100g,True
-meat,Janes,"Pub Style Chicken Fries, Fully Cooked","JanesPub Style Chicken Fries, Fully Cooked700 g",$13.99ea,,$2.00/ 100g,False
-meat,No Name,Crispy Southern Style Chicken,No NameCrispy Southern Style Chicken1 kg,$15.99ea,,$1.60/ 100g,False
-meat,No Name,Beef Burger 4 Oz,No NameBeef Burger 4 Oz1.36 kg,$13.99ea,,$1.03/ 100g,False
-meat,,Cook's Portion Ham,Cook's Portion Ham,$36.17(est.)ea,,$8.80/ 1kg,False
-meat,President's Choice,Free From Naturally Smoked Fully Cooked Thick Sliced Bacon,President's ChoiceFree From Naturally Smoked Fully Cooked Thick Sliced Bacon65 g,$7.29ea,,$11.22/ 100g,False
-meat,Beyond Meat,Sausage Mild Italian,Beyond MeatSausage Mild Italian400 g,$9.99ea,,$2.50/ 100g,False
-meat,Lesters,Hot Dog Wieners Jumbo Bbq,LestersHot Dog Wieners Jumbo Bbq450 g,$4.49ea,,$1.00/ 100g,False
-meat,President's Choice,Smokin' Honey Fully Cooked Pork Back Ribs,President's ChoiceSmokin' Honey Fully Cooked Pork Back Ribs500 g,$16.99ea,,$3.40/ 100g,False
-meat,Maple Lodge Farms LT,"Ultimate Chicken Wiener, Spicy","Maple Lodge Farms LTUltimate Chicken Wiener, Spicy900 g",$6.99ea,,$0.78/ 100g,False
-meat,Marcangelo,Pork Loin Chop Bacon Wrapped,MarcangeloPork Loin Chop Bacon Wrapped350 g,$9.99ea,,$2.85/ 100g,False
-meat,No Name,Salt & Pepper Chicken Wings,No NameSalt & Pepper Chicken Wings908 g,$14.99ea,$14.49ea,$1.60/ 100g,True
-meat,President's Choice,Dry-Rubbed Hardwood-Smoked Chicken Wings,President's ChoiceDry-Rubbed Hardwood-Smoked Chicken Wings800 g,$15.99ea,,$2.00/ 100g,False
-meat,President's Choice,Angus Beef Meatballs,President's ChoiceAngus Beef Meatballs907 g,$15.99ea,,$1.76/ 100g,False
-meat,,Italian Meatballs,Italian Meatballs1.8 kg,$10.00ea,,$0.56/ 100g,False
-meat,New Zealand,Lamb Loin Chops,New ZealandLamb Loin Chops350 g,$12.99ea,,$37.11/ 1kg,False
-meat,President's Choice,"Fully Cooked Pork Back Ribs, Smokin Stampede","President's ChoiceFully Cooked Pork Back Ribs, Smokin Stampede500 g",$16.99ea,,$3.40/ 100g,False
-meat,President's Choice,Plant Based Sweet Italian Sausage,President's ChoicePlant Based Sweet Italian Sausage400 g,$8.99ea,,$2.25/ 100g,False
-meat,President's Choice,Original Smokies,President's ChoiceOriginal Smokies1 kg,$13.29ea,,$1.33/ 100g,False
-meat,President's Choice,Free From Cocktail Mild Italian Pork Sausages,President's ChoiceFree From Cocktail Mild Italian Pork Sausages375 g,$7.99ea,,$2.13/ 100g,False
-meat,,Breaded Chicken Burger,Breaded Chicken Burger1.5 kg,$10.00ea,,$0.67/ 100g,False
-meat,President's Choice,Free From Ground Chicken,President's ChoiceFree From Ground Chicken454 g,$9.00ea,,$1.98/ 100g,False
-meat,President's Choice,Free From Angus Beef Burger,President's ChoiceFree From Angus Beef Burger1.02 kg,$16.99ea,,$1.67/ 100g,False
-meat,Maple Leaf,Natural Smoked Honey Ham,Maple LeafNatural Smoked Honey Ham600 g,$15.99ea,,$2.67/ 100g,False
-meat,Janes,"Popcorn Chicken, Fully Cooked","JanesPopcorn Chicken, Fully Cooked700 g",$13.99ea,,$2.00/ 100g,False
-meat,President's Choice,Free From Boneless Skinless Turkey Breast,President's ChoiceFree From Boneless Skinless Turkey Breast,$8.57(est.)ea,,$23.13/ 1kg,False
-meat,Janes,Chicken Wings Buffalo,JanesChicken Wings Buffalo660 g,$17.99ea,,$2.73/ 100g,False
-meat,,Chickent Nuggets,Chickent Nuggets1.5 kg,$10.00ea,,$0.67/ 100g,False
-meat,Schneider,Juicy Jumbos All Beef Hot Dogs,SchneiderJuicy Jumbos All Beef Hot Dogs375 g,$7.49ea,,$2.00/ 100g,False
-meat,President's Choice,Barbecue Seasoned Pork Shoulder Blade (World Of Flavours ),President's ChoiceBarbecue Seasoned Pork Shoulder Blade (World Of Flavours )900 g,$15.19ea,,$1.69/ 100g,False
-meat,President's Choice,Smokin Stampede Pork Back Ribs ,President's ChoiceSmokin Stampede Pork Back Ribs 680 g,$15.99ea,,$2.35/ 100g,False
-meat,Marcangelo,"Pork Loin Chop Bacon Wrapped Stuffed With Mozzarella, Cranberry & Apple","MarcangeloPork Loin Chop Bacon Wrapped Stuffed With Mozzarella, Cranberry & Apple350 g",$9.99ea,,$2.85/ 100g,False
-meat,,"Chicken Breast, Bone-in Skin On, Club Pack","Chicken Breast, Bone-in Skin On, Club Pack",$18.76(est.)ea,,$13.21/ 1kg,False
-meat,President's Choice,Free From Chorizo Pork Sausages,President's ChoiceFree From Chorizo Pork Sausages500 g,$7.99ea,,$1.60/ 100g,False
-meat,Maple Leaf,Ready Crisp Fully Cooked Natural Bacon Slices,Maple LeafReady Crisp Fully Cooked Natural Bacon Slices65 g,$8.99ea,,$13.83/ 100g,False
-meat,PC Blue Menu,Italian Beef Meatballs,PC Blue MenuItalian Beef Meatballs907 g,$15.99ea,,$1.76/ 100g,False
-meat,Marcangelo,Pork Medallions Bacon Wrapped,MarcangeloPork Medallions Bacon Wrapped340 g,$7.99ea,,$2.35/ 100g,False
-meat,Janes,"Pub Style Chicken Strips, Fully Cooked","JanesPub Style Chicken Strips, Fully Cooked700 g",$13.99ea,,$2.00/ 100g,False
-meat,President's Choice,Thick & Juicy™ Sirloin Beef Burgers ,President's ChoiceThick & Juicy™ Sirloin Beef Burgers 1.13 kg,$16.99ea,,$1.50/ 100g,False
-meat,Johnsonville,Fully Cooked Breakfast Sausage,JohnsonvilleFully Cooked Breakfast Sausage250 g,$5.99ea,$5.49ea,$2.20/ 100g,True
+category,brand,product_text,product_name,price_text,sale_price,per_unit_price_text,is_sale,sale_valid_to
+meat,Schneider,Hickory Smoked Classic Cut Bacon,SchneiderHickory Smoked Classic Cut Bacon375 g,$8.79ea,,$2.34/ 100g,False,
+meat,President's Choice,Bacon,President's ChoiceBacon500 g,$8.49ea,,$1.70/ 100g,False,
+meat,PC Blue Menu,"Chicken Breast, Boneless Skinless, 3 Pack","PC Blue MenuChicken Breast, Boneless Skinless, 3 Pack1 ea",$12.00ea,,$12.00/ 1ea,False,
+meat,President's Choice,Reduced Salt Bacon  ,President's ChoiceReduced Salt Bacon  500 g,$8.49ea,,$1.70/ 100g,False,
+meat,PC Blue Menu,Minced Turkey,PC Blue MenuMinced Turkey454 g,$8.00ea,,$1.76/ 100g,False,
+meat,PC Blue Menu,"Boneless Skinless Chicken Breasts, 4 Pack","PC Blue MenuBoneless Skinless Chicken Breasts, 4 Pack1 ea",$15.00ea,,$15.00/ 1ea,False,
+meat,,"Split Chicken Wings, Club Pack","Split Chicken Wings, Club Pack",$13.31(est.)ea,,$14.31/ 1kg,False,
+meat,Maple Leaf,Original Natural Bacon,Maple LeafOriginal Natural Bacon375 g,$8.79ea,,$2.34/ 100g,False,
+meat,President's Choice,Old-Fashioned Style Bacon,President's ChoiceOld-Fashioned Style Bacon1 kg,$17.99ea,$15.99ea,$1.60/ 100g,True,saleEnds 03/01
+meat,PC Blue Menu,Chicken Thighs  boneless Skinless  8 Pack,PC Blue MenuChicken Thighs  boneless Skinless  8 Pack1 ea,$12.00ea,,$12.00/ 1ea,False,
+meat,PC Blue Menu,Ground Chicken,PC Blue MenuGround Chicken454 g,$8.00ea,,$1.76/ 100g,False,
+meat,President's Choice,"Free From Chicken Breast, Boneless, Skinless, Club Pack","President's ChoiceFree From Chicken Breast, Boneless, Skinless, Club Pack",$24.28(est.)ea,,$22.91/ 1kg,False,
+meat,,"Beef Striploin Grilling Steak, Club Pack","Beef Striploin Grilling Steak, Club Pack",$35.77(est.)ea,,$37.46/ 1kg,False,
+meat,President's Choice,"Free From Split Chicken Wings, Club Pack","President's ChoiceFree From Split Chicken Wings, Club Pack",$16.10(est.)ea,,$15.19/ 1kg,False,
+meat,President's Choice,"Free From Chicken Breast, Boneless, Skinless","President's ChoiceFree From Chicken Breast, Boneless, Skinless",$12.14(est.)ea,,$23.35/ 1kg,False,
+meat,No Name,Original Hot Dogs    ,No NameOriginal Hot Dogs    450 g,$3.99ea,,$0.89/ 100g,False,
+meat,No Name,Chicken Hot Dogs,No NameChicken Hot Dogs450 g,$2.49ea,,$0.55/ 100g,False,
+meat,No Name,Mild Sugar-Cured Bacon,No NameMild Sugar-Cured Bacon500 g,$7.49ea,,$1.50/ 100g,False,
+meat,,Pork Tenderloin Pack of 2,Pork Tenderloin Pack of 2,$6.99(est.)ea,,$6.59/ 1kg,False,
+meat,,"Beef Sirloin Tip Steak, Club Pack","Beef Sirloin Tip Steak, Club Pack",$14.37(est.)ea,,$13.21/ 1kg,False,
+meat,President's Choice,Free From Bacon Naturally Smoked,President's ChoiceFree From Bacon Naturally Smoked0.375 kg,$8.49ea,$6.99ea,$1.86/ 100g,True,saleEnds 03/01
+meat,Swiss Chalet,BBQ Pork Ribs,Swiss ChaletBBQ Pork Ribs600 g,$15.99ea,,$2.67/ 100g,False,
+meat,President's Choice,Free From Mild Italian Pork Sausages,President's ChoiceFree From Mild Italian Pork Sausages500 g,$7.99ea,,$1.60/ 100g,False,
+meat,President's Choice,"Pub Recipe Chicken Strips, Fully Cooked","President's ChoicePub Recipe Chicken Strips, Fully Cooked700 g",$6.99ea,,$1.00/ 100g,False,
+meat,Maple Leaf,Natural Top Dogs Original Hot Dogs,Maple LeafNatural Top Dogs Original Hot Dogs375 g,$6.99ea,,$1.86/ 100g,False,
+meat,,"Chicken Kebab, Self Serve","Chicken Kebab, Self Serve",$11.97(est.)ea,,$26.43/ 1kg,False,
+meat,,Pork Stir Fry,Pork Stir Fry,$3.50(est.)ea,,$11.44/ 1kg,False,
+meat,,"Lethbridge Pork Back Rib, Service Case","Lethbridge Pork Back Rib, Service Case",$16.96(est.)ea,,$24.23/ 1kg,False,
+meat,King Cole,Duck Leg Confit,King ColeDuck Leg Confit280 g,$16.99ea,,$6.07/ 100g,False,
+meat,President's Choice,World Of Flavours Greek Seasoned Pork Loin Chops,President's ChoiceWorld Of Flavours Greek Seasoned Pork Loin Chops440 g,$9.99ea,,$2.27/ 100g,False,
+meat,,French Rib Roast,French Rib Roast,$21.05(est.)ea,,$12.10/ 1kg,False,
+meat,,Organic Breaded Chicken Fillets,Organic Breaded Chicken Fillets480 g,$14.99ea,,$3.12/ 100g,False,
+meat,,Beef Porterhouse T-Bone Grilling Steak,Beef Porterhouse T-Bone Grilling Steak,$24.95(est.)ea,,$41.87/ 1kg,False,
+meat,President's Choice,"Certified Angus Beef Premium Tenderloin Oven Roast, Service Case","President's ChoiceCertified Angus Beef Premium Tenderloin Oven Roast, Service Case",$72.74(est.)ea,,$88.17/ 1kg,False,
+meat,,Lamb Lollipop Chops,Lamb Lollipop Chops,$16.94(est.)ea,,$68.32/ 1kg,False,
+meat,,Pork Loin Schnitzel,Pork Loin Schnitzel,$5.46(est.)ea,,$22.02/ 1kg,False,
+meat,President's Choice,Free From Original Breakfast Pork Sausages,President's ChoiceFree From Original Breakfast Pork Sausages375 g,$7.99ea,,$2.13/ 100g,False,
+meat,President's Choice,Free From Lean Ground Lamb,President's ChoiceFree From Lean Ground Lamb454 g,$15.99ea,,$3.52/ 100g,False,
+meat,Butcher's Choice,Hot Italian Pork Sausages,Butcher's ChoiceHot Italian Pork Sausages1.45 kg,$15.99ea,,$1.10/ 100g,False,
+meat,,Beef Tenderloin Grilling Steak,Beef Tenderloin Grilling Steak,$24.43(est.)ea,,$74.93/ 1kg,False,
+meat,President's Choice,"Certified Angus Beef, Tenderloin Grilling Steak","President's ChoiceCertified Angus Beef, Tenderloin Grilling Steak",$33.70(est.)ea,,$92.57/ 1kg,False,
+meat,Maple Leaf,Mini-Sizzlers Breakfast Sausages,Maple LeafMini-Sizzlers Breakfast Sausages375 g,$8.99ea,,$2.40/ 100g,False,
+meat,,"Simmering Short Ribs, Service Case","Simmering Short Ribs, Service Case",$27.76(est.)ea,,$34.15/ 1kg,False,
+meat,President's Choice,"Free From Pork Loin Chop, Centre Cut","President's ChoiceFree From Pork Loin Chop, Centre Cut",$7.03(est.)ea,,$15.39/ 1kg,False,
+meat,Marcangelo,"Chicken Souvlaki, Value Pack","MarcangeloChicken Souvlaki, Value Pack480 g",$16.99ea,,$3.54/ 100g,False,
+meat,,Extra Lean Ground Beef,Extra Lean Ground Beef454 g,$7.49ea,,$1.65/ 100g,False,
+meat,Beyond Meat,Beyond Sausage Hot Italian,Beyond MeatBeyond Sausage Hot Italian400 g,$9.99ea,,$2.50/ 100g,False,
+meat,,Bacon-Wrapped Beef Tenderloin,Bacon-Wrapped Beef Tenderloin,$29.52(est.)ea,,$91.69/ 1kg,False,
+meat,Maple Leaf,Oktoberfest Dinner Sausage,Maple LeafOktoberfest Dinner Sausage375 g,$8.99ea,,$2.40/ 100g,False,
+meat,Houston Avenue Bar & Grill,Portuguese Flavoured Flattened Chicken ,Houston Avenue Bar & GrillPortuguese Flavoured Flattened Chicken ,$13.21/1 kg,,$13.21/ 1kg,False,
+meat,,Veal Rack French Grain Fed,Veal Rack French Grain Fed,$17.93(est.)ea,,$34.15/ 1kg,False,
+meat,President's Choice,Australian Lamb Frozen Short Cut Leg Of Lamb,President's ChoiceAustralian Lamb Frozen Short Cut Leg Of Lamb,$60.78(est.)ea,,$22.02/ 1kg,False,
+meat,Yorkshire Valley Farms,Organic Chicken Bites,Yorkshire Valley FarmsOrganic Chicken Bites454 g,$14.99ea,,$3.30/ 100g,False,
+meat,St Hubert,Montana's Texan BBQ Ribs,St HubertMontana's Texan BBQ Ribs650 g,$15.99ea,,$2.46/ 100g,False,
+meat,,Beef Eye Of Round Fast Fry Steak,Beef Eye Of Round Fast Fry Steak,$5.77(est.)ea,,$22.02/ 1kg,False,
+meat,,Lethbridge Pork Loin Rib Chop Bone In,Lethbridge Pork Loin Rib Chop Bone In,$11.72(est.)ea,,$20.92/ 1kg,False,
+meat,Johnsonville,Salt & Pepper Sausage Meat ,JohnsonvilleSalt & Pepper Sausage Meat 375 g,$7.99ea,,$2.13/ 100g,False,
+meat,,"Capiccolo Casing, Extra Wide","Capiccolo Casing, Extra Wide1 ea",$6.49ea,,$6.49/ 1ea,False,
+meat,,Lean Ground Beef,Lean Ground Beef500 g,$7.00ea,,$1.40/ 100g,False,
+meat,Prime,"Chicken Burgers, Raised Without Antibiotics","PrimeChicken Burgers, Raised Without Antibiotics581 g",$15.99ea,,$2.75/ 100g,False,
+meat,,Beef T-Bone Grilling Steak,Beef T-Bone Grilling Steak,$19.16(est.)ea,,$39.66/ 1kg,False,
+meat,President's Choice,"Free From Chicken Thigh, Bone-in, Skin-on","President's ChoiceFree From Chicken Thigh, Bone-in, Skin-on",$6.90(est.)ea,,$12.10/ 1kg,False,
+meat,,"Chicken Whole, Tray Pack","Chicken Whole, Tray Pack",$19.14(est.)ea,,$11.00/ 1kg,False,
+meat,,Marinated Chicken Breasts Boneless,Marinated Chicken Breasts Boneless,$10.39(est.)ea,,$24.22/ 1kg,False,
+meat,Impossible Foods Inc.,Simulated Meat Burger,Impossible Foods Inc.Simulated Meat Burger340 g,$11.99ea,,$3.53/ 100g,False,
+meat,Lous,Pork Back Ribs BBQ Sauce,LousPork Back Ribs BBQ Sauce610 g,$15.99ea,,$2.62/ 100g,False,
+meat,President's Choice,Free From Bangers Pork Sausages,President's ChoiceFree From Bangers Pork Sausages500 g,$7.99ea,,$1.60/ 100g,False,
+meat,,Beef Braising Short Ribs,Beef Braising Short Ribs,$19.96(est.)ea,,$33.04/ 1kg,False,
+meat,Lilydale,Sausage Turkey Maple Flavour,LilydaleSausage Turkey Maple Flavour375 g,$5.99ea,,$1.60/ 100g,False,
+meat,,"Lamb Leg, Short Cut, Previously Frozen","Lamb Leg, Short Cut, Previously Frozen",$45.59(est.)ea,,$19.82/ 1kg,False,
+meat,,Flank Steak,Flank Steak,$60.38(est.)ea,,$30.84/ 1kg,False,
+meat,President's Choice,Free From Whole Chicken,President's ChoiceFree From Whole Chicken,$18.59(est.)ea,,$11.00/ 1kg,False,
+meat,,Marinated Flank Steak,Marinated Flank Steak,$14.11(est.)ea,,$33.04/ 1kg,False,
+meat,,"Pork Center Chop Bone In, Club Pack","Pork Center Chop Bone In, Club Pack",$18.75(est.)ea,,$13.21/ 1kg,False,
+meat,,Beef Tenderloin Premium Oven Roast,Beef Tenderloin Premium Oven Roast,$55.01(est.)ea,,$70.52/ 1kg,False,
+meat,,Rib Steak Fast Fry,Rib Steak Fast Fry,$12.69(est.)ea,,$41.87/ 1kg,False,
+meat,President's Choice,Free From Hot Italian Pork Sausages,President's ChoiceFree From Hot Italian Pork Sausages500 g,$7.99ea,,$1.60/ 100g,False,
+meat,,Southern-Style Popcorn Chicken,Southern-Style Popcorn Chicken1.13 kg,$10.00ea,,$0.88/ 100g,False,
+meat,,Honey Garlic Pork Sausage Meat,Honey Garlic Pork Sausage Meat,$6.38(est.)ea,,$13.21/ 1kg,False,
+meat,Pinty's,Chicken Wings Honey & Garlic Flavoured,Pinty'sChicken Wings Honey & Garlic Flavoured780 g,$23.99ea,,$3.08/ 100g,False,
+meat,President's Choice,Too Good To Be Wings Maple Barbecue Boneless Coated Chicken Breast Chunks,President's ChoiceToo Good To Be Wings Maple Barbecue Boneless Coated Chicken Breast Chunks800 g,$16.99ea,,$2.12/ 100g,False,
+meat,President's Choice,Sirloin Beef Meatballs ,President's ChoiceSirloin Beef Meatballs 907 g,$16.99ea,,$1.87/ 100g,False,
+meat,Janes,"Pub Style Chicken Nugget, Fully Cooked","JanesPub Style Chicken Nugget, Fully Cooked700 g",$14.99ea,,$2.14/ 100g,False,
+meat,Gold Label,Naturally Smokeys Smoked Sausages Made With Natural Ingredients Original,Gold LabelNaturally Smokeys Smoked Sausages Made With Natural Ingredients Original375 g,$5.49ea,,$1.46/ 100g,False,
+meat,Schneider,"Smoked Sausage, Spicy Sicilian","SchneiderSmoked Sausage, Spicy Sicilian375 g",$7.99ea,,$2.13/ 100g,False,
+meat,Lous,Peameal Bacon Original,LousPeameal Bacon Original800 g,$7.79ea,,$0.97/ 100g,False,
+meat,Maple Leaf,Natural Top Dogs BBQ Hot Dogs,Maple LeafNatural Top Dogs BBQ Hot Dogs375 g,$6.99ea,,$1.86/ 100g,False,
+meat,President's Choice,Nashville Breaded Chicken Bites,President's ChoiceNashville Breaded Chicken Bites700 g,$15.99ea,,$2.28/ 100g,False,
+meat,President's Choice,Jerk Chicken Wings,President's ChoiceJerk Chicken Wings907 g,$15.99ea,$13.99ea,$1.54/ 100g,True,saleEnds 03/30
+meat,President's Choice,Too Good To Be Wings Garlic Parmesan Boneless Turkey Breast Chunks,President's ChoiceToo Good To Be Wings Garlic Parmesan Boneless Turkey Breast Chunks800 g,$16.99ea,,$2.12/ 100g,False,
+meat,Lous,Smoked Applewood Back Bacon,LousSmoked Applewood Back Bacon375 g,$7.99ea,,$2.13/ 100g,False,
+meat,The Keg,Prime Rib Beef Burger,The KegPrime Rib Beef Burger1.02 kg,$22.99ea,,$2.25/ 100g,False,
+meat,President's Choice,Honey Barbecue Pork Back Ribs,President's ChoiceHoney Barbecue Pork Back Ribs680 g,$15.99ea,,$2.35/ 100g,False,
+meat,Maple Leaf,Fully Cooked Natural Pork Breakfast Sausage Patties,Maple LeafFully Cooked Natural Pork Breakfast Sausage Patties300 g,$8.29ea,,$2.76/ 100g,False,
+meat,Janes,"Boneless Chicken Bites, Honey Garlic","JanesBoneless Chicken Bites, Honey Garlic710 g",$20.99ea,,$2.96/ 100g,False,
+meat,Gold Label,Naturally Smokeys Smoked Sausages With Natural Ingredient Brats,Gold LabelNaturally Smokeys Smoked Sausages With Natural Ingredient Brats375 g,$5.49ea,,$1.46/ 100g,False,
+meat,Janes,Boneless Chicken Bites,JanesBoneless Chicken Bites710 g,$20.99ea,,$2.96/ 100g,False,
+meat,Johnsonville,Smoked & Fully Cooked Sausages Pure Pork Smoked Bratwurst,JohnsonvilleSmoked & Fully Cooked Sausages Pure Pork Smoked Bratwurst375 g,$7.49ea,,$2.00/ 100g,False,
+meat,President's Choice,Free From Bacon Style Turkey,President's ChoiceFree From Bacon Style Turkey300 g,$7.99ea,,$2.66/ 100g,False,
+meat,,"Pork Loin Chop, Bone In Center Cut","Pork Loin Chop, Bone In Center Cut",$6.05(est.)ea,,$12.10/ 1kg,False,
+meat,Schneider,All Beef Hot Dogs,SchneiderAll Beef Hot Dogs375 g,$8.79ea,,$2.34/ 100g,False,
+meat,President's Choice,Maple Flavoured Naturally Smoked Bacon,President's ChoiceMaple Flavoured Naturally Smoked Bacon500 g,$8.49ea,,$1.70/ 100g,False,
+meat,Schneider,"Smoked Sausage, Oktoberfest","SchneiderSmoked Sausage, Oktoberfest375 g",$7.99ea,,$2.13/ 100g,False,
+meat,President's Choice,October Wurst Fully Cooked Pork Sausages,President's ChoiceOctober Wurst Fully Cooked Pork Sausages1 kg,$14.29ea,,$1.43/ 100g,False,
+meat,Maple Lodge Farms LT,Chicken Wiener,Maple Lodge Farms LTChicken Wiener450 g,$3.99ea,,$0.89/ 100g,False,
+meat,Johnsonville,"Smoked Sausage, Polish Style","JohnsonvilleSmoked Sausage, Polish Style375 g",$6.99ea,,$1.86/ 100g,False,
+meat,Schneider,Smokies Honey Garlic Smoked Sausage,SchneiderSmokies Honey Garlic Smoked Sausage900 g,$15.49ea,,$1.72/ 100g,False,
+meat,Schneider,Juicy Jumbos Original Hot Dogs Family Pack,SchneiderJuicy Jumbos Original Hot Dogs Family Pack900 g,$11.99ea,,$1.33/ 100g,False,
+meat,President's Choice,Free From Lean Ground Beef,President's ChoiceFree From Lean Ground Beef454 g,$9.99ea,,$2.20/ 100g,False,
+meat,PC Blue Menu,"Air Chilled Chicken Breast Fillets, Boneless, Skinless","PC Blue MenuAir Chilled Chicken Breast Fillets, Boneless, Skinless1 ea",$10.00ea,,$10.00/ 1ea,False,
+meat,,Beef Sirloin Tip Sandwich Steak,Beef Sirloin Tip Sandwich Steak,$5.55(est.)ea,,$22.02/ 1kg,False,
+meat,President's Choice,"Certified Angus Beef, Tenderloin Grilling Steak","President's ChoiceCertified Angus Beef, Tenderloin Grilling Steak",$27.31(est.)ea,,$92.57/ 1kg,False,
+meat,President's Choice,"Free From Chicken Drumsticks, Tray Pack","President's ChoiceFree From Chicken Drumsticks, Tray Pack",$6.42(est.)ea,,$11.88/ 1kg,False,
+meat,President's Choice,Vermont-Style Maple Flavour Extra Lean Boneless Ham,President's ChoiceVermont-Style Maple Flavour Extra Lean Boneless Ham800 g,$12.99ea,,$1.62/ 100g,False,
+meat,,Inside Round Marinating Steak,Inside Round Marinating Steak,$7.27(est.)ea,,$22.02/ 1kg,False,
+meat,,Lamb Shoulder Chops,Lamb Shoulder Chops,$9.29(est.)ea,,$22.02/ 1kg,False,
+meat,,"Marinated Beef Striploin Steak, Service Case","Marinated Beef Striploin Steak, Service Case",$19.70(est.)ea,,$44.07/ 1kg,False,
+meat,Johnsonville,Ground Mild Italian Sausage,JohnsonvilleGround Mild Italian Sausage375 g,$7.99ea,,$2.13/ 100g,False,
+meat,,Pork Kebab,Pork Kebab,$10.13(est.)ea,,$22.02/ 1kg,False,
+meat,,Beef Striploin Steak,Beef Striploin Steak,$15.75(est.)ea,,$39.66/ 1kg,False,
+meat,President's Choice,"Air Chilled Chicken Drumsticks, 8-Pack","President's ChoiceAir Chilled Chicken Drumsticks, 8-Pack1 ea",$10.00ea,,$10.00/ 1ea,False,
+meat,Hayter's Farm,Turkey Sausage Original,Hayter's FarmTurkey Sausage Original1.14 kg,$17.49ea,,$1.53/ 100g,False,
+meat,,Beef Inside Round Fast Fry Steak,Beef Inside Round Fast Fry Steak,$4.16(est.)ea,,$15.41/ 1kg,False,
+meat,President's Choice,Worlds of Flavors Carnitas Pork Shoulder,President's ChoiceWorlds of Flavors Carnitas Pork Shoulder900 g,$14.99ea,,$1.67/ 100g,False,
+meat,St Hubert,Frozen Back Ribs,St HubertFrozen Back Ribs680 g,$18.49ea,,$2.72/ 100g,False,
+meat,Lilydale,Sausage Chicken,LilydaleSausage Chicken375 g,$5.99ea,,$1.60/ 100g,False,
+meat,President's Choice,Plant Based Beefless Ground,President's ChoicePlant Based Beefless Ground340 g,$9.99ea,,$2.94/ 100g,False,
+meat,Schneider,Applewood Smoked Brown Sugar Ham,SchneiderApplewood Smoked Brown Sugar Ham700 g,$16.99ea,,$2.43/ 100g,False,
+meat,,Top Sirloin Beefeater Medallion,Top Sirloin Beefeater Medallion,$9.73(est.)ea,,$28.63/ 1kg,False,
+meat,,"Beef Rib Grilling Steak, Boneless, Club Pack","Beef Rib Grilling Steak, Boneless, Club Pack",$31.69(est.)ea,,$44.07/ 1kg,False,
+meat,,Beef Sirloin Tip Steak,Beef Sirloin Tip Steak,$6.47(est.)ea,,$15.41/ 1kg,False,
+meat,King Cole,Boneless Duck Breast,King ColeBoneless Duck Breast,$9.79(est.)ea,,$30.99/ 1kg,False,
+meat,President's Choice,Free From Boneless Blade Roast Beef,President's ChoiceFree From Boneless Blade Roast Beef,$20.33(est.)ea,,$28.63/ 1kg,False,
+meat,,Beef Striploin Fast Fry Steak,Beef Striploin Fast Fry Steak,$12.64(est.)ea,,$41.87/ 1kg,False,
+meat,,Pork Center Chop Bone In,Pork Center Chop Bone In,$7.55(est.)ea,,$15.41/ 1kg,False,
+meat,Beyond Meat,Beyond Beef Grounds,Beyond MeatBeyond Beef Grounds340 g,$9.99ea,,$2.94/ 100g,False,
+meat,,Beef Boneless Blade Steak,Beef Boneless Blade Steak,$9.20(est.)ea,,$22.02/ 1kg,False,
+meat,,Sirloin Tip Oven Roast,Sirloin Tip Oven Roast,$14.86(est.)ea,,$11.00/ 1kg,False,
+meat,,Extra Lean Ground Beef,Extra Lean Ground Beef500 g,$8.00ea,,$1.60/ 100g,False,
+meat,King Cole, Rendered Duck Fat,King Cole Rendered Duck Fat300 g,$7.99ea,,$2.66/ 100g,False,
+meat,,Beef Top Sirloin Bacon Wrap,Beef Top Sirloin Bacon Wrap,$11.32(est.)ea,,$30.84/ 1kg,False,
+meat,Rea,Italian Sausage,ReaItalian Sausage720 g,$9.99ea,,$1.39/ 100g,False,
+meat,,"Pork Back Ribs, 2 Pack","Pork Back Ribs, 2 Pack",$25.50(est.)ea,,$13.21/ 1kg,False,
+meat,President's Choice,"Air Chilled Chicken Breast Cutlet, Boneless, Skinless","President's ChoiceAir Chilled Chicken Breast Cutlet, Boneless, Skinless1 ea",$12.00ea,,$12.00/ 1ea,False,
+meat,St Hubert,"Back Ribs, Texas Style","St HubertBack Ribs, Texas Style680 g",$18.49ea,,$2.72/ 100g,False,
+meat,PC Organics,Organics Chicken Thighs,PC OrganicsOrganics Chicken Thighs,$9.15(est.)ea,,$18.94/ 1kg,False,
+meat,President's Choice,Free From Lean Ground Beef,President's ChoiceFree From Lean Ground Beef454 g,$9.99ea,,$2.20/ 100g,False,
+meat,PC Blue Menu,"Air Chilled Chicken Breast Fillets, Boneless, Skinless","PC Blue MenuAir Chilled Chicken Breast Fillets, Boneless, Skinless1 ea",$10.00ea,,$10.00/ 1ea,False,
+meat,,"Marinated Beef Striploin Steak, Service Case","Marinated Beef Striploin Steak, Service Case",$19.70(est.)ea,,$44.07/ 1kg,False,
+meat,President's Choice,"Free From Chicken Drumsticks, Tray Pack","President's ChoiceFree From Chicken Drumsticks, Tray Pack",$6.42(est.)ea,,$11.88/ 1kg,False,
+meat,,"Chicken Breast Fillets, Boneless","Chicken Breast Fillets, Boneless",$8.91(est.)ea,,$20.26/ 1kg,False,
+meat,,EZ Marinade,EZ Marinade25 g,$1.00ea,,$4.00/ 100g,False,
+meat,New Zealand,Lamb Sausage,New ZealandLamb Sausage500 g,$9.99ea,,$19.98/ 1kg,False,
+meat,President's Choice,Meatless Meatballs,President's ChoiceMeatless Meatballs454 g,$7.99ea,,$1.76/ 100g,False,
+meat,President's Choice,"Italian Meatballs, Club Pack","President's ChoiceItalian Meatballs, Club Pack1.81 kg",$29.99ea,,$1.66/ 100g,False,
+meat,Butcher's Choice,"BBQ Beef Burgers, Hickory Flavour","Butcher's ChoiceBBQ Beef Burgers, Hickory Flavour1.13 kg",$16.99ea,,$1.50/ 100g,False,
+meat,President's Choice,Smokin Stampede Pork Back Ribs ,President's ChoiceSmokin Stampede Pork Back Ribs 680 g,$15.99ea,,$2.35/ 100g,False,
+meat,King Cole,Boneless Duck Breast,King ColeBoneless Duck Breast,$9.79(est.)ea,,$30.99/ 1kg,False,
+meat,President's Choice,Free From Boneless Blade Roast Beef,President's ChoiceFree From Boneless Blade Roast Beef,$20.33(est.)ea,,$28.63/ 1kg,False,
+meat,President's Choice,Worlds of Flavors Carnitas Pork Shoulder,President's ChoiceWorlds of Flavors Carnitas Pork Shoulder900 g,$14.99ea,,$1.67/ 100g,False,
+meat,,"Pork Back Ribs, 2 Pack","Pork Back Ribs, 2 Pack",$25.50(est.)ea,,$13.21/ 1kg,False,
+meat,,Extra Lean Ground Beef,Extra Lean Ground Beef500 g,$8.00ea,,$1.60/ 100g,False,
+meat,President's Choice,"Air Chilled Chicken Breast Cutlet, Boneless, Skinless","President's ChoiceAir Chilled Chicken Breast Cutlet, Boneless, Skinless1 ea",$12.00ea,,$12.00/ 1ea,False,
+meat,King Cole, Rendered Duck Fat,King Cole Rendered Duck Fat300 g,$7.99ea,,$2.66/ 100g,False,
+meat,,Beef Top Sirloin Oven Roast,Beef Top Sirloin Oven Roast,$32.33(est.)ea,,$24.22/ 1kg,False,
+meat,Janes,"Pub Style Chicken Burger, Fully Cooked","JanesPub Style Chicken Burger, Fully Cooked700 g",$14.99ea,,$2.14/ 100g,False,
+meat,,Beef Top Sirloin Bacon Wrap,Beef Top Sirloin Bacon Wrap,$11.32(est.)ea,,$30.84/ 1kg,False,
+meat,Rea,Italian Sausage,ReaItalian Sausage720 g,$9.99ea,,$1.39/ 100g,False,
+meat,,"Frozen Cornish Hen, Grade A","Frozen Cornish Hen, Grade A",$11.10(est.)ea,,$13.21/ 1kg,False,
+meat,Maple Leaf,Natural Smoked Black Forest Ham,Maple LeafNatural Smoked Black Forest Ham600 g,$15.99ea,,$2.67/ 100g,False,
+meat,President's Choice,Kofta Beef Meatballs,President's ChoiceKofta Beef Meatballs454 g,$9.99ea,,$2.20/ 100g,False,
+meat,No Name,Pork Cottage Roll,No NamePork Cottage Roll,$15.51(est.)ea,,$10.34/ 1kg,False,
+meat,Butcher's Choice,Beef Burgers,Butcher's ChoiceBeef Burgers1.13 kg,$16.99ea,,$1.50/ 100g,False,
+meat,President's Choice,Swedish Beef Meatballs,President's ChoiceSwedish Beef Meatballs907 g,$16.99ea,,$1.87/ 100g,False,
+meat,Gold Label,Homestyle Italian Fully Cooked Meatballs,Gold LabelHomestyle Italian Fully Cooked Meatballs680 g,$7.99ea,,$1.18/ 100g,False,
+meat,Maple Leaf,"Natural Pork Breakfast Sausage, Fully Cooked","Maple LeafNatural Pork Breakfast Sausage, Fully Cooked300 g",$8.29ea,,$2.76/ 100g,False,
+meat,President's Choice,Crisp & Crunchy Mild Southern-Style Chicken Wings,President's ChoiceCrisp & Crunchy Mild Southern-Style Chicken Wings1.81 kg,$29.99ea,,$1.66/ 100g,False,
+meat,Schneider,Butcher Cut Double Smoked Bacon,SchneiderButcher Cut Double Smoked Bacon500 g,$13.29ea,,$2.66/ 100g,False,
+meat,Greenfield Natural Meat Co.,Back Bacon,Greenfield Natural Meat Co.Back Bacon200 g,$9.39ea,,$4.70/ 100g,False,
+meat,No Name,Pork Loin Peameal-Style Sliced Cured,No NamePork Loin Peameal-Style Sliced Cured454 g,$6.49ea,,$1.43/ 100g,False,
+meat,PC Blue Menu,Sirloin Beef Burger,PC Blue MenuSirloin Beef Burger1.02 kg,$16.99ea,,$1.67/ 100g,False,
+meat,President's Choice,Nashville-Style Chicken Wings,President's ChoiceNashville-Style Chicken Wings907 g,$17.99ea,,$1.98/ 100g,False,
+meat,PC Blue Menu,Lean Beef Burgers,PC Blue MenuLean Beef Burgers2.27 kg,$27.99ea,,$1.23/ 100g,False,
+meat,Greenfield Natural Meat Co.,Wieners,Greenfield Natural Meat Co.Wieners375 g,$8.79ea,,$2.34/ 100g,False,
+meat,,Chicken Strips,Chicken Strips1.5 kg,$10.00ea,,$0.67/ 100g,False,
+meat,President's Choice,"Chicken Wings Club Pack, Honey Garlic","President's ChoiceChicken Wings Club Pack, Honey Garlic1.81 kg",$29.99ea,,$1.66/ 100g,False,
+meat,President's Choice,Crisp & Crunchy Spicy Southern-Style Chicken Wings,President's ChoiceCrisp & Crunchy Spicy Southern-Style Chicken Wings907 g,$17.99ea,,$1.98/ 100g,False,
+meat,Beretta,Organic Chicken Dogs,BerettaOrganic Chicken Dogs300 g,$9.99ea,,$3.33/ 100g,False,
+meat,Shopsys,Deli-Fresh All Beef Wieners,ShopsysDeli-Fresh All Beef Wieners375 g,$8.79ea,,$2.34/ 100g,False,
+meat,PC Blue Menu,Thick & Juicy™ Lean Beef Burgers  ,PC Blue MenuThick & Juicy™ Lean Beef Burgers  1.13 kg,$16.99ea,,$1.50/ 100g,False,
+meat,President's Choice,Free From Turkey Meatballs,President's ChoiceFree From Turkey Meatballs800 g,$16.99ea,,$2.12/ 100g,False,
+meat,President's Choice,Rotisserie-Style Chicken Wings,President's ChoiceRotisserie-Style Chicken Wings907 g,$17.99ea,,$1.98/ 100g,False,
+meat,No Name,All-Beef Wieners,No NameAll-Beef Wieners450 g,$6.49ea,,$1.44/ 100g,False,
+meat,Butterball,Bacon-Rasher Turkey     ,ButterballBacon-Rasher Turkey     300 g,$6.99ea,,$2.33/ 100g,False,
+meat,President's Choice,Turkey Smokies,President's ChoiceTurkey Smokies300 g,$8.49ea,,$2.83/ 100g,False,
+meat,,Double Smoked Back Bacon,Double Smoked Back Bacon375 g,$8.49ea,$7.79ea,$2.08/ 100g,True,saleEnds 03/01
+meat,Maple Leaf,Original Natural Smoked Ham,Maple LeafOriginal Natural Smoked Ham600 g,$15.99ea,,$2.67/ 100g,False,
+meat,Schneider,"Smokies, Sharp Cheddar Smoked Sausage","SchneiderSmokies, Sharp Cheddar Smoked Sausage900 g",$15.49ea,,$1.72/ 100g,False,
+meat,Maple Leaf,"Natural Top Dogs Original Hot Dogs, Family Size","Maple LeafNatural Top Dogs Original Hot Dogs, Family Size900 g",$9.99ea,,$1.11/ 100g,False,
+meat,No Name,"Bacon, Mild Sugar Cured with Reduced Salt, Uncooked","No NameBacon, Mild Sugar Cured with Reduced Salt, Uncooked500 g",$7.49ea,,$1.50/ 100g,False,
+meat,President's Choice,Free From Peameal-Style Sliced Cured Pork Loin,President's ChoiceFree From Peameal-Style Sliced Cured Pork Loin375 g,$8.49ea,$6.99ea,$1.86/ 100g,True,saleEnds 03/01
+meat,President's Choice,Free From Pork Frankfurters,President's ChoiceFree From Pork Frankfurters375 g,$6.79ea,,$1.81/ 100g,False,
+meat,Marcangelo,Italian Style Pork Sausages Sweet Italian ,MarcangeloItalian Style Pork Sausages Sweet Italian 375 g,$5.99ea,,$1.60/ 100g,False,
+meat,President's Choice,Free From Maple Breakfast Pork Sausages,President's ChoiceFree From Maple Breakfast Pork Sausages375 g,$7.99ea,,$2.13/ 100g,False,
+meat,President's Choice,Plant Based Spicy Italian Sausage,President's ChoicePlant Based Spicy Italian Sausage400 g,$8.99ea,,$2.25/ 100g,False,
+meat,Butcher's Choice,Pork and Beef Breakfast Sausages,Butcher's ChoicePork and Beef Breakfast Sausages500 g,$3.98ea,,$0.80/ 100g,False,
+meat,,"Marinated Chicken Thigh, Service Case","Marinated Chicken Thigh, Service Case",$9.75(est.)ea,,$19.82/ 1kg,False,
+meat,,Beef Kidney,Beef Kidney,$4.30(est.)ea,,$7.70/ 1kg,False,
+meat,PC Organics,Organics Boneless Skinless Chicken Thighs,PC OrganicsOrganics Boneless Skinless Chicken Thighs,$13.85(est.)ea,,$28.86/ 1kg,False,
+meat,Lous,Maple Bourbon Pork Back Ribs In Maple Bourbon Bbq Sauce,LousMaple Bourbon Pork Back Ribs In Maple Bourbon Bbq Sauce585 g,$15.99ea,,$2.73/ 100g,False,
+meat,,Plain Pork Kebab,Plain Pork Kebab,$10.59(est.)ea,,$22.02/ 1kg,False,
+meat,President's Choice,Free From Boneless Stewing Beef,President's ChoiceFree From Boneless Stewing Beef454 g,$13.99ea,,$3.08/ 100g,False,
+meat,President's Choice,World Of Flavours Greek Seasoned Pork Loin Roast,President's ChoiceWorld Of Flavours Greek Seasoned Pork Loin Roast730 g,$12.99ea,,$1.78/ 100g,False,
+meat,Marcangelo,Frozen Twisters Jumbo Sausage,MarcangeloFrozen Twisters Jumbo Sausage500 g,$9.99ea,$8.99ea,$1.80/ 100g,True,saleEnds 03/01
+meat,,"Lethbridge Pork Loin Rib Rack, Service Case","Lethbridge Pork Loin Rib Rack, Service Case",$19.90(est.)ea,,$19.82/ 1kg,False,
+meat,,"Pork Rib End Roast, Boneless","Pork Rib End Roast, Boneless",$10.22(est.)ea,,$13.21/ 1kg,False,
+meat,Johnsonville,Hot Italian Sausage,JohnsonvilleHot Italian Sausage500 g,$7.99ea,,$1.60/ 100g,False,
+meat,,"Chicken Breast Fillet, Club Pack","Chicken Breast Fillet, Club Pack",$12.29(est.)ea,,$19.82/ 1kg,False,
+meat,,"Fresh Whole Chicken, Tray Pack","Fresh Whole Chicken, Tray Pack",$13.38(est.)ea,,$7.69/ 1kg,False,
+meat,,Beef Flank Steak,Beef Flank Steak,$19.80(est.)ea,,$30.84/ 1kg,False,
+meat,President's Choice,Free From Honey Garlic Flavoured Pork Sausages ,President's ChoiceFree From Honey Garlic Flavoured Pork Sausages 500 g,$7.99ea,,$1.60/ 100g,False,
+meat,,Veal Loin Chop,Veal Loin Chop,$11.43(est.)ea,,$28.64/ 1kg,False,
+meat,,Beef Korean-style Short Ribs,Beef Korean-style Short Ribs,$13.99(est.)ea,,$35.25/ 1kg,False,
+meat,,Veal Shank Osso Bucco,Veal Shank Osso Bucco,$8.49(est.)ea,,$15.41/ 1kg,False,
+meat,Butcher's Choice,"Beef Burger, Cheddar Cheese","Butcher's ChoiceBeef Burger, Cheddar Cheese1.13 kg",$16.99ea,,$1.50/ 100g,False,
+meat,,Mild Italian Style Pork Sausage,Mild Italian Style Pork Sausage,$7.12(est.)ea,,$15.41/ 1kg,False,
+meat,President's Choice,Free From Pork Rib-Eye Steak,President's ChoiceFree From Pork Rib-Eye Steak,$5.17(est.)ea,,$14.31/ 1kg,False,
+meat,President's Choice,Free From Turkey Breast Scaloppine,President's ChoiceFree From Turkey Breast Scaloppine,$9.12(est.)ea,,$25.33/ 1kg,False,
+meat,,"Chicken Wings, Marinated","Chicken Wings, Marinated",$9.72(est.)ea,,$16.51/ 1kg,False,
+meat,Janes,Chicken Burgers,JanesChicken Burgers852 g,$14.99ea,,$1.76/ 100g,False,
+meat,,Chorizo Style Pork Sausage,Chorizo Style Pork Sausage,$6.93(est.)ea,,$15.41/ 1kg,False,
+meat,Janes,Chicken Wings Honey Garlic,JanesChicken Wings Honey Garlic660 g,$17.99ea,,$2.73/ 100g,False,
+meat,,Top Sirloin Beefeater Steak,Top Sirloin Beefeater Steak,$10.87(est.)ea,,$27.53/ 1kg,False,
+meat,Johnsonville,Maple Breakfast Sausage,JohnsonvilleMaple Breakfast Sausage375 g,$7.99ea,,$2.13/ 100g,False,
+meat,Schneider,Texas BBQ Chicken Wings,SchneiderTexas BBQ Chicken Wings615 g,$16.99ea,,$2.76/ 100g,False,
+meat,President's Choice,World of Flavours Filipino Adobo Pork Stir Fry Strips,President's ChoiceWorld of Flavours Filipino Adobo Pork Stir Fry Strips350 g,$8.99ea,,$2.57/ 100g,False,
+meat,,Beef Eye of Round Marinating Steak,Beef Eye of Round Marinating Steak,$7.30(est.)ea,,$20.92/ 1kg,False,
+meat,President's Choice,"Free From Chicken Drumsticks, Club Pack","President's ChoiceFree From Chicken Drumsticks, Club Pack",$11.62(est.)ea,,$10.56/ 1kg,False,
+meat,President's Choice,"Free From Centre Cut Pork Loin Chop, Boneless","President's ChoiceFree From Centre Cut Pork Loin Chop, Boneless",$8.26(est.)ea,,$16.51/ 1kg,False,
+meat,Johnsonville,Original Breakfast Sausage,JohnsonvilleOriginal Breakfast Sausage375 g,$7.99ea,,$2.13/ 100g,False,
+meat,Montpak,Lean Ground Veal ,MontpakLean Ground Veal 454 g,$7.99ea,,$1.76/ 100g,False,
+meat,,Marinated Lamb Loin Chops,Marinated Lamb Loin Chops,$13.05(est.)ea,,$36.35/ 1kg,False,
+meat,,Centre Cut Pork Loin Chop Boneless,Centre Cut Pork Loin Chop Boneless,$5.97(est.)ea,,$13.21/ 1kg,False,
+meat,Marcangelo,Marc Angelo Pork Sausages with Rapini and Parmigiano Reggiano Cheese 675 g,MarcangeloMarc Angelo Pork Sausages with Rapini and Parmigiano Reggiano Cheese 675 g675 g,$9.99ea,$8.99ea,$1.33/ 100g,True,saleEnds 03/01
+meat,Al Safa,Lean Ground Beef,Al SafaLean Ground Beef908 g,$11.00ea,,$1.21/ 100g,False,
+meat,President's Choice,Plant Based Breakfast Sausage,President's ChoicePlant Based Breakfast Sausage300 g,$8.99ea,,$3.00/ 100g,False,
+meat,Marcangelo,Beef Top Sirloin Roast,MarcangeloBeef Top Sirloin Roast600 g,$19.99ea,,$3.33/ 100g,False,
+meat,President's Choice,"Certified Angus Beef Striploin Grill Steak, Service Case","President's ChoiceCertified Angus Beef Striploin Grill Steak, Service Case",$21.96(est.)ea,,$42.97/ 1kg,False,
+meat,Beyond Meat,Beyond Burger Plant-Based,Beyond MeatBeyond Burger Plant-Based226 g,$7.99ea,,$3.54/ 100g,False,
+meat,President's Choice,Extra Lean Ground Sirloin,President's ChoiceExtra Lean Ground Sirloin454 g,$9.00ea,,$1.98/ 100g,False,
+meat,,Pork Breast Bone,Pork Breast Bone,$5.55(est.)ea,,$6.59/ 1kg,False,
+meat,President's Choice,Free From Lean Ground Pork,President's ChoiceFree From Lean Ground Pork454 g,$7.49ea,,$1.65/ 100g,False,
+meat,,Beef Inside Round Oven Roast,Beef Inside Round Oven Roast,$16.79(est.)ea,,$13.21/ 1kg,False,
+meat,,Centre Cut Pork Loin Roast Boneless,Centre Cut Pork Loin Roast Boneless,$13.16(est.)ea,,$11.00/ 1kg,False,
+meat,,Pork Classic Roast,Pork Classic Roast,$19.71(est.)ea,,$11.66/ 1kg,False,
+meat,,Pork Tenderloin,Pork Tenderloin,$4.38(est.)ea,,$8.80/ 1kg,False,
+meat,President's Choice,Wof Chicken Southern BBQ,President's ChoiceWof Chicken Southern BBQ,$19.75(est.)ea,,$14.31/ 1kg,False,
+meat,President's Choice,Free From Sirloin Tip Roast Beef,President's ChoiceFree From Sirloin Tip Roast Beef,$20.61(est.)ea,,$26.42/ 1kg,False,
+meat,President's Choice,Jerk Frenched Chops,President's ChoiceJerk Frenched Chops440 g,$9.99ea,,$2.27/ 100g,False,
+meat,,"Sausage Casings, 20 Yards","Sausage Casings, 20 Yards1 ea",$8.49ea,,$8.49/ 1ea,False,
+meat,,Seasoned Veal Meatballs,Seasoned Veal Meatballs,$9.61(est.)ea,,$19.82/ 1kg,False,
+meat,,Grade A Frozen Duck,Grade A Frozen Duck,$27.50(est.)ea,,$11.00/ 1kg,False,
+meat,President's Choice,Butter Infused Whole Chicken,President's ChoiceButter Infused Whole Chicken1.66 kg,$10.99ea,,$0.66/ 100g,False,
+meat,,Beef Sirloin Tip Fast Fry,Beef Sirloin Tip Fast Fry,$4.39(est.)ea,,$17.62/ 1kg,False,
+meat,Marcangelo,"Pork Souvlaki, Value Pack","MarcangeloPork Souvlaki, Value Pack640 g",$15.99ea,,$2.50/ 100g,False,
+meat,Montpak,"Grain-Fed Veal Liver, Slice","MontpakGrain-Fed Veal Liver, Slice",$9.96(est.)ea,,$33.05/ 1kg,False,
+meat,,"Chicken Leg (Back Attached) , Club Pack","Chicken Leg (Back Attached) , Club Pack",$11.26(est.)ea,,$9.46/ 1kg,False,
+meat,,Veal Bottom Round Breaded Cutlet,Veal Bottom Round Breaded Cutlet,$8.79(est.)ea,,$31.95/ 1kg,False,
+meat,Marcangelo,Hot Italian Jumbo Sausage,MarcangeloHot Italian Jumbo Sausage675 g,$9.99ea,$8.99ea,$1.33/ 100g,True,saleEnds 03/01
+meat,,Beef Marrow Soup Bones,Beef Marrow Soup Bones,$7.67(est.)ea,,$9.90/ 1kg,False,
+meat,No Name,"Chicken Burger, Club Pack","No NameChicken Burger, Club Pack1810 g",$12.49ea,,$0.69/ 100g,False,
+meat,Janes,BBQ Chickens Bites,JanesBBQ Chickens Bites710 g,$20.99ea,,$2.96/ 100g,False,
+meat,New Zealand,Goat Stew Bone In,New ZealandGoat Stew Bone In1 kg,$33.99ea,,$3.40/ 100g,False,
+meat,No Name,"Chicken Wings, Club Pack","No NameChicken Wings, Club Pack1.81 kg",$26.99ea,,$1.49/ 100g,False,
+meat,President's Choice,"Chicken Wings, Crisp & Crunchy Mild Southern-Style ","President's ChoiceChicken Wings, Crisp & Crunchy Mild Southern-Style 907 g",$17.99ea,,$1.98/ 100g,False,
+meat,President's Choice,Free From Angus Beef Meatball,President's ChoiceFree From Angus Beef Meatball850 g,$16.99ea,,$2.00/ 100g,False,
+meat,President's Choice,Thick & Juicy™ Chicken Burgers ,President's ChoiceThick & Juicy™ Chicken Burgers 1.13 kg,$16.99ea,,$1.50/ 100g,False,
+meat,President's Choice,Thick & Juicy Beef Burgers,President's ChoiceThick & Juicy Beef Burgers2.72 kg,$31.99ea,,$1.18/ 100g,False,
+meat,Kingway,Wagyu Beef Frankfurter,KingwayWagyu Beef Frankfurter375 g,$8.49ea,,$2.26/ 100g,False,
+meat,President's Choice,Medium Buffalo-Style Chicken Wings,President's ChoiceMedium Buffalo-Style Chicken Wings907 g,$17.99ea,,$1.98/ 100g,False,
+meat,Lesters,Wieners Hot Dog Jumbo,LestersWieners Hot Dog Jumbo450 g,$4.49ea,,$1.00/ 100g,False,
+meat,Janes, Turkey Burgers,Janes Turkey Burgers600 g,$15.99ea,,$2.67/ 100g,False,
+meat,President's Choice,Thick & Juicy™ Beef Burgers  ,President's ChoiceThick & Juicy™ Beef Burgers  1.36 kg,$16.99ea,,$1.25/ 100g,False,
+meat,Schneider,Red Hots Original Hot Dogs,SchneiderRed Hots Original Hot Dogs375 g,$6.99ea,,$1.86/ 100g,False,
+meat,No Name,"Honey Garlic Chicken Wings, Club Pack","No NameHoney Garlic Chicken Wings, Club Pack1.81 kg",$26.99ea,,$1.49/ 100g,False,
+meat,Clean,Gourmet Chicken Sweet Pepper Fully Cooked Sausage,CleanGourmet Chicken Sweet Pepper Fully Cooked Sausage375 g,$5.99ea,,$1.60/ 100g,False,
+meat,Schneider,Original Ham Steak,SchneiderOriginal Ham Steak175 g,$6.19ea,,$3.54/ 100g,False,
+meat,President's Choice,Dry Cured Bacon,President's ChoiceDry Cured Bacon500 g,$8.99ea,,$1.80/ 100g,False,
+meat,President's Choice,"Plant Based Veggie Bites - Corn, Carrot & Kale  ","President's ChoicePlant Based Veggie Bites - Corn, Carrot & Kale  400 g",$6.99ea,,$1.75/ 100g,False,
+meat,Lesters,Wieners All Beef,LestersWieners All Beef375 g,$5.49ea,,$1.46/ 100g,False,
+meat,No Name,"Chicken Wings, Honey Garlic","No NameChicken Wings, Honey Garlic908 g",$15.99ea,,$1.76/ 100g,False,
+meat,Clean,Fully Cooked Sausage Gourmet Chicken Spinach Feta,CleanFully Cooked Sausage Gourmet Chicken Spinach Feta375 g,$5.99ea,,$1.60/ 100g,False,
+meat,President's Choice,Gochujang Sweet & Spicy Chicken Wings,President's ChoiceGochujang Sweet & Spicy Chicken Wings907 g,$15.99ea,$13.99ea,$1.54/ 100g,True,saleEnds 03/30
+meat,President's Choice,Free From Wieners,President's ChoiceFree From Wieners375 g,$5.99ea,,$1.60/ 100g,False,
+meat,Schneider,"Smoked Sausage, Classic Cheddar","SchneiderSmoked Sausage, Classic Cheddar375 g",$7.99ea,,$2.13/ 100g,False,
+meat,Butterball,"Turkey, Bacon Style","ButterballTurkey, Bacon Style375 g",$6.99ea,,$1.86/ 100g,False,
+meat,Lous,Peameal Bacon Original,LousPeameal Bacon Original454 g,$8.49ea,$7.99ea,$1.76/ 100g,True,saleEnds 03/01
+meat,President's Choice,Steak-Cut Smoked Bacon Stacon Uncooked,President's ChoiceSteak-Cut Smoked Bacon Stacon Uncooked500 g,$8.99ea,,$1.80/ 100g,False,
+meat,Johnsonville,Fully Cooked Maple Breakfast Sausages,JohnsonvilleFully Cooked Maple Breakfast Sausages250 g,$5.99ea,,$2.40/ 100g,False,
+meat,,Medium Ground Beef,Medium Ground Beef500 g,$6.00ea,,$1.20/ 100g,False,
+meat,President's Choice,"Certified Angus Beef, Premium Striploin Oven Roast, Service Case","President's ChoiceCertified Angus Beef, Premium Striploin Oven Roast, Service Case",$36.97(est.)ea,,$40.76/ 1kg,False,
+meat,President's Choice,"Certified Angus Beef, Prime Rib Roast, Service Case","President's ChoiceCertified Angus Beef, Prime Rib Roast, Service Case",$79.89(est.)ea,,$50.69/ 1kg,False,
+meat,President's Choice,Chicken Wing Split Buffalo,President's ChoiceChicken Wing Split Buffalo,$16.51/1 ea,,$16.51/ 1kg,False,
+meat,,"Ground Pork, Lean","Ground Pork, Lean",$6.34(est.)ea,,$9.90/ 1kg,False,
+meat,,Marinated Chicken Wings,Marinated Chicken Wings,$7.88(est.)ea,,$16.51/ 1kg,False,
+meat,Johnsonville,Honey Garlic Sausage,JohnsonvilleHoney Garlic Sausage500 g,$7.99ea,,$1.60/ 100g,False,
+meat,,Marinated Chicken Thighs ,Marinated Chicken Thighs ,$9.71(est.)ea,,$19.82/ 1kg,False,
+meat,President's Choice,Certified Angus Beef Grilling Ribeye Steak Boneless,President's ChoiceCertified Angus Beef Grilling Ribeye Steak Boneless,$19.99(est.)ea,,$59.50/ 1kg,False,
+meat,,Pork Whole Side Ribs,Pork Whole Side Ribs,$16.86(est.)ea,,$8.80/ 1kg,False,
+meat,44th Street,Turkey Breast Roast,44th StreetTurkey Breast Roast550 g,$18.99ea,,$3.45/ 100g,False,
+meat,,Beef Top Sirloin Grilling Cap Steak,Beef Top Sirloin Grilling Cap Steak,$11.25(est.)ea,,$28.63/ 1kg,False,
+meat,,"Beef Fondue Cubes, Bourguignonne","Beef Fondue Cubes, Bourguignonne",$6.86(est.)ea,,$20.92/ 1kg,False,
+meat,King Cole,Half Duck à L'Orange,King ColeHalf Duck à L'Orange400 g,$16.89ea,,$4.22/ 100g,False,
+meat,,Chorizo Style Pork Sausage Meat,Chorizo Style Pork Sausage Meat,$6.35(est.)ea,,$13.21/ 1kg,False,
+meat,,"Breaded Pork Loin Center & Rib Cutlet, Boneless","Breaded Pork Loin Center & Rib Cutlet, Boneless",$8.62(est.)ea,,$19.82/ 1kg,False,
+meat,Marcangelo,Italian Style Pork Sausages Spicy Italian ,MarcangeloItalian Style Pork Sausages Spicy Italian 375 g,$5.99ea,,$1.60/ 100g,False,
+meat,Johnsonville,Brown Sugar & Honey Breakfast Sausage,JohnsonvilleBrown Sugar & Honey Breakfast Sausage375 g,$7.99ea,,$2.13/ 100g,False,
+meat,,Chicken Stir Fry Strips,Chicken Stir Fry Strips,$7.27(est.)ea,,$24.23/ 1kg,False,
+meat,,Chicken Backs for Soup,Chicken Backs for Soup,$2.86(est.)ea,,$5.71/ 1kg,False,
+meat,PC Organics,Organics Extra Lean Ground Chicken ,PC OrganicsOrganics Extra Lean Ground Chicken 454 g,$11.00ea,,$2.42/ 100g,False,
+meat,President's Choice,"Plant Based Undeniable Burger, Fresh","President's ChoicePlant Based Undeniable Burger, Fresh226 g",$8.99ea,,$3.98/ 100g,False,
+meat,Janes,Pub Style Wings Bold Bbq,JanesPub Style Wings Bold Bbq660 g,$17.99ea,,$2.73/ 100g,False,
+meat,,Beef Cap-off Rib Steak,Beef Cap-off Rib Steak,$17.53(est.)ea,,$39.66/ 1kg,False,
+meat,,Beef Brisket Point,Beef Brisket Point,$51.87(est.)ea,,$13.87/ 1kg,False,
+meat,,Grilling Beef Back Ribs,Grilling Beef Back Ribs,$12.82(est.)ea,,$19.82/ 1kg,False,
+meat,,"Beef Bottom Blade Pot Roast, Boneless","Beef Bottom Blade Pot Roast, Boneless",$23.98(est.)ea,,$19.82/ 1kg,False,
+meat,,Pork Loin Center Chop Boneless,Pork Loin Center Chop Boneless,$7.65(est.)ea,,$17.62/ 1kg,False,
+meat,President's Choice,"Air Chilled Chicken Thighs, Bone-in, Skin-on","President's ChoiceAir Chilled Chicken Thighs, Bone-in, Skin-on1 ea",$10.00ea,,$10.00/ 1ea,False,
+meat,,"Beef Liver, Sliced","Beef Liver, Sliced",$5.47(est.)ea,,$11.00/ 1kg,False,
+meat,,"Smoked Side Bacon, Sliced","Smoked Side Bacon, Sliced",$10.76(est.)ea,,$15.21/ 1kg,False,
+meat,President's Choice,Free From Extra Lean Ground Beef,President's ChoiceFree From Extra Lean Ground Beef454 g,$10.99ea,,$2.42/ 100g,False,
+meat,Marcangelo,Chicken Breast Medallions Bacon Wrapped 452 g,MarcangeloChicken Breast Medallions Bacon Wrapped 452 g452 g,$16.99ea,,$3.76/ 100g,False,
+meat,,Chicken Breast Schnitzel,Chicken Breast Schnitzel,$8.82(est.)ea,,$30.84/ 1kg,False,
+meat,President's Choice,Free From Naturally Smoked Fully Cooked Bacon,President's ChoiceFree From Naturally Smoked Fully Cooked Bacon65 g,$7.29ea,,$11.22/ 100g,False,
+meat,Johnsonville,Original Breakfast Sausage Rounds,JohnsonvilleOriginal Breakfast Sausage Rounds250 g,$7.99ea,,$3.20/ 100g,False,
+meat,,Pepper Marinated Round Steak,Pepper Marinated Round Steak,$7.24(est.)ea,,$22.02/ 1kg,False,
+meat,President's Choice,World of Flavours Chicken Drumsticks Buffalo,President's ChoiceWorld of Flavours Chicken Drumsticks Buffalo,$16.51/1 kg,,$16.51/ 1kg,False,
+meat,,"Beef Bottom Blade Pot Roast, Boneless","Beef Bottom Blade Pot Roast, Boneless",$23.98(est.)ea,,$19.82/ 1kg,False,
+meat,,Chicken Breast Schnitzel,Chicken Breast Schnitzel,$8.82(est.)ea,,$30.84/ 1kg,False,
+meat,President's Choice,Free From Naturally Smoked Fully Cooked Bacon,President's ChoiceFree From Naturally Smoked Fully Cooked Bacon65 g,$7.29ea,,$11.22/ 100g,False,
+meat,President's Choice,World Of Flavours Canadian Maple Apple Butter Roast,President's ChoiceWorld Of Flavours Canadian Maple Apple Butter Roast730 g,$12.99ea,,$1.78/ 100g,False,
+meat,,Lean Ground Beef & Pork,Lean Ground Beef & Pork,$7.09(est.)ea,,$15.41/ 1kg,False,
+meat,Johnsonville,Ground Hot Italian Sausage,JohnsonvilleGround Hot Italian Sausage375 g,$7.99ea,,$2.13/ 100g,False,
+meat,,"Pork Side Ribs, Center Cut","Pork Side Ribs, Center Cut",$14.98(est.)ea,,$17.62/ 1kg,False,
+meat,President's Choice,"Certified Angus Beef Rib Cap-off Grilling Steak, Service Case","President's ChoiceCertified Angus Beef Rib Cap-off Grilling Steak, Service Case",$36.69(est.)ea,,$55.09/ 1kg,False,
+meat,,Hot Italian Style Pork Sausage,Hot Italian Style Pork Sausage,$6.92(est.)ea,,$15.41/ 1kg,False,
+meat,Johnsonville,Original Breakfast Sausage Rounds,JohnsonvilleOriginal Breakfast Sausage Rounds250 g,$7.99ea,,$3.20/ 100g,False,
+meat,,Beef Brisket Point,Beef Brisket Point,$51.87(est.)ea,,$13.87/ 1kg,False,
+meat,,Grilling Beef Back Ribs,Grilling Beef Back Ribs,$12.82(est.)ea,,$19.82/ 1kg,False,
+meat,,Beef Texas BBQ Cheddar Meatball,Beef Texas BBQ Cheddar Meatball,$6.24(est.)ea,,$15.41/ 1kg,False,
+meat,President's Choice,Free From Extra Lean Ground Beef,President's ChoiceFree From Extra Lean Ground Beef454 g,$10.99ea,,$2.42/ 100g,False,
+meat,,Pepper Marinated Round Steak,Pepper Marinated Round Steak,$7.24(est.)ea,,$22.02/ 1kg,False,
+meat,Maple Lodge Farms LT,Ultimate Mild Chicken Dinner Sausage,Maple Lodge Farms LTUltimate Mild Chicken Dinner Sausage500 g,$7.29ea,$6.99ea,$1.40/ 100g,True,saleEnds 03/01
+meat,President's Choice,Free From Flank Steak,President's ChoiceFree From Flank Steak,$16.26(est.)ea,,$39.65/ 1kg,False,
+meat,Lilydale,Daystarters Sausage Turkey ,LilydaleDaystarters Sausage Turkey 375 g,$5.99ea,,$1.60/ 100g,False,
+meat,,Pork Loin Center Chop Boneless,Pork Loin Center Chop Boneless,$7.65(est.)ea,,$17.62/ 1kg,False,
+meat,Pinty's,Buffalo Chicken Wings,Pinty'sBuffalo Chicken Wings780 g,$23.49ea,,$3.01/ 100g,False,
+meat,No Name,"Chicken Strips, Club Pack","No NameChicken Strips, Club Pack1810 g",$12.49ea,,$0.69/ 100g,False,
+meat,Janes,Pub Style Turkey Nuggets,JanesPub Style Turkey Nuggets600 g,$15.99ea,,$2.67/ 100g,False,
+meat,Mitchell's Gourmet Foods,Heritage Thick Sliced Bacon,Mitchell's Gourmet FoodsHeritage Thick Sliced Bacon1 kg,$22.99ea,,$2.30/ 100g,False,
+meat,President's Choice,Dry-Rubbed Sea Salt & Black Pepper Pork Back Ribs,President's ChoiceDry-Rubbed Sea Salt & Black Pepper Pork Back Ribs680 g,$15.99ea,,$2.35/ 100g,False,
+meat,President's Choice,Yuzu Citrus Chicken Wings,President's ChoiceYuzu Citrus Chicken Wings907 g,$17.99ea,,$1.98/ 100g,False,
+meat,Rea,Italian Mild Sausage,ReaItalian Mild Sausage720 g,$9.99ea,,$1.39/ 100g,False,
+meat,President's Choice,Honey Garlic Chicken Wings,President's ChoiceHoney Garlic Chicken Wings907 g,$17.99ea,,$1.98/ 100g,False,
+meat,President's Choice,"Chicken Nuggets, Club Pack","President's ChoiceChicken Nuggets, Club Pack1.4 kg",$12.99ea,,$0.93/ 100g,False,
+meat,Greenfield Natural Meat Co.,Bacon,Greenfield Natural Meat Co.Bacon375 g,$10.49ea,,$2.80/ 100g,False,
+meat,Gold Label,Naturally Prime Angus Smoked Sausages Made With Natural Ingredients Cheddar,Gold LabelNaturally Prime Angus Smoked Sausages Made With Natural Ingredients Cheddar375 g,$6.49ea,,$1.73/ 100g,False,
+meat,No Name,"Burger C/Pack 20'S 5Lb, Club Pack","No NameBurger C/Pack 20'S 5Lb, Club Pack2.27 kg",$20.99ea,,$0.92/ 100g,False,
+meat,President's Choice,Thick & Juicy™ Prime Rib Beef Burger,President's ChoiceThick & Juicy™ Prime Rib Beef Burger1.13 kg,$16.99ea,,$1.50/ 100g,False,
+meat,Zabiha Halal,Sausage Snacks Original Fully Cooked Chicken Sticks,Zabiha HalalSausage Snacks Original Fully Cooked Chicken Sticks300 g,$9.99ea,,$3.33/ 100g,False,
+meat,President's Choice,Everything Seasoned Breaded Chicken Breast Fillets,President's ChoiceEverything Seasoned Breaded Chicken Breast Fillets750 g,$15.99ea,,$2.13/ 100g,False,
+meat,Gold Label,Naturally Smokeys Smoked Sausages Made With Natural Ingredients Cheddar,Gold LabelNaturally Smokeys Smoked Sausages Made With Natural Ingredients Cheddar375 g,$5.49ea,,$1.46/ 100g,False,
+meat,President's Choice,Gluten Free Chicken Burgers,President's ChoiceGluten Free Chicken Burgers600 g,$8.49ea,,$1.42/ 100g,False,
+meat,President's Choice,Honey Garlic Chicken Wings,President's ChoiceHoney Garlic Chicken Wings700 g,$17.99ea,,$2.57/ 100g,False,
+meat,President's Choice,"Too Good To Be Wings Boneless Chicken Breast Chunks, Butter Buffalo","President's ChoiceToo Good To Be Wings Boneless Chicken Breast Chunks, Butter Buffalo800 g",$16.99ea,,$2.12/ 100g,False,
+meat,Schneider,Juicy Jumbos All Beef Hot Dogs Family Pack,SchneiderJuicy Jumbos All Beef Hot Dogs Family Pack750 g,$13.49ea,,$1.80/ 100g,False,
+meat,No Name,"Chicken Wings, Mild BBQ","No NameChicken Wings, Mild BBQ908 g",$15.99ea,,$1.76/ 100g,False,
+meat,,Thick Sliced Smoked Ham,Thick Sliced Smoked Ham500 g,$12.99ea,,$2.60/ 100g,False,
+meat,President's Choice,"Too Good To Be Wings, Honey Garlic","President's ChoiceToo Good To Be Wings, Honey Garlic800 g",$15.99ea,,$2.00/ 100g,False,
+meat,Butterball,Turkey Franks,ButterballTurkey Franks450 g,$5.99ea,,$1.33/ 100g,False,
+meat,,"Pork Loin Chop Rib End, Club Pack","Pork Loin Chop Rib End, Club Pack",$8.57(est.)ea,,$8.80/ 1kg,False,
+meat,President's Choice,Old-Fashioned Style Peppercorn Bacon,President's ChoiceOld-Fashioned Style Peppercorn Bacon1 kg,$17.99ea,$15.99ea,$1.60/ 100g,True,saleEnds 03/01
+meat,Maple Leaf,Lazy Maple Natural Bacon,Maple LeafLazy Maple Natural Bacon375 g,$8.79ea,,$2.34/ 100g,False,
+meat,President's Choice,Italian Smokies,President's ChoiceItalian Smokies1 kg,$14.29ea,,$1.43/ 100g,False,
+meat,President's Choice,Angus Ballpark Franks,President's ChoiceAngus Ballpark Franks450 g,$6.49ea,,$1.44/ 100g,False,
+meat,Johnsonville,"Smoked Sausage, Beef & Cheddar","JohnsonvilleSmoked Sausage, Beef & Cheddar375 g",$7.49ea,,$2.00/ 100g,False,
+meat,President's Choice,Barbecue Seasoned Pork Shoulder Blade (World Of Flavours ),President's ChoiceBarbecue Seasoned Pork Shoulder Blade (World Of Flavours )900 g,$14.99ea,,$1.67/ 100g,False,
+meat,President's Choice,Free From Rosemary and Garlic Australian Lamb,President's ChoiceFree From Rosemary and Garlic Australian Lamb,$26.31(est.)ea,,$31.94/ 1kg,False,
+meat,President's Choice,Smokin' Honey Fully Cooked Pork Back Ribs,President's ChoiceSmokin' Honey Fully Cooked Pork Back Ribs500 g,$16.99ea,,$3.40/ 100g,False,
+meat,Johnsonville,Mild Italian Sausage,JohnsonvilleMild Italian Sausage500 g,$7.99ea,,$1.60/ 100g,False,
+meat,Schneider,Salt & Cracked Pepper Chicken Wings,SchneiderSalt & Cracked Pepper Chicken Wings615 g,$16.99ea,,$2.76/ 100g,False,
+meat,President's Choice,"Certified Angus Beef, Strip Loin Steak","President's ChoiceCertified Angus Beef, Strip Loin Steak",$12.68(est.)ea,,$42.97/ 1kg,False,
+meat,Beyond Meat,Sausage Mild Italian,Beyond MeatSausage Mild Italian400 g,$9.99ea,,$2.50/ 100g,False,
+meat,President's Choice,"Free From Chicken Thigh, Boneless, Skinless, Club Pack","President's ChoiceFree From Chicken Thigh, Boneless, Skinless, Club Pack",$23.85(est.)ea,,$20.04/ 1kg,False,
+meat,Maple Leaf,Natural BBQ Shredded Chicken,Maple LeafNatural BBQ Shredded Chicken250 g,$11.49ea,,$4.60/ 100g,False,
+meat,The Keg,BBQ Pork Back Ribs,The KegBBQ Pork Back Ribs700 g,$18.99ea,,$2.71/ 100g,False,
+meat,Sufra,Sirloin Tip Roast Beef,SufraSirloin Tip Roast Beef,$22.02/1 kg,,$22.02/ 1kg,False,
+meat,,"Lethbridge Pork Tenderloin, Service Case","Lethbridge Pork Tenderloin, Service Case",$11.32(est.)ea,,$19.82/ 1kg,False,
+meat,,Frozen Grade A Geese,Frozen Grade A Geese,$61.64(est.)ea,,$15.41/ 1kg,False,
+meat,,Lamb Loin Chops,Lamb Loin Chops,$12.65(est.)ea,,$35.25/ 1kg,False,
+meat,President's Choice,Plant Based Sweet Italian Sausage,President's ChoicePlant Based Sweet Italian Sausage400 g,$8.99ea,,$2.25/ 100g,False,
+meat,Swiss Chalet,"Pork Back Ribs, Honey Garlic","Swiss ChaletPork Back Ribs, Honey Garlic600 g",$15.99ea,,$2.67/ 100g,False,
+meat,President's Choice,Free From Turkey Breast Fillet,President's ChoiceFree From Turkey Breast Fillet,$7.61(est.)ea,,$25.33/ 1kg,False,
+meat,New Zealand,Lamb Stew Chunks,New ZealandLamb Stew Chunks1 kg,$22.99ea,,$2.30/ 100g,False,
+meat,,"Beef Eye of Round Marinating Steak, Club Pack","Beef Eye of Round Marinating Steak, Club Pack",$21.31(est.)ea,,$19.82/ 1kg,False,
+meat,,"Beef Blade Simmering Steak, Boneless, Club Pack","Beef Blade Simmering Steak, Boneless, Club Pack",$17.47(est.)ea,,$20.92/ 1kg,False,
+meat,,"Beef Stewing Cubes, Boneless","Beef Stewing Cubes, Boneless",$9.80(est.)ea,,$22.02/ 1kg,False,
+meat,,"Beef Top Sirloin Grilling Steak, Club Pack","Beef Top Sirloin Grilling Steak, Club Pack",$25.58(est.)ea,,$26.43/ 1kg,False,
+meat,,"Beef Inside Round Marinating Steak, Club Pack","Beef Inside Round Marinating Steak, Club Pack",$14.06(est.)ea,,$20.92/ 1kg,False,
+meat,PC Organics,Organics Whole Chicken,PC OrganicsOrganics Whole Chicken,$24.19(est.)ea,,$15.41/ 1kg,False,
+meat,,Sirloin and Rib End Chops,Sirloin and Rib End Chops,$12.30(est.)ea,,$7.69/ 1kg,False,
+meat,Marcangelo,Italian Pork Meatballs,MarcangeloItalian Pork Meatballs1 kg,$15.99ea,,$1.60/ 100g,False,
+meat,,"Beef Cap-off Rib Grilling Steak, Club Pack","Beef Cap-off Rib Grilling Steak, Club Pack",$37.46(est.)ea,,$37.46/ 1kg,False,
+meat,No Name,Crispy Southern Style Chicken,No NameCrispy Southern Style Chicken1 kg,$15.99ea,,$1.60/ 100g,False,
+meat,President's Choice,Free From Australian Lamb Shanks,President's ChoiceFree From Australian Lamb Shanks,$25.04(est.)ea,,$22.02/ 1kg,False,
+meat,President's Choice,Free From Boneless Skinless Turkey Breast,President's ChoiceFree From Boneless Skinless Turkey Breast,$6.93(est.)ea,,$18.71/ 1kg,False,
+meat,Maple Leaf,Ready Crisp Fully Cooked Natural Bacon Slices,Maple LeafReady Crisp Fully Cooked Natural Bacon Slices65 g,$8.99ea,,$13.83/ 100g,False,
+meat,Marcangelo,"Sausage Honey Garlic Italian, Value Pack","MarcangeloSausage Honey Garlic Italian, Value Pack1 kg",$15.99ea,,$1.60/ 100g,False,
+meat,Marcangelo,Chicken Breasts With Asparagus And Mozzarella,MarcangeloChicken Breasts With Asparagus And Mozzarella350 g,$13.99ea,,$4.00/ 100g,False,
+meat,,Lethbridge Pork Loin Chop Boneless,Lethbridge Pork Loin Chop Boneless,$10.79(est.)ea,,$22.02/ 1kg,False,
+meat,President's Choice,Free From Naturally Smoked Fully Cooked Thick Sliced Bacon,President's ChoiceFree From Naturally Smoked Fully Cooked Thick Sliced Bacon65 g,$7.29ea,,$11.22/ 100g,False,
+meat,President's Choice,Free From Australian Lamb Spiedini 24 Skewers,President's ChoiceFree From Australian Lamb Spiedini 24 Skewers480 g,$26.99ea,,$5.62/ 100g,False,
+meat,Janes,Chicken Wings Buffalo,JanesChicken Wings Buffalo660 g,$17.99ea,,$2.73/ 100g,False,
+meat,,Beef Stir Fry Strips,Beef Stir Fry Strips,$6.10(est.)ea,,$19.82/ 1kg,False,
+meat,Marcangelo,Pork Medallions Bacon Wrapped,MarcangeloPork Medallions Bacon Wrapped340 g,$7.99ea,,$2.35/ 100g,False,
+meat,President's Choice,"Air-Chilled Chicken Thigh Club Pack, Boneless, Skinless","President's ChoiceAir-Chilled Chicken Thigh Club Pack, Boneless, Skinless",$18.82(est.)ea,,$16.51/ 1kg,False,
+meat,,Pork Shoulder Picnic Roast,Pork Shoulder Picnic Roast,$13.22(est.)ea,,$7.69/ 1kg,False,
+meat,,"Side Rib Centre Cut, Club Pack","Side Rib Centre Cut, Club Pack",$12.14(est.)ea,,$11.00/ 1kg,False,
+meat,,Beef Eye of Round Oven Roast,Beef Eye of Round Oven Roast,$21.27(est.)ea,,$18.71/ 1kg,False,
+meat,,"Beef Heart, Trimmed","Beef Heart, Trimmed",$6.80(est.)ea,,$13.21/ 1kg,False,
+meat,President's Choice,"Free From Air Chilled Chicken Thighs, Club Pack","President's ChoiceFree From Air Chilled Chicken Thighs, Club Pack",$14.64(est.)ea,,$11.44/ 1kg,False,
+meat,,Marinated Pork Tenderloin,Marinated Pork Tenderloin,$5.12(est.)ea,,$11.00/ 1kg,False,
+meat,,Beef Shank Centre Cut Bone In,Beef Shank Centre Cut Bone In,$6.90(est.)ea,,$15.41/ 1kg,False,
+meat,President's Choice,"Fully Cooked Pork Back Ribs, Smokin Stampede","President's ChoiceFully Cooked Pork Back Ribs, Smokin Stampede500 g",$16.99ea,,$3.40/ 100g,False,
+meat,New Zealand,Lamb Loin Chops,New ZealandLamb Loin Chops350 g,$12.99ea,,$37.11/ 1kg,False,
+meat,,Marinated Chicken Breasts Boneless,Marinated Chicken Breasts Boneless,$10.08(est.)ea,,$24.22/ 1kg,False,
+meat,PC Organics,Organics Extra Lean Ground Turkey ,PC OrganicsOrganics Extra Lean Ground Turkey 454 g,$14.00ea,,$3.08/ 100g,False,
+meat,New Zealand,Lamb Shoulder Blade Chops,New ZealandLamb Shoulder Blade Chops675 g,$29.98ea,,$44.41/ 1kg,False,
+meat,,Lean Ground Beef,Lean Ground Beef454 g,$6.49ea,,$1.43/ 100g,False,
+meat,,Ready Cure Salt,Ready Cure Salt1 ea,$4.99ea,,$4.99/ 1ea,False,
+meat,Maple Leaf,Natural Smoked Honey Ham,Maple LeafNatural Smoked Honey Ham600 g,$15.99ea,,$2.67/ 100g,False,
+meat,President's Choice,Free From Angus Beef Burger,President's ChoiceFree From Angus Beef Burger1.02 kg,$16.99ea,,$1.67/ 100g,False,
+meat,Johnsonville,Fully Cooked Breakfast Sausage,JohnsonvilleFully Cooked Breakfast Sausage250 g,$5.99ea,,$2.40/ 100g,False,
+meat,President's Choice,Free From Crisp & Crunchy Mild Southern-Style Chicken Wings,President's ChoiceFree From Crisp & Crunchy Mild Southern-Style Chicken Wings700 g,$17.99ea,,$2.57/ 100g,False,
+meat,President's Choice,"Meatballs, Italian Style","President's ChoiceMeatballs, Italian Style907 g",$16.99ea,,$1.87/ 100g,False,
+meat,Schneider,Cheddar Hot Dogs,SchneiderCheddar Hot Dogs375 g,$6.49ea,,$1.73/ 100g,False,
+meat,President's Choice,Turkey Wings,President's ChoiceTurkey Wings907 g,$17.99ea,,$1.98/ 100g,False,
+meat,PC Blue Menu,Italian Beef Meatballs,PC Blue MenuItalian Beef Meatballs907 g,$16.99ea,,$1.87/ 100g,False,
+meat,Lesters,Hot Dog Wieners Jumbo Bbq,LestersHot Dog Wieners Jumbo Bbq450 g,$4.49ea,,$1.00/ 100g,False,
+meat,Janes,"Pub Style Chicken Fries, Fully Cooked","JanesPub Style Chicken Fries, Fully Cooked700 g",$14.99ea,,$2.14/ 100g,False,
+meat,Lesters,Wieners,LestersWieners450 g,$4.49ea,,$1.00/ 100g,False,
+meat,Butcher's Choice,"Beef Burger, Club Pack","Butcher's ChoiceBeef Burger, Club Pack2.27 kg",$29.99ea,,$1.32/ 100g,False,
+meat,No Name,Salt & Pepper Chicken Wings,No NameSalt & Pepper Chicken Wings908 g,$15.99ea,,$1.76/ 100g,False,
+meat,Janes,"Pub Style Chicken Strips, Fully Cooked","JanesPub Style Chicken Strips, Fully Cooked700 g",$14.99ea,,$2.14/ 100g,False,
+meat,President's Choice,Gochujang Sweet & Spicy Chicken Bites,President's ChoiceGochujang Sweet & Spicy Chicken Bites700 g,$15.99ea,,$2.28/ 100g,False,
+meat,Schneider,Sliced Smoked Ham Applewood Smoked,SchneiderSliced Smoked Ham Applewood Smoked600 g,$16.99ea,,$2.83/ 100g,False,
+meat,No Name,Beef Burger 4 Oz,No NameBeef Burger 4 Oz1.36 kg,$13.99ea,,$1.03/ 100g,False,
+meat,Janes,"Popcorn Chicken, Fully Cooked","JanesPopcorn Chicken, Fully Cooked700 g",$14.99ea,,$2.14/ 100g,False,
+meat,President's Choice,Dry-Rubbed Hardwood-Smoked Chicken Wings,President's ChoiceDry-Rubbed Hardwood-Smoked Chicken Wings800 g,$17.99ea,,$2.25/ 100g,False,
+meat,President's Choice,"Cocktail Sausage Smokies, Original","President's ChoiceCocktail Sausage Smokies, Original500 g",$7.49ea,,$1.50/ 100g,False,
+meat,Pillers,European Wieners,PillersEuropean Wieners450 g,$9.99ea,,$2.22/ 100g,False,
+meat,Gold Label,Homestyle Swedish Fully Cooked Meatballs,Gold LabelHomestyle Swedish Fully Cooked Meatballs680 g,$8.99ea,,$1.32/ 100g,False,
+meat,Pillers,Smoked Sausage Original Knackwurst,PillersSmoked Sausage Original Knackwurst375 g,$7.79ea,,$2.08/ 100g,False,
+meat,President's Choice,Thick & Juicy™ Sirloin Beef Burgers ,President's ChoiceThick & Juicy™ Sirloin Beef Burgers 1.13 kg,$16.99ea,,$1.50/ 100g,False,
+meat,Maple Leaf,Natural Top Dogs Less Salt Hot Dogs,Maple LeafNatural Top Dogs Less Salt Hot Dogs375 g,$6.99ea,,$1.86/ 100g,False,
+meat,PC Blue Menu,Angus Beef Meatballs,PC Blue MenuAngus Beef Meatballs907 g,$16.99ea,,$1.87/ 100g,False,
+meat,President's Choice,Breaded Chicken Strips,President's ChoiceBreaded Chicken Strips600 g,$6.99ea,,$1.17/ 100g,False,
+meat,Beretta,Organic Beef Dogs,BerettaOrganic Beef Dogs300 g,$9.99ea,,$3.33/ 100g,False,
+meat,Johnsonville,"Smoked Sausage, Buffalo Cheese","JohnsonvilleSmoked Sausage, Buffalo Cheese375 g",$7.49ea,,$2.00/ 100g,False,
+meat,Johnsonville,"Smoked Sausage, Doubled Smoked","JohnsonvilleSmoked Sausage, Doubled Smoked375 g",$7.49ea,,$2.00/ 100g,False,
+meat,Schneider,Juicy Jumbos All Beef Hot Dogs,SchneiderJuicy Jumbos All Beef Hot Dogs375 g,$8.99ea,,$2.40/ 100g,False,
+meat,Schneider,Juicy Jumbos Original Hot Dogs,SchneiderJuicy Jumbos Original Hot Dogs450 g,$6.99ea,,$1.55/ 100g,False,
+meat,President's Choice,Original Smokies,President's ChoiceOriginal Smokies1 kg,$14.29ea,,$1.43/ 100g,False,
+meat,President's Choice,Ham Steak,President's ChoiceHam Steak175 g,$5.49ea,$4.99ea,$2.85/ 100g,True,saleEnds 03/01
+meat,,Cook's Portion Ham,Cook's Portion Ham,$36.17(est.)ea,,$8.80/ 1kg,False,
+meat,Maple Leaf,Country Naturals Hot Dogs,Maple LeafCountry Naturals Hot Dogs375 g,$6.99ea,,$1.86/ 100g,False,
+meat,Johnsonville,"Smoked Sausage, Beef","JohnsonvilleSmoked Sausage, Beef375 g",$7.49ea,,$2.00/ 100g,False,
+meat,Maple Lodge Farms LT,"Ultimate Chicken Wiener, Spicy","Maple Lodge Farms LTUltimate Chicken Wiener, Spicy900 g",$6.99ea,,$0.78/ 100g,False,
+meat,President's Choice,Free From Peameal-Style Sliced Cured Pork Loin,President's ChoiceFree From Peameal-Style Sliced Cured Pork Loin375 g,$8.49ea,$6.99ea,$1.86/ 100g,True,saleEnds 03/01
+meat,President's Choice,Old-Fashioned Style Bacon,President's ChoiceOld-Fashioned Style Bacon1 kg,$17.99ea,$15.99ea,$1.60/ 100g,True,saleEnds 03/01
+meat,Maple Leaf,Red Hots Original Hot Dogs Party Size,Maple LeafRed Hots Original Hot Dogs Party Size900 g,$9.99ea,,$1.11/ 100g,False,
+meat,Schneider,Hickory Smoked 50% Less Salt Bacon,SchneiderHickory Smoked 50% Less Salt Bacon375 g,$8.79ea,,$2.34/ 100g,False,
+meat,,Double Smoked Back Bacon,Double Smoked Back Bacon375 g,$8.49ea,$7.79ea,$2.08/ 100g,True,saleEnds 03/01
+meat,Maple Leaf,Original Natural Smoked Ham,Maple LeafOriginal Natural Smoked Ham600 g,$15.99ea,,$2.67/ 100g,False,
+meat,Schneider,"Smoked Sausage, Classic Recipe","SchneiderSmoked Sausage, Classic Recipe375 g",$7.99ea,,$2.13/ 100g,False,
+meat,Johnsonville,"Smoked Sausage, Cheddar","JohnsonvilleSmoked Sausage, Cheddar375 g",$7.49ea,,$2.00/ 100g,False,
+meat,President's Choice,Free From Sausages,President's ChoiceFree From Sausages300 g,$6.99ea,,$2.33/ 100g,False,
+meat,Cooks,Premium Lean Hickory Smoked Ham Steak,CooksPremium Lean Hickory Smoked Ham Steak454 g,$6.99ea,,$1.54/ 100g,False,
+meat,Schneider,97% Fat Free Lower Sodium Smoked Ham,Schneider97% Fat Free Lower Sodium Smoked Ham700 g,$16.99ea,,$2.43/ 100g,False,
