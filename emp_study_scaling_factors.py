@@ -57,7 +57,7 @@ for store in stores:
         
         # print(scaling_factor)
         # print(category_data['price'])/
-        print(category_data['price'], category_data['price']*scaling_factor)
+        # print(category_data['price'], category_data['price']*scaling_factor)
 
         category_data['price'] = category_data['price']*scaling_factor
         category_data['per_unit_price'] = category_data['per_unit_price']*scaling_factor
