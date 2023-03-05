@@ -1,8 +1,14 @@
 import pandas as pd
 from scipy import stats
 import random
+from pickle import load
 
 stores = ['freshco', 'sobeys', 'food_basics', 'walmart']
+
+# load factor updates 
+file = open('scaling_factor_update/updated_factors.pkl', 'rb')
+updated_factors = load(file)
+file.close()
 
 def generate_scaling_factors(study_data):
     '''geometric mean of % diff values to be our _scaling_factor_'''
@@ -50,14 +56,18 @@ for store in stores:
 
         columns = category_data.columns
 
+        # check if scaling factor in dict
+        try: 
+            update_amount = updated_factors[store][category]
+            print(f'{store} {category} has updated factor')
+        except:
+            update_amount = 0
+
         geo_mean = list(factors.loc[ (factors['store']==store) & (factors['department'] == category) ].geo_mean)[0]
         noise = random.uniform(0, 0.05)
-        scaling_factor = geo_mean+noise
-        print(store, noise, geo_mean, scaling_factor)
+        scaling_factor = geo_mean+noise+update_amount 
+        # print(store, noise, geo_mean, scaling_factor)
         
-        # print(scaling_factor)
-        # print(category_data['price'])/
-        # print(category_data['price'], category_data['price']*scaling_factor)
 
         category_data['price'] = category_data['price']*scaling_factor
         category_data['per_unit_price'] = category_data['per_unit_price']*scaling_factor
