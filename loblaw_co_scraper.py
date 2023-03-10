@@ -22,121 +22,126 @@ store_vars = {
                 #     'category_name':'dairy_and_eggs',
                 #     'link':'https://www.zehrs.ca/food/dairy-eggs/c/28003?navid=flyout-L2-Dairy-and-Eggs',
                 #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
-                'zehrs_meat':{'store':'zehrs',
-                    'category_name':'meat',
-                    'link':'https://www.zehrs.ca/food/meat/c/27998?navid=flyout-L2-Meat',
-                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
-                'zehrs_bakery':{'store':'zehrs',
-                    'category_name':'bakery',
-                    'link':'https://www.zehrs.ca/food/bakery/c/28002?navid=flyout-L2-Bakery',
-                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
-                'zehrs_seafood':{'store':'zehrs',
-                    'category_name':'seafood',
-                    'link':'https://www.zehrs.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
-                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
-                'zehrs_pantry':{'store':'zehrs',
-                    'category_name':'pantry',
-                    'link':'https://www.zehrs.ca/food/pantry/c/28006?navid=flyout-L2-Pantry',
-                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
-                'zehrs_snacks':{'store':'zehrs',
-                    'category_name':'snacks',
-                    'link':'https://www.zehrs.ca/food/snacks-chips-candy/c/57025?navid=flyout-L2-snacks-chips-and-candy',
-                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
+                # 'zehrs_meat':{'store':'zehrs',
+                #     'category_name':'meat',
+                #     'link':'https://www.zehrs.ca/food/meat/c/27998?navid=flyout-L2-Meat',
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
+                # 'zehrs_bakery':{'store':'zehrs',
+                #     'category_name':'bakery',
+                #     'link':'https://www.zehrs.ca/food/bakery/c/28002?navid=flyout-L2-Bakery',
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
+                # 'zehrs_seafood':{'store':'zehrs',
+                #     'category_name':'seafood',
+                #     'link':'https://www.zehrs.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
+                # 'zehrs_pantry':{'store':'zehrs',
+                #     'category_name':'pantry',
+                #     'link':'https://www.zehrs.ca/food/pantry/c/28006?navid=flyout-L2-Pantry',
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
+                # 'zehrs_snacks':{'store':'zehrs',
+                #     'category_name':'snacks',
+                #     'link':'https://www.zehrs.ca/food/snacks-chips-candy/c/57025?navid=flyout-L2-snacks-chips-and-candy',
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'zehrs_drinks':{'store':'zehrs',
                 #     'category_name':'drinks',
                 #     'link':'https://www.zehrs.ca/food/drinks/c/28004?navid=flyout-L2-Drinks',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'zehrs_frozen':{'store':'zehrs',
                 #     'category_name':'frozen',
                 #     'link':'https://www.zehrs.ca/food/frozen/c/28005?navid=flyout-L2-Frozen',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'zehrs_household_items':{'store':'zehrs',
                 #     'category_name':'household_items',
                 #     'link':'https://www.zehrs.ca/home-and-living/household-cleaning-products/c/28011?navid=flyout-L2-Household-and-Cleaning-Products',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
 
 
                 # 'valu_mart_produce':{'store':'valu_mart',
                 #     'category_name':'produce',
                 #     'link':'https://www.valumart.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[5]/div/button'},
                 # 'valu_mart_dairy_and_egg':{'store':'valu_mart',
                 #     'category_name':'dairy_and_eggs',
                 #     'link':'https://www.valumart.ca/food/dairy-eggs/c/28003?navid=flyout-L2-Dairy-and-Eggs',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'valu_mart_meat':{'store':'valu_mart',
                 #     'category_name':'meat',
                 #     'link':'https://www.valumart.ca/food/meat/c/27998?navid=flyout-L2-Meat',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'valu_mart_bakery':{'store':'valu_mart',
                 #     'category_name':'bakery',
                 #     'link':'https://www.valumart.ca/food/bakery/c/28002?navid=flyout-L2-Bakery',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'valu_mart_seafood':{'store':'valu_mart',
                 #     'category_name':'seafood',
                 #     'link':'https://www.valumart.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'valu_mart_pantry':{'store':'valu_mart',
                 #     'category_name':'pantry',
                 #     'link':'https://www.valumart.ca/food/pantry/c/28006?navid=flyout-L2-Pantry',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'valu_mart_snacks':{'store':'valu_mart',
                 #     'category_name':'snacks',
                 #     'link':'https://www.valumart.ca/food/snacks-chips-candy/c/57025?navid=flyout-L2-snacks-chips-and-candy',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'valu_mart_drinks':{'store':'valu_mart',
                 #     'category_name':'drinks',
                 #     'link':'https://www.valumart.ca/food/drinks/c/28004?navid=flyout-L2-Drinks',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'valu_mart_frozen':{'store':'valu_mart',
                 #     'category_name':'frozen',
                 #     'link':'https://www.valumart.ca/food/frozen/c/28005?navid=flyout-L2-Frozen',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'valu_mart_household_items':{'store':'valu_mart',
                 #     'category_name':'household_items',
                 #     'link':'https://www.valumart.ca/home-and-living/household-cleaning-products/c/28011?navid=flyout-L2-Household-and-Cleaning-Products',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
 
                 # 'no_frills_produce':{'store':'no_frills',
                 #     'category_name':'produce',
                 #     'link':'https://www.nofrills.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[6]/div/div[2]/div[5]/div/button'},
+                # 'valu_mart_household_items':{'store':'valu_mart',
+                #     'category_name':'household_items',
+                #     'link':'https://www.valumart.ca/home-and-living/household-cleaning-products/c/28011?navid=flyout-L2-Household-and-Cleaning-Products',
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
+
                 # 'no_frills_dairy_and_egg':{'store':'no_frills',
                 #     'category_name':'dairy_and_eggs',
                 #     'link':'https://www.nofrills.ca/food/dairy-eggs/c/28003?navid=flyout-L2-Dairy-and-Eggs',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'no_frills_meat':{'store':'no_frills',
                 #     'category_name':'meat',
                 #     'link':'https://www.nofrills.ca/food/meat/c/27998?navid=flyout-L2-Meat',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'no_frills_bakery':{'store':'no_frills',
                 #     'category_name':'bakery',
                 #     'link':'https://www.nofrills.ca/food/bakery/c/28002?navid=flyout-L2-Bakery',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'no_frills_seafood':{'store':'no_frills',
                 #     'category_name':'seafood',
                 #     'link':'https://www.nofrills.ca/food/fish-seafood/c/27999?navid=flyout-L2-Fish-and-Seafood',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button' },
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button' },
                 # 'no_frills_pantry':{'store':'no_frills',
                 #     'category_name':'pantry',
                 #     'link':'https://www.nofrills.ca/food/pantry/c/28006?navid=flyout-L2-Pantry',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'no_frills_snacks':{'store':'no_frills',
                 #     'category_name':'snacks',
                 #     'link':'https://www.nofrills.ca/food/snacks-chips-candy/c/57025?navid=flyout-L2-snacks-chips-and-candy',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'no_frills_drinks':{'store':'no_frills',
                 #     'category_name':'drinks',
                 #     'link':'https://www.nofrills.ca/food/drinks/c/28004?navid=flyout-L2-Drinks',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
                 # 'no_frills_frozen':{'store':'no_frills',
                 #     'category_name':'frozen',
                 #     'link':'https://www.nofrills.ca/food/frozen/c/28005?navid=flyout-L2-Frozen',
-                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'},
-#                 'no_frills_household_items':{'store':'no_frills',
-#                     'category_name':'household_items',
-#                     'link':'https://www.nofrills.ca/home-and-living/household-cleaning-products/c/28011?navid=flyout-L2-Household-and-Cleaning-Products',
-#                     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[4]/div/button'}
+                #     'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'},
+                'no_frills_household_items':{'store':'no_frills',
+                    'category_name':'household_items',
+                    'link':'https://www.nofrills.ca/home-and-living/household-cleaning-products/c/28011?navid=flyout-L2-Household-and-Cleaning-Products',
+                    'load_more_xpath':'//*[@id="site-content"]/div/div/div[5]/div/div[2]/div[5]/div/button'}
 }
 
 
@@ -171,6 +176,12 @@ for store_prod in store_vars.keys():
     scraper.close_cookies_blocker(driver, '//*[@id="privacy-policy"]/div/div/button')
 
     time.sleep(5) # wait for page load 
+
+    scraper.click_outside_modal(driver, 50, 50)
+
+    # actions = webdriver.common.action_chainsActionChains(driver)
+    # actions.move_by_offset(50, 50).click().perform()
+
 
     # modal = driver.find_element_by_xpath(xpath='/html/body')
     # modal = driver.find_element_by_xpath(xpath='//*[@id="root"]')
@@ -209,6 +220,7 @@ for store_prod in store_vars.keys():
     df = pd.DataFrame(columns = ['category', 'brand', 'product_text', 'product_name', 'price_text', 'sale_price', 'per_unit_price_text', 'is_sale'])
 
     # iterate through each prod div and collect name, price and per_unit_price
+    rank = 0
     for div in product_divs:
         prod_details = div.find_all("div", {"class": "product-tile__details"})
         
@@ -253,7 +265,7 @@ for store_prod in store_vars.keys():
         except:
             per_unit_price_text = None
 
-        
+        rank+=1
         # append data to df 
         df = df.append({'category': store_details['category_name'], 
                         'brand' : brand, 
@@ -263,7 +275,8 @@ for store_prod in store_vars.keys():
                         'sale_price': sale_price,
                         'per_unit_price_text': per_unit_price_text,
                         'is_sale': sale,
-                        'sale_valid_to': valid_to}
+                        'sale_valid_to': valid_to,
+                        'ranking': rank}
                     , ignore_index=True)
 
     df.to_csv(f'raw_data/{store_details["store"]}/{store_details["category_name"]}.csv', index=False)

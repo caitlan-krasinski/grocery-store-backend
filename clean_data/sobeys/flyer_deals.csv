@@ -1,289 +1,290 @@
 store,category,brand,product,full_product_text,price,sale_price,price_unit,per_unit_price,sale_per_unit_price,units,price_per_1,is_sale,data_last_refreshed_at,sale_valid_until
-sobeys,flyer,,sobeys,sobeys,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,Fresh Pork Side Ribs,Fresh Pork Side Ribs,,3.79,/lb 8.36/kg,,3.79,,False,True,03/04/2023,03/08
-sobeys,flyer,,SANLUCAR Seedless Tangerines,SANLUCAR Seedless Tangerines,,1.88,/lb 4.14/kg,,1.88,,False,True,03/04/2023,03/08
-sobeys,flyer,,Fresh Whole Beef Brisket,Fresh Whole Beef Brisket,,4.99,/lb 11.00/kg,,4.99,,False,True,03/04/2023,03/08
-sobeys,flyer,,"BELMONT Angus, MONTANA'S, THE KEG, BUTCHER'S SELECTION Bacon Bomb, BUTTERBALL Turkey or COMPLIMENTS Traditional, Premium, Stuffed Burgers or Riblet","BELMONT Angus, MONTANA'S, THE KEG, BUTCHER'S SELECTION Bacon Bomb, BUTTERBALL Turkey or COMPLIMENTS Traditional, Premium, Stuffed Burgers or Riblet",,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,COMPLIMENTS Cooked Shrimp with Cocktail Sauce,COMPLIMENTS Cooked Shrimp with Cocktail Sauce,,11.99,"/lb, ea 26.43/kg",,1.763235294117647,100g,False,True,03/04/2023,03/08
-sobeys,flyer,,Tomatoes on the Vine,Tomatoes on the Vine,,1.99,/lb 4.39/kg,,199.0,100g,False,True,03/04/2023,03/08
-sobeys,flyer,,CASHMERE Bath Tissue,CASHMERE Bath Tissue,,5.99,each,,0.9983333333333334,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,COMPLIMENTS Pasta,COMPLIMENTS Pasta,,3.27,each,,0.14405286343612334,100g,True,True,03/04/2023,03/08
-sobeys,flyer,NESTLÉ,NESTLÉ Premium Frozen Dessert or Real Dairy Ice Cream,NESTLÉ Premium Frozen Dessert or Real Dairy Ice Cream,,4.99,each,,0.3326666666666667,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,JAMIESON,JAMIESON Vitamins or Supplements,JAMIESON Vitamins or Supplements,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,sobeys,sobeys,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,Sobeys,Sobeys,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,Tulip Bouquet,Tulip Bouquet,,8.99,each,,8.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Farm Fresh Bouquet,Farm Fresh Bouquet,,12.99,each,,12.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Rose and Alstromeria Bouquet,Rose and Alstromeria Bouquet,,12.99,each,,12.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Spring Bouquet,Spring Bouquet,,17.99,each,,17.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,iwd,iwd,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,SCHNEIDERS Red Hots or MAPLE LEAF Top Dogs Wieners,SCHNEIDERS Red Hots or MAPLE LEAF Top Dogs Wieners,,3.99,each,,1.064,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Extra Lean Ground Beef,Extra Lean Ground Beef,,5.99,/lb 13.21/kg,,5.99,,False,True,03/04/2023,03/08
-sobeys,flyer,,Grana Padano,Grana Padano,,3.49,/100 g,,3.49,,False,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Cortland or McIntosh Apples,COMPLIMENTS Cortland or McIntosh Apples,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,HIGH LINER,"HIGH LINER Signature Cuts Breaded or Battered Haddock, Cod or Sole","HIGH LINER Signature Cuts Breaded or Battered Haddock, Cod or Sole",,10.99,each,,2.5858823529411765,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Bagels,Bagels,,3.49,each,,0.8725,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,CRACKER BARREL,CRACKER BARREL Cheese,CRACKER BARREL Cheese,,6.47,each,,1.6175,100g,True,True,03/04/2023,03/08
-sobeys,flyer,DEMPSTER'S,DEMPSTER'S Whole Grain Bread,DEMPSTER'S Whole Grain Bread,,7.0,each,,0.5833333333333334,100g,True,True,03/04/2023,03/08
-sobeys,flyer,BECEL,BECEL Margarine,BECEL Margarine,,6.99,each,,1.097331240188383,100g,True,True,03/04/2023,03/08
-sobeys,flyer,KRAFT,KRAFT Philadelphia Cream Cheese,KRAFT Philadelphia Cream Cheese,,3.99,each,,1.7577092511013217,100g,True,True,03/04/2023,03/08
-sobeys,flyer,PEPSI,PEPSI Soft Drinks,PEPSI Soft Drinks,,8.0,each,,4.0,,True,True,03/04/2023,03/08
-sobeys,flyer,,LACROIX Sparkling Water,LACROIX Sparkling Water,,5.99,each,,5.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,COMPLIMENTS Ready To Eat Popcorn -,COMPLIMENTS Ready To Eat Popcorn -,,7.0,each,,1.4000000000000001,100g,True,True,03/04/2023,03/08
-sobeys,flyer,DARE,DARE Breton Bites,DARE Breton Bites,,2.79,each,,1.395,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,SEALTEST or NATREL Fine Filtered,SEALTEST or NATREL Fine Filtered,,3.27,each,,0.327,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,,KICKING HORSE Ground Coffee,KICKING HORSE Ground Coffee,,8.99,each,,3.165492957746479,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,CAMPBELL'S Ready To Serve Soup,CAMPBELL'S Ready To Serve Soup,,6.0,each,,3.0,,True,True,03/04/2023,03/08
-sobeys,flyer,DR. OETKER,"DR. OETKER Momenti, Panini & Garlic Fingers","DR. OETKER Momenti, Panini & Garlic Fingers",,10.0,each,,2.0833333333333335,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS White or 100% Whole Wheat Bread,COMPLIMENTS White or 100% Whole Wheat Bread,,2.29,ea when you buy 2 or more,,0.33925925925925926,100g,False,True,03/04/2023,03/08
-sobeys,flyer,SMART ONES,SMART ONES Frozen Entrées,SMART ONES Frozen Entrées,,5.0,each,,0.9803921568627451,100g,True,True,03/04/2023,03/08
-sobeys,flyer,BEST BUY,BEST BUY Trail Mix,BEST BUY Trail Mix,,10.99,each,,1.099,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,TIDE Laundry,TIDE Laundry,,6.99,each,,0.5139705882352941,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,,KELLOGG'S or GENERAL MILLS Jumbo Cereal,KELLOGG'S or GENERAL MILLS Jumbo Cereal,,8.99,each,,1.2842857142857145,100g,True,True,03/04/2023,03/08
-sobeys,flyer,KELLOGG'S,"KELLOGG'S Rice Krispies Treats, Pop-Tarts, Nutri-Grain Bars or Special K Pastry Crisps","KELLOGG'S Rice Krispies Treats, Pop-Tarts, Nutri-Grain Bars or Special K Pastry Crisps",,7.0,each,,2.8000000000000003,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,YOPLAIT Source,YOPLAIT Source,,5.99,each,,0.374375,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,Sobeys,Sobeys,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,SANLUCAR,SANLUCAR Seedless Tangerines,SANLUCAR Seedless Tangerines,,4.99,each,,0.5501653803748622,100g,True,True,03/04/2023,03/08
-sobeys,flyer,Meyer,Meyer Lemons,Meyer Lemons,,4.99,each,,1.0991189427312775,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Moro Blood Oranges,Moro Blood Oranges,,5.49,each,,0.6052921719955899,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Mini Chocolate Dipped Cheesecake with Clementines,Mini Chocolate Dipped Cheesecake with Clementines,,1.99,ea,,1.99,,False,True,03/04/2023,03/08
-sobeys,flyer,,Grapefruit,Grapefruit,,1.99,each,,1.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Limes,Limes,,3.49,each,,0.7687224669603525,100g,True,True,03/04/2023,03/08
-sobeys,flyer,MANN'S,MANN'S Snow Peas,MANN'S Snow Peas,,4.49,each,,2.6411764705882352,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Salad Blends,COMPLIMENTS Salad Blends,,4.99,each,,1.782142857142857,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS ORGANIC Salad Blends,COMPLIMENTS ORGANIC Salad Blends,,5.49,each,,3.8661971830985915,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Cabbage,Cabbage,,0.89,/lb 1.96/kg,,0.89,,False,True,03/04/2023,03/08
-sobeys,flyer,,Bulk Coloured Peppers,Bulk Coloured Peppers,,3.99,/lb 8.80/kg,,3.99,,False,True,03/04/2023,03/08
-sobeys,flyer,BEST BUY,BEST BUY Frozen Vegetables,BEST BUY Frozen Vegetables,,2.99,each,,0.3986666666666667,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Jasmine or Basmati Rice,COMPLIMENTS Jasmine or Basmati Rice,,3.99,each,,0.44333333333333336,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Bi-Colour Seedless Grapes,Bi-Colour Seedless Grapes,,7.99,each,,799.0,100g,True,True,03/04/2023,03/08
-sobeys,flyer,BOLTHOUSE FARMS,BOLTHOUSE FARMS Matchstix Carrots,BOLTHOUSE FARMS Matchstix Carrots,,2.49,each,,0.8798586572438163,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Sweet Red Peruvian Onions,Sweet Red Peruvian Onions,,4.99,each,,0.5500537928358525,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Assorted Cherry Tomatoes,Assorted Cherry Tomatoes,,6.49,each,,1.9088235294117648,100g,True,True,03/04/2023,03/08
-sobeys,flyer,VH,VH Sauce,VH Sauce,,3.99,each,,3.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Pint Blueberries,Pint Blueberries,,4.99,each,,499.0,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Large Pineapples,Large Pineapples,,5.49,each,,5.49,,True,True,03/04/2023,03/08
-sobeys,flyer,,Multi-Bloom Hydrangea,Multi-Bloom Hydrangea,,16.99,each,,16.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,International Women's Day Bouquet,International Women's Day Bouquet,,19.99,each,,19.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Cymbidium Orchid Arrangement in Glass Vase,Cymbidium Orchid Arrangement in Glass Vase,,14.99,each,,14.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Tulip Bouquet,Tulip Bouquet,,8.99,each,,8.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Rose and Alstromeria Bouquet,Rose and Alstromeria Bouquet,,12.99,each,,12.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Spring Mixed Bouquet,Spring Mixed Bouquet,,17.99,each,,17.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,International Women's Day Bouquet,International Women's Day Bouquet,,19.99,each,,19.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Cymbidium Orchid Arrangement,Cymbidium Orchid Arrangement,,14.99,each,,14.99,,True,True,03/04/2023,03/08
-sobeys,flyer,STERLING SILVER,STERLING SILVER Fresh Boneless Cross Rib Pot Roast or Simmering Steaks,STERLING SILVER Fresh Boneless Cross Rib Pot Roast or Simmering Steaks,,7.99,/lb 17.61/kg,,7.99,,False,True,03/04/2023,03/08
-sobeys,flyer,STERLING SILVER,STERLING SILVER Fresh Boneless Top Sirloin Grilling Steaks or Premium Oven Roast,STERLING SILVER Fresh Boneless Top Sirloin Grilling Steaks or Premium Oven Roast,,9.99,/lb 22.02/kg,,9.99,,False,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Fresh AIR-CHILLED Boneless Skinless Chicken Thighs,COMPLIMENTS Fresh AIR-CHILLED Boneless Skinless Chicken Thighs,,7.99,/lb 17.61/kg,,7.99,,False,True,03/04/2023,03/08
-sobeys,flyer,,Boneless Stuffed Chicken Breast,Boneless Stuffed Chicken Breast,,4.99,each,,2.8514285714285714,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Fresh Pork Shoulder Blade Roasts or Steak,Fresh Pork Shoulder Blade Roasts or Steak,,3.99,/lb 8.80/kg,,3.99,,False,True,03/04/2023,03/08
-sobeys,flyer,THE CANADIAN,"THE CANADIAN Medium Ground Chuck Smoked Bacon and Cheddar, Jalapeño Jack or Onion & Swiss Beef Burger","THE CANADIAN Medium Ground Chuck Smoked Bacon and Cheddar, Jalapeño Jack or Onion & Swiss Beef Burger",,6.99,/lb 15.41/kg,,6.99,,False,True,03/04/2023,03/08
-sobeys,flyer,,Fresh Canadian Lamb Loin Chops,Fresh Canadian Lamb Loin Chops,,15.99,/lb 35.25/kg,,15.99,,False,True,03/04/2023,03/08
-sobeys,flyer,,Whole Ducks,Whole Ducks,,6.99,/lb. 15.41/kg,,6.99,,False,True,03/04/2023,03/08
-sobeys,flyer,PANACHE,PANACHE Dinner or Breakfast Pork Sausages,PANACHE Dinner or Breakfast Pork Sausages,,5.99,each,,1.5973333333333333,100g,True,True,03/04/2023,03/08
-sobeys,flyer,STERLING SILVER,STERLING SILVER Fresh BBQ Whiskey or Montreal BBQ Marinated Boneless Top Sirloin Grilling Medallions,STERLING SILVER Fresh BBQ Whiskey or Montreal BBQ Marinated Boneless Top Sirloin Grilling Medallions,,11.99,/lb 26.43/kg,,11.99,,False,True,03/04/2023,03/08
-sobeys,flyer,NOBLE,NOBLE PREMIUM BISON Top Sirloin Steak,NOBLE PREMIUM BISON Top Sirloin Steak,,11.99,each,,5.3053097345132745,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Fresh Boneless Pork Shoulder Blade Roasts or Family Size Steak,Fresh Boneless Pork Shoulder Blade Roasts or Family Size Steak,,4.99,/lb 11.00/kg,,4.99,,False,True,03/04/2023,03/08
-sobeys,flyer,NOBLE PREMIUM BISON,NOBLE PREMIUM BISON Cubes or Inside Round Steak,NOBLE PREMIUM BISON Cubes or Inside Round Steak,,9.99,each,,4.420353982300885,100g,True,True,03/04/2023,03/08
-sobeys,flyer,NOBLE,NOBLE PREMIUM BISON Rib Eye or Striploin Steak,NOBLE PREMIUM BISON Rib Eye or Striploin Steak,,14.99,each,,6.632743362831858,100g,True,True,03/04/2023,03/08
-sobeys,flyer,GOLD LABEL,GOLD LABEL Smoked Pork or Beef Sausages,GOLD LABEL Smoked Pork or Beef Sausages,,4.99,ea when you buy 2 or more,,1.6633333333333333,100g,False,True,03/04/2023,03/08
-sobeys,flyer,BUTTERBALL,BUTTERBALL Turkey Bacon or Rasher,BUTTERBALL Turkey Bacon or Rasher,,5.99,each,,1.9966666666666668,100g,True,True,03/04/2023,03/08
-sobeys,flyer,PILLER'S,PILLER'S Naturally Smoked Boneless Hams,PILLER'S Naturally Smoked Boneless Hams,,12.99,each,,1.6237500000000002,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Peameal-Style Bacon Chub,COMPLIMENTS Peameal-Style Bacon Chub,,3.99,/lb 8.80/kg,,3.99,,False,True,03/04/2023,03/08
-sobeys,flyer,,COMPLIMENTS Breaded Chicken Balls with Sweet & Sour Sauce or MARC ANGELO Sausages,COMPLIMENTS Breaded Chicken Balls with Sweet & Sour Sauce or MARC ANGELO Sausages,,7.99,each,,1.598,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,COMPLIMENTS 5 Cheese Cannelloni,COMPLIMENTS 5 Cheese Cannelloni,,9.99,each,,0.9990000000000001,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,"COMPLIMENTS Chicken Wings, Fillets, Chunks or Rib Tips","COMPLIMENTS Chicken Wings, Fillets, Chunks or Rib Tips",,13.99,each,,2.3316666666666666,100g,True,True,03/04/2023,03/08
-sobeys,flyer,WONG WING,WONG WING Assorted Appetizer Pack,WONG WING Assorted Appetizer Pack,,15.99,each,,1.8767605633802815,100g,True,True,03/04/2023,03/08
-sobeys,flyer,NAGANO,NAGANO Premium Fresh Pork Tenderloin,NAGANO Premium Fresh Pork Tenderloin,,10.99,/lb 24.23/kg,,10.99,,False,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,"COMPLIMENTS NATURALLY SIMPLE Wild Pink Salmon, Cod or Haddock Loins","COMPLIMENTS NATURALLY SIMPLE Wild Pink Salmon, Cod or Haddock Loins",,5.99,each,,2.6387665198237884,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,COMPLIMENTS Bay Scallops,COMPLIMENTS Bay Scallops,,7.99,each,,2.35,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Fresh Atlantic Salmon Portions,Fresh Atlantic Salmon Portions,,5.29,each,,4.681415929203539,100g,True,True,03/04/2023,03/08
-sobeys,flyer,TRUE NORTH,TRUE NORTH Atlantic Salmon Burgers,TRUE NORTH Atlantic Salmon Burgers,,6.0,each,,2.307692307692308,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Breaded or Battered Haddock or Sole,COMPLIMENTS Breaded or Battered Haddock or Sole,,10.99,each,,2.198,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,TOPPITS Ecuadorian Jumbo Shrimp,TOPPITS Ecuadorian Jumbo Shrimp,,12.99,each,,3.820588235294118,100g,True,True,03/04/2023,03/08
-sobeys,flyer,TRUE NORTH,TRUE NORTH Atlantic Salmon Portions,TRUE NORTH Atlantic Salmon Portions,,9.99,each,,2.4975,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,TRUE NORTH,TRUE NORTH Smoked Candied Atlantic Salmon Strips,TRUE NORTH Smoked Candied Atlantic Salmon Strips,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,FONTAINE SANTÉ,FONTAINE SANTÉ Hummus,FONTAINE SANTÉ Hummus,,5.99,each,,1.3193832599118942,100g,True,True,03/04/2023,03/08
-sobeys,flyer,SUMMER FRESH,SUMMER FRESH Salads,SUMMER FRESH Salads,,8.99,each,,1.12375,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Chicken Strips or Flings,Chicken Strips or Flings,,2.0,/100 g,,2.0,,False,True,03/04/2023,03/08
-sobeys,flyer,RANA,RANA Fresh Pasta,RANA Fresh Pasta,,5.99,with Scene+ Card,,2.3960000000000004,100g,False,True,03/04/2023,03/08
-sobeys,flyer,,BBQ Chicken Leg Quarters,BBQ Chicken Leg Quarters,,7.99,each,,1.9975,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,Mini BABYBEL,Mini BABYBEL,,10.99,ea,,0.9158333333333334,1ea,False,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Salami,COMPLIMENTS Salami,,2.99,/100 g,,2.99,,False,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Sliced Meats,COMPLIMENTS Sliced Meats,,6.0,ea when you buy 2 or more,,3.428571428571429,100g,False,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Muffins,COMPLIMENTS Muffins,,7.69,each,,1.9225,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,Iced with Sprinkles or Lemon Filled Donuts,Iced with Sprinkles or Lemon Filled Donuts,,4.49,each,,1.4966666666666668,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,BACKERHAUS Signature Buns or STUYVER'S Ciabatta or Portuguese Buns,BACKERHAUS Signature Buns or STUYVER'S Ciabatta or Portuguese Buns,,4.49,with Scene+ Card,,1.1225,1ea,False,True,03/04/2023,03/08
-sobeys,flyer,,Single Layer Shortcakes,Single Layer Shortcakes,,15.69,each,,1.7728813559322032,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Mini Cakes,Mini Cakes,,4.79,each,,2.5210526315789474,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Danish,Danish,,6.29,each,,1.5725,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,Artisan Style Baguettes,Artisan Style Baguettes,,2.69,each,,0.8276923076923077,100g,True,True,03/04/2023,03/08
-sobeys,flyer,PANACHE,PANACHE Naan,PANACHE Naan,,4.29,each,,1.2617647058823531,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,get the recipe,get the recipe,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,cheesy dippers,cheesy dippers,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Naan Dippers,COMPLIMENTS Naan Dippers,,4.29,each,,2.145,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,get recipe,get recipe,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,PANACHE,PANACHE Mini Naan plain or roasted garlic,PANACHE Mini Naan plain or roasted garlic,,3.49,each,,1.745,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,get recipe,get recipe,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,deli,deli,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,Bulk Olives,Bulk Olives,,3.29,/100 g,,3.29,,False,True,03/04/2023,03/08
-sobeys,flyer,PANACHE,PANACHE Provolone Valpadana Piccante,PANACHE Provolone Valpadana Piccante,,7.99,ea,,3.995,100g,False,True,03/04/2023,03/08
-sobeys,flyer,SARDO,SARDO Fire Roasted Peppers,SARDO Fire Roasted Peppers,,4.79,each,,4.79,,True,True,03/04/2023,03/08
-sobeys,flyer,,"KOOL-AID, MIO, TANG, COUNTRY TIME or CRYSTAL LIGHT Water Enhancers","KOOL-AID, MIO, TANG, COUNTRY TIME or CRYSTAL LIGHT Water Enhancers",,7.5,each,,15.625,100g,True,True,03/04/2023,03/08
-sobeys,flyer,MELITTA,MELITTA Traditional Roast Coffee,MELITTA Traditional Roast Coffee,,17.99,each,,1.9344086021505373,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,CLEARY CANADIAN,CLEARY CANADIAN,,5.0,each,,2.5,,True,True,03/04/2023,03/08
-sobeys,flyer,MOTT'S,MOTT'S Party Pak Clamato Juice,MOTT'S Party Pak Clamato Juice,,5.49,with Scene+ Card,,5.49,,False,True,03/04/2023,03/08
-sobeys,flyer,RUFFLES,RUFFLES Potato Chips,RUFFLES Potato Chips,,8.0,each,,2.2222222222222223,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Potato Chips or Extraaa! Flavour Chips,COMPLIMENTS Potato Chips or Extraaa! Flavour Chips,,2.19,ea when you buy ea 3 or more,,1.095,100g,False,True,03/04/2023,03/08
-sobeys,flyer,DORITOS,DORITOS Tortilla Chips,DORITOS Tortilla Chips,,9.0,each,,2.142857142857143,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Snacks,COMPLIMENTS Snacks,,6.0,each,,1.1320754716981132,100g,True,True,03/04/2023,03/08
-sobeys,flyer,KELLOGG'S,KELLOGG'S Cheez-It Crackers,KELLOGG'S Cheez-It Crackers,,3.49,ea when you buy 2 or more,,1.0386904761904763,100g,False,True,03/04/2023,03/08
-sobeys,flyer,,"Crush, Dr. Pepper, Mug, Mountain Dew, Brisk or 7Up Flavours","Crush, Dr. Pepper, Mug, Mountain Dew, Brisk or 7Up Flavours",,14.0,each,,7.0,,True,True,03/04/2023,03/08
-sobeys,flyer,COCA-COLA,COCA-COLA Mini Cans,COCA-COLA Mini Cans,,4.0,ea when you buy 2 or more,,4.0,,False,True,03/04/2023,03/08
-sobeys,flyer,,"NATURE VALLEY Granola Bars, MOTT'S Fruitsations Snacks, FIBRE 1 Chocolate Oats or FRUIT BY THE FOOT","NATURE VALLEY Granola Bars, MOTT'S Fruitsations Snacks, FIBRE 1 Chocolate Oats or FRUIT BY THE FOOT",,12.99,each,,2.0392464678178963,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,CHRISTIE Honey Maid Wafers,CHRISTIE Honey Maid Wafers,,4.49,each,,1.1225,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,CHRISTIE Premium Plus Crackers,CHRISTIE Premium Plus Crackers,,4.79,each,,1.0644444444444445,100g,True,True,03/04/2023,03/08
-sobeys,flyer,DARE,DARE Bear Paws,DARE Bear Paws,,3.33,ea when you buy 2 or more,,2.22,100g,False,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Snack Crackers,COMPLIMENTS Snack Crackers,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,MUSKOKA Coffee,MUSKOKA Coffee,,16.99,each,,4.2475,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,FERRERO ROCHER Squirrel,FERRERO ROCHER Squirrel,,5.99,each,,6.655555555555556,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,SKITTLES or STARBURST Candy and Gummies,SKITTLES or STARBURST Candy and Gummies,,3.49,each,,2.3112582781456954,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,CADBURY Mini Eggs,CADBURY Mini Eggs,,8.99,each,,2.2475,100g,True,True,03/04/2023,03/08
-sobeys,flyer,SILK,SILK Plant-Based Cheese,SILK Plant-Based Cheese,,4.99,each,,2.495,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,EVIVE Smoothie Cubes,EVIVE Smoothie Cubes,,8.99,each,,2.9966666666666666,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,JUST Egg,JUST Egg Alternative,JUST Egg Alternative,,5.99,each,,1.4975,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,SEVENTH GENERATION,SEVENTH GENERATION Dish Liquid,SEVENTH GENERATION Dish Liquid,,3.49,with Scene+ Card,,3.49,,False,True,03/04/2023,03/08
-sobeys,flyer,LUNDBERG,LUNDBERG Rice,LUNDBERG Rice,,9.99,each,,1.101433296582139,100g,True,True,03/04/2023,03/08
-sobeys,flyer,PACIFIC FOODS,PACIFIC FOODS Broths,PACIFIC FOODS Broths,,5.99,each,,0.5990000000000001,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,THE GFB,THE GFB Bites,THE GFB Bites,,5.79,each,,5.123893805309734,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS ORGANIC Tablet Bars,COMPLIMENTS ORGANIC Tablet Bars,,7.0,each,,3.5000000000000004,100g,True,True,03/04/2023,03/08
-sobeys,flyer,KIND,KIND Bar,KIND Bar,,2.0,ea,,5.0,100g,False,True,03/04/2023,03/08
-sobeys,flyer,WAMPOLE,WAMPOLE Vitamins or Supplements,WAMPOLE Vitamins or Supplements,,,each,,,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENT,COMPLIMENT ORGANIC Quick Oats,COMPLIMENT ORGANIC Quick Oats,,3.99,each,,0.399,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Lasagna,COMPLIMENTS Lasagna,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Extra Virgin Olive Oil,COMPLIMENTS Extra Virgin Olive Oil,,,each,,,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Chicken Strips,COMPLIMENTS Chicken Strips,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Pasta Sauce,COMPLIMENTS Pasta Sauce,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Chicken Wings,COMPLIMENTS Chicken Wings,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Smoked Sausages,COMPLIMENTS Smoked Sausages,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,Compliments,Compliments,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,BETTY CROCKER,"BETTY CROCKER Brownies, Cookies, Cupcakes, Angel Food, Muffin Tops, Cinnamon Toast Crunch Cake or BISQUICK","BETTY CROCKER Brownies, Cookies, Cupcakes, Angel Food, Muffin Tops, Cinnamon Toast Crunch Cake or BISQUICK",,4.49,each,,1.3323442136498518,100g,True,True,03/04/2023,03/08
-sobeys,flyer,General Mills,General Mills Retail Cereal,General Mills Retail Cereal,,4.99,each,,1.6633333333333333,100g,True,True,03/04/2023,03/08
-sobeys,flyer,DR. OETKER,DR. OETKER Giuseppe Easy Pizzi,DR. OETKER Giuseppe Easy Pizzi,,6.79,each,,1.2125000000000001,100g,True,True,03/04/2023,03/08
-sobeys,flyer,DR. OETKER,DR. OETKER Giuseppe Rising or Thin Crust,DR. OETKER Giuseppe Rising or Thin Crust,,6.79,each,,1.5466970387243735,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,NATURE VALLEY Sweet & Salty Granola Bar,NATURE VALLEY Sweet & Salty Granola Bar,,6.0,each,,1.5625,100g,True,True,03/04/2023,03/08
-sobeys,flyer,ANNIE'S,ANNIE'S Pasta,ANNIE'S Pasta,,2.99,each,,2.0067114093959733,100g,True,True,03/04/2023,03/08
-sobeys,flyer,DR. OETKER,DR. OETKER The Good Baker,DR. OETKER The Good Baker,,6.79,each,,2.2633333333333336,100g,True,True,03/04/2023,03/08
-sobeys,flyer,JIF,JIF Peanut Butter,JIF Peanut Butter,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,SMUCKERS,SMUCKERS Jam,SMUCKERS Jam,,4.99,each,,4.99,,True,True,03/04/2023,03/08
-sobeys,flyer,HERSHEY,HERSHEY Single Bars,HERSHEY Single Bars,,1.0,ea when you buy 2 or more,,2.941176470588235,100g,False,True,03/04/2023,03/08
-sobeys,flyer,HERSHEY'S,HERSHEY'S King Size Bars,HERSHEY'S King Size Bars,,1.79,each,,2.8870967741935485,100g,True,True,03/04/2023,03/08
-sobeys,flyer,HERSHEY,HERSHEY,HERSHEY,,4.49,each,,2.8782051282051286,100g,True,True,03/04/2023,03/08
-sobeys,flyer,HERSHEY'S,HERSHEY'S Packaged Chocolate,HERSHEY'S Packaged Chocolate,,14.49,each,,1.81125,100g,True,True,03/04/2023,03/08
-sobeys,flyer,HERSHEY'S,HERSHEY'S Packaged Chocolate,HERSHEY'S Packaged Chocolate,,4.29,each,,2.5235294117647062,100g,True,True,03/04/2023,03/08
-sobeys,flyer,SMUCKER'S,SMUCKER'S Ice Cream Topping,SMUCKER'S Ice Cream Topping,,3.99,each,,3.99,,True,True,03/04/2023,03/08
-sobeys,flyer,BICK'S,BICK'S Whole Dill Pickles or Baby Dills,BICK'S Whole Dill Pickles or Baby Dills,,4.49,each,,0.449,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,MUTTI,MUTTI Tomatoes,MUTTI Tomatoes,,4.99,each,,4.99,,True,True,03/04/2023,03/08
-sobeys,flyer,MUTTI,MUTTI Finely Chopped Tomatoes Polpa,MUTTI Finely Chopped Tomatoes Polpa,,2.99,each,,2.99,,True,True,03/04/2023,03/08
-sobeys,flyer,MUTTI,MUTTI Cherry Tomatoes,MUTTI Cherry Tomatoes,,3.49,each,,0.8768844221105527,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,MUTTI,MUTTI Pizza Sauce Classic,MUTTI Pizza Sauce Classic,,7.0,each,,3.5,,True,True,03/04/2023,03/08
-sobeys,flyer,NESCAFÉ,NESCAFÉ Gold,NESCAFÉ Gold,,6.99,each,,7.7666666666666675,100g,True,True,03/04/2023,03/08
-sobeys,flyer,STARBUCKS,STARBUCKS K-Cups®,STARBUCKS K-Cups®,,20.99,each,,0.8745833333333333,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,NESCAFÉ or TASTER'S CHOICE Instant Coffee,NESCAFÉ or TASTER'S CHOICE Instant Coffee,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,STARBUCKS,STARBUCKS by NESPRESSO Vertuo Line,STARBUCKS by NESPRESSO Vertuo Line,,11.99,each,,1.49875,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,OASIS,OASIS Premium Orange Juice,OASIS Premium Orange Juice,,,each,,,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,GREEN GIANT,GREEN GIANT Canned or Frozen Vegetables,GREEN GIANT Canned or Frozen Vegetables,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,BOB'S Red Mill,BOB'S Red Mill Gluten Free Old Fashioned Rolled Oats,BOB'S Red Mill Gluten Free Old Fashioned Rolled Oats,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,BURNBRAE FARMS,BURNBRAE FARMS Egg Bakes!,BURNBRAE FARMS Egg Bakes!,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,CAMPBELL'S,CAMPBELL'S Goldfish Crackers,CAMPBELL'S Goldfish Crackers,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COCA-COLA,COCA-COLA Mini,COCA-COLA Mini,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,SIMPLY,SIMPLY Not From Concentrate Orange Juice or Lemonade,SIMPLY Not From Concentrate Orange Juice or Lemonade,,,each,,,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,CLOVER LEAF,CLOVER LEAF Flaked Skipjack Tuna in Water,CLOVER LEAF Flaked Skipjack Tuna in Water,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,ORVILLE REDENBACHER,ORVILLE REDENBACHER Popcorn,ORVILLE REDENBACHER Popcorn,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,VH,VH SAUCE Honey Garlic,VH SAUCE Honey Garlic,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,DANONE Go,DANONE Go! Strawberry,DANONE Go! Strawberry,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,BEAR Paws,BEAR Paws Veggies + Fruits,BEAR Paws Veggies + Fruits,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,QUAKER,QUAKER Harvest Crunch,QUAKER Harvest Crunch,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,MADE GOOD,MADE GOOD Chocolate Chip Granola Bars,MADE GOOD Chocolate Chip Granola Bars,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,SAVOR,SAVOR Grass Fed Salted or Unsalted Butter,SAVOR Grass Fed Salted or Unsalted Butter,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,BECEL,BECEL Margarine,BECEL Margarine,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,GRIMM'S,GRIMM'S Original Pepperoni,GRIMM'S Original Pepperoni,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,KELLOGG'S,KELLOGG'S Raisin Bran,KELLOGG'S Raisin Bran,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,KELLOGG'S,KELLOGG'S Rice Krispies,KELLOGG'S Rice Krispies,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,KRAFT,KRAFT Hazelnut or Peanut Butter Spread,KRAFT Hazelnut or Peanut Butter Spread,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,SPONGETOWELS,SPONGETOWELS,SPONGETOWELS,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,BLACK DIAMOND,BLACK DIAMOND Cheestrings,BLACK DIAMOND Cheestrings,,,each,,,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,LINDT,LINDT Excellence 70% Cacao Dark Chocolate Bar,LINDT Excellence 70% Cacao Dark Chocolate Bar,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,MAPLE LEAF,MAPLE LEAF Natural Selections Sliced Deli Meats,MAPLE LEAF Natural Selections Sliced Deli Meats,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,MAPLE LODGE FARMS,MAPLE LODGE FARMS Ultimate Maple Flavour Chicken Breakfast Sausages,MAPLE LODGE FARMS Ultimate Maple Flavour Chicken Breakfast Sausages,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,FRANK'S,FRANK'S RedHot Sauce or Thick RedHot Sauce,FRANK'S RedHot Sauce or Thick RedHot Sauce,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,MCCAIN,MCCAIN Breakfast Pockets,MCCAIN Breakfast Pockets,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,Nabisco,Nabisco OREO Original,Nabisco OREO Original,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,NATURE'S PATH,NATURE'S PATH ORGANIC Heritage Flakes Cereal,NATURE'S PATH ORGANIC Heritage Flakes Cereal,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,NESTLÉ,NESTLÉ Nesquik Chocolate Syrup,NESTLÉ Nesquik Chocolate Syrup,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,OLYMEL,OLYMEL Mild Italian Sausages,OLYMEL Mild Italian Sausages,,,each,,,100g,True,True,03/04/2023,03/08
-sobeys,flyer,BUBLY,BUBLY Sparkling Water,BUBLY Sparkling Water,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,nhl,nhl,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Thin Crust or Hand Finished Pizza,COMPLIMENTS Thin Crust or Hand Finished Pizza,,5.49,with Scene+ Card,,1.6892307692307693,100g,False,True,03/04/2023,03/08
-sobeys,flyer,PILLSBURY,PILLSBURY Pizza Pops,PILLSBURY Pizza Pops,,5.99,each,,0.74875,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Frozen Entrées,COMPLIMENTS Frozen Entrées,,2.79,ea when you buy 2 or more 3.29 ea,,1.1159999999999999,100g,False,True,03/04/2023,03/08
-sobeys,flyer,SWANSON,SWANSON Skillet Meals,SWANSON Skillet Meals,,10.99,each,,0.9235294117647058,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Frozen Waffles,COMPLIMENTS Frozen Waffles,,5.0,each,,0.3125,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,GREEN GIANT Frozen Vegetables,GREEN GIANT Frozen Vegetables,,3.49,ea when you buy 2 or more,,0.4653333333333334,100g,False,True,03/04/2023,03/08
-sobeys,flyer,CHEEMO,CHEEMO Perogies,CHEEMO Perogies,,3.99,each,,0.4895705521472393,100g,True,True,03/04/2023,03/08
-sobeys,flyer,CAVENDISH FARMS,CAVENDISH FARMS Wedges,CAVENDISH FARMS Wedges,,7.99,each,,0.4414364640883978,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Shredded Cheese,COMPLIMENTS Shredded Cheese,,7.99,each,,1.288709677419355,100g,True,True,03/04/2023,03/08
-sobeys,flyer,ARMSTRONG,ARMSTRONG Cheese Sticks,ARMSTRONG Cheese Sticks,,5.49,each,,2.6142857142857143,100g,True,True,03/04/2023,03/08
-sobeys,flyer,OÎKOS,OÎKOS Greek Yogurt,OÎKOS Greek Yogurt,,4.49,each,,1.1225,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,OLYMPIC Krema Yogurt,OLYMPIC Krema Yogurt,,4.99,each,,0.7676923076923077,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Cultured or Salted Butter,COMPLIMENTS Cultured or Salted Butter,,4.29,each,,1.7160000000000002,100g,True,True,03/04/2023,03/08
-sobeys,flyer,SIMPLY,SIMPLY Lemonade,SIMPLY Lemonade,,4.99,each,,0.32402597402597405,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,,YOPLAIT Source Yogurt,YOPLAIT Source Yogurt,,3.0,each,,0.4761904761904762,100g,True,True,03/04/2023,03/08
-sobeys,flyer,FAIRLIFE,FAIRLIFE Milk,FAIRLIFE Milk,,5.49,each,,0.366,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Flaked Meat,COMPLIMENTS Flaked Meat,,2.29,with Scene+ Card,,1.467948717948718,100g,False,True,03/04/2023,03/08
-sobeys,flyer,OLD EL PASO,OLD EL PASO Salsa,OLD EL PASO Salsa,,4.99,each,,1.9960000000000002,100g,True,True,03/04/2023,03/08
-sobeys,flyer,GREEN GIANT,GREEN GIANT Vegetables,GREEN GIANT Vegetables,,1.99,each,,1.99,,True,True,03/04/2023,03/08
-sobeys,flyer,BETTY CROCKER,BETTY CROCKER Snack Size Mixes,BETTY CROCKER Snack Size Mixes,,1.99,each,,1.0815217391304348,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS English Muffins,COMPLIMENTS English Muffins,,5.0,each,,0.4166666666666667,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,SUN-MAID,SUN-MAID Cinnamon Raisin Bread,SUN-MAID Cinnamon Raisin Bread,,4.49,ea when you buy 2 or more,,0.9977777777777778,100g,False,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Chocolate Chips,COMPLIMENTS Chocolate Chips,,3.29,each,,1.316,100g,True,True,03/04/2023,03/08
-sobeys,flyer,CLUB HOUSE,CLUB HOUSE La Grille,CLUB HOUSE La Grille,,5.79,each,,4.825,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Sauces,COMPLIMENTS Sauces,,2.49,each,,2.49,,True,True,03/04/2023,03/08
-sobeys,flyer,,KIKKOMAN Soya Sauce Dispenser,KIKKOMAN Soya Sauce Dispenser,,3.99,each,,3.99,,True,True,03/04/2023,03/08
-sobeys,flyer,KELLOGG'S,KELLOGG'S Premium Cereal,KELLOGG'S Premium Cereal,,9.0,each,,1.4705882352941175,100g,True,True,03/04/2023,03/08
-sobeys,flyer,DOLE,DOLE Fruit Bowls or Fruit N Gel,DOLE Fruit Bowls or Fruit N Gel,,3.99,each,,0.9975,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Peanut Butter,COMPLIMENTS Peanut Butter,,8.99,each,,0.4495,100g,True,True,03/04/2023,03/08
-sobeys,flyer,STRUB'S,STRUB'S Pickles,STRUB'S Pickles,,5.99,each,,0.5990000000000001,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,KRAFT,KRAFT Miracle Whip or Mayonnaise,KRAFT Miracle Whip or Mayonnaise,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,FRENCH'S,FRENCH'S Creamy Mustard Spread,FRENCH'S Creamy Mustard Spread,,2.99,each,,2.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,Cfc1 Sobeys,Cfc1 Sobeys,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,TIDE Zero Laundry,TIDE Zero Laundry,,19.99,each,,0.5879411764705882,100ml,True,True,03/04/2023,03/08
-sobeys,flyer,AIR WICK,AIR WICK Plug-in,AIR WICK Plug-in,,9.99,each,,9.99,,True,True,03/04/2023,03/08
-sobeys,flyer,PALMOLIVE,PALMOLIVE Dish Soap,PALMOLIVE Dish Soap,,2.5,with scene+card,,2.5,,False,True,03/04/2023,03/08
-sobeys,flyer,FINISH,FINISH Dish Tabs,FINISH Dish Tabs,,15.99,each,,0.39975,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,GLAD,GLAD Press'N Seal,GLAD Press'N Seal,,3.99,each,,3.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,ALCAN Bake Foil Non-Stick,ALCAN Bake Foil Non-Stick,,3.99,each,,3.99,,True,True,03/04/2023,03/08
-sobeys,flyer,BEST BUY,BEST BUY Bath Tissue,BEST BUY Bath Tissue,,7.49,each,,1.2483333333333333,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,IAMS,IAMS Dog Food,IAMS Dog Food,,15.99,each,,0.5028301886792452,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,DENTALIFE or PRIME BONES,DENTALIFE or PRIME BONES,,8.99,each,,3.269090909090909,100g,True,True,03/04/2023,03/08
-sobeys,flyer,PURINA,PURINA Cat or Kitten Chow,PURINA Cat or Kitten Chow,,9.99,each,,0.1665,100g,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Cat Food,COMPLIMENTS Cat Food,,7.0,each,,0.4679144385026738,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,SECRET,SECRET,,6.49,each,,8.890410958904111,100g,True,True,03/04/2023,03/08
-sobeys,flyer,IRISH SPRING,IRISH SPRING Bar Soap,IRISH SPRING Bar Soap,,7.49,each,,1.2483333333333333,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Cotton Swabs,COMPLIMENTS Cotton Swabs,,2.99,with Scene+ Card,,0.007475000000000001,1ea,False,True,03/04/2023,03/08
-sobeys,flyer,HERBAL ESSENCES,HERBAL ESSENCES Hair Care,HERBAL ESSENCES Hair Care,,3.49,each,,2.0529411764705885,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,TRESEMMÉ Hair,TRESEMMÉ Hair,,6.99,each,,5.776859504132231,100g,True,True,03/04/2023,03/08
-sobeys,flyer,,"CREST, SENSODYNE or Pronamel Toothpaste or ORAL-B Toothbrushes","CREST, SENSODYNE or Pronamel Toothpaste or ORAL-B Toothbrushes",,4.99,each,,4.99,,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Nail Polish or Body Lotion,COMPLIMENTS Nail Polish or Body Lotion,,3.99,each,,3.99,,True,True,03/04/2023,03/08
-sobeys,flyer,NESTLÉ,NESTLÉ Gerber ORGANIC Purées,NESTLÉ Gerber ORGANIC Purées,,1.69,ea when you buy 3 or more,,1.707070707070707,100g,False,True,03/04/2023,03/08
-sobeys,flyer,AVEENO,AVEENO Baby Toiletries,AVEENO Baby Toiletries,,11.99,each,,11.99,,True,True,03/04/2023,03/08
-sobeys,flyer,PAMPERS,PAMPERS Super Econo Plus Diapers,PAMPERS Super Econo Plus Diapers,,34.99,each,,0.3976136363636364,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,COMPLIMENTS,COMPLIMENTS Training Pants,COMPLIMENTS Training Pants,,14.99,each,,0.4542424242424242,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,ALEVE Pain Relief,ALEVE Pain Relief,,,each,,,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,POISE,POISE Pads or DEPEND Underwear,POISE Pads or DEPEND Underwear,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,OCUVITE,OCUVITE,,,each,,,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,,ADVIL Pain Relief,ADVIL Pain Relief,,,each,,,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,THRIVE,THRIVE Gum or Lozenges,THRIVE Gum or Lozenges,,,each,,,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,PEPTO,PEPTO BISMOL Tablets,PEPTO BISMOL Tablets,,,each,,,1ea,True,True,03/04/2023,03/08
-sobeys,flyer,LIFESOURCE,LIFESOURCE Blood Pressure Monitor UA767FAM,LIFESOURCE Blood Pressure Monitor UA767FAM,,69.99,each,,69.99,,True,True,03/04/2023,03/08
-sobeys,flyer,,scotia bank offer,scotia bank offer,,,each,,,,True,True,03/04/2023,03/08
-sobeys,flyer,,email acquisition,email acquisition,,,each,,,,True,True,03/04/2023,03/08
+sobeys,flyer,,Sobeys,Sobeys,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,,Lean Ground Beef,Lean Ground Beef,,3.49,/lb 7.69/kg,,3.49,,False,True,03/09/2023,03/15
+sobeys,flyer,,Fresh Boneless Stew Beef,Fresh Boneless Stew Beef,,5.99,/lb 13.21/kg,,5.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Fresh Pork Loin Rib and Sirloin Combo Chops,Fresh Pork Loin Rib and Sirloin Combo Chops,,2.99,/lb 6.59/kg,,2.99,,False,True,03/09/2023,03/15
+sobeys,flyer,MAPLE LEAF,MAPLE LEAF Natural Bacon,MAPLE LEAF Natural Bacon,,4.99,each,,1.3306666666666669,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Carrots or Onions,COMPLIMENTS Carrots or Onions,,1.49,each,,0.16424451930369144,100g,True,True,03/09/2023,03/15
+sobeys,flyer,SAN LUCAR,SAN LUCAR Seedless Tangerines,SAN LUCAR Seedless Tangerines,,2.99,each,,0.32959135081747476,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,TOPPITS Cooked Lobster Claws Arms,TOPPITS Cooked Lobster Claws Arms,,16.99,each,,3.742290748898678,100g,True,True,03/09/2023,03/15
+sobeys,flyer,DEMPSTER'S,DEMPSTER'S White or 100% Whole Wheat Bread,DEMPSTER'S White or 100% Whole Wheat Bread,,6.0,each,,0.4444444444444444,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,KELLOGG'S or QUAKER Cereals,KELLOGG'S or QUAKER Cereals,,9.99,each,,1.5857142857142859,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,KRAFT Peanut Butter,KRAFT Peanut Butter,,5.77,each,,0.7693333333333332,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,HEINZ Ketchup,HEINZ Ketchup,,4.47,each,,4.47,,True,True,03/09/2023,03/15
+sobeys,flyer,CRACKER BARREL,CRACKER BARREL Cheese,CRACKER BARREL Cheese,,6.97,each,,1.1616666666666666,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Sobeys,Sobeys,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,TIM HORTONS,TIM HORTONS Soup,TIM HORTONS Soup,,2.47,each,,2.47,,True,True,03/09/2023,03/15
+sobeys,flyer,,In Store Made Onion and Swiss or Smoked Bacon and Cheddar Lean Ground Beef Meatballs and Meatloaves or Kale or Jalapeno and Monterey Jack Ground Turkey Meatballs or Meatloaves,In Store Made Onion and Swiss or Smoked Bacon and Cheddar Lean Ground Beef Meatballs and Meatloaves or Kale or Jalapeno and Monterey Jack Ground Turkey Meatballs or Meatloaves,,6.99,/lb 15.41/kg,,6.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,CATELLI Garden Select Pasta Sauce,CATELLI Garden Select Pasta Sauce,,5.0,each,,0.1388888888888889,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Jumbo Bagged Cereal,COMPLIMENTS Jumbo Bagged Cereal,,5.0,each,,1.25,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Mini Potatoes,COMPLIMENTS Mini Potatoes,,3.79,each,,0.5573529411764706,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,COMPLIMENTS Pancake Mix,COMPLIMENTS Pancake Mix,,6.99,each,,0.3883333333333333,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Maple Cured Honey Ham or Roast Beef,Maple Cured Honey Ham or Roast Beef,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,SCHNEIDERS,"SCHNEIDERS Oktoberfest Dinner Sausage, Frozen Sausage Rounds, Mini Sizzlers or Frozen Meat Pies","SCHNEIDERS Oktoberfest Dinner Sausage, Frozen Sausage Rounds, Mini Sizzlers or Frozen Meat Pies",,4.0,ea when you buy 5 or more,,1.0666666666666667,100g,False,True,03/09/2023,03/15
+sobeys,flyer,BEST BUY,BEST BUY Smoked Boneless Hams,BEST BUY Smoked Boneless Hams,,9.99,each,,0.8325000000000001,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Strawberries,Strawberries,,4.99,each,,1.0991189427312775,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Made Fresh Daily Yogurt Cups,Made Fresh Daily Yogurt Cups,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,,"Homestyle Oat Bran, Mountain Grain, Good Haven or Low Fat Multigrain Bread","Homestyle Oat Bran, Mountain Grain, Good Haven or Low Fat Multigrain Bread",,3.99,each,,0.8866666666666667,100g,True,True,03/09/2023,03/15
+sobeys,flyer,JANES,JANES Breaded or Battered Fish,JANES Breaded or Battered Fish,,5.99,each,,1.3311111111111111,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,COCA-COLA or PEPSI Soft Drinks,COCA-COLA or PEPSI Soft Drinks,,13.0,each,,6.5,,True,True,03/09/2023,03/15
+sobeys,flyer,TOSTITOS,TOSTITOS Tortilla Chips,TOSTITOS Tortilla Chips,,7.5,each,,1.8292682926829267,100g,True,True,03/09/2023,03/15
+sobeys,flyer,CHRISTIE,CHRISTIE Cookies,CHRISTIE Cookies,,3.0,each,,1.3392857142857142,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,BUBLY Sparkling Water,BUBLY Sparkling Water,,5.99,ea when you buy 2 or more,,1.0696428571428571,100g,False,True,03/09/2023,03/15
+sobeys,flyer,TROPICANA,TROPICANA Orange Juice,TROPICANA Orange Juice,,7.0,each,,0.22727272727272727,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,,IÖGO Yogurt,IÖGO Yogurt,,5.49,each,,0.343125,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,DR. OETKER,"DR. OETKER Giuseppe Rising Crust or Thin Crust Pizza, The Good Baker Pizza or Giuseppe Easy Pizzi","DR. OETKER Giuseppe Rising Crust or Thin Crust Pizza, The Good Baker Pizza or Giuseppe Easy Pizzi",,4.99,each,,1.6633333333333333,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,FOLGERS Coffee Pods,FOLGERS Coffee Pods,,30.0,each,,0.5,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,MILK2GO,MILK2GO,,1.0,each,,1.0,,True,True,03/09/2023,03/15
+sobeys,flyer,BLACK DIAMOND,BLACK DIAMOND Cheestrings,BLACK DIAMOND Cheestrings,,9.99,each,,0.41625,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,KRAFT,KRAFT DINNER,KRAFT DINNER,,5.0,each,,0.8012820512820512,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,HEALTHY CHOICE Gourmet Steamers,HEALTHY CHOICE Gourmet Steamers,,4.49,each,,1.5865724381625441,100g,True,True,03/09/2023,03/15
+sobeys,flyer,ROYALE,ROYALE VELOUR Triple Roll Bathroom Tissue,ROYALE VELOUR Triple Roll Bathroom Tissue,,15.99,each,,15.99,,True,True,03/09/2023,03/15
+sobeys,flyer,,CHARMIN Bathroom Tissue,CHARMIN Bathroom Tissue,,12.99,each,,12.99,,True,True,03/09/2023,03/15
+sobeys,flyer,,TIDE Laundry,TIDE Laundry,,21.99,each,,0.48329670329670327,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,NATURE VALLEY,NATURE VALLEY Midsize Granola Bars,NATURE VALLEY Midsize Granola Bars,,7.99,each,,2.35,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Deluxe Mixed Nuts,COMPLIMENTS Deluxe Mixed Nuts,,21.99,each,,1.9460176991150442,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,SAPUTO Shredded Cheese,SAPUTO Shredded Cheese,,15.99,each,,1.599,100g,True,True,03/09/2023,03/15
+sobeys,flyer,DOWNY,DOWNY Rinse & Refresh,DOWNY Rinse & Refresh,,2.99,each,,2.99,,True,True,03/09/2023,03/15
+sobeys,flyer,,sobeys,sobeys,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,"COMPLIMENTS Apple, Apple Crumble or Pumpkin Pies","COMPLIMENTS Apple, Apple Crumble or Pumpkin Pies",,8.99,each,,0.9988888888888889,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,"COMPLIMENTS Baby Spinach, Baby Arugala or Spring Mix","COMPLIMENTS Baby Spinach, Baby Arugala or Spring Mix",,3.99,each,,2.8098591549295775,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Lemon Meringue Pie,COMPLIMENTS Lemon Meringue Pie,,10.99,each,,1.099,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Cream Pies Banana or Coconut,Cream Pies Banana or Coconut,,12.69,each,,1.0846153846153845,100g,True,True,03/09/2023,03/15
+sobeys,flyer,APPLE VALLEY,APPLE VALLEY Apple or Pumpkin Pie,APPLE VALLEY Apple or Pumpkin Pie,,5.49,each,,1.22,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Oh Mama! Hot Sauce,COMPLIMENTS Oh Mama! Hot Sauce,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Fresh AIR-CHILLED Split Chicken Wings,COMPLIMENTS Fresh AIR-CHILLED Split Chicken Wings,,5.99,/lb 13.21/kg,,5.99,,False,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Chicken & Vegetable or Beef & Vegetable Pot Pies,COMPLIMENTS Chicken & Vegetable or Beef & Vegetable Pot Pies,,8.99,each,,1.362121212121212,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Thick Cut Bacon,COMPLIMENTS Thick Cut Bacon,,12.99,ea when you buy 2 or more,,1.299,100g,False,True,03/09/2023,03/15
+sobeys,flyer,CAVENDISH FARMS,CAVENDISH FARMS All-Day Breakfast Hash Brown,CAVENDISH FARMS All-Day Breakfast Hash Brown,,3.99,each,,0.6384,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Roma Tomatoes,Roma Tomatoes,,2.49,/lb 5.49/kg,,249.00000000000003,100g,False,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Free Run Large White Eggs,COMPLIMENTS Free Run Large White Eggs,,5.49,each,,0.4575,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,COMPLIMENTS or PANACHE Seafood Appetizers,COMPLIMENTS or PANACHE Seafood Appetizers,,9.99,each,,3.9642857142857144,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Fresh Wild Icelandic Cod Fillets,Fresh Wild Icelandic Cod Fillets,,12.99,/lb 28.64/kg,,12.99,,False,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Tartar Sauce,COMPLIMENTS Tartar Sauce,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,,Lemons,Lemons,,0.79,each,,0.79,,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Large Tortillas,COMPLIMENTS Large Tortillas,,4.49,each,,0.7360655737704919,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Yams,Yams,,1.88,/lb 4.14/kg,,1.88,,False,True,03/09/2023,03/15
+sobeys,flyer,,Royal Gala Apples,Royal Gala Apples,,2.49,/lb 5.49/kg,,2.49,,False,True,03/09/2023,03/15
+sobeys,flyer,,nhl,nhl,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,,Assorted Zucchini,Assorted Zucchini,,2.29,/lb 5.05/kg,,2.29,,False,True,03/09/2023,03/15
+sobeys,flyer,,Green Onions,Green Onions,,1.49,each,,1.49,,True,True,03/09/2023,03/15
+sobeys,flyer,,Broccoli Crowns,Broccoli Crowns,,2.99,/lb 6.59/kg,,2.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Large Green Kiwi,Large Green Kiwi,,4.99,each,,1.0991189427312775,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Granny Smith Apples,Granny Smith Apples,,2.49,/lb 5.49/kg,,2.49,,False,True,03/09/2023,03/15
+sobeys,flyer,,Asparagus,Asparagus,,3.99,/lb 8.80/kg,,3.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Bunch Kale,Bunch Kale,,3.99,each,,3.99,,True,True,03/09/2023,03/15
+sobeys,flyer,,Large Avocados,Large Avocados,,4.99,each,,0.998,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,SANLUCAR,SANLUCAR Tangerines,SANLUCAR Tangerines,,2.49,/lb 5.49/kg,,2.49,,False,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS ORGANIC Whole Cremini Mushrooms,COMPLIMENTS ORGANIC Whole Cremini Mushrooms,,3.49,each,,1.537444933920705,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Baby Cut Carrots,COMPLIMENTS Baby Cut Carrots,,2.49,each,,0.7323529411764707,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,TAYLOR FARMS Chopped Salad Kits,TAYLOR FARMS Chopped Salad Kits,,5.49,with Scene+ Card,,2.056179775280899,100g,False,True,03/09/2023,03/15
+sobeys,flyer,,Foil Potatoes,Foil Potatoes,,4.79,each,,1.1975,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,Happy St. Patrick'S Day,Happy St. Patrick'S Day,,19.99,each,,19.99,,True,True,03/09/2023,03/15
+sobeys,flyer,,Mini Gerbera Bouquet,Mini Gerbera Bouquet,,12.99,each,,12.99,,True,True,03/09/2023,03/15
+sobeys,flyer,SANLUCAR,SANLUCAR Tangerines,SANLUCAR Tangerines,,2.49,/lb 5.49/kg,,2.49,,False,True,03/09/2023,03/15
+sobeys,flyer,STERLING SILVER,STERLING SILVER Fresh Boneless Sirloin Tip Oven Roast or Marinating Steaks,STERLING SILVER Fresh Boneless Sirloin Tip Oven Roast or Marinating Steaks,,7.99,/lb 17.61/kg,,7.99,,False,True,03/09/2023,03/15
+sobeys,flyer,STERLING SILVER,STERLING SILVER Fresh Boneless Blade Pot Roast or Simmering Steak,STERLING SILVER Fresh Boneless Blade Pot Roast or Simmering Steak,,8.99,/lb 19.82/kg,,8.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Seasoned Split Chicken Wings,Seasoned Split Chicken Wings,,4.99,/lb,,0.24950000000000003,100g,False,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Fresh AIR-CHILLED Chicken Breast Halves,COMPLIMENTS Fresh AIR-CHILLED Chicken Breast Halves,,5.99,/lb 13.21/kg,,5.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Fresh Pork Loin Centre Chops,Fresh Pork Loin Centre Chops,,3.99,/lb 8.80/kg,,3.99,,False,True,03/09/2023,03/15
+sobeys,flyer,PANACHE,PANACHE Flattened Chicken,PANACHE Flattened Chicken,,5.99,/lb 13.21/kg,,5.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Fresh Skinless Pork Belly Portion,Fresh Skinless Pork Belly Portion,,5.99,/lb 13.21/kg,,5.99,,False,True,03/09/2023,03/15
+sobeys,flyer,JOHNSONVILLE,JOHNSONVILLE Breakfast or Dinner Sausages,JOHNSONVILLE Breakfast or Dinner Sausages,,6.49,each,,2.596,100g,True,True,03/09/2023,03/15
+sobeys,flyer,SUNGOLD,SUNGOLD Lamb Tonight,SUNGOLD Lamb Tonight,,10.99,each,,3.869718309859155,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Fresh Montreal BBQ or Korean BBQ Marinated Pork Loin Centre Chops,Fresh Montreal BBQ or Korean BBQ Marinated Pork Loin Centre Chops,,4.99,/lb 11.00/kg,,4.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Lean Ground Beef Burgers,Lean Ground Beef Burgers,,6.49,/lb 14.31/kg,,6.49,,False,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,"COMPLIMENTS Honey Garlic, Mild or Hot Italian or Breakfast Pork Sausages","COMPLIMENTS Honey Garlic, Mild or Hot Italian or Breakfast Pork Sausages",,12.0,each,,0.8571428571428572,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Lasagna or Macaroni and Cheese,COMPLIMENTS Lasagna or Macaroni and Cheese,,16.99,each,,0.7484581497797356,100g,True,True,03/09/2023,03/15
+sobeys,flyer,STERLING SILVER,STERLING SILVER Fresh Three Peppered Glazed Boneless Sirloin Tip Oven Roast,STERLING SILVER Fresh Three Peppered Glazed Boneless Sirloin Tip Oven Roast,,7.99,/lb 17.61/kg,,7.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Stuffed Portobello Mushroom Caps with Mild Italian Pork Sausage,Stuffed Portobello Mushroom Caps with Mild Italian Pork Sausage,,7.99,/lb 17.61/kg,,7.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Fresh Whole Skinless Pork Belly,Fresh Whole Skinless Pork Belly,,4.99,/lb 11.00/kg,,4.99,,False,True,03/09/2023,03/15
+sobeys,flyer,SWISS CHALET,SWISS CHALET Pork Back Ribs,SWISS CHALET Pork Back Ribs,,13.99,each,,2.3316666666666666,100g,True,True,03/09/2023,03/15
+sobeys,flyer,SCHNEIDERS,SCHNEIDERS Lunchmate Stackers or GREENFIELD Kits,SCHNEIDERS Lunchmate Stackers or GREENFIELD Kits,,3.99,each,,7.254545454545455,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Marinated Boneless Pork Chops,COMPLIMENTS Marinated Boneless Pork Chops,,4.99,ea when you buy 2 or more,,1.6633333333333333,100g,False,True,03/09/2023,03/15
+sobeys,flyer,,"ASIAN INSPIRATIONS, MULDOON Bites or WONG WING Frozen Entrées, Egg Rolls, Spring Rolls or Dumplings","ASIAN INSPIRATIONS, MULDOON Bites or WONG WING Frozen Entrées, Egg Rolls, Spring Rolls or Dumplings",,12.0,or 6.99 ea,,1.6666666666666667,100g,False,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,"COMPLIMENTS Traditional Beef, Soy, Chicken or Turkey Burgers","COMPLIMENTS Traditional Beef, Soy, Chicken or Turkey Burgers",,12.99,each,,1.5282352941176471,100g,True,True,03/09/2023,03/15
+sobeys,flyer,THE KEG,THE KEG Prime Rib Beef Burgers or Frozen Back Ribs,THE KEG Prime Rib Beef Burgers or Frozen Back Ribs,,19.99,each,,2.8557142857142854,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Wild Alaska Sockeye Salmon Fillets,Wild Alaska Sockeye Salmon Fillets,,14.99,/lb 33.05/kg,,14.99,,False,True,03/09/2023,03/15
+sobeys,flyer,,Authentic Maryland Crab Cakes,Authentic Maryland Crab Cakes,,7.0,each,,2.9166666666666665,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Cooked Shrimp Ring with Sauce,COMPLIMENTS Cooked Shrimp Ring with Sauce,,10.99,each,,3.5224358974358974,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,COMPLIMENTS NATURALLY SIMPLE Black Tiger Cooked or Raw Shrimp,COMPLIMENTS NATURALLY SIMPLE Black Tiger Cooked or Raw Shrimp,,13.99,each,,4.114705882352941,100g,True,True,03/09/2023,03/15
+sobeys,flyer,PANACHE,PANACHE Hot Smoked Atlantic Salmon Strips,PANACHE Hot Smoked Atlantic Salmon Strips,,8.99,each,,5.993333333333333,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Wild Mahi Mahi Fillets,Wild Mahi Mahi Fillets,,12.99,/lb 28.64/kg,,12.99,,False,True,03/09/2023,03/15
+sobeys,flyer,MARINA DEL REY,MARINA DEL REY Wild Argentinian Jumbo Raw Shrimp,MARINA DEL REY Wild Argentinian Jumbo Raw Shrimp,,8.99,each,,2.9966666666666666,100g,True,True,03/09/2023,03/15
+sobeys,flyer,TOPPITS,TOPPITS Gluten-Free Breaded Premium Fish Fillets,TOPPITS Gluten-Free Breaded Premium Fish Fillets,,10.99,each,,2.7475,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Greek Style Pasta with Feta Salad or Seven Grain Salad,Greek Style Pasta with Feta Salad or Seven Grain Salad,,2.19,/100 g,,2.19,,False,True,03/09/2023,03/15
+sobeys,flyer,,Roast Beef Au Jus,Roast Beef Au Jus,,3.09,/100 g,,3.09,,False,True,03/09/2023,03/15
+sobeys,flyer,,Maple Bacon Back Ribs,Maple Bacon Back Ribs,,8.99,each,,8.99,,True,True,03/09/2023,03/15
+sobeys,flyer,,Crispy Chicken,Crispy Chicken,,14.99,each,,14.99,,True,True,03/09/2023,03/15
+sobeys,flyer,,ÎLE DE FRANCE Brie,ÎLE DE FRANCE Brie,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,CASTELLO,CASTELLO Havarti,CASTELLO Havarti,,5.99,ea when you buy 2 or more 6.99 ea,,3.523529411764706,100g,False,True,03/09/2023,03/15
+sobeys,flyer,MAIN STREET,MAIN STREET Deli Pepperoni or Bologna,MAIN STREET Deli Pepperoni or Bologna,,1.99,each,,0.9950000000000001,100g,True,True,03/09/2023,03/15
+sobeys,flyer,MAPLE LEAF,MAPLE LEAF Natural Selections Sliced Deli Meats,MAPLE LEAF Natural Selections Sliced Deli Meats,,7.99,each,,5.326666666666667,100g,True,True,03/09/2023,03/15
+sobeys,flyer,PANACHE,"PANACHE Oven Roasted Chicken or Black Forest, Old Style or Sugarbush Maple Ham","PANACHE Oven Roasted Chicken or Black Forest, Old Style or Sugarbush Maple Ham",,3.69,/100 g,,3.69,,False,True,03/09/2023,03/15
+sobeys,flyer,,Bite into Kaiser Buns,Bite into Kaiser Buns,,3.59,each,,0.5983333333333333,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,Panini or Calabrese Buns,Panini or Calabrese Buns,,3.79,each,,0.6316666666666667,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,Gourmet Cheese Buns,Gourmet Cheese Buns,,5.29,with Scene+ Card,,0.8816666666666667,1ea,False,True,03/09/2023,03/15
+sobeys,flyer,,Gourmet Cheese Hot Dog or Hamburger Buns,Gourmet Cheese Hot Dog or Hamburger Buns,,4.59,each,,0.57375,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,"Dinner, Tray or Butter Topped Rolls","Dinner, Tray or Butter Topped Rolls",,4.29,each,,0.3575,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,Demi Baguettes,Demi Baguettes,,1.79,each,,1.4916666666666667,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Brioche Burger Buns,COMPLIMENTS Brioche Burger Buns,,3.79,each,,0.9475,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,"Gourmet Cookies Funfetti, S'mores or Apple Oatmeal Raisin","Gourmet Cookies Funfetti, S'mores or Apple Oatmeal Raisin",,6.49,each,,1.0816666666666668,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,Small Pull-Apart Cakes,Small Pull-Apart Cakes,,11.69,each,,3.2027397260273966,100g,True,True,03/09/2023,03/15
+sobeys,flyer,PANACHE,PANACHE Naan,PANACHE Naan,,4.29,each,,1.2617647058823531,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Ice Cream Cakes,Ice Cream Cakes,,14.69,each,,2.388617886178862,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Mini Cupcakes,COMPLIMENTS Mini Cupcakes,,5.79,each,,0.4825,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,Bagels,Bagels,,3.79,each,,0.9475,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,OAKRUN FARM,OAKRUN FARM BAKERY Crumpets,OAKRUN FARM BAKERY Crumpets,,2.99,each,,0.49833333333333335,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,CATELLI Meat Sauce,CATELLI Meat Sauce,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Parmesan Cheese,COMPLIMENTS Parmesan Cheese,,8.29,each,,3.3159999999999994,100g,True,True,03/09/2023,03/15
+sobeys,flyer,PAM,PAM Cooking Sprays,PAM Cooking Sprays,,5.49,with Scene+ Card,,4.8584070796460175,100g,False,True,03/09/2023,03/15
+sobeys,flyer,CRISCO,CRISCO Shortening All Vegetable,CRISCO Shortening All Vegetable,,3.99,each,,0.8788546255506609,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,SUGAR TWIN Original,SUGAR TWIN Original,,5.49,each,,0.027450000000000002,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,WINDSOR,WINDSOR Himalayan Salt Pink Fine or Coarse,WINDSOR Himalayan Salt Pink Fine or Coarse,,6.99,each,,1.3980000000000001,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Selected Baking Nuts,COMPLIMENTS Selected Baking Nuts,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,STONEMILL,STONEMILL Bread,STONEMILL Bread,,4.49,ea when you buy 2 or more,,0.9889867841409692,100g,False,True,03/09/2023,03/15
+sobeys,flyer,BETTY CROCKER,BETTY CROCKER Potatoes,BETTY CROCKER Potatoes,,5.0,each,,1.773049645390071,100g,True,True,03/09/2023,03/15
+sobeys,flyer,CAMPBELL'S,CAMPBELL'S Chunky Soup,CAMPBELL'S Chunky Soup,,9.99,each,,3.33,,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Refried Beans,COMPLIMENTS Refried Beans,,2.99,each,,2.99,,True,True,03/09/2023,03/15
+sobeys,flyer,HOSTESS,HOSTESS Snacks,HOSTESS Snacks,,2.99,ea when you buy 2 or more,,2.4710743801652892,100g,False,True,03/09/2023,03/15
+sobeys,flyer,,MINUTE RICE,MINUTE RICE,,7.99,each,,0.6658333333333334,100g,True,True,03/09/2023,03/15
+sobeys,flyer,KELLOGG'S,KELLOGG'S Premium Cereal,KELLOGG'S Premium Cereal,,9.0,each,,1.4705882352941175,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Pancake Mix or Syrup,COMPLIMENTS Pancake Mix or Syrup,,6.0,each,,0.3314917127071823,100g,True,True,03/09/2023,03/15
+sobeys,flyer,DEMPSTER'S,DEMPSTER'S English Muffins,DEMPSTER'S English Muffins,,6.0,each,,0.5,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,COMPLIMENTS Coconut Milk,COMPLIMENTS Coconut Milk,,4.0,each,,2.0,,True,True,03/09/2023,03/15
+sobeys,flyer,JELL-O,JELL-O Instant Pudding,JELL-O Instant Pudding,,4.0,each,,6.666666666666667,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Canned Fruit,COMPLIMENTS Canned Fruit,,4.5,each,,2.25,,True,True,03/09/2023,03/15
+sobeys,flyer,VEGA,VEGA Hello Wellness Protein,VEGA Hello Wellness Protein,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,VEGA,VEGA Real Food Smoothie,VEGA Real Food Smoothie,,31.99,each,,6.175675675675675,100g,True,True,03/09/2023,03/15
+sobeys,flyer,ORGANIKA,ORGANIKA Collagen or Electrolytes,ORGANIKA Collagen or Electrolytes,,29.99,each,,8.330555555555556,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Vitamins and Supplements,COMPLIMENTS Vitamins and Supplements,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,CLUB HOUSE,CLUB HOUSE Spices ORGANIC Bag,CLUB HOUSE Spices ORGANIC Bag,,2.99,each,,29.900000000000006,100g,True,True,03/09/2023,03/15
+sobeys,flyer,ANNIE'S,ANNIE'S Macaroni & Cheese,ANNIE'S Macaroni & Cheese,,2.99,each,,2.0067114093959733,100g,True,True,03/09/2023,03/15
+sobeys,flyer,KETTLE,KETTLE Chips,KETTLE Chips,,4.99,each,,1.3559782608695652,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS ORGANIC Coffee Pods,COMPLIMENTS ORGANIC Coffee Pods,,8.99,each,,0.7491666666666666,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,NATREL,NATREL ORGANIC Milk,NATREL ORGANIC Milk,,5.99,each,,0.29950000000000004,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,AMY'S,"AMY'S KITCHEN Burritos, Entrées or Pizza","AMY'S KITCHEN Burritos, Entrées or Pizza",,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,RIVIERA,RIVIERA Vegan Delights,RIVIERA Vegan Delights,,4.99,each,,0.9980000000000001,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS ORGANIC Frozen Fruit,COMPLIMENTS ORGANIC Frozen Fruit,,6.99,each,,1.5533333333333332,100g,True,True,03/09/2023,03/15
+sobeys,flyer,DELISSIO,DELISSIO Thin Crust or Singles,DELISSIO Thin Crust or Singles,,4.99,each,,0.9614643545279383,100g,True,True,03/09/2023,03/15
+sobeys,flyer,DELISSIO,"DELISSIO Stuffed Crust, Croissant Crust or Crispy Pan","DELISSIO Stuffed Crust, Croissant Crust or Crispy Pan",,7.49,each,,1.3471223021582734,100g,True,True,03/09/2023,03/15
+sobeys,flyer,STOUFFER'S,STOUFFER'S Bistro Flatbreads or Diner Classics,STOUFFER'S Bistro Flatbreads or Diner Classics,,3.99,each,,2.2044198895027627,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,"STOUFFER'S Bowl Fulls, Fit Bowls, Fit Wraps or Life Cuisine","STOUFFER'S Bowl Fulls, Fit Bowls, Fit Wraps or Life Cuisine",,4.99,ea when you buy 4 or more,,3.4413793103448276,100g,False,True,03/09/2023,03/15
+sobeys,flyer,PEPSI,PEPSI Beverages,PEPSI Beverages,,4.0,ea when you buy 2 or more,,4.0,,False,True,03/09/2023,03/15
+sobeys,flyer,,HUNT'S Heirloom Tomatoes,HUNT'S Heirloom Tomatoes,,1.99,each,,1.99,,True,True,03/09/2023,03/15
+sobeys,flyer,HUNT'S,HUNT'S Manwich,HUNT'S Manwich,,5.0,each,,2.5,,True,True,03/09/2023,03/15
+sobeys,flyer,GATORADE,GATORADE Fit Sports Drink,GATORADE Fit Sports Drink,,1.99,ea when you buy 2 or more,,1.99,,False,True,03/09/2023,03/15
+sobeys,flyer,PURE LEAF,PURE LEAF Tea,PURE LEAF Tea,,5.0,each,,2.5,,True,True,03/09/2023,03/15
+sobeys,flyer,AYLMER,AYLMER Tomatoes,AYLMER Tomatoes,,2.49,ea when you buy 4 or more 2.99 ea,,2.49,,False,True,03/09/2023,03/15
+sobeys,flyer,AYLMER,AYLMER Tomatoes,AYLMER Tomatoes,,5.0,each,,2.5,,True,True,03/09/2023,03/15
+sobeys,flyer,CHEF BOYARDEE,CHEF BOYARDEE,CHEF BOYARDEE,,2.25,ea when you buy 2 or more,,0.5382775119617225,100g,False,True,03/09/2023,03/15
+sobeys,flyer,QUAKER,QUAKER Crispy Minis,QUAKER Crispy Minis,,9.0,each,,3.0,100g,True,True,03/09/2023,03/15
+sobeys,flyer,CANADA DRY,CANADA DRY,CANADA DRY,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,CANADA DRY,CANADA DRY,CANADA DRY,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,CANADA DRY,CANADA DRY,CANADA DRY,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,CANADA DRY,CANADA DRY,CANADA DRY,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,CORONA,CORONA Sunbrew,CORONA Sunbrew,,11.99,†,,11.99,,False,True,03/09/2023,03/15
+sobeys,flyer,ATYPIQUE,ATYPIQUE Mojito,ATYPIQUE Mojito,,8.99,each,,8.99,,True,True,03/09/2023,03/15
+sobeys,flyer,MCCAFÉ,MCCAFÉ Premium Roast Coffee,MCCAFÉ Premium Roast Coffee,,,each,,,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,MCCAFÉ,MCCAFÉ Premium Roast Coffee,MCCAFÉ Premium Roast Coffee,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,MCCAFÉ,MCCAFÉ Premium Roast K-Cup® Pods,MCCAFÉ Premium Roast K-Cup® Pods,,,each,,,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,ATYPIQUE,ATYPIQUE Amaretto Sour,ATYPIQUE Amaretto Sour,,8.99,†,,8.99,,False,True,03/09/2023,03/15
+sobeys,flyer,CORONA,CORONA Sunbrew,CORONA Sunbrew,,20.99,†,,20.99,,False,True,03/09/2023,03/15
+sobeys,flyer,MCCAFÉ,MCCAFÉ Premium Roast K-Cup® Pods,MCCAFÉ Premium Roast K-Cup® Pods,,,each,,,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,Cfc1 Sobeys,Cfc1 Sobeys,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,OASIS,OASIS Premium Orange Juice,OASIS Premium Orange Juice,,,each,,,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,GREEN GIANT,GREEN GIANT Canned or Frozen Vegetables,GREEN GIANT Canned or Frozen Vegetables,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,BOB'S Red Mill,BOB'S Red Mill Gluten Free Old Fashioned Rolled Oats,BOB'S Red Mill Gluten Free Old Fashioned Rolled Oats,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,BURNBRAE FARMS,BURNBRAE FARMS Egg Bakes!,BURNBRAE FARMS Egg Bakes!,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,CAMPBELL'S,CAMPBELL'S Goldfish Crackers,CAMPBELL'S Goldfish Crackers,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COCA-COLA,COCA-COLA Mini,COCA-COLA Mini,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,SIMPLY,SIMPLY Not From Concentrate Orange Juice or Lemonade,SIMPLY Not From Concentrate Orange Juice or Lemonade,,,each,,,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,CLOVER LEAF,CLOVER LEAF Flaked Skipjack Tuna,CLOVER LEAF Flaked Skipjack Tuna,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,ORVILLE REDENBACHER,ORVILLE REDENBACHER Popcorn,ORVILLE REDENBACHER Popcorn,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,VH,VH SAUCE Honey Garlic,VH SAUCE Honey Garlic,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,DANONE Go,DANONE Go! Strawberry,DANONE Go! Strawberry,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,BEAR Paws,BEAR Paws Veggies + Fruits,BEAR Paws Veggies + Fruits,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,QUAKER,QUAKER Harvest Crunch,QUAKER Harvest Crunch,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,MADE GOOD,MADE GOOD Chocolate Chip Granola Bars,MADE GOOD Chocolate Chip Granola Bars,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,SAVOR,SAVOR Grass Fed Salted or Unsalted Butter,SAVOR Grass Fed Salted or Unsalted Butter,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,BECEL,BECEL Margarine,BECEL Margarine,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,GRIMM'S,GRIMM'S Original Pepperoni,GRIMM'S Original Pepperoni,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,KELLOGG'S,KELLOGG'S Raisin Bran,KELLOGG'S Raisin Bran,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,KELLOGG'S,KELLOGG'S Rice Krispies,KELLOGG'S Rice Krispies,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,KRAFT,KRAFT Hazelnut or Peanut Butter Spread,KRAFT Hazelnut or Peanut Butter Spread,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,SPONGETOWELS,SPONGETOWELS,SPONGETOWELS,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,BLACK DIAMOND,BLACK DIAMOND Cheestrings,BLACK DIAMOND Cheestrings,,,each,,,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,LINDT,LINDT Excellence 70% Cacao Dark Chocolate Bar,LINDT Excellence 70% Cacao Dark Chocolate Bar,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,MAPLE LEAF,MAPLE LEAF Natural Selections Sliced Deli Meats,MAPLE LEAF Natural Selections Sliced Deli Meats,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,MAPLE LODGE FARMS,MAPLE LODGE FARMS Ultimate Maple Flavour Chicken Breakfast Sausages,MAPLE LODGE FARMS Ultimate Maple Flavour Chicken Breakfast Sausages,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,FRANK'S,FRANK'S RedHot Sauce or Thick RedHot Sauce,FRANK'S RedHot Sauce or Thick RedHot Sauce,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,MCCAIN,MCCAIN Breakfast Pockets,MCCAIN Breakfast Pockets,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,OREO,OREO Original,OREO Original,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,NATURE'S PATH,NATURE'S PATH ORGANIC Heritage Flakes Cereal,NATURE'S PATH ORGANIC Heritage Flakes Cereal,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,NESTLÉ,NESTLÉ Nesquik Chocolate Syrup,NESTLÉ Nesquik Chocolate Syrup,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,OLYMEL,OLYMEL Mild Italian Sausages,OLYMEL Mild Italian Sausages,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,BUBLY,BUBLY Sparkling Water,BUBLY Sparkling Water,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Frozen Entrées,COMPLIMENTS Frozen Entrées,,1.79,with Scene+ Card,,0.788546255506608,100g,False,True,03/09/2023,03/15
+sobeys,flyer,GENERAL,GENERAL ASSEMBLY Pizza,GENERAL ASSEMBLY Pizza,,8.99,each,,2.4765840220385678,100g,True,True,03/09/2023,03/15
+sobeys,flyer,PILLSBURY,PILLSBURY Pizza Pops,PILLSBURY Pizza Pops,,2.99,each,,0.7475,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Frozen Fruit,COMPLIMENTS Frozen Fruit,,4.99,each,,1.6633333333333333,100g,True,True,03/09/2023,03/15
+sobeys,flyer,MCCAIN,MCCAIN Superfries,MCCAIN Superfries,,3.99,each,,0.8788546255506609,100g,True,True,03/09/2023,03/15
+sobeys,flyer,NATREL,NATREL Mochi Ice Cream,NATREL Mochi Ice Cream,,4.99,each,,4.99,,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Cream Cheese,COMPLIMENTS Cream Cheese,,3.49,each,,1.537444933920705,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,LACTANTIA Healthy Attitude or OLIVINA Margarine,LACTANTIA Healthy Attitude or OLIVINA Margarine,,3.49,each,,0.8173302107728337,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,DANONE ACTIVIA Drinkable Yogurt,DANONE ACTIVIA Drinkable Yogurt,,5.99,each,,0.74875,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,LIBERTÉ,LIBERTÉ Greek,LIBERTÉ Greek,,3.99,ea when you buy 2 or more,,0.9975,1ea,False,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Cheese,COMPLIMENTS Cheese,,4.99,each,,1.848148148148148,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,"FIVE ALIVE, FRUITOPIA or NESTEA","FIVE ALIVE, FRUITOPIA or NESTEA",,7.0,each,,0.2,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,GAY LEA,GAY LEA Aerosol Whipped Cream,GAY LEA Aerosol Whipped Cream,,3.99,each,,1.7733333333333334,100g,True,True,03/09/2023,03/15
+sobeys,flyer,HELUVA GOOD!,HELUVA GOOD! Dip,HELUVA GOOD! Dip,,2.49,ea when you buy 2 or more,,0.996,100g,False,True,03/09/2023,03/15
+sobeys,flyer,,DARE Real Fruit Candy,DARE Real Fruit Candy,,4.99,each,,0.6835616438356165,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,M&M'S Pastel Easter Cello Pack,M&M'S Pastel Easter Cello Pack,,4.99,each,,2.495,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,SKITTLES or STARBURST Candy or Gummies,SKITTLES or STARBURST Candy or Gummies,,3.49,each,,2.3112582781456954,100g,True,True,03/09/2023,03/15
+sobeys,flyer,LAY'S,LAY'S Potato Chips,LAY'S Potato Chips,,7.5,each,,1.7045454545454544,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Cashews,COMPLIMENTS Cashews,,6.49,each,,3.245,100g,True,True,03/09/2023,03/15
+sobeys,flyer,CHEETOS,CHEETOS,CHEETOS,,8.5,each,,2.361111111111111,100g,True,True,03/09/2023,03/15
+sobeys,flyer,HUMPTY DUMPTY,HUMPTY DUMPTY Party Mix,HUMPTY DUMPTY Party Mix,,8.0,each,,1.6,100g,True,True,03/09/2023,03/15
+sobeys,flyer,KELLOGG'S,"KELLOGG'S Rice Krispies Treats, Pop Tarts, Nutri-Grain Bars or Special K Pastry Crisps","KELLOGG'S Rice Krispies Treats, Pop Tarts, Nutri-Grain Bars or Special K Pastry Crisps",,7.0,each,,2.8000000000000003,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,COMPLIMENTS or BEST BUY Hot Chocolate or Tea,COMPLIMENTS or BEST BUY Hot Chocolate or Tea,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,,NESCAFÉ Coffee Pods,NESCAFÉ Coffee Pods,,16.99,each,,0.5663333333333332,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,ALLEN'S Juice,ALLEN'S Juice,,,each,,,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,,COMPLIMENTS Cookies,COMPLIMENTS Cookies,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,PEPPERIDGE FARM,PEPPERIDGE FARM Goldfish Crackers,PEPPERIDGE FARM Goldfish Crackers,,2.99,ea when you buy 3 or more,,1.916666666666667,100g,False,True,03/09/2023,03/15
+sobeys,flyer,,"CHRISTIE Crispers, Bits & Bites","CHRISTIE Crispers, Bits & Bites",,3.0,each,,2.0689655172413794,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,BEST BUY Creme-Filled Cookies,BEST BUY Creme-Filled Cookies,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,Sobeys,Sobeys,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,,scotia bank offer,scotia bank offer,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,PEDIGREE,PEDIGREE Wet Dog Food,PEDIGREE Wet Dog Food,,4.0,each,,0.5333333333333333,100g,True,True,03/09/2023,03/15
+sobeys,flyer,CALEDON FARMS,CALEDON FARMS Dog Treats,CALEDON FARMS Dog Treats,,8.99,each,,8.172727272727274,100g,True,True,03/09/2023,03/15
+sobeys,flyer,WHISKAS,WHISKAS Perfect Portions Wet Cat Food,WHISKAS Perfect Portions Wet Cat Food,,13.99,each,,1.1658333333333333,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,IAMS,IAMS Dry Cat Food,IAMS Dry Cat Food,,20.99,with Scene+ Card,,20.99,,False,True,03/09/2023,03/15
+sobeys,flyer,ENERGIZER,ENERGIZER Max Batteries,ENERGIZER Max Batteries,,14.99,each,,1.2491666666666668,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,KLEENEX,KLEENEX Facial Tissue,KLEENEX Facial Tissue,,8.99,each,,2.9966666666666666,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,GLAD,GLAD Cling Wrap,GLAD Cling Wrap,,2.99,each,,2.99,,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,"COMPLIMENTS Foam Plates, Bowls or cups","COMPLIMENTS Foam Plates, Bowls or cups",,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,CLOROX,CLOROX Bleach,CLOROX Bleach,,4.99,each,,0.3929133858267717,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,,DAWN Dish Soap,DAWN Dish Soap,,4.79,each,,0.4696078431372549,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,FLEECY,FLEECY Fabric Softener,FLEECY Fabric Softener,,9.99,each,,0.3842307692307692,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Dry Sweeping Cloths,COMPLIMENTS Dry Sweeping Cloths,,5.79,each,,0.361875,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,HELLO BELLO or HUGGIES Giga Pack Diapers,HELLO BELLO or HUGGIES Giga Pack Diapers,,26.99,each,,0.7497222222222222,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,Q-TIPS,Q-TIPS,,3.99,each,,0.009975000000000001,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,BABY MUM-MUM,BABY MUM-MUM,BABY MUM-MUM,,2.99,with Scene+ Card,,5.98,100g,False,True,03/09/2023,03/15
+sobeys,flyer,AUSSIE,AUSSIE Hair Care or Styling Products,AUSSIE Hair Care or Styling Products,,,each,,,100g,True,True,03/09/2023,03/15
+sobeys,flyer,OLAY,OLAY,OLAY,,8.99,each,,9.988888888888889,100g,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Twin Razors,COMPLIMENTS Twin Razors,,2.99,each,,0.24916666666666668,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,PANTENE,PANTENE,PANTENE,,8.99,each,,8.026785714285714,100g,True,True,03/09/2023,03/15
+sobeys,flyer,,"CREST Pro-Health Rinse, Toothpaste or ORAL-B Toothbrushes","CREST Pro-Health Rinse, Toothpaste or ORAL-B Toothbrushes",,6.99,each,,0.6990000000000001,100ml,True,True,03/09/2023,03/15
+sobeys,flyer,COLGATE,"COLGATE Sensitive, Optic White Renewal or Kids Toothbrushes","COLGATE Sensitive, Optic White Renewal or Kids Toothbrushes",,6.99,each,,6.99,,True,True,03/09/2023,03/15
+sobeys,flyer,COMPLIMENTS,COMPLIMENTS Whitening Strips,COMPLIMENTS Whitening Strips,,19.99,each,,1.4278571428571427,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,NICORETTE Gum or Lozenges,NICORETTE Gum or Lozenges,,,each,,,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,TYLENOL Pain Relief,TYLENOL Pain Relief,,,each,,,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,,"TYLENOL, BENYLIN or SINUTAB Cough, Cold & Sinus","TYLENOL, BENYLIN or SINUTAB Cough, Cold & Sinus",,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,ONETOUCH,ONETOUCH Verio Test Strips,ONETOUCH Verio Test Strips,,79.99,each,,0.7998999999999999,1ea,True,True,03/09/2023,03/15
+sobeys,flyer,OGX,OGX Hair Care or Styling Products,OGX Hair Care or Styling Products,,9.99,each,,7.035211267605634,100g,True,True,03/09/2023,03/15
+sobeys,flyer,NIVEA,NIVEA Body Lotion,NIVEA Body Lotion,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,NIVEA,NIVEA Body Wash,NIVEA Body Wash,,4.99,each,,4.99,,True,True,03/09/2023,03/15
+sobeys,flyer,EUCERIN,EUCERIN,EUCERIN,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,IRON VEGAN,IRON VEGAN Protein Bars & Supplements,IRON VEGAN Protein Bars & Supplements,,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,,"JAMIESON Vitamin B, Melatonin, Sleep and Energy Supplements","JAMIESON Vitamin B, Melatonin, Sleep and Energy Supplements",,,each,,,,True,True,03/09/2023,03/15
+sobeys,flyer,,email acquisition,email acquisition,,,each,,,,True,True,03/09/2023,03/15

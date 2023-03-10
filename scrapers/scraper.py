@@ -9,6 +9,8 @@ from selenium import webdriver
 import time 
 from webdriver_manager.chrome import ChromeDriverManager
 
+from selenium.webdriver.common.action_chains import ActionChains
+
 
 def set_options():
     '''Sets the options field for the driver'''
@@ -30,6 +32,14 @@ def close_cookies_blocker(driver, cookie_close_xref):
     this function clicks the close button on the popup'''
     cookies_block = driver.find_element_by_xpath(xpath='//*[@id="privacy-policy"]/div/div/button').click()
     print('\t closed cookie blocker')  
+
+def click_outside_modal(driver, x, y):
+    '''modal appears, click outside of modal to close'''
+
+    actions = ActionChains(driver)
+    actions.move_by_offset(25, 25).click().perform()
+    # cookies_block = driver.find_element_by_xpath(xpath='//*[@id="privacy-policy"]/div/div/button').click()
+    print('\t closed modal')  
 
 def click_load_more(driver, load_more_xpath):
     '''click load more results button until at bottom 

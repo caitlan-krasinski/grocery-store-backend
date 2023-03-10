@@ -5,12 +5,12 @@ import time
 print('##################### PROCESS STARTED #####################')
 
 # 1. scrapers 
-print('------------ scraping data')
+# print('------------ scraping data')
 
-start_time = time.time() 
-print('starting loblaw co scraping')
-import loblaw_co_scraper
-print(f'completed in {time.time() - start_time} \n')
+# start_time = time.time() 
+# print('starting loblaw co scraping')
+# import loblaw_co_scraper
+# print(f'completed in {time.time() - start_time} \n')
 
 start_time = time.time() 
 print('starting flipp scraping')
@@ -41,12 +41,12 @@ print(f'completed in {time.time() - start_time} \n')
 
 
 # # INDEXING DEPRECATED 
-# # 4. index 
-# print('------------ building indexes')
+# 4. index 
+print('------------ building indexes')
 
-# start_time = time.time() 
-# import build_index
-# print(f'completed in {time.time() - start_time} \n')
+start_time = time.time() 
+import build_index
+print(f'completed in {time.time() - start_time} \n')
 
 print('##################### PROCESS COMPLETE #####################')
 print('###################### DATA COLLECTED ######################')
